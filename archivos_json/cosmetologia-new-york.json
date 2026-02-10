@@ -1,0 +1,381 @@
+{
+    "_meta": {
+        "schema_version": "2.0",
+        "page_id": "licencia-cosmetologia-new-york",
+        "oficio": "cosmetologia",
+        "estado": "new-york",
+        "last_verified": "2026-02-09",
+        "verified_by": "Claude - fuentes oficiales NYS Division of Licensing Services",
+        "notes": "Prioridad #3. NY es único por requerir certificado de salud y dos exámenes (escrito/práctico)."
+    },
+    "page_seo": {
+        "title": "Licencia de Cosmetología en New York 2026: Requisitos y Examen",
+        "meta_description": "Cómo sacar la licencia de cosmetología en NY. Requisitos de 1,000 horas, examen práctico y escrito en español, y certificado de salud obligatorio.",
+        "slug": "licencia-cosmetologia-new-york",
+        "canonical_url": "https://chambaenusa.com/licencia-cosmetologia-new-york/",
+        "h1": "Licencia de Cosmetología en New York",
+        "schema_types": [
+            "HowTo",
+            "FAQPage",
+            "BreadcrumbList"
+        ],
+        "keywords_primary": [
+            "licencia de cosmetologia en new york",
+            "examen de cosmetologia en español ny",
+            "requisitos para licencia de cosmetologia ny"
+        ],
+        "keywords_secondary": [
+            "renovar licencia de cosmetologia ny",
+            "certificado de salud para licencia de cosmetologia",
+            "escuelas de belleza en new york precios",
+            "licencia temporal de cosmetologia ny"
+        ],
+        "keywords_long_tail": [
+            "que pasa si no renuevo mi licencia de cosmetologia en ny",
+            "cuanto cuesta el examen de cosmetologia en new york",
+            "licencia de cosmetologia por reciprocidad ny",
+            "examen practico de cosmetologia ny en español"
+        ]
+    },
+    "hero": {
+        "ai_generated": false,
+        "badge": "Actualizado Enero 2026",
+        "headline": "Licencia de Cosmetología en New York",
+        "subheadline": "Nueva York tiene requisitos accesibles: solo 1,000 horas de escuela y costos de licencia muy bajos ($40). El examen está disponible en español.",
+        "key_stats": [
+            {
+                "label": "Horas Escuela",
+                "value": "1,000",
+                "detail": "Menos que en FL o TX",
+                "source": "https://dos.ny.gov/cosmetology",
+                "source_name": "NYS DOS"
+            },
+            {
+                "label": "Exámenes",
+                "value": "2",
+                "detail": "1 Escrito + 1 Práctico",
+                "source": "https://dos.ny.gov/cosmetology",
+                "source_name": "NYS DOS"
+            },
+            {
+                "label": "Costo Licencia",
+                "value": "$40",
+                "detail": "Tarifa inicial por 4 años",
+                "source": "https://dos.ny.gov/cosmetology",
+                "source_name": "NYS DOS"
+            },
+            {
+                "label": "Requisito Extra",
+                "value": "Salud",
+                "detail": "Certificado médico obligatorio",
+                "source": "https://dos.ny.gov/system/files/documents/2024/04/1247-f-a-1-24.pdf",
+                "source_name": "Form 1247"
+            }
+        ],
+        "cta_primary": {
+            "text": "Ver Requisitos",
+            "anchor": "#roadmap"
+        },
+        "cta_secondary": {
+            "text": "Costos Totales",
+            "anchor": "#calculadora"
+        }
+    },
+    "callout_espanol": {
+        "ai_generated": true,
+        "type": "warning_box",
+        "icon": "⚠️",
+        "title": "Certificado de Salud Obligatorio",
+        "content": "A diferencia de otros estados, New York te exige visitar a un médico o enfermero para obtener un 'Health Certification' antes de aplicar. Deben firmar tu aplicación confirmando que no tienes enfermedades contagiosas. Sin esta firma, tu aplicación será rechazada.",
+        "source": "NYS Division of Licensing Services",
+        "source_name": "NYS DOS"
+    },
+    "autoridad_reguladora": {
+        "ai_generated": false,
+        "nombre": "NYS Department of State, Division of Licensing Services",
+        "programa": "Cosmetology",
+        "direccion": {
+            "calle": "",
+            "ciudad": "Albany",
+            "estado": "NY",
+            "cp": "12231",
+            "mailing": "P.O. Box 22001, Albany, NY 12201-2001"
+        },
+        "telefono": {
+            "local": "(518) 474-4429",
+            "email": "licensing@dos.ny.gov"
+        },
+        "web": "https://dos.ny.gov/cosmetology",
+        "verificar_licencia": "https://appext20.dos.ny.gov/lcns_public/pe_search",
+        "source": "https://dos.ny.gov/cosmetology"
+    },
+    "roadmap": {
+        "_description": "Licencias en New York",
+        "ai_generated": false,
+        "layout": "list",
+        "nota_general": "NY ofrece licencias temporales para que puedas trabajar mientras esperas tu examen.",
+        "tipos": [
+            {
+                "id": "cosmetologist",
+                "titulo_en": "Cosmetology License",
+                "titulo_es": "Licencia de Cosmetología",
+                "es_principal": true,
+                "color_badge": "#be185d",
+                "descripcion_corta": "Licencia completa para cabello, piel y uñas.",
+                "scope_of_work": "Cabello, estética básica, uñas, maquillaje.",
+                "requisitos": {
+                    "edad_minima": 17,
+                    "educacion_previa": "No requiere High School Diploma, pero sí examen de admisión si no lo tienes.",
+                    "horas_escuela": 1000,
+                    "certificado_salud": "Health Certification form signed by physician",
+                    "escuela_aprobada": "NYS Approved School"
+                },
+                "examen": {
+                    "partes": 2,
+                    "parte_1": {
+                        "nombre": "Written Exam",
+                        "formato": "Examen escrito de teoría (2.5 horas)",
+                        "costo": 15,
+                        "idiomas": [
+                            "Inglés",
+                            "Español",
+                            "Otros"
+                        ],
+                        "puntaje_minimo": "70%",
+                        "ubicaciones": "Centros de examen de NYS"
+                    },
+                    "parte_2": {
+                        "nombre": "Practical Exam",
+                        "formato": "Demostración de habilidades en persona (3.5 horas)",
+                        "costo": 15,
+                        "idiomas": [
+                            "Inglés"
+                        ],
+                        "nota": "Debes llevar tu propio kit y modelo.",
+                        "ubicaciones": "Sitios de examen práctico oficiales"
+                    },
+                    "administrador": "NYS Department of State",
+                    "source": "https://dos.ny.gov/cosmetology-written-exam-information"
+                },
+                "costos": {
+                    "aplicacion_licencia": 40,
+                    "examen_escrito": 15,
+                    "examen_practico": 15,
+                    "total_examenes_y_licencia": 70,
+                    "renovacion_cada_4_años": 40
+                },
+                "nota_adicional": "Puedes pedir una Licencia Temporal ($10) por 6 meses para trabajar mientras pasas tus exámenes, pero debes haberte graduado primero."
+            }
+        ]
+    },
+    "escuelas": {
+        "ai_generated": false,
+        "items": [
+            {
+                "id": "parisien",
+                "name": "Parisien Beauty School",
+                "city": "Queens",
+                "phone": "(718) 366-4199",
+                "website": "http://www.parisienbeautyschool.com/",
+                "is_bilingual": true,
+                "programs": [
+                    {
+                        "id": "parisien_cosmo",
+                        "name": "Cosmetology",
+                        "duration_months": 11,
+                        "modality": "Bilingüe"
+                    }
+                ]
+            },
+            {
+                "id": "american_beauty_inst",
+                "name": "American Beauty Institute",
+                "city": "Manhattan",
+                "phone": "(212) 564-2555",
+                "website": "http://www.beautyinstitute.us/",
+                "is_bilingual": true,
+                "programs": [
+                    {
+                        "id": "abi_cosmo",
+                        "name": "Cosmetology",
+                        "duration_months": 10,
+                        "modality": "Inglés/Español/Chino"
+                    }
+                ]
+            },
+            {
+                "id": "brittany",
+                "name": "Brittany Beauty Academy",
+                "city": "Bronx / Brooklyn",
+                "phone": "(718) 745-1000",
+                "website": "https://www.brittanyacademy.edu/",
+                "is_bilingual": true,
+                "programs": [
+                    {
+                        "id": "brittany_cosmo",
+                        "name": "Cosmetology",
+                        "duration_months": 10,
+                        "modality": "Spanish Available"
+                    }
+                ]
+            }
+        ]
+    },
+    "calculadora_inversion": {
+        "ai_generated": false,
+        "escenarios": [
+            {
+                "id": "cosmetologist_ny",
+                "licencia": "Cosmetóloga (1,000 horas)",
+                "inversion": {
+                    "escuela_rango": "$14,000 - $20,000",
+                    "escuela_nota": "Aunque son menos horas, las escuelas en NYC suelen ser costosas.",
+                    "examen_escrito": 15,
+                    "examen_practico": 15,
+                    "aplicacion_licencia": 40,
+                    "licencia_temporal": "10 (opcional)",
+                    "kit_herramientas": "$700 - $1,200",
+                    "visita_medica": "$50 - $100 (si no tienes seguro)",
+                    "total_minimo": "~$14,800",
+                    "total_maximo": "~$21,400"
+                },
+                "tiempo": "7-9 meses"
+            }
+        ]
+    },
+    "renovacion": {
+        "ai_generated": false,
+        "frecuencia": "Cada 4 años",
+        "metodo": "En línea vía NYS License Center",
+        "url_renovacion": "https://dos.ny.gov/cosmetology",
+        "costo_renovacion": 40,
+        "ce_requerida": {
+            "menos_15_años_licencia": {
+                "horas_totales": 0,
+                "desglose": [
+                    "No se requieren cursos de Educación Continua para renovar en NY."
+                ]
+            },
+            "costo_cursos_ce_online": "0",
+            "url_proveedores": ""
+        },
+        "nota_tdlr": "Solo paga los $40 y renueva a tiempo. Hay una multa de $10 si te atrasas.",
+        "source": "NY DOS"
+    },
+    "reciprocidad": {
+        "ai_generated": false,
+        "disponible": true,
+        "nombre_proceso": "Licensure by Reciprocity / Endorsement",
+        "requisitos": [
+            "Licencia actual y válida de otro estado",
+            "Certificación de Licencia (Certification of Licensure) enviada desde tu estado a NY",
+            "Experiencia comprobable si tus horas de escuela fueron menos de 1,000 (raro, porque NY pide pocas horas)"
+        ],
+        "nota": "NY tiene acuerdos de reciprocidad específicos. Si vienes de FL o TX (1200/1000 hrs), generalmente calificas bien sin volver a tomar exámenes prácticos.",
+        "url": "https://dos.ny.gov/cosmetology-reciprocity",
+        "experiencia_como_horas": "Si",
+        "source": "NY DOS"
+    },
+    "salarios": {
+        "ai_generated": false,
+        "nota_importante": "En Manhattan y zonas altas, las propinas y comisiones pueden duplicar esto.",
+        "nacional_2024": {
+            "mediana": "$42,000 (NY)",
+            "por_hora_mediana": "$20.20",
+            "percentil_10": "$29,000",
+            "percentil_90": "$68,000",
+            "crecimiento_proyectado": "Medio",
+            "source": "BLS NY"
+        },
+        "por_ciudad_texas": [
+            {
+                "ciudad": "New York City",
+                "salario_medio": "$48,000",
+                "source": "Glassdoor"
+            },
+            {
+                "ciudad": "Buffalo",
+                "salario_medio": "$36,500",
+                "source": "Glassdoor"
+            },
+            {
+                "ciudad": "Albany",
+                "salario_medio": "$38,000",
+                "source": "Glassdoor"
+            }
+        ]
+    },
+    "errores_comunes": {
+        "ai_generated": true,
+        "items": [
+            {
+                "error": "No llevar modelo al examen práctico",
+                "por_que_importa": "Es obligatorio llevar una persona real como modelo (no maniquí) para ciertas partes, o maniquí según las reglas COVID actuales (revisar siempre). Si no llevas tu kit completo y etiquetado, repruebas automático.",
+                "solucion": "Practica con tu kit exacto meses antes del examen."
+            },
+            {
+                "error": "Olvidar el certificado médico",
+                "por_que_importa": "La forma de salud (Health Certification) caduca a los 30 días de la firma del médico. Si la envías tarde, te rechazan la aplicación.",
+                "solucion": "Haz la cita médica justo antes de enviar tus papeles."
+            }
+        ]
+    },
+    "faqs": {
+        "ai_generated": "partial",
+        "items": [
+            {
+                "pregunta": "¿El examen de New York es en español?",
+                "respuesta": "El examen escrito SÍ está disponible en español. El examen práctico suele ser conducido con instrucciones en inglés, pero puedes pedir acomodaciones si tienes dificultades.",
+                "source": "NY DOS"
+            },
+            {
+                "pregunta": "¿Puedo trabajar antes de tener mi licencia?",
+                "respuesta": "Sí, pero SOLO si tramitas una Licencia Temporal ($10). Esta dura 6 meses y te permite trabajar bajo supervisión mientras apruebas tus exámenes. No puedes renovarla infinitamente.",
+                "source": "NY DOS"
+            },
+            {
+                "pregunta": "¿Qué pasa si repruebo el examen práctico?",
+                "respuesta": "Puedes volver a tomarlo pagando la tarifa de $15 nuevamente. No hay límite de intentos, pero tu licencia temporal podría vencerse.",
+                "source": "NYS License Center"
+            },
+            {
+                "pregunta": "¿Nueva York acepta ITIN para la licencia?",
+                "respuesta": "Sí. El departamento de estado de NY permite aplicar con número de Seguro Social O con ITIN (Número de Identificación Personal del Contribuyente).",
+                "source": "Office for New Americans"
+            }
+        ]
+    },
+    "links_oficiales": {
+        "ai_generated": false,
+        "items": [
+            {
+                "nombre": "NYS Division of Licensing - Cosmetology",
+                "url": "https://dos.ny.gov/cosmetology",
+                "descripcion": "Página oficial del estado"
+            },
+            {
+                "nombre": "Examen Práctico - Guía",
+                "url": "https://dos.ny.gov/cosmetology-practical-exam-information",
+                "descripcion": "Instrucciones para el práctico"
+            },
+            {
+                "nombre": "Verificar Licencias NY",
+                "url": "https://appext20.dos.ny.gov/lcns_public/pe_search",
+                "descripcion": "Búsqueda pública de licencias"
+            }
+        ]
+    },
+    "content_generation_rules": {
+        "tono": "Claro, directo y tranquilizador sobre el examen práctico.",
+        "persona": "Instructor de belleza en NY",
+        "reglas": [
+            "No olvidar el Health Certification",
+            "Explicar bien la licencia temporal",
+            "Diferenciar los dos exámenes (Written vs Practical)"
+        ]
+    },
+    "enlaces_utiles": {
+        "ai_generated": false,
+        "enlaces": []
+    }
+}

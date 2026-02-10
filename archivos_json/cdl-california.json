@@ -1,0 +1,398 @@
+{
+    "_meta": {
+        "schema_version": "2.0",
+        "page_id": "licencia-cdl-california",
+        "oficio": "cdl",
+        "estado": "california",
+        "last_verified": "2026-02-09",
+        "verified_by": "Claude - fuentes oficiales DMV California",
+        "notes": "Prioridad #5. Énfasis en el examen escrito en español pero práctico en inglés."
+    },
+    "page_seo": {
+        "title": "Licencia CDL en California 2026: Requisitos, Clases A y B, Examen (Español)",
+        "meta_description": "Cómo sacar la Licencia Comercial (CDL) en California. Requisitos para Clase A y B, Permiso de Aprendizaje (CLP), examen médico DL 51 y escuelas de manejo.",
+        "slug": "licencia-cdl-california",
+        "canonical_url": "https://chambaenusa.com/licencia-cdl-california/",
+        "h1": "Licencia Comercial (CDL) en California",
+        "schema_types": [
+            "HowTo",
+            "FAQPage",
+            "BreadcrumbList"
+        ],
+        "keywords_primary": [
+            "licencia cdl california",
+            "exámen cdl california español",
+            "requisitos licencia comercial california",
+            "permiso de aprendizaje comercial clp"
+        ],
+        "keywords_secondary": [
+            "escuelas de manejo de camiones en california",
+            "diferencia clase a y clase b cdl",
+            "certificado médico dl 51",
+            "cuanto gana un trailero en california"
+        ],
+        "keywords_long_tail": [
+            "examen de frenos de aire cdl california español",
+            "eldt training providers california spanish",
+            "costo total licencia cdl california"
+        ]
+    },
+    "hero": {
+        "ai_generated": false,
+        "badge": "Manual 2026",
+        "headline": "Tu Licencia CDL en California (Clase A y B)",
+        "subheadline": "Conviértete en conductor comercial. El examen escrito es en español, pero el examen de manejo es en inglés.",
+        "key_stats": [
+            {
+                "label": "Permiso (CLP)",
+                "value": "14 días",
+                "detail": "Tiempo mínimo de espera antes del examen práctico",
+                "source": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/commercial-driver-licenses-cdl/",
+                "source_name": "CA DMV"
+            },
+            {
+                "label": "Entrenamiento",
+                "value": "ELDT",
+                "detail": "Obligatorio (Federal) + 15 hrs (State) para Clase A/B",
+                "source": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/commercial-driver-licenses-cdl/commercial-driver-training/",
+                "source_name": "DMV / FMCSA"
+            },
+            {
+                "label": "Examen Escrito",
+                "value": "Español",
+                "detail": "Disponible en español y chino",
+                "source": "DMV Handbook",
+                "source_name": "DMV"
+            },
+            {
+                "label": "Salario (Truck Driver)",
+                "value": "$55k - $90k",
+                "detail": "Promedio anual en CA",
+                "source": "BLS",
+                "source_name": "BLS CA"
+            }
+        ],
+        "cta_primary": {
+            "text": "Ver Pasos",
+            "anchor": "#roadmap"
+        },
+        "cta_secondary": {
+            "text": "Clases A vs B",
+            "anchor": "#roadmap"
+        }
+    },
+    "callout_espanol": {
+        "ai_generated": true,
+        "type": "warning_box",
+        "icon": "⚠️",
+        "title": "Atención con el Idioma",
+        "content": "El examen TEÓRICO (escrito) lo puedes tomar en español. Sin embargo, el examen PRÁCTICO (de manejo e inspección) es 100% en INGLÉS. No se permiten intérpretes durante la prueba de manejo.",
+        "source": "California DMV",
+        "source_name": "DMV"
+    },
+    "autoridad_reguladora": {
+        "ai_generated": false,
+        "nombre": "California Department of Motor Vehicles (DMV)",
+        "programa": "Commercial Driver Licenses (CDL)",
+        "direccion": {
+            "calle": "2415 1st Ave",
+            "ciudad": "Sacramento",
+            "estado": "CA",
+            "cp": "95818",
+            "mailing": "PO Box 942890, Sacramento, CA 94290"
+        },
+        "telefono": {
+            "local": "(800) 777-0133",
+            "telefono_gratis": "1-800-777-0133"
+        },
+        "web": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/commercial-driver-licenses-cdl/",
+        "verificar_licencia": "https://www.dmv.ca.gov/portal/customer-service/request-vehicle-or-driver-records/online-driver-record-request/",
+        "source": "CA DMV"
+    },
+    "roadmap": {
+        "_description": "Proceso para obtener la CDL en California",
+        "ai_generated": false,
+        "layout": "steps",
+        "nota_general": "Primero obtienes el permiso (CLP), luego entrenas (ELDT), y finalmente pasas el examen práctico.",
+        "tipos": [
+            {
+                "id": "clp",
+                "titulo_en": "Commercial Learner's Permit (CLP)",
+                "titulo_es": "Permiso de Aprendizaje Comercial (CLP)",
+                "es_principal": false,
+                "color_badge": "#3b82f6",
+                "descripcion_corta": "El primer paso obligatorio. Te permite practicar con un conductor licenciado.",
+                "scope_of_work": "Manejar un vehículo comercial SOLO acompañado de un titular de CDL válida.",
+                "requisitos": {
+                    "edad_minima": 18,
+                    "licencia_previa": "Tener licencia Clase C de California válida",
+                    "examen_medico": "Certificado DL 51 (Medical Examiner's Certificate)",
+                    "examen": "Pasar examen de conocimientos generales"
+                },
+                "examen": {
+                    "nombre": "General Knowledge Test",
+                    "preguntas": 50,
+                    "idiomas": [
+                        "Inglés",
+                        "Español"
+                    ]
+                },
+                "costos": {
+                    "aplicacion_licencia": 85,
+                    "examen": "Incluido en la aplicación"
+                },
+                "como_aplicar": {
+                    "metodo": "En persona (DMV)",
+                    "pasos": [
+                        "Llenar solicitud en línea",
+                        "Pasar examen médico (DL 51)",
+                        "Ir al DMV, huellas y foto",
+                        "Pasar exámen teórico"
+                    ]
+                }
+            },
+            {
+                "id": "cdl_b",
+                "titulo_en": "Class B CDL",
+                "titulo_es": "Licencia Clase B (Camiones Rectos/Autobuses)",
+                "es_principal": false,
+                "color_badge": "#10b981",
+                "descripcion_corta": "Para camiones de una sola unidad (box trucks, dump trucks, autobuses).",
+                "scope_of_work": "Vehículo único > 26,001 lbs. Puede remolcar < 10,000 lbs.",
+                "requisitos": {
+                    "permiso": "Tener CLP por al menos 14 días",
+                    "entrenamiento": "Completar ELDT + 15 hrs behind-the-wheel",
+                    "examen": "Examen de habilidades (Skills Test)"
+                },
+                "costos": {
+                    "aplicacion_licencia": "Ya pagado con CLP",
+                    "entrenamiento": "$2,000 - $4,000 (estimado)"
+                }
+            },
+            {
+                "id": "cdl_a",
+                "titulo_en": "Class A CDL",
+                "titulo_es": "Licencia Clase A (Troqueros/Trailers)",
+                "es_principal": true,
+                "color_badge": "#f59e0b",
+                "descripcion_corta": "La licencia 'universal'. Permite manejar tractocamiones y combinaciones.",
+                "scope_of_work": "Cualquier combinación de vehículos > 26,001 lbs donde el remolque es > 10,000 lbs.",
+                "requisitos": {
+                    "permiso": "Tener CLP por al menos 14 días",
+                    "entrenamiento": "Completar ELDT + 15 hrs behind-the-wheel",
+                    "examen": "Examen de habilidades (Skills Test)"
+                },
+                "examen": {
+                    "nombre": "Skills Test",
+                    "partes": [
+                        "Inspección Pre-viaje",
+                        "Control Básico",
+                        "Prueba de Manejo en Ruta"
+                    ],
+                    "idiomas": [
+                        "INGLÉS SOLAMENTE"
+                    ]
+                },
+                "costos": {
+                    "aplicacion_licencia": "Ya pagado con CLP",
+                    "entrenamiento": "$3,000 - $6,000 (estimado)"
+                }
+            }
+        ]
+    },
+    "escuelas": {
+        "ai_generated": false,
+        "nota": "Debes elegir una escuela registrada en el TPR (Training Provider Registry) de la FMCSA para cumplir con el requisito ELDT.",
+        "items": [
+            {
+                "id": "america_truck_driving",
+                "name": "America Truck Driving School",
+                "city": "Santa Ana / Riverside",
+                "phone": "(714) 542-8660",
+                "website": "https://americatruckdriving.com/",
+                "is_bilingual": true,
+                "programs": [
+                    {
+                        "id": "class_a_bilingual",
+                        "name": "Class A Commercial Driver",
+                        "modality": "Bilingüe"
+                    }
+                ]
+            },
+            {
+                "id": "truck_driver_academy",
+                "name": "Truck Driver Academy",
+                "city": "Baldwin Park / Fontana",
+                "website": "https://truckdriveracademy.com/",
+                "is_bilingual": true,
+                "programs": [
+                    {
+                        "id": "cdl_training",
+                        "name": "CDL Training Program",
+                        "modality": "Inglés/Español"
+                    }
+                ]
+            },
+            {
+                "id": "varsity_driving",
+                "name": "Varsity Driving Academy",
+                "city": "Irvine / Orange County",
+                "website": "https://varsitydrivingacademy.com/",
+                "is_bilingual": false,
+                "programs": [
+                    {
+                        "id": "cdl_class_a",
+                        "name": "Class A Training",
+                        "modality": "Inglés"
+                    }
+                ]
+            }
+        ]
+    },
+    "calculadora_inversion": {
+        "ai_generated": false,
+        "escenarios": [
+            {
+                "id": "cdl_class_a_school",
+                "licencia": "Licencia Clase A (Vía Escuela Privada)",
+                "inversion": {
+                    "examen_medico_dl51": "$80 - $150",
+                    "licencia_clp_dmv": "$85",
+                    "escuela_manejo": "$3,500 - $5,000",
+                    "examenes_endosos": "$0 (Incluidos en los $85 si se hacen al inicio)",
+                    "total_estimado": "~$3,700 - $5,200"
+                },
+                "tiempo": "4 - 8 semanas",
+                "nota": "La inversión principal es la escuela, que provee el camión para el examen."
+            },
+            {
+                "id": "company_sponsored",
+                "licencia": "Entrenamiento Patrocinado (Company Sponsored)",
+                "inversion": {
+                    "examen_medico": "$100",
+                    "licencia_clp": "$85",
+                    "escuela": "$0 (Pagado por la empresa)",
+                    "total_estimado": "~$200 (inicial)"
+                },
+                "tiempo": "4 semanas + contrato",
+                "nota": "Casi gratis al inicio, pero te obligan a firmar contrato de trabajo por 1-2 años."
+            }
+        ]
+    },
+    "renovacion": {
+        "ai_generated": false,
+        "frecuencia": "Cada 5 años (Licencia) / Cada 2 años (Médico)",
+        "metodo": "En persona (generalmente)",
+        "costo_renovacion": 50,
+        "ce_requerida": {
+            "horas_totales": 0,
+            "temas": [],
+            "nota": "No hay CE oficial, pero debes mantener tu certificado médico (MEC) vigente. Si el médico vence, tu CDL se degrada a licencia normal."
+        }
+    },
+    "reciprocidad": {
+        "ai_generated": false,
+        "disponible": true,
+        "nombre_proceso": "Transferencia de CDL",
+        "nota": "Puedes transferir una CDL válida de otro estado a California.",
+        "requisitos": [
+            "Renunciar a la CDL del otro estado",
+            "Pasar examen de vista",
+            "Proveer certificado médico DL 51",
+            "Pagar tarifa de solicitud"
+        ],
+        "url": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/commercial-driver-licenses-cdl/commercial-driver-license-application/"
+    },
+    "salarios": {
+        "ai_generated": false,
+        "nacional_2024": {
+            "mediana": "$54,000",
+            "top_earners": "$90,000+"
+        },
+        "por_ciudad_texas": [
+            {
+                "ciudad": "Los Angeles",
+                "salario_medio": "$62,000",
+                "source": "Glassdoor"
+            },
+            {
+                "ciudad": "San Francisco / Bay Area",
+                "salario_medio": "$70,000",
+                "source": "Glassdoor"
+            },
+            {
+                "ciudad": "Inland Empire (Riverside/SB)",
+                "salario_medio": "$58,000",
+                "source": "Indeed"
+            }
+        ]
+    },
+    "errores_comunes": {
+        "ai_generated": true,
+        "items": [
+            {
+                "error": "Dejar vencer el certificado médico",
+                "por_que_importa": "Si tu certificado médico expira, el DMV te quitará el estatus comercial automáticamente («downgrade»).",
+                "solucion": "Haz tu examen médico 1 mes antes de que venza."
+            },
+            {
+                "error": "No estudiar la inspección pre-viaje",
+                "por_que_importa": "Es la parte donde más gente reprueba. Debes saber nombrar y apuntar a cada parte del camión EN INGLÉS.",
+                "solucion": "Memoriza el guion de inspección en inglés palabra por palabra."
+            }
+        ]
+    },
+    "faqs": {
+        "ai_generated": "partial",
+        "items": [
+            {
+                "pregunta": "¿Puedo tomar el examen práctico de CDL en español?",
+                "respuesta": "No. Por regulación federal y estatal, el examen de habilidades (incluyendo la inspección pre-viaje) debe ser en inglés. Debes entender comandos básicos de seguridad.",
+                "source": "DMV"
+            },
+            {
+                "pregunta": "¿Qué es el ELDT?",
+                "respuesta": "ELDT (Entry-Level Driver Training) es un entrenamiento obligatorio federal. Antes de hacer el examen práctico, debes completar este curso en una escuela registrada.",
+                "source": "FMCSA"
+            },
+            {
+                "pregunta": "¿Cuál es la diferencia entre Clase A y Clase B?",
+                "respuesta": "Clase A es para combinaciones (camión + remolque pesado) como trailers de 18 ruedas. Clase B es para vehículos pesados de una sola unidad, como camiones de basura o autobuses.",
+                "source": "DMV"
+            }
+        ]
+    },
+    "links_oficiales": {
+        "ai_generated": false,
+        "items": [
+            {
+                "nombre": "DMV California CDL Home",
+                "url": "https://www.dmv.ca.gov/portal/driver-licenses-identification-cards/commercial-driver-licenses-cdl/",
+                "descripcion": "Portal oficial"
+            },
+            {
+                "nombre": "Buscador de Proveedores ELDT",
+                "url": "https://tpr.fmcsa.dot.gov/",
+                "descripcion": "Buscar escuelas aprobadas"
+            },
+            {
+                "nombre": "Manual CDL en Español (PDF)",
+                "url": "https://www.dmv.ca.gov/portal/handbook/commercial-driver-handbook/",
+                "descripcion": "Manual oficial de estudio"
+            }
+        ]
+    },
+    "content_generation_rules": {
+        "tono": "Profesional, de advertencia sobre el inglés, pero motivador.",
+        "persona": "Instructor de Manejo",
+        "reglas": [
+            "Dejar muy claro que la prueba práctica es en inglés",
+            "Explicar bien la diferencia entre Clase A y B",
+            "Mencionar la importancia del certificado médico"
+        ]
+    },
+    "enlaces_utiles": {
+        "ai_generated": false,
+        "enlaces": []
+    }
+}

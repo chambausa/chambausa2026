@@ -1,0 +1,582 @@
+{
+  "_meta": {
+    "schema_version": "2.0",
+    "page_id": "licencia-electricista-texas",
+    "oficio": "electricista",
+    "estado": "texas",
+    "last_verified": "2026-02-09",
+    "verified_by": "Claude - fuentes oficiales TDLR, PSI, BLS 2024",
+    "notes": "Roadmap de Aprendiz → Journeyman → Master. Examen en español disponible para todos los niveles."
+  },
+  "page_seo": {
+    "title": "Licencia de Electricista en Texas 2026: Guía Completa TDLR y Examen en Español",
+    "meta_description": "Cómo sacar la licencia de electricista en Texas paso a paso. De Aprendiz a Journeyman (8,000 horas). Examen disponible en español, requisitos actualizados del TDLR 2026.",
+    "slug": "electricista-texas",
+    "canonical_url": "https://chambaenusa.com/licencia-electricista-texas/",
+    "h1": "Licencia de Electricista en Texas",
+    "schema_types": [
+      "HowTo",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "keywords_primary": [
+      "licencia de electricista en texas",
+      "examen de journeyman electricista en español",
+      "licencia de aprendiz de electricista texas"
+    ],
+    "keywords_secondary": [
+      "tdlr electricista",
+      "cuanto gana un electricista en texas",
+      "requisitos para licencia de journeyman texas",
+      "renovar licencia de electricista texas"
+    ],
+    "keywords_long_tail": [
+      "como sacar la licencia de electricista en texas sin seguro social",
+      "escuelas de electricidad en houston en español",
+      "horas requeridas para maestro electricista texas",
+      "cursos de preparacion para examen journeyman en español"
+    ]
+  },
+  "hero": {
+    "ai_generated": false,
+    "badge": "Actualizado 2026",
+    "headline": "Licencia de Electricista en Texas",
+    "subheadline": "Empieza hoy como Aprendiz sin examen, y avanza hasta ganar $60k-$80k/año como Journeyman. El examen estatal está disponible en español sin costo adicional.",
+    "key_stats": [
+      {
+        "label": "Aprendiz (Apprentice)",
+        "value": "Sin Examen",
+        "detail": "Solo aplicar online y pagar $20. Puedes empezar a trabajar inmediatamente.",
+        "source": "https://www.tdlr.texas.gov/electricians/electricapplications.htm",
+        "source_name": "TDLR"
+      },
+      {
+        "label": "Journeyman",
+        "value": "8,000 horas",
+        "detail": "Aproximadamente 4 años de experiencia bajo supervisión + examen",
+        "source": "https://www.tdlr.texas.gov/electricians/electricapplications.htm",
+        "source_name": "TDLR"
+      },
+      {
+        "label": "Examen en Español",
+        "value": "✅ Sí, sin costo extra",
+        "detail": "Disponible para Journeyman, Master y Residential Wireman",
+        "source": "https://www.tdlr.texas.gov/electricians/exam.htm",
+        "source_name": "TDLR/PSI"
+      },
+      {
+        "label": "Salario Journeyman",
+        "value": "$58,000/año",
+        "detail": "Mediana en Texas. Top earners $80,000+",
+        "source": "https://www.bls.gov/oes/current/oes472111.htm",
+        "source_name": "BLS May 2024"
+      }
+    ],
+    "cta_primary": {
+      "text": "Ver Pasos del Camino",
+      "anchor": "#roadmap"
+    },
+    "cta_secondary": {
+      "text": "Ver Salarios",
+      "anchor": "#salarios"
+    }
+  },
+  "callout_espanol": {
+    "ai_generated": false,
+    "type": "highlight_box",
+    "icon": "⚡",
+    "title": "¡El examen es en español! No dejes que el idioma te detenga",
+    "content": "TDLR ofrece los exámenes de Journeyman Electrician, Master Electrician y Residential Wireman en ESPAÑOL a través de PSI. Al programar tu cita en PSI, simplemente selecciona español como idioma del examen. No hay costo adicional. El código NEC también está disponible en español.",
+    "source": "https://www.tdlr.texas.gov/electricians/exam.htm",
+    "source_name": "TDLR Electrician Exams"
+  },
+  "autoridad_reguladora": {
+    "ai_generated": false,
+    "nombre": "Texas Department of Licensing and Regulation (TDLR)",
+    "programa": "Electricians Program",
+    "direccion": {
+      "calle": "920 Colorado Street",
+      "ciudad": "Austin",
+      "estado": "TX",
+      "cp": "78701",
+      "mailing": "P.O. Box 12157, Austin, TX 78711"
+    },
+    "telefono": {
+      "local": "(512) 463-6599",
+      "toll_free": "(800) 803-9202",
+      "tdd": "(800) 735-2989"
+    },
+    "email": "customer.service@tdlr.texas.gov",
+    "web": "https://www.tdlr.texas.gov/electricians/elec.htm",
+    "verificar_licencia": "https://www.tdlr.texas.gov/LicenseSearch/",
+    "source": "https://www.tdlr.texas.gov/electricians/contact.htm"
+  },
+  "roadmap": {
+    "_description": "Camino profesional del electricista en Texas - Timeline lineal de progresión",
+    "ai_generated": false,
+    "layout": "timeline",
+    "nota_general": "La carrera de electricista se basa en acumular horas de experiencia 'On-the-Job Training' (OJT) bajo la supervisión de un Maestro Electricista. Puedes empezar sin escuela, solo necesitas encontrar un empleador que te contrate como aprendiz.",
+    "tipos": [
+      {
+        "id": "apprentice",
+        "titulo_en": "Apprentice Electrician",
+        "titulo_es": "Aprendiz de Electricista",
+        "es_principal": false,
+        "color_badge": "#3b82f6",
+        "descripcion_corta": "El primer paso. Te permite trabajar y aprender legalmente. No requiere examen.",
+        "scope_of_work": "Trabajar bajo la supervisión directa de un Journeyman o Master licenciado. No puedes trabajar solo ni sacar permisos.",
+        "requisitos": {
+          "edad_minima": 16,
+          "educacion_previa": "Ninguna requerida oficialmente",
+          "experiencia": "Ninguna",
+          "examen": "NO requiere examen"
+        },
+        "costos": {
+          "aplicacion_licencia": 20,
+          "renovacion_cada_2_años": 20
+        },
+        "como_aplicar": {
+          "metodo": "En línea (recomendado) o por correo",
+          "url": "https://www.tdlr.texas.gov/electricians/electricapplications.htm",
+          "tiempo_procesamiento": "Inmediato a 3 días hábiles",
+          "pasos": [
+            "Llenar la aplicación en línea en el portal de TDLR",
+            "Pagar $20 con tarjeta",
+            "Recibir tu número de licencia (normalmente inmediato)",
+            "¡Empezar a trabajar y documentar tus horas!"
+          ]
+        },
+        "nota": "CRÍTICO: Debes reportar tus horas trabajadas anualmente usando el formulario ELEC1000. Sin este reporte, tus horas NO contarán para el examen de Journeyman.",
+        "source": "https://www.tdlr.texas.gov/electricians/electricapplications.htm"
+      },
+      {
+        "id": "residential_wireman",
+        "titulo_en": "Residential Wireman",
+        "titulo_es": "Electricista Residencial",
+        "es_principal": false,
+        "color_badge": "#10b981",
+        "descripcion_corta": "Paso intermedio opcional. Te permite trabajar solo en viviendas residenciales (1-2 familias).",
+        "scope_of_work": "Instalaciones eléctricas solo en viviendas residenciales (no comerciales ni industriales). Puede trabajar sin supervisión directa en estos proyectos.",
+        "requisitos": {
+          "edad_minima": 18,
+          "experiencia": "4,000 horas de experiencia documentada bajo un Master Electrician",
+          "examen": "Aprobar el examen de Residential Wireman"
+        },
+        "examen": {
+          "partes": 1,
+          "parte_1": {
+            "nombre": "Residential Wireman Exam",
+            "formato": "Opción múltiple por computadora",
+            "costo": 60,
+            "idiomas": ["Inglés", "Español"],
+            "puntaje_minimo": "70%",
+            "cuando_tomarlo": "Después de completar 4,000 horas documentadas",
+            "contenido_principal": [
+              "NEC (National Electrical Code) aplicado a residencias",
+              "Leyes y reglas de Texas (TAC Title 16)",
+              "Cálculos básicos de carga eléctrica",
+              "Seguridad y prácticas de instalación"
+            ]
+          },
+          "administrador": "PSI",
+          "telefono_psi": "(855) 746-1552",
+          "url_psi": "https://test-takers.psiexams.com/tdlr",
+          "source": "https://www.tdlr.texas.gov/electricians/exam.htm"
+        },
+        "costos": {
+          "aplicacion_licencia": 20,
+          "examen_escrito": 60,
+          "total_examenes_y_licencia": 80,
+          "renovacion_cada_2_años": 20
+        },
+        "como_aplicar": {
+          "url": "https://www.tdlr.texas.gov/electricians/electricapplications.htm"
+        },
+        "source": "https://www.tdlr.texas.gov/electricians/electricapplications.htm"
+      },
+      {
+        "id": "journeyman",
+        "titulo_en": "Journeyman Electrician",
+        "titulo_es": "Oficial Electricista (Journeyman)",
+        "es_principal": true,
+        "color_badge": "#f59e0b",
+        "descripcion_corta": "La meta principal. Licencia completa para trabajar en proyectos comerciales, industriales y residenciales sin supervisión directa.",
+        "scope_of_work": "Instalaciones eléctricas en cualquier tipo de edificación: comercial, industrial, residencial. Puede trabajar sin supervisión directa (pero bajo una compañía con Master).",
+        "requisitos": {
+          "edad_minima": 18,
+          "experiencia": "8,000 horas de experiencia documentada (aproximadamente 4 años a tiempo completo)",
+          "educacion_alternativa": "O 7,000 horas si completaste un programa de aprendiz registrado con DOL",
+          "examen": "Aprobar el examen de Journeyman Electrician"
+        },
+        "examen": {
+          "partes": 1,
+          "parte_1": {
+            "nombre": "Journeyman Electrician Exam",
+            "formato": "Opción múltiple por computadora - Open book (puedes llevar tu NEC)",
+            "costo": 78,
+            "idiomas": ["Inglés", "Español"],
+            "puntaje_minimo": "70%",
+            "cuando_tomarlo": "Después de completar 8,000 horas documentadas",
+            "contenido_principal": [
+              "NEC (National Electrical Code 2023) - 70% del examen",
+              "Leyes y reglas de Texas (TAC Title 16, Part 4)",
+              "Cálculos de carga eléctrica y dimensionamiento de conductores",
+              "Transformadores, motores, y control",
+              "Seguridad eléctrica (NFPA 70E)"
+            ],
+            "ubicaciones": "Múltiples centros PSI en Texas: Austin, Dallas, Houston, San Antonio, El Paso, etc.",
+            "e_exam": "También disponible como examen online supervisado (E-Exam)"
+          },
+          "administrador": "PSI",
+          "telefono_psi": "(855) 746-1552",
+          "url_psi": "https://test-takers.psiexams.com/tdlr",
+          "retakes": "Puedes retomar el examen las veces que necesites. Pagas la tarifa de $78 cada intento. No hay periodo de espera mínimo.",
+          "source": "https://www.tdlr.texas.gov/electricians/exam.htm"
+        },
+        "costos": {
+          "aplicacion_licencia": 30,
+          "examen_escrito": 78,
+          "total_examenes_y_licencia": 108,
+          "renovacion_cada_2_años": 30,
+          "ce_horas_cada_2_años": 4
+        },
+        "como_aplicar": {
+          "metodo": "En línea después de pasar el examen",
+          "url": "https://www.tdlr.texas.gov/electricians/electricapplications.htm",
+          "tiempo_procesamiento": "1-2 semanas después de pasar el examen",
+          "pasos": [
+            "Documentar 8,000 horas usando formulario ELEC1000 firmado por tu Master",
+            "Agendar y aprobar el examen de Journeyman con PSI",
+            "Aplicar en línea en TDLR y pagar $30",
+            "Esperar procesamiento (1-2 semanas)"
+          ]
+        },
+        "source": "https://www.tdlr.texas.gov/electricians/electricapplications.htm"
+      },
+      {
+        "id": "master",
+        "titulo_en": "Master Electrician",
+        "titulo_es": "Maestro Electricista",
+        "es_principal": false,
+        "color_badge": "#7c3aed",
+        "descripcion_corta": "Nivel experto. Puede supervisar proyectos, diseñar sistemas, ser dueño de compañía eléctrica y sacar permisos municipales.",
+        "scope_of_work": "Supervisar trabajo de otros electricistas, diseñar sistemas eléctricos completos, obtener permisos, ser dueño de compañía de contratación eléctrica.",
+        "requisitos": {
+          "edad_minima": 18,
+          "experiencia_previa": "Haber tenido licencia de Journeyman por al menos 2 años O 1 año si tienes grado en ingeniería eléctrica",
+          "experiencia_total": "12,000 horas totales de experiencia documentada",
+          "examen": "Aprobar el examen de Master Electrician"
+        },
+        "examen": {
+          "partes": 1,
+          "parte_1": {
+            "nombre": "Master Electrician Exam",
+            "formato": "Opción múltiple por computadora - Open book",
+            "costo": 78,
+            "idiomas": ["Inglés", "Español"],
+            "puntaje_minimo": "70%",
+            "cuando_tomarlo": "Después de cumplir requisitos de experiencia y tiempo como Journeyman",
+            "contenido_principal": [
+              "NEC avanzado (cálculos complejos de carga)",
+              "Diseño de sistemas eléctricos",
+              "Códigos de construcción y permisos",
+              "Gestión de proyectos y supervisión",
+              "Leyes de negocio y responsabilidad"
+            ]
+          },
+          "administrador": "PSI",
+          "telefono_psi": "(855) 746-1552",
+          "url_psi": "https://test-takers.psiexams.com/tdlr",
+          "source": "https://www.tdlr.texas.gov/electricians/exam.htm"
+        },
+        "costos": {
+          "aplicacion_licencia": 45,
+          "examen_escrito": 78,
+          "total_examenes_y_licencia": 123,
+          "renovacion_cada_2_años": 45
+        },
+        "como_aplicar": {
+          "url": "https://www.tdlr.texas.gov/electricians/electricapplications.htm"
+        },
+        "source": "https://www.tdlr.texas.gov/electricians/electricapplications.htm"
+      }
+    ]
+  },
+  "renovacion": {
+    "ai_generated": false,
+    "frecuencia": "Cada 2 años desde la fecha de emisión",
+    "metodo": "En línea en el portal de TDLR",
+    "url_renovacion": "https://www.tdlr.texas.gov/electricians/electricapplications.htm",
+    "costo_renovacion": 30,
+    "ce_requerida": {
+      "horas_totales": 4,
+      "temas": [
+        "National Electrical Code (NEC) - cambios y actualizaciones",
+        "Leyes y reglas de Texas TDLR",
+        "Seguridad eléctrica (NFPA 70E)"
+      ],
+      "costo_cursos_ce_online": "$25 - $50",
+      "nota": "Debes completar 4 horas de educación continua antes de cada renovación. Los cursos deben ser de proveedores aprobados por TDLR.",
+      "url_proveedores": "https://www.tdlr.texas.gov/electricians/electriccontedprov.htm"
+    },
+    "consecuencias_no_renovar": {
+      "0_90_dias": "Tarifa normal de renovación",
+      "90_dias_a_1_año": "Tarifa de renovación tardía (1.5x)",
+      "mas_1_año": "Licencia expira permanentemente - debes aplicar como si fuera nueva licencia"
+    },
+    "nota_tdlr": "TDLR envía recordatorio de renovación por email ~60 días antes del vencimiento. Es tu responsabilidad renovar a tiempo aunque no recibas el recordatorio.",
+    "source": "https://www.tdlr.texas.gov/electricians/electricapplications.htm"
+  },
+  "reciprocidad": {
+    "ai_generated": false,
+    "disponible": true,
+    "nombre_proceso": "Reciprocity (Reciprocidad)",
+    "requisitos": [
+      "Tener licencia vigente de Journeyman o Master en uno de los estados con acuerdo",
+      "Haber tenido la licencia activa por al menos 1 año",
+      "No tener sanciones o quejas pendientes",
+      "Pasar background check de Texas"
+    ],
+    "nota": "Texas tiene acuerdos de reciprocidad con 9 estados para Journeyman y Master. Arkansas, Idaho, Louisiana (solo Master), Montana, Nebraska, New Mexico, Oklahoma, South Dakota y Wyoming. Debes aplicar y pagar la tarifa normal de Texas, pero no necesitas retomar el examen.",
+    "url": "https://www.tdlr.texas.gov/electricians/electricapplications.htm",
+    "experiencia_como_horas": "No aplica - se basa en licencia vigente de otro estado",
+    "source": "https://www.tdlr.texas.gov/electricians/electricapplications.htm"
+  },
+  "salarios": {
+    "ai_generated": false,
+    "nota_importante": "Los electricistas Journeyman y Master suelen ganar significativamente más que el promedio reportado por el BLS, especialmente con overtime, trabajos de emergencia (pagan tiempo y medio o doble) y trabajo independiente.",
+    "nacional_2024": {
+      "mediana": "$60,240/año",
+      "por_hora_mediana": "$28.96/hr",
+      "percentil_10": "$37,020/año ($17.80/hr)",
+      "percentil_90": "$99,800/año ($48.00/hr)",
+      "crecimiento_proyectado": "6% (2023-2033) - Más rápido que el promedio",
+      "source": "https://www.bls.gov/oes/current/oes472111.htm"
+    },
+    "texas": {
+      "promedio_anual": "$58,090",
+      "promedio_hora": "$27.93",
+      "top_earners": "$89,500+",
+      "source": "BLS Texas May 2024"
+    },
+    "por_ciudad_texas": [
+      {
+        "ciudad": "Houston",
+        "salario_medio": "$61,420",
+        "top_earners": "$92,180",
+        "source": "BLS"
+      },
+      {
+        "ciudad": "Dallas-Fort Worth-Arlington",
+        "salario_medio": "$60,850",
+        "top_earners": "$93,710",
+        "source": "BLS"
+      },
+      {
+        "ciudad": "Austin-Round Rock",
+        "salario_medio": "$62,330",
+        "top_earners": "$89,440",
+        "source": "BLS"
+      },
+      {
+        "ciudad": "San Antonio-New Braunfels",
+        "salario_medio": "$54,120",
+        "top_earners": "$81,060",
+        "source": "BLS"
+      },
+      {
+        "ciudad": "El Paso",
+        "salario_medio": "$47,940",
+        "top_earners": "$71,200",
+        "source": "BLS"
+      }
+    ],
+    "ingresos_reales": {
+      "ai_generated": true,
+      "nota": "Los datos del BLS solo capturan salario base de empleados W-2. El ingreso REAL de electricistas incluye:",
+      "factores_adicionales": [
+        "Overtime (tiempo y medio después de 40 horas/semana) - muy común en construcción",
+        "Llamadas de emergencia (pagan doble o triple)",
+        "Trabajos de fin de semana y días festivos (premium pay)",
+        "Trabajo independiente (1099) - cobras directamente al cliente",
+        "Bonos por completar proyectos a tiempo",
+        "Per diem para trabajos fuera de la ciudad"
+      ],
+      "estimado_realista": {
+        "recien_licenciada": "Apprentice: $30,000 - $40,000/año",
+        "3_5_años_experiencia": "Journeyman: $55,000 - $75,000/año (con overtime)",
+        "especialista_o_independiente": "Journeyman independiente o especializado: $70,000 - $95,000/año",
+        "dueña_salon": "Master con negocio propio: $80,000 - $150,000+/año"
+      }
+    }
+  },
+  "errores_comunes": {
+    "ai_generated": false,
+    "items": [
+      {
+        "error": "No reportar horas de experiencia anualmente con el formulario ELEC1000",
+        "por_que_importa": "Si trabajas 4 años como aprendiz pero nunca envías tus formularios de horas firmados por tu Master a TDLR, oficialmente tienes CERO horas documentadas. ¡Tus horas no contarán para el examen de Journeyman! Este es el error #1 más costoso.",
+        "solucion": "Descarga el formulario ELEC1000 del sitio de TDLR. Pide a tu Master Electrician que lo firme cada año (o cuando cambies de trabajo). Envíalo a TDLR inmediatamente. Guarda copias para ti."
+      },
+      {
+        "error": "Trabajar sin licencia de aprendiz activa",
+        "por_que_importa": "Es ilegal trabajar en electricidad en Texas sin licencia. Si TDLR te encuentra, puedes recibir multas de hasta $5,000 por día. Además, las horas trabajadas sin licencia NO cuentan para tu examen de Journeyman. Es trabajo perdido.",
+        "solucion": "Saca tu licencia de aprendiz ($20) el primer día de trabajo. Renuévala cada año sin falta. Es barata y esencial."
+      },
+      {
+        "error": "Estudiar con la edición incorrecta del NEC (National Electrical Code)",
+        "por_que_importa": "El examen de Journeyman y Master se basa en una edición específica del NEC (actualmente NEC 2023 en Texas). Si estudias con el NEC 2017 o 2020, fallarás preguntas clave porque los artículos y tablas cambiaron de ubicación o contenido.",
+        "solucion": "Antes de comprar tu libro NEC o inscribirte en un curso, verifica en el sitio de PSI cuál es la edición vigente para el examen. Compra ESA edición, no una usada vieja."
+      },
+      {
+        "error": "No tomar curso de preparación para el examen (especialmente si estudias solo)",
+        "por_que_importa": "El examen de Journeyman es open-book, pero si no sabes cómo navegar rápido el NEC o qué buscar, te quedarás sin tiempo. Muchos reprueban en el primer intento por falta de estrategia, no por falta de conocimiento.",
+        "solucion": "Considera tomar un curso de preparación de 1-2 meses (IEC Fort Worth, Reza Certified, etc.). Te enseñan cómo usar el NEC rápido, qué secciones son críticas, y practican con exámenes simulados."
+      },
+      {
+        "error": "Pensar que Residential Wireman es lo mismo que Journeyman",
+        "por_que_importa": "Residential Wireman solo te permite trabajar en casas unifamiliares (1-2 familias). NO puedes trabajar en apartamentos grandes, comercios, o industrial. Journeyman no tiene restricciones. Si tu meta es trabajar en construcción comercial, ve directo a Journeyman.",
+        "solucion": "Si solo te interesa construcción residencial, Residential Wireman es más rápido (4,000 horas). Si quieres más oportunidades, ve por Journeyman (8,000 horas)."
+      },
+      {
+        "error": "No renovar a tiempo y dejar que la licencia expire más de 1 año",
+        "por_que_importa": "Si tu licencia expira por más de 1 año, TDLR la cancela permanentemente. Tendrás que aplicar de nuevo como si fuera tu primera vez, pagar todas las tarifas, y posiblemente retomar el examen.",
+        "solucion": "Pon un recordatorio en tu teléfono 2 meses antes del vencimiento. La renovación es cada 2 años y solo cuesta $30 + $25-50 del curso de CE. No la dejes pasar."
+      }
+    ]
+  },
+  "servicios_sin_licencia": {
+    "ai_generated": false,
+    "titulo": "Trabajos Eléctricos que NO Requieren Licencia en Texas",
+    "items": [
+      "Cambiar focos, lámparas o bombillas",
+      "Enchufar o desenchufar aparatos",
+      "Reemplazar interruptores (switches) o tomas de corriente en tu PROPIA casa (solo homeowner)",
+      "Trabajos de bajo voltaje (como termostatos, timbres, cableado de datos/internet)"
+    ],
+    "requiere_licencia": [
+      "Cualquier instalación eléctrica nueva (agregar circuitos, instalar paneles)",
+      "Trabajar en la casa de otra persona (aunque sea cambiar un switch)",
+      "Trabajos en edificios comerciales o industriales de cualquier tipo",
+      "Sacar permisos eléctricos municipales (solo Master puede hacerlo)"
+    ],
+    "source": "Texas Occupations Code Chapter 1305"
+  },
+  "faqs": {
+    "ai_generated": "partial",
+    "items": [
+      {
+        "pregunta": "¿El examen de electricista en Texas está disponible en español?",
+        "respuesta": "Sí. TDLR ofrece los exámenes de Journeyman Electrician, Master Electrician y Residential Wireman en español a través de PSI. Al agendar tu cita en el sitio de PSI, selecciona español como idioma del examen. No hay costo adicional. También puedes comprar el libro NEC (National Electrical Code) en español.",
+        "source": "TDLR / PSI"
+      },
+      {
+        "pregunta": "¿Puedo sacar la licencia de electricista con ITIN (sin seguro social)?",
+        "respuesta": "Sí. TDLR acepta ITIN para procesar licencias de electricista si no tienes número de Seguro Social, siempre y cuando cumplas con los demás requisitos de identidad y experiencia. Muchos aprendices y journeyman en Texas usan ITIN.",
+        "source": "TDLR"
+      },
+      {
+        "pregunta": "¿Necesito ir a una escuela técnica para ser electricista?",
+        "respuesta": "No obligatoriamente. En Texas puedes aprender 100% trabajando (On-the-Job Training) bajo un Master Electrician. Sin embargo, tomar clases de código NEC y preparación para el examen te ayuda MUCHO a pasar el examen de Journeyman. Muchos aprueban más rápido si toman un curso de preparación de 1-2 meses.",
+        "source": "TDLR"
+      },
+      {
+        "pregunta": "¿Cuánto tiempo se tarda en ser Journeyman Electrician?",
+        "respuesta": "Aproximadamente 4 años trabajando tiempo completo (40 horas/semana) para acumular las 8,000 horas requeridas. Si trabajas part-time o hay temporadas lentas, puede tomar más. Después de las 8,000 horas, debes aprobar el examen de Journeyman.",
+        "source": "TDLR"
+      },
+      {
+        "pregunta": "¿Cuánto cuesta el examen de Journeyman?",
+        "respuesta": "El examen de Journeyman cuesta $78 (lo pagas a PSI). Adicionalmente pagas $30 a TDLR por la aplicación de licencia después de aprobar. Total: $108 para obtener la licencia de Journeyman (sin contar cursos de preparación o libros).",
+        "source": "TDLR / PSI"
+      },
+      {
+        "pregunta": "¿Puedo retomar el examen si repruebo?",
+        "respuesta": "Sí, puedes retomar el examen las veces que necesites. Debes pagar los $78 de nuevo cada intento. No hay periodo de espera mínimo - puedes agendar inmediatamente si hay disponibilidad en PSI.",
+        "source": "PSI"
+      },
+      {
+        "pregunta": "¿Cada cuánto debo renovar mi licencia de electricista?",
+        "respuesta": "Cada 2 años para Journeyman y Master. Cada año para Apprentice. La renovación de Journeyman cuesta $30 y requiere 4 horas de educación continua (CE) aprobada por TDLR. Los cursos de CE cuestan entre $25-50 online.",
+        "source": "TDLR"
+      },
+      {
+        "pregunta": "¿Puedo ser dueño de mi propia compañía eléctrica con licencia de Journeyman?",
+        "respuesta": "No. Para ser dueño de una compañía de contratación eléctrica en Texas, necesitas licencia de Master Electrician. El Master debe estar presente o supervisando todos los proyectos. Como Journeyman puedes trabajar independiente (1099) pero bajo la supervisión de una compañía con Master.",
+        "source": "TDLR / Texas Occupations Code"
+      }
+    ]
+  },
+  "links_oficiales": {
+    "ai_generated": false,
+    "items": [
+      {
+        "nombre": "TDLR Electricians Home",
+        "url": "https://www.tdlr.texas.gov/electricians/elec.htm",
+        "descripcion": "Página principal del programa de electricistas de TDLR"
+      },
+      {
+        "nombre": "Aplicaciones de Licencia (Todos los Niveles)",
+        "url": "https://www.tdlr.texas.gov/electricians/electricapplications.htm",
+        "descripcion": "Aplicar para Apprentice, Journeyman, Master o Residential Wireman"
+      },
+      {
+        "nombre": "Información de Exámenes",
+        "url": "https://www.tdlr.texas.gov/electricians/exam.htm",
+        "descripcion": "Detalles de exámenes, CIBs, y libros permitidos"
+      },
+      {
+        "nombre": "PSI Testing Centers - Agendar Examen",
+        "url": "https://test-takers.psiexams.com/tdlr",
+        "descripcion": "Sitio oficial de PSI para agendar tu examen. Tel: (855) 746-1552"
+      },
+      {
+        "nombre": "Formulario ELEC1000 - Reporte de Horas",
+        "url": "https://www.tdlr.texas.gov/electricians/forms.htm",
+        "descripcion": "Formulario crítico para documentar tus horas de experiencia"
+      },
+      {
+        "nombre": "Renovar Licencia",
+        "url": "https://www.tdlr.texas.gov/electricians/electricapplications.htm",
+        "descripcion": "Renovación en línea para todas las licencias"
+      },
+      {
+        "nombre": "Educación Continua (CE) - Proveedores Aprobados",
+        "url": "https://www.tdlr.texas.gov/electricians/electriccontedprov.htm",
+        "descripcion": "Lista de proveedores aprobados de cursos de CE"
+      },
+      {
+        "nombre": "Verificar Licencia",
+        "url": "https://www.tdlr.texas.gov/LicenseSearch/",
+        "descripcion": "Buscar si alguien tiene licencia vigente de TDLR"
+      },
+      {
+        "nombre": "Reciprocidad con Otros Estados",
+        "url": "https://www.tdlr.texas.gov/electricians/electricapplications.htm",
+        "descripcion": "Información sobre transferir licencia de otro estado"
+      },
+      {
+        "nombre": "BLS - Datos de Empleo Electricistas",
+        "url": "https://www.bls.gov/oes/current/oes472111.htm",
+        "descripcion": "Salarios oficiales y proyecciones de empleo (BLS)"
+      },
+      {
+        "nombre": "Contacto TDLR Electricians",
+        "url": "https://www.tdlr.texas.gov/electricians/contact.htm",
+        "descripcion": "Teléfonos, emails y dirección física de TDLR"
+      }
+    ]
+  },
+  "content_generation_rules": {
+    "tono": "Técnico pero accesible y motivador. Enfocado en el crecimiento profesional y la claridad de pasos.",
+    "persona": "Maestro Electricista experimentado que ya pasó por todo el proceso",
+    "reglas": [
+      "Enfatizar la importancia CRÍTICA de reportar horas con ELEC1000",
+      "Mencionar prominentemente que el examen está en español",
+      "Clarificar la diferencia entre Residential Wireman (solo casas) y Journeyman (todo)",
+      "Explicar que NO necesitas escuela - puedes aprender trabajando",
+      "Usar términos técnicos correctos: Apprentice, Journeyman, Master (no traducir)",
+      "Mencionar que el examen es open-book pero requiere preparación para navegar el NEC rápido"
+    ]
+  }
+}

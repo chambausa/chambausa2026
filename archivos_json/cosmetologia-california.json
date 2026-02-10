@@ -1,0 +1,465 @@
+{
+    "_meta": {
+        "schema_version": "2.0",
+        "page_id": "licencia-cosmetologia-california",
+        "oficio": "cosmetologia",
+        "estado": "california",
+        "last_verified": "2026-02-09",
+        "verified_by": "Claude - fuentes oficiales CA Board of Barbering and Cosmetology (BBC)",
+        "notes": "Prioridad #1 del análisis estratégico. Mercado enorme."
+    },
+    "page_seo": {
+        "title": "Licencia de Cosmetología en California 2026: Requisitos y Examen en Español",
+        "meta_description": "Guía oficial para obtener tu licencia de cosmetología en California. Solo 1,000 horas, SIN examen práctico, y examen escrito disponible en español. Costos y escuelas.",
+        "slug": "licencia-cosmetologia-california",
+        "canonical_url": "https://chambaenusa.com/licencia-cosmetologia-california/",
+        "h1": "Licencia de Cosmetología en California",
+        "schema_types": [
+            "HowTo",
+            "FAQPage",
+            "BreadcrumbList"
+        ],
+        "keywords_primary": [
+            "licencia de cosmetologia en california",
+            "requisitos para licencia de cosmetologia california",
+            "examen de cosmetologia en español california"
+        ],
+        "keywords_secondary": [
+            "california board of barbering and cosmetology en español",
+            "cuanto cuesta la carrera de cosmetologia en california",
+            "escuelas de belleza en california",
+            "licencia de estetica california"
+        ],
+        "keywords_long_tail": [
+            "como sacar la licencia de cosmetologia en california",
+            "examen de cosmetologia california 2026",
+            "que se necesita para estudiar cosmetologia en california",
+            "reciprocidad cosmetologia california"
+        ]
+    },
+    "hero": {
+        "ai_generated": false,
+        "badge": "Actualizado Enero 2026",
+        "headline": "Licencia de Cosmetología en California",
+        "subheadline": "¡Buenas noticias! California redujo las horas requeridas a 1,000 y ELIMINÓ el examen práctico. El examen escrito está 100% en español.",
+        "key_stats": [
+            {
+                "label": "Horas de Escuela",
+                "value": "1,000",
+                "detail": "Reducido de 1,600 (SB 803)",
+                "source": "https://www.barbercosmo.ca.gov/forms_pubs/sb803_faq.pdf",
+                "source_name": "CA BBC"
+            },
+            {
+                "label": "Costo Licencia",
+                "value": "$125",
+                "detail": "$75 examen + $50 licencia inicial",
+                "source": "https://www.barbercosmo.ca.gov/applicants/index.shtml",
+                "source_name": "CA BBC"
+            },
+            {
+                "label": "Salario Promedio",
+                "value": "$39,780/año",
+                "detail": "Promedio base en CA (sin propinas)",
+                "source": "https://www.bls.gov/oes/current/oes395012.htm#st",
+                "source_name": "BLS California"
+            },
+            {
+                "label": "Examen en Español",
+                "value": "✅ Sí",
+                "detail": "Escrito disponible en español. ¡No hay práctico!",
+                "source": "https://www.barbercosmo.ca.gov/applicants/exam_info.shtml",
+                "source_name": "PSI"
+            }
+        ],
+        "cta_primary": {
+            "text": "Ver Requisitos",
+            "anchor": "#roadmap"
+        },
+        "cta_secondary": {
+            "text": "Costos Reales",
+            "anchor": "#calculadora"
+        }
+    },
+    "callout_espanol": {
+        "ai_generated": true,
+        "type": "highlight_box",
+        "icon": "🎉",
+        "title": "¡Ya NO hay examen práctico en California!",
+        "content": "Desde la ley SB 803 (efectiva 2022), California eliminó permanentemente el examen práctico para cosmetología, barbería y estética. Solo necesitas aprobar el examen escrito, el cual puedes pedir en ESPAÑOL sin costo extra. Esto hace que obtener tu licencia sea más rápido y menos estresante que nunca.",
+        "source": "California Board of Barbering and Cosmetology SB 803 FAQ",
+        "source_name": "CA BBC"
+    },
+    "autoridad_reguladora": {
+        "ai_generated": false,
+        "nombre": "California Board of Barbering and Cosmetology (BBC)",
+        "programa": "Department of Consumer Affairs",
+        "direccion": {
+            "calle": "2420 Del Paso Road, Suite 100",
+            "ciudad": "Sacramento",
+            "estado": "CA",
+            "cp": "95834",
+            "mailing": "PO Box 944226, Sacramento, CA 94244"
+        },
+        "telefono": {
+            "local": "(800) 952-5210",
+            "email": "barbercosmo@dca.ca.gov"
+        },
+        "web": "https://www.barbercosmo.ca.gov/",
+        "verificar_licencia": "https://search.dca.ca.gov/",
+        "source": "https://www.barbercosmo.ca.gov/about_us/contact_us.shtml"
+    },
+    "roadmap": {
+        "_description": "Tipos de licencia en California",
+        "ai_generated": false,
+        "layout": "grid",
+        "nota_general": "California simplificó sus licencias recientemente. Las horas requeridas son menores que en la mayoría de los estados.",
+        "tipos": [
+            {
+                "id": "cosmetologist",
+                "titulo_en": "Cosmetologist",
+                "titulo_es": "Cosmetóloga",
+                "es_principal": true,
+                "color_badge": "#be185d",
+                "descripcion_corta": "Licencia completa para cabello, piel y uñas.",
+                "scope_of_work": "Corte y color de cabello, químicos, faciales básicos, depilación, maquillaje, uñas.",
+                "requisitos": {
+                    "edad_minima": 17,
+                    "educacion_previa": "10º grado completado o equivalente",
+                    "horas_escuela": 1000,
+                    "horas_alternativa": "3,200 horas como aprendiz (Apprenticeship) en un salón aprobado + clases teóricas",
+                    "escuela_aprobada": "Escuela aprobada por el BBC"
+                },
+                "examen": {
+                    "partes": 1,
+                    "parte_1": {
+                        "nombre": "Written Exam (Examen Escrito)",
+                        "formato": "100 preguntas de opción múltiple (2 horas)",
+                        "costo": 75,
+                        "idiomas": [
+                            "Inglés",
+                            "Español",
+                            "Vietnamita",
+                            "Coreano",
+                            "Chino Simplificado"
+                        ],
+                        "puntaje_minimo": "70%",
+                        "ubicaciones": "Centros PSI en todo California (Anaheim, Burbank, Fresno, Hayward, Riverside, Sacramento, San Diego, San Francisco, etc.)"
+                    },
+                    "administrador": "PSI",
+                    "telefono_psi": "(877) 392-6422",
+                    "source": "https://www.barbercosmo.ca.gov/applicants/exam_info.shtml"
+                },
+                "costos": {
+                    "aplicacion_licencia": 50,
+                    "examen_escrito": 75,
+                    "total_examenes_y_licencia": 125,
+                    "renovacion_cada_2_años": 50
+                },
+                "como_aplicar": {
+                    "metodo": "En línea vía BreEZe",
+                    "url": "https://www.breeze.ca.gov/",
+                    "pasos": [
+                        "Crear cuenta en BreEZe",
+                        "Enviar solicitud + pago de $125",
+                        "La escuela envía tu 'Proof of Training' document",
+                        "Esperar carta de aprobación para agendar examen con PSI",
+                        "Pasar examen escrito → ¡Licencia emitida!"
+                    ]
+                }
+            },
+            {
+                "id": "esthetician",
+                "titulo_en": "Esthetician",
+                "titulo_es": "Esteticista",
+                "es_principal": false,
+                "color_badge": "#7c3aed",
+                "descripcion_corta": "Especialista en cuidado de la piel y depilación.",
+                "scope_of_work": "Faciales, masajes (cuello/cara), depilación (cera/pinzas), maquillaje, extensiones de pestañas.",
+                "requisitos": {
+                    "edad_minima": 17,
+                    "educacion_previa": "10º grado",
+                    "horas_escuela": 600,
+                    "horas_alternativa": "No disponible como apprenticeship"
+                },
+                "costos": {
+                    "aplicacion_licencia": 40,
+                    "examen_escrito": 75,
+                    "total_examenes_y_licencia": 115
+                }
+            },
+            {
+                "id": "manicurist",
+                "titulo_en": "Manicurist",
+                "titulo_es": "Manicurista",
+                "es_principal": false,
+                "color_badge": "#db2777",
+                "descripcion_corta": "Especialista en uñas.",
+                "scope_of_work": "Manicure, pedicure, uñas artificiales (acrílico, gel), masajes de manos/pies.",
+                "requisitos": {
+                    "edad_minima": 17,
+                    "educacion_previa": "10º grado",
+                    "horas_escuela": 400,
+                    "horas_alternativa": "No disponible como apprenticeship"
+                },
+                "costos": {
+                    "aplicacion_licencia": 35,
+                    "examen_escrito": 75,
+                    "total_examenes_y_licencia": 110
+                }
+            },
+            {
+                "id": "barber",
+                "titulo_en": "Barber",
+                "titulo_es": "Barbero",
+                "es_principal": false,
+                "color_badge": "#2563eb",
+                "descripcion_corta": "Corte de cabello masculino y afeitado.",
+                "horas_escuela": 1000,
+                "nota": "Permite usar navaja de afeitar (rasurar), lo que la licencia de cosmetología NO permite."
+            }
+        ]
+    },
+    "escuelas": {
+        "ai_generated": false,
+        "items": [
+            {
+                "id": "iac_school",
+                "name": "International Academy of Cosmetology",
+                "city": "South Gate",
+                "phone": "(323) 563-3331",
+                "website": "https://internationalcosb.com/",
+                "is_bilingual": true,
+                "programs": [
+                    {
+                        "id": "iac_cosmo",
+                        "name": "Cosmetology",
+                        "duration_months": 10,
+                        "modality": "Bilingüe"
+                    },
+                    {
+                        "id": "iac_barber",
+                        "name": "Barbering",
+                        "duration_months": 10,
+                        "modality": "Bilingüe"
+                    }
+                ]
+            },
+            {
+                "id": "neihule",
+                "name": "Neihule Academy of Beauty",
+                "city": "Los Angeles",
+                "phone": "(213) 395-0947",
+                "website": "https://neihuleacademy.com/",
+                "is_bilingual": true,
+                "programs": [
+                    {
+                        "id": "neihule_unas",
+                        "name": "Uñas (Programa en Español)",
+                        "duration_months": 3,
+                        "modality": "Español"
+                    },
+                    {
+                        "id": "neihule_cosmo",
+                        "name": "Cosmetology",
+                        "duration_months": 9,
+                        "modality": "Inglés/Español"
+                    }
+                ]
+            },
+            {
+                "id": "pib_school",
+                "name": "Professional Institute of Beauty (PIB)",
+                "city": "El Monte",
+                "phone": "(626) 443-9404",
+                "website": "https://pib.edu/",
+                "is_bilingual": true,
+                "programs": [
+                    {
+                        "id": "pib_cosmo",
+                        "name": "Cosmetology",
+                        "duration_months": 10,
+                        "modality": "Bilingüe"
+                    }
+                ]
+            }
+        ]
+    },
+    "calculadora_inversion": {
+        "ai_generated": false,
+        "escenarios": [
+            {
+                "id": "cosmetologist_school",
+                "licencia": "Cosmetóloga (Vía Escuela)",
+                "inversion": {
+                    "escuela_rango": "$10,000 - $22,000",
+                    "escuela_nota": "Más barata que en otros estados porque 'solo' son 1,000 horas.",
+                    "examen_escrito": 75,
+                    "aplicacion_licencia": 50,
+                    "kit_herramientas": "$300 - $800",
+                    "total_minimo": "~$10,425",
+                    "total_maximo": "~$23,000"
+                },
+                "tiempo": "7-10 meses (full time)",
+                "salario_esperado": {
+                    "empleada": "$35,000 - $50,000",
+                    "independiente": "$50,000 - $90,000+"
+                }
+            },
+            {
+                "id": "manicurist",
+                "licencia": "Manicurista",
+                "inversion": {
+                    "escuela_rango": "$3,000 - $8,000",
+                    "total_minimo": "~$3,500",
+                    "total_maximo": "~$8,500"
+                },
+                "tiempo": "3-5 meses"
+            }
+        ]
+    },
+    "renovacion": {
+        "ai_generated": false,
+        "frecuencia": "Cada 2 años (años impares para unos, pares para otros, depende del año de emisión)",
+        "metodo": "En línea vía BreEZe",
+        "url_renovacion": "https://www.breeze.ca.gov/",
+        "costo_renovacion": 50,
+        "ce_requerida": {
+            "menos_15_años_licencia": {
+                "horas_totales": 0,
+                "desglose": [
+                    "No hay requisito de Educación Continua (CE) mandatorio en California actualmente"
+                ]
+            },
+            "costo_cursos_ce_online": "N/A",
+            "url_proveedores": ""
+        },
+        "nota_tdlr": "Aunque no se requiere CE, el Board recomienda mantenerse actualizado.",
+        "source": "https://www.barbercosmo.ca.gov/licensees/renewal.shtml"
+    },
+    "reciprocidad": {
+        "ai_generated": false,
+        "disponible": true,
+        "nombre_proceso": "Reciprocity (Licencia por Reciprocidad)",
+        "requisitos": [
+            "Tener una licencia VIGENTE y en buen estado de otro estado",
+            "Haber tenido la licencia por al menos 3 años (para reciprocidad directa)",
+            "O si tienes menos de 3 años: presentar prueba de entrenamiento (horas) que cumpla con el mínimo de California (1,000 hrs)",
+            "NO se necesita tomar el examen de California si calificas por reciprocidad"
+        ],
+        "nota": "Si vienes de Texas (1,000 hrs) o Florida (1,200 hrs), calificar es muy fácil porque tus horas cubren el requisito de California.",
+        "url": "https://www.barbercosmo.ca.gov/applicants/reciprocity.shtml",
+        "source": "CA BBC"
+    },
+    "salarios": {
+        "ai_generated": false,
+        "nota_importante": "California tiene de los salarios más altos para cosmetólogas, pero también el costo de vida es alto. Las propinas son clave.",
+        "nacional_2024": {
+            "mediana": "$39,780 (California)",
+            "por_hora_mediana": "$19.13",
+            "top_earners": "$65,000+",
+            "source": "BLS"
+        },
+        "por_ciudad_texas": [
+            {
+                "ciudad": "San Francisco / Bay Area",
+                "salario_medio": "$48,500",
+                "source": "BLS"
+            },
+            {
+                "ciudad": "Los Angeles",
+                "salario_medio": "$42,100",
+                "source": "BLS"
+            },
+            {
+                "ciudad": "San Diego",
+                "salario_medio": "$41,500",
+                "source": "BLS"
+            }
+        ]
+    },
+    "errores_comunes": {
+        "ai_generated": true,
+        "items": [
+            {
+                "error": "Pagar a escuelas 'sin papeles' (unaccredited)",
+                "por_que_importa": "Hay 'escuelas' ilegales en garajes que prometen enseñarte barato. SUS HORAS NO CUENTAN. Solo escuelas aprobadas por el Board pueden enviarte al examen.",
+                "solucion": "Busca siempre el código de escuela aprobado en la web del BBC."
+            },
+            {
+                "error": "Estudiar para el examen práctico",
+                "por_que_importa": "Muchos libros viejos y videos de YouTube siguen hablando del 'Practical Exam' con maniquíes. ¡Ya no existe en California! No pierdas tiempo o dinero en kits de examen práctico.",
+                "solucion": "Enfócate 100% en estudiar la teoría para el examen escrito (Written Exam)."
+            },
+            {
+                "error": "Olvidar renovar tu licencia",
+                "por_que_importa": "Si dejas vencer tu licencia por más de 5 años, la pierdes totalmente y tienes que volver a la escuela y tomar el examen de nuevo.",
+                "solucion": "Renueva cada 2 años ($50). Es muy barato comparado con volver a estudiar."
+            }
+        ]
+    },
+    "faqs": {
+        "ai_generated": "partial",
+        "items": [
+            {
+                "pregunta": "¿Es verdad que ya no hay examen práctico en California?",
+                "respuesta": "Sí, es totalmente verdad. Desde el 1 de enero de 2022, el examen práctico fue eliminado. Ahora solo presentas el examen escrito por computadora para obtener tu licencia.",
+                "source": "SB 803"
+            },
+            {
+                "pregunta": "¿Puedo tomar el examen en español?",
+                "respuesta": "Sí. El examen escrito está disponible en español. Debes solicitarlo al llenar tu aplicación (marcando la casilla de preferencia de idioma).",
+                "source": "PSI"
+            },
+            {
+                "pregunta": "¿Aceptan mi licencia de México o Latinoamérica?",
+                "respuesta": "No directamente. California no tiene reciprocidad con otros países. Debes evaluar tus horas de estudio ('evaluation of training') para ver cuántas te revalidan, y probablemente tendrás que completar horas faltantes en una escuela de California y pasar el examen escrito.",
+                "source": "CA BBC"
+            },
+            {
+                "pregunta": "¿Puedo trabajar como aprendiz en vez de ir a la escuela?",
+                "respuesta": "Sí. El programa de 'Apprenticeship' te permite trabajar en un salón autorizado bajo un licenciado y ganar dinero mientras aprendes. Requiere 3,200 horas (más tiempo que la escuela) y clases teóricas complementarias.",
+                "source": "CA BBC"
+            },
+            {
+                "pregunta": "¿Necesito número de Seguro Social (SSN)?",
+                "respuesta": "California permite aplicar con un SSN o con un ITIN (Individual Taxpayer Identification Number). Así que sí puedes obtener tu licencia con ITIN.",
+                "source": "CA BBC"
+            }
+        ]
+    },
+    "links_oficiales": {
+        "ai_generated": false,
+        "items": [
+            {
+                "nombre": "Sitio Oficial del Board (BBC)",
+                "url": "https://www.barbercosmo.ca.gov/",
+                "descripcion": "Web oficial del gobierno de CA"
+            },
+            {
+                "nombre": "Aplicar en Línea (BreEZe)",
+                "url": "https://www.breeze.ca.gov/",
+                "descripcion": "Plataforma para aplicar y renovar"
+            },
+            {
+                "nombre": "Buscar Escuelas Aprobadas",
+                "url": "https://www.barbercosmo.ca.gov/schools/approved_schools.shtml",
+                "descripcion": "Lista oficial de escuelas"
+            },
+            {
+                "nombre": "Guía de Estudio PSI",
+                "url": "https://candidate.psiexams.com/bulletin/display_bulletin.jsp?ro=yes&actionname=83&bulletinid=1187&bulletinurl=.pdf",
+                "descripcion": "Bulletin oficial del examen (CIB)"
+            }
+        ]
+    },
+    "content_generation_rules": {
+        "tono": "Profesional pero accesible. Muy enfocado en la gran ventaja de 'No examen práctico'.",
+        "persona": "Experta en licencias de California",
+        "reglas": [
+            "Destacar SIEMPRE que no hay examen práctico (es la ventaja única de CA)",
+            "Mencionar que se puede usar ITIN",
+            "Ser claro con la diferencia entre Cosmetologist y Esthetician"
+        ]
+    }
+}
