@@ -184,10 +184,10 @@
           "source": "https://www.dir.ca.gov/das/"
         },
         "costos": {
-          "aplicacion_certificacion": 100,
-          "examen": 100,
-          "total_estimado": 200,
-          "renovacion_cada_3_años": 100
+          "aplicacion_licencia": 100,
+          "examen_escrito": 100,
+          "total_examenes_y_licencia": 200,
+          "renovacion_cada_2_años": 100
         },
         "como_aplicar": {
           "url": "https://www.dir.ca.gov/das/"
@@ -228,16 +228,16 @@
             "ubicaciones": "Múltiples centros de prueba en California: Sacramento, Los Angeles, San Francisco, San Diego, etc."
           },
           "administrador": "DIR - Division of Apprenticeship Standards",
-          "telefono": "(916) 263-1811",
-          "url": "https://www.dir.ca.gov/das/",
+          "telefono_psi": "(916) 263-1811",
+          "url_psi": "https://www.dir.ca.gov/das/",
           "retakes": "Puedes retomar el examen. Debes pagar la tarifa nuevamente y esperar al menos 30 días entre intentos.",
           "source": "https://www.dir.ca.gov/das/"
         },
         "costos": {
-          "aplicacion_certificacion": 150,
-          "examen": 150,
-          "total_estimado": 300,
-          "renovacion_cada_3_años": 150
+          "aplicacion_licencia": 150,
+          "examen_escrito": 150,
+          "total_examenes_y_licencia": 300,
+          "renovacion_cada_2_años": 150
         },
         "como_aplicar": {
           "metodo": "Aplicación a través de DIR después de completar requisitos",
@@ -297,17 +297,17 @@
             ]
           },
           "administrador": "Contractors State License Board (CSLB)",
-          "telefono": "(800) 321-2752",
-          "url_cslb": "https://www.cslb.ca.gov/",
+          "telefono_psi": "(800) 321-2752",
+          "url_psi": "https://www.cslb.ca.gov/",
           "costo_total_aplicacion": 450,
           "source": "https://www.cslb.ca.gov/"
         },
         "costos": {
-          "aplicacion_inicial": 450,
+          "aplicacion_licencia": 450,
           "bond_requerido": 15000,
           "costo_bond_anual": "250-500 (depende de tu crédito)",
           "renovacion_cada_2_años": 400,
-          "total_inicial_estimado": "700-950 (aplicación + bond primer año)"
+          "total_examenes_y_licencia": "700-950 (aplicación + bond primer año)"
         },
         "como_aplicar": {
           "metodo": "En línea o por correo a través de CSLB",
