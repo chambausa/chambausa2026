@@ -1,0 +1,616 @@
+{
+  "_meta": {
+    "schema_version": "2.0",
+    "page_id": "licencia-electricista-new-york",
+    "oficio": "electricista",
+    "estado": "new-york",
+    "last_verified": "2026-02-15",
+    "verified_by": "Claude - fuentes oficiales NYC DOB, NY DOS, BLS May 2024",
+    "notes": "New York NO tiene licencia estatal de electricista. El licenciamiento es a nivel local (ciudad/condado). NYC es la jurisdicción más importante con Master y Special Electrician licenses del Department of Buildings (DOB)."
+  },
+  "page_seo": {
+    "title": "Licencia de Electricista en New York 2026: Guía NYC DOB Master Electrician y Requisitos",
+    "meta_description": "Cómo sacar la licencia de electricista en New York paso a paso. Master Electrician NYC, Special Electrician, requisitos DOB, examen y salarios actualizados 2026.",
+    "slug": "electricista-new-york",
+    "canonical_url": "https://chambaenusa.com/licencia-electricista-new-york/",
+    "h1": "Licencia de Electricista en New York",
+    "schema_types": ["HowTo", "FAQPage", "BreadcrumbList"],
+    "keywords_primary": [
+      "licencia de electricista en new york",
+      "master electrician nyc",
+      "examen de electricista new york"
+    ],
+    "keywords_secondary": [
+      "NYC DOB electrician license",
+      "special electrician license nyc",
+      "cuanto gana un electricista en new york",
+      "requisitos electricista new york"
+    ],
+    "keywords_long_tail": [
+      "como sacar la licencia de electricista en new york",
+      "master electrician license nyc requirements",
+      "escuelas de electricidad en new york en español",
+      "cuanto cuesta la licencia de electricista en nyc"
+    ]
+  },
+  "hero": {
+    "ai_generated": false,
+    "badge": "Actualizado 2026",
+    "headline": "Licencia de Electricista en New York",
+    "subheadline": "New York tiene los salarios más altos del país para electricistas, especialmente en NYC. La licencia se obtiene a nivel local (ciudad/condado). En NYC, el camino va de Apprentice a Master Electrician con 7.5 años de experiencia. Con overtime y trabajo sindical (IBEW), muchos superan los $100,000/año.",
+    "key_stats": [
+      {
+        "label": "Apprentice (NYC)",
+        "value": "Sin Licencia Individual",
+        "detail": "Trabajas bajo un Master Electrician. Te inscribes en un programa de aprendizaje (IBEW Local 3 es el más grande).",
+        "source": "https://www.nyc.gov/site/buildings/industry/obtain-a-master-and-special-electrician-license.page",
+        "source_name": "NYC DOB"
+      },
+      {
+        "label": "Master Electrician (NYC)",
+        "value": "7.5 años experiencia",
+        "detail": "Mínimo 10,500 horas de experiencia + examen escrito y práctico",
+        "source": "https://www.nyc.gov/site/buildings/industry/obtain-a-master-and-special-electrician-license.page",
+        "source_name": "NYC DOB"
+      },
+      {
+        "label": "Examen NYC",
+        "value": "Escrito + Práctico",
+        "detail": "Examen de 2 partes. Costo total: $1,055 (escrito) + $530 (práctico) + background $500",
+        "source": "https://www.nyc.gov/site/buildings/industry/obtain-a-master-and-special-electrician-license.page",
+        "source_name": "NYC DOB"
+      },
+      {
+        "label": "Salario NYC",
+        "value": "$85,000-$95,000/año",
+        "detail": "Promedio NYC. Union (IBEW Local 3): $100,000-$130,000+ con beneficios",
+        "source": "https://www.bls.gov/oes/current/oes472111.htm",
+        "source_name": "BLS / Glassdoor 2024"
+      }
+    ],
+    "cta_primary": { "text": "Ver Pasos del Camino", "anchor": "#roadmap" },
+    "cta_secondary": { "text": "Ver Salarios", "anchor": "#salarios" }
+  },
+  "callout_espanol": {
+    "ai_generated": false,
+    "type": "highlight_box",
+    "icon": "⚡",
+    "title": "New York: Los mejores salarios del país para electricistas",
+    "content": "New York, especialmente NYC, ofrece los salarios más altos del país para electricistas. Los miembros del IBEW Local 3 ganan más de $55/hora más beneficios. La ciudad tiene demanda constante por construcción de rascacielos, renovaciones, y proyectos de infraestructura. Aunque la licencia de Master Electrician es rigurosa (7.5 años de experiencia), el retorno de inversión es enorme.",
+    "source": "https://www.bls.gov/oes/current/oes472111.htm",
+    "source_name": "BLS / NYC DOB"
+  },
+  "autoridad_reguladora": {
+    "ai_generated": false,
+    "nombre": "NYC Department of Buildings (DOB)",
+    "programa": "Licensing Unit - Electrical Division",
+    "direccion": {
+      "calle": "280 Broadway",
+      "ciudad": "New York",
+      "estado": "NY",
+      "cp": "10007"
+    },
+    "telefono": {
+      "local": "(212) 393-2259",
+      "toll_free": "311 (dentro de NYC)"
+    },
+    "email": "licensing@buildings.nyc.gov",
+    "web": "https://www.nyc.gov/site/buildings/industry/master-electricians-special-electricians.page",
+    "verificar_licencia": "https://a810-bisweb.nyc.gov/bisweb/bispi00.jsp",
+    "source": "https://www.nyc.gov/site/buildings/industry/master-electricians-special-electricians.page",
+    "nota_adicional": "New York NO tiene licencia estatal de electricista. El licenciamiento es local. Cada ciudad/condado puede tener sus propios requisitos. NYC DOB es la jurisdicción más grande e importante. Para electricistas fuera de NYC, contactar tu municipio local."
+  },
+  "roadmap": {
+    "_description": "Camino profesional del electricista en New York - enfocado en NYC como jurisdicción principal",
+    "ai_generated": false,
+    "layout": "timeline",
+    "nota_general": "New York NO tiene licencia estatal de electricista. El licenciamiento es a nivel de ciudad/condado. En NYC, el Department of Buildings (DOB) emite licencias de Master Electrician y Special Electrician. El camino típico en NYC es: Apprentice (programa de 5 años) → Journeyman (sindical, sin licencia estatal) → acumular 7.5 años totales → Master Electrician. Para trabajar fuera de NYC, verifica los requisitos de tu jurisdicción local.",
+    "tipos": [
+      {
+        "id": "apprentice",
+        "titulo_en": "Electrical Apprentice",
+        "titulo_es": "Aprendiz de Electricista",
+        "es_principal": false,
+        "color_badge": "#3b82f6",
+        "descripcion_corta": "El primer paso. Te inscribes en un programa de aprendizaje registrado (generalmente 5 años) y trabajas bajo supervisión de un Master Electrician.",
+        "scope_of_work": "Trabajar bajo la supervisión directa de un Journeyman o Master Electrician. Aprendes mientras ganas un salario que sube progresivamente. Combinas trabajo práctico con clases en salón.",
+        "requisitos": {
+          "edad_minima": 18,
+          "educacion_previa": "Diploma de high school o GED. Algunos programas requieren álgebra básica.",
+          "experiencia": "Ninguna",
+          "examen": "Examen de entrada al programa de aprendizaje (math, reading comprehension)",
+          "nota_ibew": "IBEW Local 3 es el sindicato de electricistas más grande de NYC. Su programa de aprendizaje es de 5 años y es muy competitivo."
+        },
+        "costos": {
+          "programa_aprendizaje": "Generalmente GRATIS (el sindicato o contratista paga tu entrenamiento)",
+          "herramientas_iniciales": "$200-$500 (herramientas básicas)"
+        },
+        "como_aplicar": {
+          "metodo": "Aplicar a programas de aprendizaje registrados",
+          "url": "https://www.apprenticeship.gov/apprenticeship-finder",
+          "tiempo_procesamiento": "Variable - los programas tienen ventanas de admisión específicas",
+          "pasos": [
+            "Investigar programas de aprendizaje: IBEW Local 3, IEC, ABC, o non-union shops",
+            "Aplicar durante la ventana de admisión (IBEW Local 3 abre aplicaciones periódicamente)",
+            "Aprobar examen de entrada (matemáticas, comprensión lectora)",
+            "Pasar entrevista y background check",
+            "Empezar programa de 5 años: trabajo pagado + clases",
+            "Documentar todas las horas de experiencia"
+          ]
+        },
+        "nota": "IBEW Local 3 en NYC es uno de los mejores programas del país. Empiezas ganando ~40% del salario journeyman ($25-30/hr) y subes cada 6 meses. Al terminar los 5 años, sales como Journeyman Wireman con salario completo. Es muy competitivo - aplican miles para pocos spots.",
+        "source": "https://www.nyc.gov/site/buildings/industry/obtain-a-master-and-special-electrician-license.page"
+      },
+      {
+        "id": "journeyman",
+        "titulo_en": "Journeyman Electrician",
+        "titulo_es": "Oficial Electricista (Journeyman)",
+        "es_principal": false,
+        "color_badge": "#10b981",
+        "descripcion_corta": "Nivel intermedio. En NYC no hay una 'licencia de journeyman' del DOB, pero al completar tu aprendizaje eres reconocido como journeyman y puedes trabajar de forma más independiente.",
+        "scope_of_work": "Realizar trabajo eléctrico bajo la supervisión general de un Master Electrician. Puedes trabajar de forma más independiente que un apprentice. En el sindicato (IBEW), recibes el salario completo de journeyman.",
+        "requisitos": {
+          "edad_minima": 18,
+          "experiencia": "Completar programa de aprendizaje de 5 años O equivalente en experiencia (7,500+ horas)",
+          "examen": "No hay examen estatal de journeyman en NY. El sindicato puede tener sus propias evaluaciones."
+        },
+        "costos": {
+          "nota": "No hay tarifa de licencia estatal ya que NY no emite licencia de journeyman. Cuotas sindicales de IBEW Local 3 aplican si eres miembro."
+        },
+        "como_aplicar": {
+          "metodo": "Completar programa de aprendizaje o acumular experiencia equivalente",
+          "pasos": [
+            "Completar 5 años de aprendizaje registrado",
+            "O acumular experiencia equivalente bajo un Master Electrician licenciado",
+            "Si eres IBEW, automáticamente te conviertes en Journeyman Wireman al graduarte",
+            "Empezar a acumular las horas adicionales necesarias para Master Electrician"
+          ]
+        },
+        "nota": "Como Journeyman en NYC, NO puedes sacar permisos ni tener tu propia compañía. Para eso necesitas la Master Electrician license del DOB. Pero el salario de Journeyman en IBEW Local 3 es excelente: ~$55-60/hr + beneficios (salud, pensión, anualidad).",
+        "source": "https://www.nyc.gov/site/buildings/industry/master-electricians-special-electricians.page"
+      },
+      {
+        "id": "special_electrician",
+        "titulo_en": "Special Electrician",
+        "titulo_es": "Electricista Especial",
+        "es_principal": false,
+        "color_badge": "#f59e0b",
+        "descripcion_corta": "Licencia del DOB de NYC para hacer trabajo eléctrico en edificios o propiedades ESPECÍFICAS (no como contratista general). Común para electricistas de mantenimiento de edificios grandes.",
+        "scope_of_work": "Realizar trabajo eléctrico en edificios, lotes o partes específicas de NYC. No es una licencia general - está limitada a propiedades específicas designadas en la licencia. Ideal para electricistas de mantenimiento de hospitales, universidades, edificios corporativos, etc.",
+        "requisitos": {
+          "edad_minima": 21,
+          "experiencia": "7.5 años de experiencia (mínimo 10,500 horas) en instalación, alteración y reparación de cableado eléctrico, dentro de los 10 años previos a la aplicación",
+          "educacion_previa": "Saber leer y escribir en inglés",
+          "examen": "Aprobar examen escrito y práctico del DOB",
+          "background": "Pasar investigación de antecedentes del DOB"
+        },
+        "examen": {
+          "partes": 2,
+          "parte_1": {
+            "nombre": "Written Exam (LIC41)",
+            "formato": "Examen escrito",
+            "costo": 525,
+            "idiomas": ["Inglés"],
+            "puntaje_minimo": "Aprobado/Reprobado",
+            "contenido_principal": [
+              "NYC Electrical Code",
+              "National Electrical Code (NEC)",
+              "NYC Building Code - Electrical provisions",
+              "Cálculos eléctricos",
+              "Seguridad y prácticas de instalación"
+            ]
+          },
+          "parte_2": {
+            "nombre": "Practical Exam (LIC42)",
+            "formato": "Examen práctico (hands-on)",
+            "costo": 530,
+            "idiomas": ["Inglés"],
+            "puntaje_minimo": "Aprobado/Reprobado",
+            "contenido_principal": [
+              "Demostración práctica de habilidades de instalación eléctrica",
+              "Doblado de tubería (conduit bending)",
+              "Conexiones y terminaciones",
+              "Lectura de planos eléctricos"
+            ]
+          },
+          "administrador": "NYC Department of Buildings",
+          "background_fee": 500,
+          "license_issuance_fee": 360,
+          "source": "https://www.nyc.gov/site/buildings/industry/obtain-a-master-and-special-electrician-license.page"
+        },
+        "costos": {
+          "examen_escrito_lic41": 525,
+          "examen_practico_lic42": 530,
+          "background_investigation": 500,
+          "license_issuance": 360,
+          "total_estimado": 1915,
+          "renovacion_anual": 400
+        },
+        "como_aplicar": {
+          "metodo": "En línea a través de DOB NOW Portal",
+          "url": "https://www.nyc.gov/site/buildings/industry/obtain-a-master-and-special-electrician-license.page",
+          "pasos": [
+            "Crear cuenta en DOB NOW Portal",
+            "Completar aplicación en línea",
+            "Documentar 7.5 años (10,500 horas) de experiencia",
+            "Pagar tarifa de background investigation ($500)",
+            "Pagar tarifa de examen escrito LIC41 ($525)",
+            "Aprobar examen escrito",
+            "Pagar tarifa de examen práctico LIC42 ($530)",
+            "Aprobar examen práctico",
+            "Pagar tarifa de emisión de licencia ($360)",
+            "Recibir licencia de Special Electrician"
+          ]
+        },
+        "source": "https://www.nyc.gov/site/buildings/industry/obtain-a-master-and-special-electrician-license.page"
+      },
+      {
+        "id": "master",
+        "titulo_en": "Master Electrician",
+        "titulo_es": "Maestro Electricista",
+        "es_principal": true,
+        "color_badge": "#7c3aed",
+        "descripcion_corta": "La licencia más alta en NYC. Te permite trabajar como contratista eléctrico independiente en cualquier edificio o propiedad de la ciudad. Puedes tener tu propia compañía y sacar permisos.",
+        "scope_of_work": "Realizar trabajo eléctrico como contratista independiente en cualquier edificio, lote o propiedad de NYC. Puedes tener tu propia compañía eléctrica, contratar empleados, sacar permisos, y firmar contratos directamente con clientes.",
+        "requisitos": {
+          "edad_minima": 21,
+          "experiencia": "7.5 años de experiencia (mínimo 10,500 horas) en instalación, alteración y reparación de cableado eléctrico, dentro de los 10 años previos a la aplicación",
+          "educacion_previa": "Saber leer y escribir en inglés",
+          "educacion_como_experiencia": "Educación formal en ingeniería eléctrica o tecnología puede sustituir parte de la experiencia: 4-year degree = hasta 5 años crédito, 2-year degree = hasta 3 años crédito. Mínimo 2.5 años de experiencia práctica requeridos aunque tengas título.",
+          "examen": "Aprobar examen escrito y práctico del DOB",
+          "background": "Pasar investigación de antecedentes del DOB",
+          "nota": "La experiencia debe incluir trabajo significativo en instalación y alteración de sistemas eléctricos en edificios. Trabajo de mantenimiento puro puede no contar completamente."
+        },
+        "examen": {
+          "partes": 2,
+          "parte_1": {
+            "nombre": "Written Exam (LIC41)",
+            "formato": "Examen escrito",
+            "costo": 525,
+            "idiomas": ["Inglés"],
+            "puntaje_minimo": "Aprobado/Reprobado",
+            "contenido_principal": [
+              "NYC Electrical Code (completo)",
+              "National Electrical Code (NEC 2023)",
+              "NYC Building Code y Admin Code",
+              "Cálculos avanzados de carga eléctrica",
+              "Diseño de sistemas eléctricos",
+              "Leyes y regulaciones de NYC",
+              "Seguridad eléctrica y OSHA"
+            ]
+          },
+          "parte_2": {
+            "nombre": "Practical Exam (LIC42)",
+            "formato": "Examen práctico (hands-on) más riguroso que Special Electrician",
+            "costo": 530,
+            "idiomas": ["Inglés"],
+            "puntaje_minimo": "Aprobado/Reprobado",
+            "contenido_principal": [
+              "Demostración avanzada de habilidades de instalación",
+              "Doblado de tubería complejo (conduit bending)",
+              "Conexiones, terminaciones y pruebas",
+              "Lectura e interpretación de planos eléctricos complejos",
+              "Resolución de problemas eléctricos"
+            ]
+          },
+          "administrador": "NYC Department of Buildings",
+          "background_fee": 500,
+          "license_issuance_fee": 360,
+          "retakes": "Puedes retomar el examen. Debes pagar las tarifas nuevamente por cada intento.",
+          "source": "https://www.nyc.gov/site/buildings/industry/obtain-a-master-and-special-electrician-license.page"
+        },
+        "costos": {
+          "examen_escrito_lic41": 525,
+          "examen_practico_lic42": 530,
+          "background_investigation": 500,
+          "license_issuance": 360,
+          "total_estimado": 1915,
+          "renovacion_anual": 400,
+          "seguro_liability": "Requerido - costo varía",
+          "bond": "Requerido si operas como contratista"
+        },
+        "como_aplicar": {
+          "metodo": "En línea a través de DOB NOW Portal",
+          "url": "https://www.nyc.gov/site/buildings/industry/obtain-a-master-and-special-electrician-license.page",
+          "tiempo_procesamiento": "Varios meses (background investigation + scheduling de exámenes)",
+          "pasos": [
+            "Crear cuenta en DOB NOW Portal (nyc.gov/dobnow)",
+            "Completar aplicación de Master Electrician en línea",
+            "Subir documentos de verificación de experiencia (7.5 años / 10,500 horas)",
+            "Subir documentos para background investigation (identificación, historial criminal, etc.)",
+            "Pagar tarifa de background investigation ($500)",
+            "Esperar aprobación de experiencia y background",
+            "Pagar y agendar examen escrito LIC41 ($525)",
+            "Aprobar examen escrito",
+            "Pagar y agendar examen práctico LIC42 ($530)",
+            "Aprobar examen práctico",
+            "Pagar tarifa de emisión de licencia ($360)",
+            "Obtener seguro de responsabilidad civil y bond si operarás como contratista"
+          ]
+        },
+        "nota": "La Master Electrician license de NYC es una de las más difíciles y respetadas del país. 7.5 años de experiencia + examen escrito + examen práctico. Pero el retorno es enorme: los Master Electricians en NYC pueden ganar $120,000-$200,000+ con su propio negocio.",
+        "source": "https://www.nyc.gov/site/buildings/industry/obtain-a-master-and-special-electrician-license.page"
+      }
+    ]
+  },
+  "renovacion": {
+    "ai_generated": false,
+    "frecuencia": "Anual (1 año desde la fecha de emisión, vence en tu cumpleaños)",
+    "metodo": "En línea a través de DOB NOW Portal",
+    "url_renovacion": "https://www.nyc.gov/site/buildings/industry/master-and-special-electricians-license-renewal.page",
+    "costo_renovacion": 400,
+    "ce_requerida": {
+      "horas_totales": 8,
+      "temas": [
+        "NYC Electrical Code actualizaciones",
+        "National Electrical Code (NEC) cambios",
+        "Seguridad eléctrica",
+        "Leyes y regulaciones de NYC DOB"
+      ],
+      "costo_cursos_ce_online": "$150 - $400",
+      "nota": "NYC DOB requiere 8 horas de educación continua aprobada cada año para renovar. Los cursos deben ser de proveedores aprobados por el DOB. El Electrical Training Center (electricaltrainingcenter.edu) es uno de los proveedores más populares.",
+      "url_proveedores": "https://www.nyc.gov/site/buildings/industry/master-and-special-electricians-license-renewal.page"
+    },
+    "consecuencias_no_renovar": {
+      "vencida": "No puedes trabajar ni sacar permisos mientras la licencia esté vencida",
+      "mas_1_año": "Puede requerir reaplicación y nuevos exámenes",
+      "nota": "NYC DOB es estricto con las renovaciones. No arriesgues tu licencia dejándola vencer."
+    },
+    "source": "https://www.nyc.gov/site/buildings/industry/master-and-special-electricians-license-renewal.page"
+  },
+  "reciprocidad": {
+    "ai_generated": false,
+    "disponible": false,
+    "nombre_proceso": "No tiene reciprocidad",
+    "nota": "NYC NO tiene acuerdos de reciprocidad con otros estados o ciudades para licencias de Master Electrician. Sin importar tu experiencia o licencias de otros estados, debes cumplir todos los requisitos de NYC (7.5 años de experiencia verificable + ambos exámenes). Sin embargo, tu experiencia de trabajo eléctrico en otros estados/países puede contar para los 7.5 años si está debidamente documentada y fue en instalación/alteración de sistemas eléctricos en edificios.",
+    "url": "https://www.nyc.gov/site/buildings/industry/obtain-a-master-and-special-electrician-license.page",
+    "experiencia_como_horas": "La experiencia de otros estados/países puede contar si está documentada con verificaciones de empleadores y es en trabajo eléctrico calificado.",
+    "nota_nys": "New York State Department of State ofrece una 'Master Electrician Waiver' para municipios que quieran aceptar licencias de otras jurisdicciones, pero esto es opcional y cada municipio decide.",
+    "source": "https://dos.ny.gov/master-electrician-waiver"
+  },
+  "salarios": {
+    "ai_generated": false,
+    "nota_importante": "New York tiene algunos de los salarios MÁS ALTOS del país para electricistas, especialmente en NYC. Los miembros del IBEW Local 3 ganan salarios premium con beneficios excepcionales (seguro médico, pensión, anualidad). Sin embargo, el costo de vida en NYC y sus alrededores también es muy alto.",
+    "nacional_2024": {
+      "mediana": "$62,350/año",
+      "por_hora_mediana": "$29.98/hr",
+      "percentil_10": "$39,430/año",
+      "percentil_90": "$106,030/año",
+      "crecimiento_proyectado": "6% (2023-2033) - Más rápido que el promedio",
+      "source": "https://www.bls.gov/oes/current/oes472111.htm"
+    },
+    "new_york": {
+      "promedio_anual": "$77,500",
+      "promedio_hora": "$37.26",
+      "top_earners": "$110,000+",
+      "source": "BLS New York May 2024"
+    },
+    "por_ciudad_ny": [
+      {
+        "ciudad": "New York City (NYC Metro)",
+        "salario_medio": "$85,990",
+        "top_earners": "$120,000+",
+        "source": "BLS / Glassdoor"
+      },
+      {
+        "ciudad": "Long Island (Nassau-Suffolk)",
+        "salario_medio": "$82,450",
+        "top_earners": "$115,000",
+        "source": "BLS"
+      },
+      {
+        "ciudad": "Westchester-Rockland",
+        "salario_medio": "$78,200",
+        "top_earners": "$108,000",
+        "source": "BLS"
+      },
+      {
+        "ciudad": "Albany-Schenectady-Troy",
+        "salario_medio": "$62,400",
+        "top_earners": "$88,500",
+        "source": "BLS"
+      },
+      {
+        "ciudad": "Buffalo-Cheektowaga-Niagara Falls",
+        "salario_medio": "$58,900",
+        "top_earners": "$82,000",
+        "source": "BLS"
+      },
+      {
+        "ciudad": "Syracuse",
+        "salario_medio": "$56,700",
+        "top_earners": "$79,500",
+        "source": "BLS"
+      }
+    ],
+    "ingresos_reales": {
+      "ai_generated": true,
+      "nota": "En NYC y sus alrededores, los electricistas sindicalizados (IBEW) ganan significativamente más que el promedio del BLS. El paquete total de compensación incluye:",
+      "factores_adicionales": [
+        "IBEW Local 3 NYC: ~$55-65/hr base + beneficios (total package $100+/hr)",
+        "Overtime: tiempo y medio después de 8hrs/día en NYC (muy común en proyectos grandes)",
+        "Prevailing Wage en proyectos públicos y gubernamentales (obligatorio en NYC)",
+        "Trabajo nocturno y fines de semana: premium pay significativo",
+        "Beneficios sindicales: seguro médico completo, pensión, anualidad, fondo de vacaciones",
+        "Proyectos especiales: data centers, hospitales, rascacielos pagan premium",
+        "NYC tiene la tasa de sindicalización más alta del país para electricistas"
+      ],
+      "estimado_realista": {
+        "apprentice_primer_año": "Apprentice 1er año (IBEW): $50,000 - $60,000/año con beneficios",
+        "apprentice_ultimo_año": "Apprentice 5to año (IBEW): $75,000 - $85,000/año con beneficios",
+        "journeyman_union": "Journeyman (IBEW Local 3): $100,000 - $130,000/año con beneficios completos",
+        "journeyman_non_union": "Journeyman (non-union): $65,000 - $85,000/año",
+        "master_empleado": "Master Electrician (empleado): $90,000 - $120,000/año",
+        "master_negocio_propio": "Master Electrician con negocio propio: $120,000 - $250,000+/año"
+      }
+    }
+  },
+  "errores_comunes": {
+    "ai_generated": false,
+    "items": [
+      {
+        "error": "Pensar que New York tiene licencia ESTATAL de electricista",
+        "por_que_importa": "Muchos piensan que al obtener una licencia en una ciudad de New York, pueden trabajar en todo el estado. NO es así. El licenciamiento es LOCAL. Una licencia de Master Electrician de NYC solo te autoriza a trabajar en NYC. Para trabajar en Westchester, Nassau, Buffalo, etc., necesitas licencias SEPARADAS de cada jurisdicción.",
+        "solucion": "Investiga los requisitos de CADA jurisdicción donde planeas trabajar. NYC es la más conocida, pero Westchester, Nassau County, Suffolk County y muchas otras ciudades tienen sus propios requisitos."
+      },
+      {
+        "error": "No documentar las 10,500 horas de experiencia correctamente",
+        "por_que_importa": "NYC DOB es extremadamente estricto con la verificación de experiencia. Necesitas 7.5 años (10,500 horas) dentro de los últimos 10 años. Si tu experiencia es antigua o no está bien documentada, será rechazada. El DOB verifica cada referencia.",
+        "solucion": "Documenta tu experiencia desde el día 1. Pide a cada empleador (Master Electrician licenciado) que firme verificaciones detalladas de horas, tipo de trabajo, y periodos. Guarda pay stubs, W-2s, y cartas de empleo. Si trabajaste fuera de NYC, asegúrate de que la documentación sea verificable."
+      },
+      {
+        "error": "Subestimar los exámenes del DOB (escrito + práctico)",
+        "por_que_importa": "Los exámenes de Master/Special Electrician de NYC son de los más difíciles del país. El examen escrito cubre el NYC Electrical Code (que tiene requisitos ADICIONALES al NEC nacional). El examen práctico es hands-on y requiere habilidades reales de conduit bending, connections, etc.",
+        "solucion": "Invierte en un curso de preparación profesional (The Electrical Training Course en electricaltraining.com es el más reconocido para NYC). Estudia el NYC Electrical Code, no solo el NEC. Practica conduit bending y lectura de planos."
+      },
+      {
+        "error": "No unirse a un sindicato (IBEW Local 3) cuando es posible",
+        "por_que_importa": "En NYC, los electricistas sindicalizados ganan 40-60% más que los non-union. IBEW Local 3 ofrece: salario base ~$55-65/hr, seguro médico completo, pensión, anualidad, programa de aprendizaje gratuito de 5 años. Si trabajas non-union, puedes ganar $35-45/hr sin beneficios comparables.",
+        "solucion": "Aplica al programa de aprendizaje de IBEW Local 3 si estás empezando. Si ya tienes experiencia, pregunta sobre la posibilidad de organizar (join the union). La diferencia en compensación total a lo largo de tu carrera puede ser de MILLONES de dólares."
+      },
+      {
+        "error": "No presupuestar los altos costos de licenciamiento en NYC",
+        "por_que_importa": "Obtener la Master Electrician license en NYC cuesta casi $2,000 solo en tarifas del DOB (exámenes + background + emisión). Más cursos de preparación ($1,000-$3,000), materiales de estudio ($200-$500), y la renovación anual de $400 + CE ($150-400). Es una inversión significativa.",
+        "solucion": "Planifica financieramente. El costo total puede ser $3,000-$5,000+. Pero el retorno es enorme: Master Electricians en NYC ganan $120,000-$250,000+/año. La licencia se paga sola en meses."
+      },
+      {
+        "error": "Renovar tarde la licencia anual",
+        "por_que_importa": "La licencia de NYC vence anualmente en tu cumpleaños. Si la dejas vencer, no puedes sacar permisos ni trabajar legalmente. Si vence por mucho tiempo, podrías tener que reaplicar desde cero.",
+        "solucion": "Pon un recordatorio 2 meses antes de tu cumpleaños cada año. La renovación cuesta $400 + 8 horas de CE. Completa la CE con anticipación para no tener prisa."
+      }
+    ]
+  },
+  "servicios_sin_licencia": {
+    "ai_generated": false,
+    "titulo": "Trabajos Eléctricos que NO Requieren Licencia en NYC",
+    "items": [
+      "Cambiar focos, lámparas o bombillas",
+      "Enchufar o desenchufar aparatos eléctricos",
+      "Trabajo menor en tu PROPIA residencia como homeowner (con limitaciones)",
+      "Bajo voltaje: telecomunicaciones, datos, alarmas (pueden requerir otros permisos)"
+    ],
+    "requiere_licencia": [
+      "Cualquier instalación eléctrica nueva que requiera permiso del DOB",
+      "Alterar o reparar cableado eléctrico existente por pago",
+      "Trabajo en edificios comerciales, industriales o residenciales multifamiliares",
+      "Instalación de paneles, circuitos, o servicios eléctricos",
+      "Sacar permisos eléctricos del DOB (solo Master Electrician puede)",
+      "Trabajo eléctrico en espacios públicos o edificios del gobierno"
+    ],
+    "nota": "NYC tiene regulaciones eléctricas más estrictas que muchos otros lugares. El NYC Electrical Code tiene requisitos ADICIONALES al NEC nacional. Siempre verifica con el DOB antes de hacer trabajo eléctrico.",
+    "source": "NYC Administrative Code Chapter 30"
+  },
+  "faqs": {
+    "ai_generated": "partial",
+    "items": [
+      {
+        "pregunta": "¿New York tiene licencia estatal de electricista?",
+        "respuesta": "No. New York NO tiene una licencia estatal de electricista. El licenciamiento es a nivel local (ciudad, pueblo, condado). NYC tiene su propio sistema a través del Department of Buildings (DOB). Otras ciudades como Yonkers, White Plains, Buffalo, etc. tienen sus propios requisitos. Cada jurisdicción es independiente.",
+        "source": "NYC DOB / NY DOS"
+      },
+      {
+        "pregunta": "¿Cuánto tiempo se necesita para ser Master Electrician en NYC?",
+        "respuesta": "Mínimo 7.5 años (10,500 horas) de experiencia en instalación, alteración y reparación de cableado eléctrico, dentro de los 10 años previos a tu aplicación. El camino típico es: 5 años de aprendizaje + 2.5 años adicionales como journeyman. Después debes aprobar un examen escrito y uno práctico del DOB.",
+        "source": "NYC DOB"
+      },
+      {
+        "pregunta": "¿Cuánto cuesta la licencia de Master Electrician en NYC?",
+        "respuesta": "Las tarifas del DOB suman ~$1,915: examen escrito $525 + examen práctico $530 + background investigation $500 + emisión de licencia $360. Adicional: cursos de preparación $1,000-$3,000, materiales $200-$500. Total realista: $3,000-$5,000+. La renovación anual es $400 + 8 horas CE ($150-$400).",
+        "source": "NYC DOB"
+      },
+      {
+        "pregunta": "¿El examen de electricista en NYC está disponible en español?",
+        "respuesta": "No. Los exámenes del DOB para Master y Special Electrician se administran únicamente en inglés. NYC requiere que los solicitantes sepan 'leer y escribir en inglés' como requisito de elegibilidad. Sin embargo, hay cursos de preparación bilingües disponibles en NYC dada la gran comunidad hispanohablante.",
+        "source": "NYC DOB"
+      },
+      {
+        "pregunta": "¿Cuánto gana un electricista en NYC?",
+        "respuesta": "El promedio en el área metropolitana de NYC es ~$86,000/año. Los electricistas sindicalizados (IBEW Local 3) ganan ~$55-65/hr base + beneficios completos (seguro médico, pensión, anualidad). El paquete total de compensación supera los $100/hr. Con overtime, muchos journeyman IBEW ganan $120,000-$130,000+ al año. Los Master Electricians con negocio propio pueden ganar $150,000-$250,000+.",
+        "source": "BLS / IBEW Local 3"
+      },
+      {
+        "pregunta": "¿Vale la pena unirse al IBEW Local 3 en NYC?",
+        "respuesta": "Absolutamente. IBEW Local 3 es uno de los mejores sindicatos de electricistas del país. Beneficios: programa de aprendizaje gratuito de 5 años (te pagan mientras aprendes), salario journeyman ~$55-65/hr, seguro médico completo para ti y tu familia, pensión garantizada, anualidad (como 401k), fondo de vacaciones pagadas. La diferencia de compensación total vs non-union puede ser de $2-3 MILLONES de dólares a lo largo de tu carrera.",
+        "source": "IBEW Local 3"
+      },
+      {
+        "pregunta": "¿Mi licencia de Master Electrician de NYC sirve en otros estados?",
+        "respuesta": "No directamente. La licencia de NYC solo es válida dentro de los límites de la ciudad de New York (5 boroughs). No es válida en Westchester, Long Island, New Jersey, Connecticut ni ningún otro estado. Cada jurisdicción tiene sus propios requisitos. Sin embargo, tu experiencia documentada SÍ puede contar para cumplir requisitos de otras jurisdicciones.",
+        "source": "NYC DOB"
+      },
+      {
+        "pregunta": "¿Qué es la diferencia entre Master y Special Electrician en NYC?",
+        "respuesta": "Master Electrician puede trabajar como contratista independiente en CUALQUIER edificio o propiedad de NYC. Puede tener su propia compañía, sacar permisos, y firmar contratos. Special Electrician solo puede trabajar en edificios o propiedades ESPECÍFICAS designadas en su licencia (como electricista de mantenimiento de un hospital, universidad, etc.). Los requisitos de experiencia son iguales (7.5 años), pero el scope de trabajo es diferente.",
+        "source": "NYC DOB"
+      }
+    ]
+  },
+  "links_oficiales": {
+    "ai_generated": false,
+    "items": [
+      {
+        "nombre": "NYC DOB - Master & Special Electrician License",
+        "url": "https://www.nyc.gov/site/buildings/industry/obtain-a-master-and-special-electrician-license.page",
+        "descripcion": "Página principal para obtener licencia de electricista en NYC"
+      },
+      {
+        "nombre": "NYC DOB - Electrician License Renewal",
+        "url": "https://www.nyc.gov/site/buildings/industry/master-and-special-electricians-license-renewal.page",
+        "descripcion": "Información y portal para renovar licencia de electricista NYC"
+      },
+      {
+        "nombre": "DOB NOW Portal (Aplicaciones en línea)",
+        "url": "https://a810-dobnow.nyc.gov/publish/#!/",
+        "descripcion": "Portal en línea del DOB para todas las aplicaciones y renovaciones"
+      },
+      {
+        "nombre": "NYC DOB - License Checklists (PDF)",
+        "url": "https://www.nyc.gov/assets/buildings/pdf/elec_lic_checklists.pdf",
+        "descripcion": "Checklist oficial de documentos necesarios para aplicar"
+      },
+      {
+        "nombre": "Verificar Licencia de Electricista NYC",
+        "url": "https://a810-bisweb.nyc.gov/bisweb/bispi00.jsp",
+        "descripcion": "Buscar si alguien tiene licencia vigente de electricista en NYC"
+      },
+      {
+        "nombre": "NY DOS - Master Electrician Waiver",
+        "url": "https://dos.ny.gov/master-electrician-waiver",
+        "descripcion": "Información sobre waiver estatal para municipios (no NYC)"
+      },
+      {
+        "nombre": "IBEW Local 3 - NYC Electricians Union",
+        "url": "https://www.local3ibew.org/",
+        "descripcion": "Sindicato de electricistas más grande de NYC - programas de aprendizaje"
+      },
+      {
+        "nombre": "The Electrical Training Course",
+        "url": "https://electricaltraining.com/",
+        "descripcion": "Escuela de preparación para exámenes de Master/Special Electrician NYC"
+      },
+      {
+        "nombre": "NYC Electrical Code",
+        "url": "https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-208099",
+        "descripcion": "Código eléctrico oficial de NYC (base del examen)"
+      },
+      {
+        "nombre": "BLS - Datos de Empleo Electricistas",
+        "url": "https://www.bls.gov/oes/current/oes472111.htm",
+        "descripcion": "Salarios oficiales y proyecciones de empleo para electricistas"
+      }
+    ]
+  },
+  "content_generation_rules": {
+    "tono": "Técnico pero accesible y motivador. Enfocado en las oportunidades únicas de NYC (salarios premium, sindicato fuerte, proyectos masivos).",
+    "persona": "Master Electrician de NYC con experiencia en el riguroso proceso del DOB",
+    "reglas": [
+      "Clarificar que NY NO tiene licencia estatal - es TODO local",
+      "Enfatizar los salarios PREMIUM de NYC, especialmente IBEW Local 3",
+      "Explicar la diferencia entre Master y Special Electrician",
+      "Mencionar que el proceso en NYC es de los más largos (7.5 años) pero el retorno es enorme",
+      "Destacar los beneficios del sindicato (IBEW Local 3) como una de las mejores oportunidades",
+      "Mencionar que el examen es solo en inglés - no hay opción español",
+      "Explicar que la licencia de NYC NO aplica fuera de los 5 boroughs"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+
+> chambaenusa-v2@2.0.0 dev
+> next dev
+
+  ▲ Next.js 14.2.18
+  - Local:        http://localhost:3000
+  - Environments: .env.local
+
+ ✓ Starting...
+ ✓ Ready in 2.3s
+ ○ Compiling / ...
+ ✓ Compiled / in 2.2s (504 modules)
+ GET / 200 in 2429ms
+ ✓ Compiled in 392ms (252 modules)
+ ✓ Compiled /oficio/[slug] in 412ms (492 modules)
+ GET /oficio/electricista 200 in 872ms
+[?25h

@@ -1,0 +1,711 @@
+{
+  "_meta": {
+    "schema_version": "2.0",
+    "page_id": "licencia-cosmetologia-texas",
+    "oficio": "cosmetologia",
+    "estado": "texas",
+    "last_verified": "2026-02-09",
+    "verified_by": "Claude - fuentes oficiales TDLR, PSI, BLS",
+    "notes": "Página #1 en impresiones del sitio (4,793). CTR actual 0.73% - objetivo 3%+"
+  },
+  "page_seo": {
+    "title": "Licencia de Cosmetología en Texas 2026: Costos, Examen en Español y Escuelas",
+    "meta_description": "Obtén tu licencia de cosmetología en Texas. 1,000 horas de escuela, examen escrito ($55) + práctico ($76) disponibles en español. Guía paso a paso para hispanas.",
+    "slug": "licencia-cosmetologia-texas",
+    "canonical_url": "https://chambaenusa.com/licencia-cosmetologia-texas/",
+    "h1": "Licencia de Cosmetología en Texas",
+    "schema_types": [
+      "HowTo",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "keywords_primary": [
+      "licencia de cosmetologia en texas",
+      "licencia de cosmetologia",
+      "licencia de estetica"
+    ],
+    "keywords_secondary": [
+      "tdlr cosmetologia",
+      "tdlr que es",
+      "tdlr en español",
+      "licencia cosmetologia texas requisitos",
+      "licencia de esteticista en texas",
+      "licencia de cosmetología en texas"
+    ],
+    "keywords_long_tail": [
+      "como sacar la licencia de cosmetologia en texas",
+      "escuelas de cosmetologia en texas en español",
+      "cuanto cuesta la licencia de cosmetologia en texas",
+      "examen de cosmetologia en español texas",
+      "tdlr cosmetology en español",
+      "curso de operador de cosmetologia"
+    ],
+    "keywords_from_gsc": {
+      "_note": "Queries reales de Search Console con impresiones para esta página",
+      "queries": [
+        {
+          "q": "licencia de cosmetologia",
+          "impressions": 578
+        },
+        {
+          "q": "licencia de estetica",
+          "impressions": 285
+        },
+        {
+          "q": "tdlr que es",
+          "impressions": 94
+        },
+        {
+          "q": "curso de operador de cosmetologia",
+          "impressions": 78
+        },
+        {
+          "q": "que significa tdlr",
+          "impressions": 74
+        },
+        {
+          "q": "tdlr en español",
+          "impressions": 61
+        },
+        {
+          "q": "licencia de cosmetología",
+          "impressions": 29
+        },
+        {
+          "q": "licencia cosmetologia",
+          "impressions": 15
+        },
+        {
+          "q": "licencia de esteticista en texas",
+          "impressions": 13
+        },
+        {
+          "q": "licencia de cosmetología en texas",
+          "impressions": 13
+        },
+        {
+          "q": "tdlr cosmetology en español",
+          "impressions": 13
+        }
+      ]
+    }
+  },
+  "hero": {
+    "ai_generated": false,
+    "badge": "Guía Verificada 2026",
+    "headline": "Licencia de Cosmetología en Texas",
+    "subheadline": "Todo lo que necesitas para obtener tu licencia de cosmetología, estética o uñas en Texas. Examen disponible en español.",
+    "key_stats": [
+      {
+        "label": "Horas de Escuela",
+        "value": "1,000",
+        "detail": "para Cosmetology Operator",
+        "source": "https://www.tdlr.texas.gov/barbering-and-cosmetology/individuals/apply-cosmetologist.htm",
+        "source_name": "TDLR"
+      },
+      {
+        "label": "Costo Total Estimado",
+        "value": "~$181",
+        "detail": "aplicación ($50) + examen escrito ($55) + examen práctico ($76)",
+        "source": "TDLR + PSI CIB",
+        "source_name": "TDLR / PSI"
+      },
+      {
+        "label": "Salario Promedio",
+        "value": "$35,250/año",
+        "detail": "Mediana nacional 2024. Con propinas + independiente = mucho más",
+        "source": "https://www.bls.gov/ooh/personal-care-and-service/barbers-hairstylists-and-cosmetologists.htm",
+        "source_name": "BLS May 2024"
+      },
+      {
+        "label": "Examen en Español",
+        "value": "✅ Sí, sin costo extra",
+        "detail": "Examen escrito disponible en español y vietnamita",
+        "source": "PSI Candidate Information Bulletin - TDLR Cosmetology",
+        "source_name": "PSI / TDLR"
+      }
+    ],
+    "cta_primary": {
+      "text": "Ver Tipos de Licencia",
+      "anchor": "#roadmap"
+    },
+    "cta_secondary": {
+      "text": "¿Cuánto Cuesta Todo?",
+      "anchor": "#calculadora"
+    }
+  },
+  "callout_espanol": {
+    "ai_generated": true,
+    "type": "highlight_box",
+    "icon": "💇‍♀️",
+    "title": "¿Hablas español? El examen escrito está disponible en español.",
+    "content": "El examen escrito de cosmetología del TDLR (administrado por PSI) está disponible en español y vietnamita sin costo adicional. Debes indicar tu preferencia de idioma al registrarte con PSI o hablando con un representante. El examen práctico se evalúa por demostración de habilidades, no por idioma. Muchas escuelas de cosmetología en Texas también ofrecen instrucción en español.",
+    "source": "PSI Candidate Information Bulletin - Cosmetology Operator",
+    "source_name": "PSI / TDLR"
+  },
+  "autoridad_reguladora": {
+    "ai_generated": false,
+    "nombre": "Texas Department of Licensing and Regulation (TDLR)",
+    "programa": "Barbering and Cosmetology",
+    "nota_consolidacion": "Desde 2021 (HB 1560), los programas de barbería y cosmetología están consolidados bajo TDLR",
+    "direccion": {
+      "calle": "920 Colorado St.",
+      "ciudad": "Austin",
+      "estado": "TX",
+      "cp": "78701",
+      "mailing": "P.O. Box 12157, Austin, TX 78711"
+    },
+    "telefono": {
+      "local": "(512) 463-6599",
+      "toll_free": "(800) 803-9202",
+      "tdd": "(800) 735-2989"
+    },
+    "email": "cosmetology@tdlr.texas.gov",
+    "web": "https://www.tdlr.texas.gov/barbering-and-cosmetology/",
+    "verificar_licencia": "https://www.tdlr.texas.gov/LicenseSearch/",
+    "source": "https://www.tdlr.texas.gov/barbering-and-cosmetology/"
+  },
+  "roadmap": {
+    "_description": "Tipos de licencia de cosmetología - mostrar como cards o grid, NO como timeline lineal (a diferencia de electricista, aquí son caminos paralelos)",
+    "ai_generated": false,
+    "layout": "grid",
+    "nota_general": "A diferencia de electricista (donde hay una escalera lineal), en cosmetología puedes elegir el camino que más te interese desde el inicio.",
+    "tipos": [
+      {
+        "id": "cosmetology_operator",
+        "titulo_en": "Cosmetology Operator",
+        "titulo_es": "Operadora de Cosmetología",
+        "es_principal": true,
+        "color_badge": "#EC4899",
+        "descripcion_corta": "La licencia más completa. Te permite hacer cabello, piel, uñas y maquillaje.",
+        "scope_of_work": "Corte, color, peinado, cuidado de piel, uñas, maquillaje y todos los servicios de cosmetología",
+        "requisitos": {
+          "edad_minima": 17,
+          "educacion_previa": "High school diploma o GED",
+          "horas_escuela": 1000,
+          "horas_alternativa": "Puedes tomar el examen escrito después de completar 900 de las 1,000 horas",
+          "horas_online_max": 250,
+          "horas_online_nota": "Máximo 250 horas pueden ser online (teoría). El resto debe ser presencial.",
+          "escuela_aprobada": "Debe ser una escuela de cosmetología/barbería licenciada por TDLR"
+        },
+        "examen": {
+          "partes": 2,
+          "parte_1": {
+            "nombre": "Written Exam (Examen Escrito)",
+            "formato": "Opción múltiple por computadora",
+            "costo": 55,
+            "idiomas": [
+              "Inglés",
+              "Español",
+              "Vietnamita",
+              "Coreano",
+              "Chino simplificado"
+            ],
+            "puntaje_minimo": "70%",
+            "cuando_tomarlo": "Después de completar 900 de las 1,000 horas",
+            "contenido_principal": [
+              "Cabello y cuero cabelludo (40%)",
+              "Control de infecciones/sanidad (28%)",
+              "Leyes y reglas de Texas",
+              "Cuidado de piel",
+              "Cuidado de uñas"
+            ],
+            "ubicaciones": "22+ ubicaciones PSI en Texas: Abilene, Amarillo, Arlington, Austin, Corpus Christi, Dallas, El Paso, Fort Worth, Harlingen, Houston, Lubbock, Midland, San Antonio y más",
+            "e_exam": "Disponible como E-Exam (examen en línea supervisado) desde junio 2022"
+          },
+          "parte_2": {
+            "nombre": "Practical Exam (Examen Práctico)",
+            "formato": "Demostración práctica con maniquí",
+            "costo": 76,
+            "puntaje_minimo": "70% (28 de 40 puntos)",
+            "cuando_tomarlo": "Después de completar TODAS las 1,000 horas Y pasar el examen escrito",
+            "ubicaciones": "Austin, San Antonio, DFW Metroplex, Greater Houston, McAllen, El Paso, Midland, Amarillo",
+            "que_llevar": [
+              "Maniquí con cabello completo",
+              "Mano de maniquí con uñas",
+              "Tijeras de corte, peines, cepillos, clips",
+              "Toallas, capas, guantes, botellas spray",
+              "Bowl de tinte, brochas aplicadoras",
+              "Limas de uñas, tips, monómero sin olor",
+              "Todos los productos DEBEN estar etiquetados en inglés",
+              "NO se permiten aerosoles"
+            ],
+            "nota_licencia_temporal": "Si pasas el examen práctico, puedes recibir una licencia temporal en el sitio del examen ese mismo día. Es válida por 21 días mientras TDLR envía tu licencia de 2 años.",
+            "idioma_nota": "El examen práctico se evalúa por demostración, las instrucciones se dan verbalmente en el sitio"
+          },
+          "administrador": "PSI",
+          "telefono_psi": "(833) 333-4741",
+          "url_psi": "https://www.psiexams.com/test-takers/tdlr/",
+          "retakes": "Puedes retomar cada examen las veces que necesites. Pagas la tarifa cada intento.",
+          "source": "https://www.tdlr.texas.gov/barbering-and-cosmetology/individuals/examinations/"
+        },
+        "costos": {
+          "aplicacion_licencia": 50,
+          "examen_escrito": 55,
+          "examen_practico": 76,
+          "total_examenes_y_licencia": 181,
+          "renovacion_cada_2_años": 53,
+          "ce_horas_cada_2_años": 4
+        },
+        "como_aplicar": {
+          "metodo": "En línea (recomendado) o por correo",
+          "url": "https://www.tdlr.texas.gov/barbering-and-cosmetology/individuals/apply-cosmetologist.htm",
+          "tiempo_procesamiento": "1-6 semanas (incluye background check)",
+          "pasos": [
+            "Completar 1,000 horas en escuela aprobada por TDLR",
+            "Pasar examen escrito (puedes tomarlo a las 900 horas)",
+            "Pasar examen práctico (después de completar todas las horas + examen escrito)",
+            "Aplicar en línea en TDLR y pagar $50",
+            "Esperar 1-6 semanas para procesamiento y background check"
+          ]
+        },
+        "source": "https://www.tdlr.texas.gov/barbering-and-cosmetology/individuals/apply-cosmetologist.htm"
+      },
+      {
+        "id": "esthetician",
+        "titulo_en": "Esthetician",
+        "titulo_es": "Esteticista",
+        "es_principal": false,
+        "color_badge": "#8B5CF6",
+        "descripcion_corta": "Especialista en cuidado de la piel: faciales, depilación, tratamientos de piel.",
+        "scope_of_work": "Cuidado facial, tratamientos de piel, depilación, maquillaje",
+        "requisitos": {
+          "edad_minima": 17,
+          "educacion_previa": "High school diploma o GED",
+          "horas_escuela": 750,
+          "escuela_aprobada": "Escuela de barbería/cosmetología licenciada por TDLR"
+        },
+        "costos": {
+          "aplicacion_licencia": 50,
+          "examen_escrito": 55,
+          "examen_practico": 76,
+          "total_examenes_y_licencia": 181
+        },
+        "combinaciones": [
+          "Manicurist/Esthetician (combinada)",
+          "Hair Weaving Specialist/Esthetician (combinada)"
+        ],
+        "como_aplicar": {
+          "url": "https://www.tdlr.texas.gov/barbering-and-cosmetology/individuals/apply-esthetician.htm"
+        },
+        "source": "https://www.tdlr.texas.gov/barbering-and-cosmetology/individuals/apply-esthetician.htm"
+      },
+      {
+        "id": "manicurist",
+        "titulo_en": "Manicurist",
+        "titulo_es": "Manicurista",
+        "es_principal": false,
+        "color_badge": "#F59E0B",
+        "descripcion_corta": "Especialista en uñas: manicure, pedicure, acrílico, gel.",
+        "scope_of_work": "Manicure, pedicure, uñas acrílicas, gel, nail art",
+        "requisitos": {
+          "edad_minima": 17,
+          "educacion_previa": "High school diploma o GED",
+          "horas_escuela": 600,
+          "escuela_aprobada": "Escuela de barbería/cosmetología licenciada por TDLR"
+        },
+        "costos": {
+          "aplicacion_licencia": 50,
+          "examen_escrito": 55,
+          "examen_practico": 76,
+          "total_examenes_y_licencia": 181
+        },
+        "como_aplicar": {
+          "url": "https://www.tdlr.texas.gov/barbering-and-cosmetology/individuals/apply-manicurist.htm"
+        },
+        "source": "TDLR"
+      },
+      {
+        "id": "eyelash_extension",
+        "titulo_en": "Eyelash Extension Specialist",
+        "titulo_es": "Especialista en Extensiones de Pestañas",
+        "es_principal": false,
+        "color_badge": "#06B6D4",
+        "descripcion_corta": "Para quienes quieren enfocarse solo en extensiones de pestañas.",
+        "horas_escuela": 320,
+        "costos": {
+          "aplicacion_licencia": 50
+        },
+        "source": "TDLR"
+      },
+      {
+        "id": "hair_weaving",
+        "titulo_en": "Hair Weaving Specialist",
+        "titulo_es": "Especialista en Tejido de Cabello",
+        "es_principal": false,
+        "color_badge": "#10B981",
+        "descripcion_corta": "Para extensiones de cabello y tejido usando químicos y adhesivos.",
+        "horas_escuela": 300,
+        "costos": {
+          "aplicacion_licencia": 50
+        },
+        "source": "TDLR"
+      },
+      {
+        "id": "class_a_barber",
+        "titulo_en": "Class A Barber",
+        "titulo_es": "Barbero Clase A",
+        "es_principal": false,
+        "color_badge": "#6366F1",
+        "descripcion_corta": "Licencia de barbero. Ahora consolidada bajo TDLR junto con cosmetología.",
+        "horas_escuela": 1000,
+        "nota": "Desde HB 1560 (2021), barbería y cosmetología están bajo el mismo programa de TDLR",
+        "source": "TDLR"
+      }
+    ]
+  },
+  "calculadora_inversion": {
+    "ai_generated": false,
+    "_description": "Componente interactivo - el usuario selecciona qué tipo de licencia quiere",
+    "escenarios": [
+      {
+        "id": "cosmetology_operator",
+        "licencia": "Cosmetology Operator (la más completa)",
+        "inversion": {
+          "escuela_rango": "$5,000 - $20,000",
+          "escuela_nota": "Varía enormemente. Escuelas comunitarias son más baratas. Programas de 8-14 meses.",
+          "examen_escrito": 55,
+          "examen_practico": 76,
+          "kit_herramientas": "~$200 - $500",
+          "kit_nota": "Maniquí, tijeras, productos. Algunas escuelas lo incluyen.",
+          "aplicacion_licencia": 50,
+          "total_minimo": "~$5,381",
+          "total_maximo": "~$20,681"
+        },
+        "tiempo": "8-14 meses (full-time) o hasta 24 meses (part-time)",
+        "salario_esperado": {
+          "empleada_salon": "$25,000 - $35,000 base + propinas",
+          "con_experiencia": "$35,000 - $55,000 + propinas",
+          "independiente_booth_rental": "$40,000 - $80,000+",
+          "nota": "Las propinas pueden agregar 15-25% a tus ingresos. No aparecen en estadísticas del BLS."
+        },
+        "roi_nota": "El costo de escuela se recupera típicamente en el primer año de trabajo. La licencia te abre la puerta a un ingreso estable con flexibilidad de horario."
+      },
+      {
+        "id": "esthetician",
+        "licencia": "Esthetician (especialista en piel)",
+        "inversion": {
+          "escuela_rango": "$4,000 - $18,000",
+          "examen_escrito": 55,
+          "examen_practico": 76,
+          "aplicacion_licencia": 50,
+          "total_minimo": "~$4,181",
+          "total_maximo": "~$18,181"
+        },
+        "tiempo": "5-10 meses",
+        "salario_esperado": {
+          "empleada": "$28,000 - $40,000",
+          "med_spa_especialista": "$35,000 - $65,000",
+          "nota": "Estheticians en med spas y clínicas dermatológicas ganan significativamente más"
+        }
+      },
+      {
+        "id": "manicurist",
+        "licencia": "Manicurist (uñas)",
+        "inversion": {
+          "escuela_rango": "$3,000 - $10,000",
+          "examen_escrito": 55,
+          "examen_practico": 76,
+          "aplicacion_licencia": 50,
+          "total_minimo": "~$3,181",
+          "total_maximo": "~$10,181"
+        },
+        "tiempo": "4-8 meses",
+        "salario_esperado": {
+          "empleada": "$22,000 - $30,000 + propinas",
+          "independiente": "$35,000 - $60,000+"
+        }
+      }
+    ]
+  },
+  "renovacion": {
+    "ai_generated": false,
+    "frecuencia": "Cada 2 años desde la fecha de emisión",
+    "metodo": "En línea en el portal de TDLR",
+    "url_renovacion": "https://www.tdlr.texas.gov/barbering-and-cosmetology/individuals/renew/",
+    "costo_renovacion": 53,
+    "ce_requerida": {
+      "menos_15_años_licencia": {
+        "horas_totales": 4,
+        "desglose": [
+          "1 hora de sanidad/higiene",
+          "3 horas de temas de cosmetología (incluye trata de personas y salud mental)"
+        ]
+      },
+      "mas_15_años_licencia": {
+        "horas_totales": 2,
+        "desglose": [
+          "1 hora de sanidad",
+          "1 hora de prevención de trata de personas"
+        ],
+        "cambio": "Efectivo desde septiembre 1, 2025"
+      },
+      "costo_cursos_ce_online": "$20 - $25 (proveedores aprobados por TDLR)",
+      "url_proveedores": "https://www.tdlr.texas.gov/barbering-and-cosmetology/individuals/continuing-education.htm"
+    },
+    "consecuencias_no_renovar": {
+      "0_90_dias": "Puedes renovar pagando 1.5x la tarifa normal",
+      "90_dias_a_18_meses": "Tarifa de renovación tardía incrementada",
+      "18_meses_a_3_años": "Debes pagar el doble de la tarifa normal",
+      "mas_3_años": "Posiblemente debas re-aplicar y retomar exámenes"
+    },
+    "nota_tdlr": "TDLR envía notificación de renovación ~60 días antes de la expiración. Pero es TU responsabilidad renovar a tiempo aunque no recibas la notificación.",
+    "source": "https://www.tdlr.texas.gov/barbering-and-cosmetology/individuals/renew/"
+  },
+  "reciprocidad": {
+    "ai_generated": false,
+    "disponible": true,
+    "nombre_proceso": "License by Equivalence (Substantial Equivalence)",
+    "requisitos": [
+      "Licencia activa en otro estado con requisitos sustancialmente equivalentes a Texas",
+      "Transcripción certificada de horas (Certified Transcript of Hours)",
+      "NO se acepta entrenamiento obtenido por apprenticeship",
+      "Tener al menos 17 años",
+      "Puede requerirse tomar exámenes de Texas"
+    ],
+    "nota": "Texas acepta reciprocidad de estados con requisitos equivalentes. No hay una lista fija de estados — TDLR evalúa caso por caso basándose en las horas y tipo de entrenamiento.",
+    "url": "https://www.tdlr.texas.gov/barbering-and-cosmetology/individuals/apply-equivalence.htm",
+    "experiencia_como_horas": "Si no cumples con las horas requeridas, puedes sustituir experiencia laboral a razón de 25 horas por mes, hasta un máximo de 300 horas",
+    "source": "TDLR / ASCP"
+  },
+  "salarios": {
+    "ai_generated": false,
+    "nota_importante": "Los datos del BLS NO incluyen propinas ni ingresos de trabajadores independientes (booth renters, dueños de salón). El ingreso real suele ser 20-40% más alto.",
+    "nacional_2024": {
+      "mediana": "$35,250",
+      "por_hora_mediana": "$16.95",
+      "percentil_10": "$11.92/hr",
+      "percentil_90": "$33.76/hr",
+      "crecimiento_proyectado": "5% (2024-2034)",
+      "source": "https://www.bls.gov/ooh/personal-care-and-service/barbers-hairstylists-and-cosmetologists.htm"
+    },
+    "texas": {
+      "promedio_anual": "$27,720",
+      "promedio_hora": "$13.18",
+      "top_earners": "$43,690/año ($21/hr)",
+      "source": "BLS / Texas Workforce Commission"
+    },
+    "por_ciudad_texas": [
+      {
+        "ciudad": "Dallas-Fort Worth",
+        "salario_medio": "$30,880",
+        "top_earners": "$54,770",
+        "source": "BLS"
+      },
+      {
+        "ciudad": "Houston",
+        "salario_medio": "$27,120",
+        "top_earners": "$43,790",
+        "source": "BLS"
+      },
+      {
+        "ciudad": "Austin",
+        "salario_medio": "$25,730",
+        "top_earners": "$42,910",
+        "source": "BLS"
+      },
+      {
+        "ciudad": "San Antonio",
+        "salario_medio": "$25,000+",
+        "source": "BLS estimates"
+      },
+      {
+        "ciudad": "El Paso",
+        "salario_medio": "$20,460",
+        "top_earners": "$29,220",
+        "source": "BLS"
+      }
+    ],
+    "ingresos_reales": {
+      "ai_generated": true,
+      "nota": "Los números del BLS cuentan solo salario base de empleados. El ingreso REAL de cosmetólogas incluye:",
+      "factores_adicionales": [
+        "Propinas (15-25% extra sobre cada servicio)",
+        "Comisiones por venta de productos",
+        "Booth rental income (independientes cobran directamente al cliente)",
+        "Servicios especiales (bodas, eventos, color avanzado)",
+        "Negocio propio (salon owner)"
+      ],
+      "estimado_realista": {
+        "recien_licenciada": "$25,000 - $35,000 (incluye propinas)",
+        "3_5_años_experiencia": "$35,000 - $55,000",
+        "especialista_o_independiente": "$50,000 - $80,000+",
+        "dueña_salon": "$60,000 - $120,000+"
+      }
+    }
+  },
+  "errores_comunes": {
+    "ai_generated": true,
+    "items": [
+      {
+        "error": "No saber que el examen escrito está en español",
+        "por_que_importa": "Muchas hispanas no saben que pueden tomar el examen escrito en español sin costo adicional. Si te sientes más cómoda en español, esto puede hacer una diferencia enorme en tu resultado.",
+        "solucion": "Al registrarte con PSI, indica que quieres el examen en español. Llama al (833) 333-4741 si necesitas ayuda."
+      },
+      {
+        "error": "Productos sin etiquetar en inglés en el examen práctico",
+        "por_que_importa": "TODOS los productos que lleves al examen práctico deben estar etiquetados en inglés. Si llevas productos con etiquetas solo en español u otro idioma, podrías perder puntos o ser descalificada.",
+        "solucion": "Verifica cada producto de tu kit antes del examen. Etiquétalos en inglés si es necesario."
+      },
+      {
+        "error": "Creer que solo necesitas la escuela para trabajar",
+        "por_que_importa": "Completar las horas de escuela no es suficiente. Debes pasar AMBOS exámenes (escrito Y práctico) y obtener tu licencia del TDLR antes de trabajar legalmente.",
+        "solucion": "Planifica: horas de escuela → examen escrito (a las 900 hrs) → completar horas → examen práctico → aplicar a TDLR."
+      },
+      {
+        "error": "Dejar vencer tu licencia y seguir trabajando",
+        "por_que_importa": "Trabajar con licencia vencida en Texas puede resultar en multas de $5,000 o más, además de la suspensión de tu licencia. TDLR hace inspecciones sin aviso.",
+        "solucion": "Pon un recordatorio 60 días antes de la expiración. La renovación es cada 2 años y solo cuesta $53 + 4 horas de CE online (~$20-25)."
+      },
+      {
+        "error": "No investigar la escuela antes de inscribirte",
+        "por_que_importa": "No todas las escuelas son iguales. Algunas cobran $20,000 por el mismo programa que un community college ofrece por $5,000. Y si la escuela no está aprobada por TDLR, tus horas no cuentan.",
+        "solucion": "Verifica que la escuela esté licenciada por TDLR. Compara costos, horarios y si ofrecen instrucción en español. Las escuelas comunitarias suelen ser más económicas."
+      },
+      {
+        "error": "Pensar que cosmetología = solo cortar cabello",
+        "por_que_importa": "La licencia de Cosmetology Operator te permite hacer cabello, piel, uñas Y maquillaje. Pero si solo te interesa una especialidad, puedes obtener una licencia más rápida (Esthetician: 750 hrs, Manicurist: 600 hrs, Eyelash: 320 hrs).",
+        "solucion": "Elige la licencia que se ajuste a tus metas. Si no estás segura, la de Cosmetology Operator es la más versátil."
+      }
+    ]
+  },
+  "faqs": {
+    "ai_generated": "partial",
+    "items": [
+      {
+        "pregunta": "¿Qué es TDLR y qué tiene que ver con mi licencia de cosmetología?",
+        "respuesta": "TDLR (Texas Department of Licensing and Regulation) es la agencia estatal que regula la cosmetología en Texas. Ellos aprueban escuelas, administran exámenes (a través de PSI), emiten licencias y hacen inspecciones. Cualquier licencia de cosmetología, estética o uñas en Texas pasa por TDLR.",
+        "source": "TDLR",
+        "seo_note": "Responde queries 'tdlr que es', 'que significa tdlr', 'tdlr en español' (229 impresiones combinadas)"
+      },
+      {
+        "pregunta": "¿Puedo tomar el examen de cosmetología en español?",
+        "respuesta": "Sí. El examen escrito de PSI para cosmetología está disponible en español, vietnamita, coreano y chino simplificado, sin costo adicional. Debes indicar tu preferencia de idioma al registrarte con PSI. El examen práctico se evalúa por demostración de habilidades.",
+        "source": "PSI CIB"
+      },
+      {
+        "pregunta": "¿Cuánto cuesta en total obtener la licencia de cosmetología?",
+        "respuesta": "Los costos directos de TDLR y PSI son $181: examen escrito ($55) + examen práctico ($76) + aplicación de licencia ($50). Adicionalmente, el costo de la escuela varía de $5,000 a $20,000 dependiendo de la institución, más $200-500 para tu kit de herramientas para el examen práctico.",
+        "source": "TDLR + PSI"
+      },
+      {
+        "pregunta": "¿Cuánto tiempo tarda obtener la licencia?",
+        "respuesta": "Las 1,000 horas de escuela típicamente toman 8-14 meses en horario de día completo, o hasta 24 meses en horario nocturno/fin de semana. Después de los exámenes, TDLR procesa tu licencia en 1-6 semanas. Pero si pasas el examen práctico, puedes recibir una licencia temporal ese mismo día que es válida por 21 días.",
+        "source": "TDLR"
+      },
+      {
+        "pregunta": "¿Puedo hacer parte del programa online?",
+        "respuesta": "Parcialmente. Texas permite hasta 250 de las 1,000 horas de forma online para materias teóricas. Las horas restantes (mínimo 750) deben completarse presencialmente en una escuela aprobada por TDLR, ya que cosmetología requiere práctica con clientes reales.",
+        "source": "TDLR regulations"
+      },
+      {
+        "pregunta": "¿Necesito una licencia diferente para abrir mi propio salón?",
+        "respuesta": "Sí. Además de tu licencia individual (Cosmetology Operator, Esthetician, etc.), necesitas una licencia de establecimiento del TDLR para operar un salón. Dato interesante: puedes ser DUEÑA de un salón sin ser cosmetóloga licenciada, pero no puedes realizar servicios sin licencia.",
+        "source": "TDLR"
+      },
+      {
+        "pregunta": "Tengo licencia de cosmetología en otro estado. ¿Puedo transferirla a Texas?",
+        "respuesta": "Posiblemente. Texas ofrece 'License by Equivalence' si los requisitos de tu estado son sustancialmente equivalentes. Necesitas una transcripción certificada de horas. Texas NO acepta entrenamiento por apprenticeship. Si te faltan horas, puedes sustituir experiencia laboral (25 hrs/mes, máximo 300 hrs). Puede que debas tomar los exámenes de Texas.",
+        "source": "TDLR"
+      },
+      {
+        "pregunta": "¿Cada cuánto debo renovar mi licencia?",
+        "respuesta": "Cada 2 años. La renovación cuesta $53 y requiere 4 horas de educación continua (CE) aprobada por TDLR, que incluye sanidad y prevención de trata de personas. Si tienes 15+ años con licencia, solo necesitas 2 horas de CE. Los cursos de CE online cuestan ~$20-25.",
+        "source": "TDLR"
+      }
+    ]
+  },
+  "servicios_sin_licencia": {
+    "ai_generated": false,
+    "_description": "Dato valioso - muchas personas no saben qué pueden hacer sin licencia",
+    "titulo": "Servicios que NO requieren licencia en Texas",
+    "items": [
+      "Trenzado de cabello natural (desde junio 2015, no requiere licencia)",
+      "Aplicación de maquillaje (sin químicos)",
+      "Peinado sin corte",
+      "Nail art (sin cortar uñas)",
+      "Spray tan",
+      "Trenzas básicas sin químicos ni adhesivos"
+    ],
+    "requiere_licencia": [
+      "Hair weaving con químicos o adhesivos (requiere Hair Weaving Specialist license)",
+      "Cualquier servicio que involucre corte, color químico, tratamientos de piel, o uñas acrílicas/gel"
+    ],
+    "source": "TDLR / HB 2717 (2015)"
+  },
+  "links_oficiales": {
+    "ai_generated": false,
+    "items": [
+      {
+        "nombre": "TDLR - Barbering and Cosmetology (página principal)",
+        "url": "https://www.tdlr.texas.gov/barbering-and-cosmetology/",
+        "descripcion": "Portal oficial del programa"
+      },
+      {
+        "nombre": "Aplicar para Cosmetology Operator",
+        "url": "https://www.tdlr.texas.gov/barbering-and-cosmetology/individuals/apply-cosmetologist.htm",
+        "descripcion": "Formulario y requisitos"
+      },
+      {
+        "nombre": "Aplicar para Esthetician",
+        "url": "https://www.tdlr.texas.gov/barbering-and-cosmetology/individuals/apply-esthetician.htm",
+        "descripcion": "Licencia de esteticista"
+      },
+      {
+        "nombre": "Información del Examen",
+        "url": "https://www.tdlr.texas.gov/barbering-and-cosmetology/individuals/examinations/",
+        "descripcion": "Detalles de exámenes, ubicaciones, CIB"
+      },
+      {
+        "nombre": "Renovar Licencia",
+        "url": "https://www.tdlr.texas.gov/barbering-and-cosmetology/individuals/renew/",
+        "descripcion": "Renovación en línea"
+      },
+      {
+        "nombre": "Educación Continua",
+        "url": "https://www.tdlr.texas.gov/barbering-and-cosmetology/individuals/continuing-education.htm",
+        "descripcion": "Requisitos CE y proveedores aprobados"
+      },
+      {
+        "nombre": "Formularios y Publicaciones",
+        "url": "https://www.tdlr.texas.gov/barbering-and-cosmetology/individuals/forms.htm",
+        "descripcion": "Todos los formularios de aplicación PDF"
+      },
+      {
+        "nombre": "Verificar una Licencia",
+        "url": "https://www.tdlr.texas.gov/LicenseSearch/",
+        "descripcion": "Buscar si alguien está licenciado"
+      },
+      {
+        "nombre": "License by Equivalence (otro estado)",
+        "url": "https://www.tdlr.texas.gov/barbering-and-cosmetology/individuals/apply-equivalence.htm",
+        "descripcion": "Transferir licencia de otro estado"
+      },
+      {
+        "nombre": "PSI - Agendar Examen",
+        "url": "https://www.psiexams.com/test-takers/tdlr/",
+        "descripcion": "Registrarse y agendar. Tel: (833) 333-4741"
+      },
+      {
+        "nombre": "BLS - Datos de Empleo Cosmetólogos",
+        "url": "https://www.bls.gov/ooh/personal-care-and-service/barbers-hairstylists-and-cosmetologists.htm",
+        "descripcion": "Salarios y proyecciones oficiales"
+      }
+    ]
+  },
+  "content_generation_rules": {
+    "tono": "Cercano, motivador, práctico. Como una amiga que ya pasó por el proceso y te cuenta todo sin rodeos. Más cálido que el tono de electricista (audiencia más joven y más femenina).",
+    "persona": "Una cosmetóloga hispana con experiencia que te guía paso a paso",
+    "reglas": [
+      "NUNCA inventar datos - si no está en los campos verificados, no ponerlo",
+      "Usar 'tú' no 'usted'",
+      "Mezclar español e inglés naturalmente: 'tu licencia de cosmetology operator', 'el examen práctico del TDLR'",
+      "No traducir: TDLR, PSI, booth rental, tips, cosmetology operator",
+      "Párrafos cortos - máximo 3-4 líneas",
+      "Enfatizar que el examen está en español - es el dato #1 más valioso para esta audiencia",
+      "Mencionar las propinas y el ingreso real vs lo que dice el BLS",
+      "Incluir la opción de licencia temporal el mismo día del examen práctico - es un dato motivador",
+      "Hablar de las diferentes rutas (full cosmetology vs esthetician vs manicurist) como OPCIONES, no como jerarquía"
+    ]
+  }
+}

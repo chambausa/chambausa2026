@@ -1,0 +1,430 @@
+{
+    "_meta": {
+        "schema_version": "2.0",
+        "page_id": "licencia-cosmetologia-florida",
+        "oficio": "cosmetologia",
+        "estado": "florida",
+        "last_verified": "2026-02-09",
+        "verified_by": "Claude - fuentes oficiales Florida DBPR",
+        "notes": "Prioridad #2 del análisis operativo. Especial enfoque en licencias 'rápidas' (Especialista)."
+    },
+    "page_seo": {
+        "title": "Licencia de Cosmetología en Florida 2026: Requisitos y Examen",
+        "meta_description": "Cómo sacar la licencia de cosmetología en Florida. Requisitos de 1,200 horas, curso de VIH/SIDA, y licencias cortas de Especialista en Uñas (240 hrs) y Faciales (260 hrs).",
+        "slug": "licencia-cosmetologia-florida",
+        "canonical_url": "https://chambaenusa.com/licencia-cosmetologia-florida/",
+        "h1": "Licencia de Cosmetología en Florida",
+        "schema_types": [
+            "HowTo",
+            "FAQPage",
+            "BreadcrumbList"
+        ],
+        "keywords_primary": [
+            "licencia de cosmetologia en florida",
+            "curso de vih sida para cosmetologia florida",
+            "licencia de especialista en uñas florida"
+        ],
+        "keywords_secondary": [
+            "examen de cosmetologia en español florida",
+            "full specialist license florida requisitos",
+            "dbpr cosmetologia en español",
+            "cuanto gana una cosmetologa en miami"
+        ],
+        "keywords_long_tail": [
+            "renovar licencia cosmetologia florida curso 10 horas",
+            "horas requeridas para cosmetologia en florida 2026",
+            "licencia de facialista florida requisitos",
+            "transferir licencia de cosmetologia a florida"
+        ]
+    },
+    "hero": {
+        "ai_generated": false,
+        "badge": "Actualizado Enero 2026",
+        "headline": "Licencia de Cosmetología y Especialista en Florida",
+        "subheadline": "Florida ofrece licencias rápidas: conviértete en Especialista en Uñas en solo 240 horas o Full Specialist en 500 horas. Examen disponible en español.",
+        "key_stats": [
+            {
+                "label": "Horas Cosmetología",
+                "value": "1,200",
+                "detail": "Para licencia completa (Pelo, Piel, Uñas)",
+                "source": "http://www.myfloridalicense.com/DBPR/cosmetology/cosmetologist-licensure-by-examination/",
+                "source_name": "FL DBPR"
+            },
+            {
+                "label": "Horas Especialista",
+                "value": "240 - 500",
+                "detail": "¡Carreras cortas! Uñas (240), Faciales (260), Full (500)",
+                "source": "http://www.myfloridalicense.com/DBPR/cosmetology/license-types/",
+                "source_name": "FL DBPR"
+            },
+            {
+                "label": "Requisito Único",
+                "value": "Curso VIH",
+                "detail": "Curso obligatorio de 4 horas de VIH/SIDA",
+                "source": "http://www.myfloridalicense.com/DBPR/cosmetology/cosmetologist-licensure-by-examination/",
+                "source_name": "FL DBPR"
+            },
+            {
+                "label": "Costo Inicial",
+                "value": "~$63.75",
+                "detail": "Tarifa de aplicación accesible",
+                "source": "http://www.myfloridalicense.com/DBPR/cosmetology/fees/",
+                "source_name": "FL DBPR"
+            }
+        ],
+        "cta_primary": {
+            "text": "Ver Licencias Cortas",
+            "anchor": "#roadmap"
+        },
+        "cta_secondary": {
+            "text": "Calcular Costos",
+            "anchor": "#calculadora"
+        }
+    },
+    "callout_espanol": {
+        "ai_generated": true,
+        "type": "info_box",
+        "icon": "ℹ️",
+        "title": "Importante: Curso de VIH/SIDA",
+        "content": "Florida es muy estricta con la salud pública. Antes de poder aplicar a CUALQUIER licencia de belleza, debes completar un curso de 4 horas sobre VIH/SIDA aprobado por el estado. Este curso se puede tomar en línea y es económico (~$15-$25).",
+        "source": "Florida DBPR",
+        "source_name": "DBPR"
+    },
+    "autoridad_reguladora": {
+        "ai_generated": false,
+        "nombre": "Florida Department of Business and Professional Regulation (DBPR)",
+        "programa": "Board of Cosmetology",
+        "direccion": {
+            "calle": "2601 Blair Stone Road",
+            "ciudad": "Tallahassee",
+            "estado": "FL",
+            "cp": "32399-0790",
+            "mailing": "PO Box 5377, Tallahassee, FL 32314-5377"
+        },
+        "telefono": {
+            "local": "(850) 487-1395",
+            "email": "No listado, usar formulario web"
+        },
+        "web": "http://www.myfloridalicense.com/DBPR/cosmetology/",
+        "verificar_licencia": "https://www.myfloridalicense.com/wl11.asp?mode=0&SID=",
+        "source": "http://www.myfloridalicense.com/DBPR/cosmetology/"
+    },
+    "roadmap": {
+        "_description": "Tipos de licencia en Florida",
+        "ai_generated": false,
+        "layout": "grid",
+        "nota_general": "En Florida, puedes sacar licencias específicas (Especialista) sin estudiar las 1,200 horas completas de cosmetología.",
+        "tipos": [
+            {
+                "id": "cosmetologist",
+                "titulo_en": "Cosmetologist",
+                "titulo_es": "Cosmetóloga (Licencia Completa)",
+                "es_principal": true,
+                "color_badge": "#be185d",
+                "descripcion_corta": "La licencia total. Permite trabajar pelo, piel y uñas.",
+                "scope_of_work": "Corte, color, químicos, faciales, maquillaje, uñas, depilación.",
+                "requisitos": {
+                    "edad_minima": 16,
+                    "educacion_previa": "Diploma de High School o GED",
+                    "horas_escuela": 1200,
+                    "curso_adicional": "Curso de 4 horas de VIH/SIDA",
+                    "escuela_aprobada": "Escuela licenciada en Florida"
+                },
+                "examen": {
+                    "partes": 1,
+                    "parte_1": {
+                        "nombre": "Written Clinical & Theory Exam",
+                        "formato": "Examen por computadora (CBT) en Pearson VUE",
+                        "costo": 31.50,
+                        "idiomas": [
+                            "Inglés",
+                            "Español"
+                        ],
+                        "puntaje_minimo": "75%",
+                        "ubicaciones": "Centros Pearson VUE en Florida"
+                    },
+                    "administrador": "Pearson VUE",
+                    "source": "http://www.myfloridalicense.com/DBPR/cosmetology/examination-information/"
+                },
+                "costos": {
+                    "aplicacion_licencia": 63.75,
+                    "examen_escrito": 31.50,
+                    "total_examenes_y_licencia": 95.25,
+                    "renovacion_cada_2_años": 45
+                }
+            },
+            {
+                "id": "full_specialist",
+                "titulo_en": "Full Specialist",
+                "titulo_es": "Especialista Completa (Uñas + Piel)",
+                "es_principal": false,
+                "color_badge": "#9333ea",
+                "descripcion_corta": "Combina uñas y esteticista. ¡Muy popular en Spas!",
+                "scope_of_work": "Manicure, pedicure, uñas acrílicas Y faciales, depilación, maquillaje. NO PELO.",
+                "requisitos": {
+                    "edad_minima": 16,
+                    "educacion_previa": "No requiere High School Diploma para la licencia (pero la escuela puede pedirlo)",
+                    "horas_escuela": 500,
+                    "horas_alternativa": "Suma de 240 hrs (uñas) + 260 hrs (faciales)"
+                },
+                "costos": {
+                    "aplicacion_licencia": 75,
+                    "examen_escrito": 0,
+                    "nota_examen": "¡NO REQUIERE EXAMEN ESTATAL! Solo examen de la escuela.",
+                    "total_examenes_y_licencia": 75
+                }
+            },
+            {
+                "id": "nail_specialist",
+                "titulo_en": "Nail Specialist",
+                "titulo_es": "Especialista en Uñas",
+                "es_principal": false,
+                "color_badge": "#db2777",
+                "descripcion_corta": "Carrera súper rápida.",
+                "requisitos": {
+                    "horas_escuela": 240,
+                    "curso_adicional": "Curso VIH/SIDA 4 horas"
+                },
+                "costos": {
+                    "aplicacion_licencia": 75,
+                    "total_examenes_y_licencia": 75
+                },
+                "nota": "Sin examen estatal. Solo aplicas tras graduarte."
+            },
+            {
+                "id": "facial_specialist",
+                "titulo_en": "Facial Specialist",
+                "titulo_es": "Especialista en Faciales (Esteticista)",
+                "es_principal": false,
+                "color_badge": "#059669",
+                "descripcion_corta": "Cuidado de la piel y maquillaje.",
+                "requisitos": {
+                    "horas_escuela": 260,
+                    "curso_adicional": "Curso VIH/SIDA 4 horas"
+                },
+                "costos": {
+                    "aplicacion_licencia": 75,
+                    "total_examenes_y_licencia": 75
+                },
+                "nota": "Sin examen estatal. Solo aplicas tras graduarte."
+            }
+        ]
+    },
+    "escuelas": {
+        "ai_generated": false,
+        "items": [
+            {
+                "id": "la_belle",
+                "name": "La Belle Beauty Academy",
+                "city": "Hialeah / Miami",
+                "phone": "(305) 558-0562",
+                "website": "https://labellebeauty.net/",
+                "is_bilingual": true,
+                "programs": [
+                    {
+                        "id": "la_belle_cosmo",
+                        "name": "Cosmetology",
+                        "duration_months": 12,
+                        "modality": "Inglés/Español"
+                    },
+                    {
+                        "id": "la_belle_full",
+                        "name": "Full Specialist",
+                        "duration_months": 6,
+                        "modality": "Inglés/Español"
+                    }
+                ]
+            },
+            {
+                "id": "nouvelle",
+                "name": "Nouvelle Institute",
+                "city": "Miami",
+                "phone": "(305) 551-9300",
+                "website": "https://nouvelleinstitute.com/",
+                "is_bilingual": true,
+                "programs": [
+                    {
+                        "id": "nouvelle_full",
+                        "name": "Full Specialist",
+                        "duration_months": 6,
+                        "modality": "Bilingüe"
+                    }
+                ]
+            },
+            {
+                "id": "beauty_academy_sf",
+                "name": "Beauty Academy of South Florida",
+                "city": "Hialeah Gardens",
+                "phone": "(305) 817-3577",
+                "website": "https://basf.edu/",
+                "is_bilingual": true,
+                "programs": [
+                    {
+                        "id": "basf_cosmo",
+                        "name": "Cosmetology",
+                        "duration_months": 12,
+                        "modality": "Bilingüe"
+                    }
+                ]
+            }
+        ]
+    },
+    "calculadora_inversion": {
+        "ai_generated": false,
+        "escenarios": [
+            {
+                "id": "cosmetologist_fl",
+                "licencia": "Cosmetóloga (1,200 horas)",
+                "inversion": {
+                    "escuela_rango": "$12,000 - $18,000",
+                    "examen_escrito": 31.50,
+                    "aplicacion_licencia": 63.75,
+                    "curso_vih": "$20",
+                    "kit_herramientas": "$500 - $900",
+                    "total_minimo": "~$12,600",
+                    "total_maximo": "~$19,000"
+                },
+                "tiempo": "9-12 meses"
+            },
+            {
+                "id": "full_specialist_fl",
+                "licencia": "Full Specialist (500 horas)",
+                "inversion": {
+                    "escuela_rango": "$5,000 - $9,000",
+                    "escuela_nota": "Incluye programas de uñas y piel combinados.",
+                    "aplicacion_licencia": 75,
+                    "curso_vih": "$20",
+                    "kit_herramientas": "$400",
+                    "total_minimo": "~$5,500",
+                    "total_maximo": "~$9,500"
+                },
+                "tiempo": "4-6 meses"
+            }
+        ]
+    },
+    "renovacion": {
+        "ai_generated": false,
+        "frecuencia": "Cada 2 años (antes del 31 de Octubre)",
+        "metodo": "En línea en MyFloridaLicense",
+        "url_renovacion": "http://www.myfloridalicense.com/DBPR/cosmetology/",
+        "costo_renovacion": 45,
+        "ce_requerida": {
+            "menos_15_años_licencia": {
+                "horas_totales": 10,
+                "desglose": [
+                    "1 hora HIV/AIDS",
+                    "3 horas Sanidad y Esterilización",
+                    "2 horas Leyes y Reglas de FL",
+                    "1 hora Químicos",
+                    "1 hora Asuntos Ambientales",
+                    "1 hora OSHA",
+                    "1 hora Workers Comp (o electiva)"
+                ]
+            },
+            "costo_cursos_ce_online": "$15 - $25 por el paquete completo de 10 horas",
+            "url_proveedores": "http://www.myfloridalicense.com/"
+        },
+        "nota_tdlr": "El curso de 10 horas es obligatorio para renovar.",
+        "source": "http://www.myfloridalicense.com/"
+    },
+    "reciprocidad": {
+        "ai_generated": false,
+        "disponible": true,
+        "nombre_proceso": "Licensure by Endorsement",
+        "requisitos": [
+            "Tener licencia ACTIVA de otro estado",
+            "Ser mayor de 16 años y tener High School Diploma",
+            "Haber completado al menos 1,200 horas de escuela DE COSMETOLOGÍA (no aprendiz)",
+            "Haber pasado un examen escrito en tu estado de origen"
+        ],
+        "nota": "Si tu licencia es de Texas (1,000 horas) o California (1,000 horas actuales), Florida te pedirá que demuestres **1 año de experiencia** licenciada para compensar las 200 horas que faltan, O tendrás que tomar clases extra. Si tienes la licencia activa por más de un año, generalmente calificas.",
+        "url": "http://www.myfloridalicense.com/DBPR/cosmetology/cosmetologist-licensure-by-endorsement/",
+        "experiencia_como_horas": "Si",
+        "source": "DBPR"
+    },
+    "salarios": {
+        "ai_generated": false,
+        "nacional_2024": {
+            "mediana": "$38,000 (Florida)",
+            "por_hora_mediana": "$18.50",
+            "percentil_10": "$25,000",
+            "percentil_90": "$60,000",
+            "crecimiento_proyectado": "Alto",
+            "source": "Indeed FL"
+        },
+        "nota_importante": "Miami y Orlando tienden a pagar mejor por el turismo."
+    },
+    "errores_comunes": {
+        "ai_generated": true,
+        "items": [
+            {
+                "error": "No tomar el curso de VIH/SIDA antes de aplicar",
+                "por_que_importa": "Es el error #1. Tu aplicación será rechazada o puesta en espera si el sistema no ve tu certificado de curso de VIH de 4 horas.",
+                "solucion": "Toma el curso online primero ($20), guarda el PDF, y luego aplica."
+            },
+            {
+                "error": "Confundir 'Full Specialist' con Cosmetóloga",
+                "por_que_importa": "La licencia de 'Full Specialist' NO te permite cortar ni pintar cabello. Solo es para piel y uñas. Si cortas pelo con esa licencia, te multarán ($500+).",
+                "solucion": "Si quieres hacer cabello, necesitas la licencia de Cosmetologist (1,200 horas)."
+            }
+        ]
+    },
+    "faqs": {
+        "ai_generated": "partial",
+        "items": [
+            {
+                "pregunta": "¿Puedo trabajar en Florida con mi licencia de New York o Texas?",
+                "respuesta": "No automáticamente. Debes aplicar por 'Endorsement'. Si tu licencia tiene menos horas que Florida (1,200), necesitas mostrar que has tenido la licencia activa por al menos un año para que te la validen.",
+                "source": "DBPR Info"
+            },
+            {
+                "pregunta": "¿El examen es en español?",
+                "respuesta": "Sí. El examen de Cosmetología (escrito) está disponible en español. Las licencias de Especialista (Uñas, Faciales) NO requieren examen estatal, solo el de la escuela.",
+                "source": "Pearson VUE"
+            },
+            {
+                "pregunta": "¿Aceptan horas de aprendiz (Apprenticeship)?",
+                "respuesta": "Florida es estricta con esto: NO acepta horas de aprendizaje para reciprocidad ni para licencia inicial de la misma manera que otros estados. Debes haber ido a una escuela licenciada.",
+                "source": "DBPR Statutes"
+            },
+            {
+                "pregunta": "¿Cuánto tiempo tarda en llegar la licencia?",
+                "respuesta": "Una vez pasas el examen, el DBPR suele procesar y emitir el número de licencia en 48 horas. La tarjeta física llega por correo en 2-3 semanas, pero puedes imprimirla online antes.",
+                "source": "MyFloridaLicense"
+            }
+        ]
+    },
+    "links_oficiales": {
+        "ai_generated": false,
+        "items": [
+            {
+                "nombre": "Sitio Oficial del Board (DBPR)",
+                "url": "http://www.myfloridalicense.com/DBPR/cosmetology/",
+                "descripcion": "Portal Oficial"
+            },
+            {
+                "nombre": "Aplicación Online",
+                "url": "https://www.myfloridalicense.com/intentions2.asp?chBoard=true&boardid=05&SID=",
+                "descripcion": "Portal de servicios DBPR"
+            },
+            {
+                "nombre": "Pearson VUE Florida",
+                "url": "https://home.pearsonvue.com/fl/cosmetology",
+                "descripcion": "Agendar examen"
+            }
+        ]
+    },
+    "content_generation_rules": {
+        "tono": "Informativo y animado, destacando las opciones de carreras cortas.",
+        "persona": "Asesor de carreras en Florida",
+        "reglas": [
+            "Enfatizar la diferencia entre Full Specialist y Cosmetologist",
+            "Recordar siempre el curso de VIH/SIDA",
+            "Mencionar que el examen es en español"
+        ]
+    },
+    "enlaces_utiles": {
+        "ai_generated": false,
+        "enlaces": []
+    }
+}

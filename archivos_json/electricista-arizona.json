@@ -1,0 +1,698 @@
+{
+  "_meta": {
+    "schema_version": "2.0",
+    "page_id": "licencia-electricista-arizona",
+    "oficio": "electricista",
+    "estado": "arizona",
+    "last_verified": "2026-02-15",
+    "verified_by": "Claude - fuentes oficiales Arizona ROC, PSI, BLS May 2024",
+    "notes": "Arizona NO tiene licencia estatal de journeyman - solo licencia de CONTRACTOR a través del ROC. Clasificaciones: R-11 (Residencial), C-11 (Comercial), CR-11 (Dual). Journeyman se maneja a nivel local/sindical. Apprenticeship a través del AZ Dept of Economic Security."
+  },
+  "page_seo": {
+    "title": "Licencia de Electricista en Arizona 2026: Guía Completa ROC, Examen y Requisitos",
+    "meta_description": "Cómo sacar la licencia de electricista en Arizona paso a paso. Contractor R-11, C-11, CR-11 del ROC, examen PSI, requisitos de experiencia y salarios actualizados 2026.",
+    "slug": "electricista-arizona",
+    "canonical_url": "https://chambaenusa.com/licencia-electricista-arizona/",
+    "h1": "Licencia de Electricista en Arizona",
+    "schema_types": ["HowTo", "FAQPage", "BreadcrumbList"],
+    "keywords_primary": [
+      "licencia de electricista en arizona",
+      "arizona ROC electrical contractor license",
+      "examen de electricista arizona"
+    ],
+    "keywords_secondary": [
+      "C-11 electrical license arizona",
+      "R-11 residential electrician arizona",
+      "cuanto gana un electricista en arizona",
+      "requisitos electricista arizona ROC"
+    ],
+    "keywords_long_tail": [
+      "como sacar la licencia de electricista en arizona",
+      "examen de electricista en español arizona",
+      "escuelas de electricidad en phoenix",
+      "cuanto cuesta la licencia de contractor electrico en arizona"
+    ]
+  },
+  "hero": {
+    "ai_generated": false,
+    "badge": "Actualizado 2026",
+    "headline": "Licencia de Electricista en Arizona",
+    "subheadline": "Arizona tiene una de las industrias de construcción de más rápido crecimiento en EE.UU. El ROC emite licencias de Electrical Contractor (R-11, C-11, CR-11) con 4 años de experiencia journeyman. Phoenix es uno de los mercados con mayor demanda de electricistas en el país.",
+    "key_stats": [
+      {
+        "label": "Apprentice",
+        "value": "Sin Licencia Estatal",
+        "detail": "Inscríbete en apprenticeship registrado (4-5 años). Arizona no requiere licencia estatal para apprentice.",
+        "source": "https://roc.az.gov/applying-for-a-license",
+        "source_name": "Arizona ROC"
+      },
+      {
+        "label": "Journeyman (Local)",
+        "value": "8,000 horas",
+        "detail": "Arizona no tiene licencia estatal de journeyman. Se certifica a nivel local o sindical después de 8,000 horas.",
+        "source": "https://roc.az.gov/applying-for-a-license",
+        "source_name": "Arizona ROC"
+      },
+      {
+        "label": "Contractor (ROC)",
+        "value": "4 años como Journeyman",
+        "detail": "R-11 (Residencial), C-11 (Comercial) o CR-11 (Dual). Examen de 2 partes.",
+        "source": "https://roc.az.gov/applying-for-a-license",
+        "source_name": "Arizona ROC"
+      },
+      {
+        "label": "Salario Phoenix",
+        "value": "$75,800/año",
+        "detail": "Promedio Phoenix metro. Arizona en general: $57,200/año",
+        "source": "https://www.bls.gov/oes/current/oes472111.htm",
+        "source_name": "BLS May 2024"
+      }
+    ],
+    "cta_primary": { "text": "Ver Pasos del Camino", "anchor": "#roadmap" },
+    "cta_secondary": { "text": "Ver Salarios", "anchor": "#salarios" }
+  },
+  "callout_espanol": {
+    "ai_generated": false,
+    "type": "highlight_box",
+    "icon": "⚡",
+    "title": "Arizona: Crecimiento explosivo = Alta demanda de electricistas",
+    "content": "Phoenix es una de las ciudades de más rápido crecimiento en EE.UU. La construcción de viviendas, data centers (Intel, TSMC, Microsoft), y proyectos de energía solar están generando una demanda masiva de electricistas. Arizona tiene costo de vida moderado comparado con California, y muchas empresas ofrecen bonos de contratación y relocation packages para atraer electricistas.",
+    "source": "https://roc.az.gov/",
+    "source_name": "Arizona ROC / BLS"
+  },
+  "autoridad_reguladora": {
+    "ai_generated": false,
+    "nombre": "Arizona Registrar of Contractors (ROC)",
+    "programa": "Electrical Contractor Licensing",
+    "direccion": {
+      "calle": "1700 West Washington Street, Suite 105",
+      "ciudad": "Phoenix",
+      "estado": "AZ",
+      "cp": "85007"
+    },
+    "telefono": {
+      "local": "(602) 542-1525",
+      "toll_free": "(877) 692-9762"
+    },
+    "email": "rocwebsite@azroc.gov",
+    "web": "https://roc.az.gov/",
+    "verificar_licencia": "https://roc.az.gov/verify-a-license",
+    "source": "https://roc.az.gov/",
+    "nota_adicional": "El ROC solo emite licencias de CONTRACTOR. Para journeyman/apprentice, contacta tu municipio local o programa de aprendizaje registrado a través del Arizona Dept. of Economic Security."
+  },
+  "roadmap": {
+    "_description": "Camino profesional del electricista en Arizona - Sistema de licencia de contractor estatal + journeyman local",
+    "ai_generated": false,
+    "layout": "timeline",
+    "nota_general": "Arizona tiene un sistema donde la licencia ESTATAL es solo para contractors (a través del ROC). No hay licencia estatal de journeyman o apprentice. El camino es: Apprenticeship registrado (4-5 años) → Journeyman (certificación local/sindical, 8,000 horas) → 4 años adicionales como journeyman → Electrical Contractor License (ROC). Algunas ciudades como Phoenix, Tucson, Mesa, etc. tienen sus propios requisitos de licencia para journeyman.",
+    "tipos": [
+      {
+        "id": "apprentice",
+        "titulo_en": "Electrical Apprentice",
+        "titulo_es": "Aprendiz de Electricista",
+        "es_principal": false,
+        "color_badge": "#3b82f6",
+        "descripcion_corta": "El primer paso. Te inscribes en un programa de aprendizaje registrado. Arizona no requiere licencia estatal para apprentice, pero sí registro en el programa.",
+        "scope_of_work": "Trabajar bajo la supervisión directa de un Journeyman o Master Electrician. Combinas trabajo práctico (OJT) con clases técnicas en salón (576+ horas de classroom).",
+        "requisitos": {
+          "edad_minima": 18,
+          "educacion_previa": "Diploma de high school o GED recomendado. Álgebra básica.",
+          "experiencia": "Ninguna",
+          "examen": "Examen de entrada al programa de aprendizaje (math, aptitude)"
+        },
+        "costos": {
+          "programa_aprendizaje": "Generalmente GRATIS o bajo costo ($500-$1,500 total por materiales en programas JATC)",
+          "herramientas": "$200-$500 (herramientas básicas)"
+        },
+        "como_aplicar": {
+          "metodo": "Inscripción en programa de aprendizaje registrado",
+          "url": "https://www.apprenticeship.gov/apprenticeship-finder",
+          "tiempo_procesamiento": "Variable - programas tienen ventanas de admisión",
+          "pasos": [
+            "Investigar programas: IBEW Local 640 (Phoenix), IEC Arizona, ABC Arizona",
+            "Aplicar durante la ventana de admisión del programa",
+            "Aprobar examen de entrada (aptitud, matemáticas)",
+            "Pasar entrevista y background check",
+            "Empezar programa de 4-5 años: 8,000 horas OJT + 576 horas classroom",
+            "Documentar todas las horas de experiencia desde el día 1"
+          ]
+        },
+        "nota": "IMPORTANTE: Arizona requiere que los aprendices estén registrados en un programa de aprendizaje a través del Arizona Dept. of Economic Security Apprenticeship Office. Esto asegura que tu experiencia será reconocida cuando apliques para journeyman o contractor.",
+        "source": "https://roc.az.gov/applying-for-a-license"
+      },
+      {
+        "id": "journeyman",
+        "titulo_en": "Journeyman Electrician",
+        "titulo_es": "Oficial Electricista (Journeyman)",
+        "es_principal": false,
+        "color_badge": "#10b981",
+        "descripcion_corta": "Nivel intermedio. Arizona NO emite licencia estatal de journeyman, pero el ROC reconoce este nivel para la aplicación de contractor. Algunas ciudades emiten licencias locales.",
+        "scope_of_work": "Realizar trabajo eléctrico bajo la supervisión general de un Electrical Contractor licenciado. Puedes trabajar de forma más independiente que un apprentice. En ciudades que emiten licencia de journeyman, puedes trabajar con más autonomía.",
+        "requisitos": {
+          "edad_minima": 18,
+          "experiencia": "8,000 horas de experiencia documentada (4-5 años de aprendizaje)",
+          "educacion": "576 horas de instrucción en salón (classroom) como parte del apprenticeship",
+          "examen": "Examen de journeyman local o sindical (varía por jurisdicción)"
+        },
+        "examen": {
+          "partes": 1,
+          "parte_1": {
+            "nombre": "Journeyman Electrician Exam (Local/Sindical)",
+            "formato": "Opción múltiple",
+            "costo": "Varía ($50-$150)",
+            "idiomas": ["Inglés"],
+            "puntaje_minimo": "70%",
+            "contenido_principal": [
+              "National Electrical Code (NEC)",
+              "Cálculos de carga eléctrica",
+              "Seguridad eléctrica y OSHA",
+              "Métodos de instalación"
+            ]
+          },
+          "source": "Varía por jurisdicción"
+        },
+        "costos": {
+          "certificacion_local": "Varía ($50-$200)",
+          "nota": "No hay tarifa estatal ya que AZ no emite licencia de journeyman."
+        },
+        "como_aplicar": {
+          "metodo": "Completar apprenticeship + examen local o sindical",
+          "pasos": [
+            "Completar 8,000 horas de OJT + 576 horas classroom en programa registrado",
+            "Tomar y aprobar examen de journeyman (administrado por tu sindicato, programa o ciudad)",
+            "Obtener certificación/licencia de journeyman de tu jurisdicción local si aplica",
+            "Empezar a acumular los 4 años como journeyman para calificar a contractor license"
+          ]
+        },
+        "nota": "Aunque Arizona no tiene licencia estatal de journeyman, el ROC RECONOCE la experiencia como journeyman para la aplicación de contractor. Necesitas 4 años de experiencia como journeyman (o equivalente) para aplicar a la licencia R-11, C-11 o CR-11.",
+        "source": "https://roc.az.gov/applying-for-a-license"
+      },
+      {
+        "id": "r11_residential",
+        "titulo_en": "R-11 Residential Electrical Contractor",
+        "titulo_es": "Contratista Eléctrico Residencial (R-11)",
+        "es_principal": false,
+        "color_badge": "#f59e0b",
+        "descripcion_corta": "Licencia del ROC para instalar y reparar sistemas eléctricos en residencias. Más accesible que la C-11 comercial.",
+        "scope_of_work": "Instalar, reparar y mantener sistemas eléctricos en viviendas residenciales (casas unifamiliares, townhouses, dúplex). NO incluye trabajo comercial ni industrial.",
+        "requisitos": {
+          "edad_minima": 18,
+          "experiencia": "4 años de experiencia como journeyman electrician (o equivalente). Debe incluir participación documentada en al menos 7 proyectos nuevos y 8 proyectos de mantenimiento.",
+          "examen": "Aprobar 2 exámenes: Arizona Statutes & Rules (SRE) + Trade Exam (R-11)",
+          "background": "Background check requerido para todos los nombrados en la aplicación",
+          "business_entity": "Debes formar una entidad de negocio (LLC, Corporation, Sole Proprietorship)"
+        },
+        "examen": {
+          "partes": 2,
+          "parte_1": {
+            "nombre": "Arizona Statutes & Rules Exam (SRE)",
+            "formato": "En línea a través de Gmetrix",
+            "costo": 61,
+            "idiomas": ["Inglés"],
+            "puntaje_minimo": "70%",
+            "contenido_principal": [
+              "Leyes de contratistas de Arizona (ARS Title 32)",
+              "Reglas del ROC",
+              "Derechos y responsabilidades del contractor",
+              "Residential Recovery Fund"
+            ]
+          },
+          "parte_2": {
+            "nombre": "R-11 Electrical Trade Exam",
+            "formato": "Opción múltiple por computadora en centros PSI o en línea",
+            "costo": 66,
+            "idiomas": ["Inglés"],
+            "puntaje_minimo": "70%",
+            "contenido_principal": [
+              "National Electrical Code (NEC) aplicado a residencias",
+              "Cálculos de carga residencial",
+              "Métodos de instalación residencial",
+              "Seguridad eléctrica",
+              "Leyes de Arizona aplicables"
+            ]
+          },
+          "alternativa_nascla": {
+            "nombre": "NASCLA Electrical Examination Program",
+            "costo": 116,
+            "nota": "Puedes tomar el examen NASCLA en lugar del trade exam del ROC. Pagado a PSI.",
+            "url": "https://www.psiexams.com/"
+          },
+          "administrador_trade": "PSI Exams",
+          "administrador_sre": "Gmetrix",
+          "source": "https://roc.az.gov/applying-for-a-license"
+        },
+        "costos": {
+          "aplicacion_roc": 180,
+          "licencia_inicial": 320,
+          "sre_exam": 61,
+          "trade_exam": 66,
+          "background_check": "~$50-75 por persona",
+          "recovery_fund": 370,
+          "bond_minimo": 4250,
+          "costo_bond_anual": "~$100-250 (depende de tu crédito)",
+          "total_estimado": "~$1,200-$1,500 (sin contar seguro)",
+          "seguro_liability": "~$300,000 mínimo requerido",
+          "renovacion_cada_2_años": "~$400-600"
+        },
+        "como_aplicar": {
+          "metodo": "En línea o presencial en el ROC",
+          "url": "https://roc.az.gov/applying-for-a-license",
+          "tiempo_procesamiento": "4-8 semanas después de completar todos los requisitos",
+          "pasos": [
+            "Formar entidad de negocio (LLC, Corp, etc.) y verificar nombre con el ROC",
+            "Aprobar Arizona Statutes & Rules Exam (SRE) en Gmetrix ($61)",
+            "Aprobar Trade Exam R-11 en PSI ($66) o NASCLA ($116)",
+            "Obtener background check para todos nombrados en la aplicación",
+            "Obtener surety bond ($4,250 mínimo para Residential con <$375K gross volume)",
+            "Obtener seguro de responsabilidad civil ($300,000 mínimo)",
+            "Completar y enviar License Application Form al ROC",
+            "Pagar application fee ($180) + license fee ($320) + Recovery Fund ($370)",
+            "Esperar aprobación del ROC"
+          ]
+        },
+        "source": "https://roc.az.gov/applying-for-a-license"
+      },
+      {
+        "id": "c11_commercial",
+        "titulo_en": "C-11 Commercial Electrical Contractor",
+        "titulo_es": "Contratista Eléctrico Comercial (C-11)",
+        "es_principal": false,
+        "color_badge": "#dc2626",
+        "descripcion_corta": "Licencia del ROC para instalar, alterar y reparar equipos eléctricos bajo 600 voltios en proyectos comerciales e industriales.",
+        "scope_of_work": "Instalar, alterar y reparar equipos y cableado eléctrico bajo 600 voltios en edificios comerciales, industriales y de oficinas. NO incluye trabajo residencial.",
+        "requisitos": {
+          "edad_minima": 18,
+          "experiencia": "4 años de experiencia como journeyman electrician (o equivalente) en trabajo comercial/industrial",
+          "examen": "Aprobar 2 exámenes: SRE + C-11 Trade Exam",
+          "background": "Background check requerido",
+          "business_entity": "Entidad de negocio requerida"
+        },
+        "examen": {
+          "partes": 2,
+          "parte_1": {
+            "nombre": "Arizona Statutes & Rules Exam (SRE)",
+            "formato": "En línea a través de Gmetrix",
+            "costo": 61,
+            "puntaje_minimo": "70%"
+          },
+          "parte_2": {
+            "nombre": "C-11 Electrical Trade Exam",
+            "formato": "Opción múltiple por computadora en centros PSI",
+            "costo": 66,
+            "puntaje_minimo": "70%",
+            "contenido_principal": [
+              "National Electrical Code (NEC) - comercial/industrial",
+              "Cálculos de carga comercial",
+              "Transformadores, motores y controles",
+              "Métodos de instalación comercial",
+              "Seguridad eléctrica OSHA"
+            ]
+          },
+          "source": "https://roc.az.gov/applying-for-a-license"
+        },
+        "costos": {
+          "aplicacion_roc": 200,
+          "licencia_inicial": 580,
+          "sre_exam": 61,
+          "trade_exam": 66,
+          "bond": "Varía por volumen de trabajo ($5,000-$20,000+)",
+          "total_estimado": "~$1,500-$2,000+ (sin contar seguro)",
+          "renovacion_cada_2_años": "~$500-800"
+        },
+        "como_aplicar": {
+          "url": "https://roc.az.gov/applying-for-a-license"
+        },
+        "source": "https://roc.az.gov/applying-for-a-license"
+      },
+      {
+        "id": "cr11_dual",
+        "titulo_en": "CR-11 Dual Electrical Contractor",
+        "titulo_es": "Contratista Eléctrico Dual (CR-11)",
+        "es_principal": true,
+        "color_badge": "#7c3aed",
+        "descripcion_corta": "La licencia más completa. Combina residencial Y comercial. Te permite trabajar en cualquier tipo de proyecto eléctrico en Arizona.",
+        "scope_of_work": "Cobertura completa: instalar, alterar y reparar sistemas eléctricos en proyectos residenciales, comerciales e industriales. Es la opción más versátil y la más recomendada si quieres maximizar tus oportunidades.",
+        "requisitos": {
+          "edad_minima": 18,
+          "experiencia": "4 años de experiencia como journeyman electrician con experiencia en AMBOS tipos de trabajo (residencial y comercial). Documentar participación en al menos 7 proyectos nuevos y 8 de mantenimiento.",
+          "examen": "Aprobar 2 exámenes: SRE + CR-11 Trade Exam (o NASCLA)",
+          "background": "Background check requerido para todos nombrados en la aplicación",
+          "business_entity": "Entidad de negocio registrada en Arizona"
+        },
+        "examen": {
+          "partes": 2,
+          "parte_1": {
+            "nombre": "Arizona Statutes & Rules Exam (SRE)",
+            "formato": "En línea a través de Gmetrix",
+            "costo": 61,
+            "idiomas": ["Inglés"],
+            "puntaje_minimo": "70%",
+            "contenido_principal": [
+              "Arizona Revised Statutes (ARS) Title 32",
+              "Reglas administrativas del ROC",
+              "Derechos del consumidor y contractor",
+              "Recovery Fund y obligaciones"
+            ]
+          },
+          "parte_2": {
+            "nombre": "CR-11 Electrical Trade Exam",
+            "formato": "Opción múltiple por computadora en centros PSI o en línea",
+            "costo": 66,
+            "idiomas": ["Inglés"],
+            "puntaje_minimo": "70%",
+            "contenido_principal": [
+              "National Electrical Code (NEC 2023) completo",
+              "Cálculos de carga residencial y comercial",
+              "Transformadores, motores y controles",
+              "Métodos de instalación y materiales",
+              "Diseño de sistemas eléctricos",
+              "Seguridad eléctrica y OSHA",
+              "Leyes de Arizona aplicables"
+            ]
+          },
+          "alternativa_nascla": {
+            "nombre": "NASCLA Electrical Examination Program",
+            "costo": 116,
+            "nota": "Puedes tomar el examen NASCLA en lugar del trade exam del ROC. Válido para R-11, C-11 y CR-11.",
+            "url": "https://www.psiexams.com/"
+          },
+          "administrador_trade": "PSI Exams",
+          "telefono_psi": "(855) 340-3908",
+          "url_psi": "https://www.psiexams.com/",
+          "administrador_sre": "Gmetrix",
+          "retakes": "Puedes retomar los exámenes. Debes pagar la tarifa nuevamente por cada intento.",
+          "source": "https://roc.az.gov/applying-for-a-license"
+        },
+        "costos": {
+          "aplicacion_roc": 200,
+          "licencia_inicial": 580,
+          "sre_exam": 61,
+          "trade_exam": 66,
+          "background_check": "~$50-75 por persona",
+          "recovery_fund": 370,
+          "bond_residencial": "$4,250 (para <$375K gross volume residencial)",
+          "bond_comercial": "Varía por volumen ($5,000-$20,000+)",
+          "seguro_liability": "$300,000 mínimo recomendado",
+          "total_estimado": "~$1,800-$2,500 (sin contar seguro anual)",
+          "renovacion_cada_2_años": "~$500-800"
+        },
+        "como_aplicar": {
+          "metodo": "En línea o presencial en el ROC",
+          "url": "https://roc.az.gov/applying-for-a-license",
+          "tiempo_procesamiento": "4-8 semanas después de completar todos los requisitos",
+          "pasos": [
+            "Formar entidad de negocio y registrar nombre con el ROC",
+            "Aprobar Arizona Statutes & Rules Exam (SRE) en Gmetrix ($61)",
+            "Aprobar CR-11 Trade Exam en PSI ($66) o NASCLA ($116)",
+            "Obtener background check para todos nombrados en la aplicación",
+            "Obtener surety bond (monto varía por clasificación y volumen de trabajo)",
+            "Obtener seguro de responsabilidad civil ($300,000+ recomendado)",
+            "Completar License Application Form con experiencia documentada",
+            "Pagar application fee ($200) + license fee ($580) + Recovery Fund ($370)",
+            "Enviar todo al ROC y esperar aprobación"
+          ]
+        },
+        "nota": "La CR-11 es la mejor inversión si planeas hacer ambos tipos de trabajo. Te abre la puerta a proyectos residenciales (casas nuevas, remodelaciones) Y comerciales (oficinas, tiendas, restaurantes). En un mercado como Phoenix, tener ambas opciones maximiza tus oportunidades.",
+        "source": "https://roc.az.gov/applying-for-a-license"
+      }
+    ]
+  },
+  "renovacion": {
+    "ai_generated": false,
+    "frecuencia": "Cada 2 años desde la fecha de emisión",
+    "metodo": "En línea a través del portal del ROC",
+    "url_renovacion": "https://roc.az.gov/",
+    "costo_renovacion": "~$400-800 (varía por clasificación)",
+    "ce_requerida": {
+      "horas_totales": 0,
+      "temas": [],
+      "nota": "Arizona NO requiere educación continua (CE) para renovar la licencia de contractor eléctrico. Sin embargo, es tu responsabilidad mantenerte al día con los cambios al NEC y las leyes de Arizona.",
+      "recomendacion": "Aunque no es obligatorio, se recomienda tomar cursos de actualización del NEC cada 3 años cuando se adopta una nueva edición."
+    },
+    "consecuencias_no_renovar": {
+      "0_a_90_dias": "Tarifa de renovación tardía (penalidad adicional)",
+      "mas_90_dias": "Licencia se vuelve inactiva - no puedes operar",
+      "mas_1_año": "Puede requerir reaplicación completa"
+    },
+    "nota_roc": "El ROC envía recordatorios de renovación. Es tu responsabilidad renovar a tiempo. Asegúrate de que tu bond y seguro estén vigentes al momento de renovar.",
+    "source": "https://roc.az.gov/licensing-fees"
+  },
+  "reciprocidad": {
+    "ai_generated": false,
+    "disponible": true,
+    "nombre_proceso": "NASCLA (National Association of State Contractors Licensing Agencies)",
+    "nota": "Arizona participa en el programa NASCLA para exámenes eléctricos. Si ya tomaste y aprobaste el NASCLA Electrical Exam en otro estado participante, tus resultados pueden transferirse a Arizona, evitando retomar el trade exam. Sin embargo, aún debes aprobar el Arizona Statutes & Rules Exam (SRE) y cumplir con todos los demás requisitos (experiencia, bond, seguro, background check).",
+    "estados_nascla": "Múltiples estados participan en NASCLA. Verifica en nascla.org si tu estado actual participa.",
+    "url": "https://roc.az.gov/applying-for-a-license",
+    "experiencia_como_horas": "Tu experiencia como journeyman en otros estados cuenta si está debidamente documentada con affidavits de empleadores.",
+    "source": "https://roc.az.gov/applying-for-a-license"
+  },
+  "salarios": {
+    "ai_generated": false,
+    "nota_importante": "Arizona, especialmente el área metropolitana de Phoenix, ha experimentado un boom de construcción masivo. La llegada de fábricas de semiconductores (TSMC, Intel), data centers, y desarrollo residencial ha elevado la demanda y los salarios de electricistas. El costo de vida es significativamente menor que California, lo que hace que el poder adquisitivo sea mayor.",
+    "nacional_2024": {
+      "mediana": "$62,350/año",
+      "por_hora_mediana": "$29.98/hr",
+      "percentil_10": "$39,430/año",
+      "percentil_90": "$106,030/año",
+      "crecimiento_proyectado": "6% (2023-2033) - Más rápido que el promedio",
+      "source": "https://www.bls.gov/oes/current/oes472111.htm"
+    },
+    "arizona": {
+      "promedio_anual": "$57,200",
+      "promedio_hora": "$27.50",
+      "top_earners": "$85,000+",
+      "source": "BLS Arizona May 2024"
+    },
+    "por_ciudad_arizona": [
+      {
+        "ciudad": "Phoenix-Mesa-Scottsdale",
+        "salario_medio": "$75,800",
+        "top_earners": "$98,000",
+        "source": "BLS / Glassdoor"
+      },
+      {
+        "ciudad": "Tucson",
+        "salario_medio": "$52,400",
+        "top_earners": "$75,000",
+        "source": "BLS"
+      },
+      {
+        "ciudad": "Prescott-Prescott Valley",
+        "salario_medio": "$49,800",
+        "top_earners": "$70,000",
+        "source": "BLS"
+      },
+      {
+        "ciudad": "Flagstaff",
+        "salario_medio": "$51,200",
+        "top_earners": "$72,000",
+        "source": "BLS"
+      },
+      {
+        "ciudad": "Yuma",
+        "salario_medio": "$47,500",
+        "top_earners": "$65,000",
+        "source": "BLS"
+      }
+    ],
+    "ingresos_reales": {
+      "ai_generated": true,
+      "nota": "El boom de construcción en Phoenix ha creado condiciones excepcionales para electricistas. Los factores que aumentan el ingreso real incluyen:",
+      "factores_adicionales": [
+        "Proyectos de semiconductores (TSMC, Intel) pagan premium wages con overtime garantizado",
+        "Data centers (Microsoft, Google, Meta) en Goodyear y Chandler necesitan electricistas constantemente",
+        "Overtime abundante en proyectos grandes (tiempo y medio después de 40hrs/semana)",
+        "Bonos de contratación ($2,000-$5,000) ofrecidos por muchas compañías",
+        "Trabajo solar (Arizona tiene sol 300+ días al año - mercado solar enorme)",
+        "Menor competencia que en California = más oportunidades de negocio propio",
+        "Sin impuesto estatal sobre la renta significativo (flat 2.5% en AZ)"
+      ],
+      "estimado_realista": {
+        "apprentice": "Apprentice: $35,000 - $48,000/año",
+        "journeyman_3_5_años": "Journeyman (3-5 años): $55,000 - $78,000/año con overtime",
+        "journeyman_especializado": "Journeyman especializado (solar/data center): $70,000 - $95,000/año",
+        "contractor_empleado": "Electrical Contractor (empleado senior): $75,000 - $100,000/año",
+        "contractor_negocio": "Contractor con negocio propio: $90,000 - $180,000+/año"
+      }
+    }
+  },
+  "errores_comunes": {
+    "ai_generated": false,
+    "items": [
+      {
+        "error": "Pensar que Arizona tiene licencia estatal de journeyman",
+        "por_que_importa": "Arizona NO emite licencia estatal de journeyman electrician. El ROC solo licencia contractors. Si tu meta es ser contratista independiente, necesitas la licencia del ROC (R-11, C-11 o CR-11). Si quieres trabajar como empleado journeyman, no necesitas licencia estatal, pero algunas ciudades requieren licencia local.",
+        "solucion": "Si quieres ser tu propio jefe, enfócate en cumplir los requisitos del ROC (4 años como journeyman + exámenes + bond + seguro + entidad de negocio). Si solo quieres trabajar como empleado, busca los requisitos de tu ciudad específica."
+      },
+      {
+        "error": "No formar la entidad de negocio ANTES de aplicar al ROC",
+        "por_que_importa": "El ROC requiere que tengas una entidad de negocio formada (LLC, Corporation, etc.) ANTES de aplicar. Muchos pierden tiempo y dinero aplicando sin tener esto listo. El nombre de tu empresa debe estar aprobado por el ROC Y registrado con la Arizona Corporation Commission.",
+        "solucion": "Paso 1: Elige un nombre de empresa. Paso 2: Verifica disponibilidad con el ROC. Paso 3: Registra la entidad con Arizona Corporation Commission (para LLC/Corp) o Secretary of State (para partnerships). Paso 4: LUEGO aplica al ROC."
+      },
+      {
+        "error": "No documentar los 7 proyectos nuevos y 8 de mantenimiento",
+        "por_que_importa": "El ROC no solo pide 4 años de experiencia - requiere documentar participación específica en al menos 7 proyectos nuevos y 8 proyectos de mantenimiento. Si no puedes demostrar esta variedad de experiencia, tu aplicación será rechazada.",
+        "solucion": "Mantén un registro detallado de cada proyecto: tipo (nuevo vs mantenimiento), dirección, descripción del trabajo, fechas, y el contractor licenciado bajo quien trabajaste. Pide affidavits firmados de tus empleadores."
+      },
+      {
+        "error": "Subestimar los costos del bond y seguro",
+        "por_que_importa": "Además de las tarifas del ROC (~$1,200-$1,500), necesitas un surety bond ($4,250+ dependiendo de tu volumen) y seguro de responsabilidad civil (~$300,000+). Muchos no presupuestan estos costos y se quedan cortos al momento de aplicar.",
+        "solucion": "Presupuesta al menos $2,000-$3,000 para el proceso completo incluyendo bond y seguro del primer año. Compara cotizaciones de varias compañías de bonds y seguros. Un buen historial crediticio te da mejores tasas en el bond."
+      },
+      {
+        "error": "No aprovechar el programa NASCLA para transferir examen",
+        "por_que_importa": "Si ya tienes licencia en otro estado que participa en NASCLA y tomaste el NASCLA electrical exam, puedes transferir tus resultados a Arizona sin retomar el trade exam. Muchos no saben esto y toman el examen innecesariamente.",
+        "solucion": "Verifica si tu estado actual participa en NASCLA. Si ya tienes resultados válidos del NASCLA electrical exam, solicita la transferencia al ROC de Arizona. Solo necesitarás tomar el SRE (leyes de Arizona)."
+      },
+      {
+        "error": "No renovar el bond y seguro junto con la licencia",
+        "por_que_importa": "Tu licencia del ROC requiere bond y seguro VIGENTES en todo momento. Si tu bond o seguro expiran (aunque tu licencia siga activa), tu licencia queda automáticamente suspendida. Trabajar con licencia suspendida puede resultar en multas y pérdida de licencia.",
+        "solucion": "Sincroniza las fechas de renovación de tu bond, seguro y licencia. Pon recordatorios automáticos 60 días antes de cada vencimiento."
+      }
+    ]
+  },
+  "servicios_sin_licencia": {
+    "ai_generated": false,
+    "titulo": "Trabajos Eléctricos que NO Requieren Licencia de Contractor en Arizona",
+    "items": [
+      "Cambiar focos, lámparas o bombillas",
+      "Enchufar o desenchufar aparatos eléctricos",
+      "Trabajo eléctrico menor en tu PROPIA casa como homeowner (con permiso si aplica)",
+      "Trabajo de bajo voltaje: telecomunicaciones, datos, seguridad (puede requerir clasificación separada del ROC)",
+      "Trabajar como empleado (journeyman/apprentice) bajo un contractor licenciado (no necesitas licencia propia del ROC)"
+    ],
+    "requiere_licencia": [
+      "Cualquier trabajo eléctrico por pago como contratista independiente",
+      "Sacar permisos eléctricos municipales",
+      "Firmar contratos de trabajo eléctrico directamente con clientes",
+      "Publicitar servicios de contratación eléctrica",
+      "Trabajo que exceda lo permitido para homeowners"
+    ],
+    "nota": "IMPORTANTE: En Arizona, trabajar como EMPLEADO de un contractor licenciado NO requiere licencia propia del ROC. Solo necesitas licencia del ROC si quieres ser CONTRATISTA INDEPENDIENTE (tu propio negocio). Verifica con tu municipio si necesitas licencia local de journeyman.",
+    "source": "Arizona Revised Statutes Title 32, Chapter 10"
+  },
+  "faqs": {
+    "ai_generated": "partial",
+    "items": [
+      {
+        "pregunta": "¿Arizona tiene licencia estatal de journeyman electrician?",
+        "respuesta": "No. Arizona NO emite licencia estatal de journeyman electrician. El ROC (Registrar of Contractors) solo emite licencias de CONTRACTOR (R-11 Residential, C-11 Commercial, CR-11 Dual). Para trabajar como journeyman empleado, no necesitas licencia estatal, aunque algunas ciudades pueden tener requisitos locales. Para ser contratista independiente, necesitas la licencia del ROC.",
+        "source": "Arizona ROC"
+      },
+      {
+        "pregunta": "¿Cuál es la diferencia entre R-11, C-11 y CR-11?",
+        "respuesta": "R-11 es solo para trabajo residencial (casas). C-11 es solo para trabajo comercial/industrial (bajo 600V). CR-11 es la dual que cubre AMBOS tipos de trabajo. Si quieres la máxima flexibilidad, la CR-11 es la mejor opción ya que te permite trabajar en cualquier tipo de proyecto sin restricciones.",
+        "source": "Arizona ROC"
+      },
+      {
+        "pregunta": "¿Cuánto cuesta obtener la licencia del ROC?",
+        "respuesta": "El costo total varía entre $1,800-$2,500+ dependiendo de la clasificación. Incluye: aplicación ($180-200) + licencia ($320-580) + SRE exam ($61) + trade exam ($66) + Recovery Fund ($370 para residencial) + bond ($4,250+ para residencial) + seguro de liability + background check. La renovación bienal es $400-800.",
+        "source": "Arizona ROC"
+      },
+      {
+        "pregunta": "¿El examen del ROC está disponible en español?",
+        "respuesta": "Los exámenes del ROC (SRE y Trade) se administran en inglés. No hay opción de español disponible actualmente. Sin embargo, hay cursos de preparación en español disponibles en el área de Phoenix. Se recomienda familiarizarse con el vocabulario técnico en inglés ya que el NEC y los códigos están en inglés.",
+        "source": "Arizona ROC / PSI"
+      },
+      {
+        "pregunta": "¿Puedo sacar la licencia del ROC con ITIN?",
+        "respuesta": "El ROC requiere identificación válida y la formación de una entidad de negocio en Arizona. Para formar un LLC o Corporation, generalmente necesitas un número de identificación fiscal (EIN del IRS, que puedes obtener con ITIN). Consulta con un contador o abogado familiarizado con negocios de contratistas para confirmar los requisitos actuales de documentación.",
+        "source": "Arizona ROC"
+      },
+      {
+        "pregunta": "¿Cuánto gana un electricista en Arizona?",
+        "respuesta": "El promedio estatal es $57,200/año. En Phoenix-Mesa-Scottsdale, el promedio sube a $75,800/año con top earners ganando $98,000+. El boom de construcción, fábricas de semiconductores (TSMC, Intel), y data centers están elevando los salarios. Arizona tiene un impuesto estatal bajo (flat 2.5%) y menor costo de vida que California, lo que aumenta tu poder adquisitivo real.",
+        "source": "BLS May 2024"
+      },
+      {
+        "pregunta": "¿Necesito un negocio para obtener la licencia del ROC?",
+        "respuesta": "Sí. A diferencia de otros estados, Arizona requiere que formes una entidad de negocio (LLC, Corporation, Sole Proprietorship o Partnership) ANTES de aplicar al ROC. También debes registrar el nombre de tu empresa con el ROC y la Arizona Corporation Commission. Esto es un requisito, no una opción.",
+        "source": "Arizona ROC"
+      },
+      {
+        "pregunta": "¿Qué es el Recovery Fund y por qué debo pagarlo?",
+        "respuesta": "El Residential Recovery Fund es un fondo estatal que protege a los consumidores contra contratistas que hagan trabajo deficiente. Si tienes clasificación residencial (R-11 o CR-11), debes pagar $370 al Recovery Fund como parte de tu aplicación. Es un pago único al momento de aplicar (no anual). Es obligatorio y no negociable.",
+        "source": "Arizona ROC"
+      }
+    ]
+  },
+  "links_oficiales": {
+    "ai_generated": false,
+    "items": [
+      {
+        "nombre": "Arizona ROC - Registrar of Contractors",
+        "url": "https://roc.az.gov/",
+        "descripcion": "Página principal del ROC - autoridad estatal para licencias de contractor"
+      },
+      {
+        "nombre": "Aplicar para Licencia del ROC",
+        "url": "https://roc.az.gov/applying-for-a-license",
+        "descripcion": "Información completa y checklist para aplicar a licencia de contractor"
+      },
+      {
+        "nombre": "Checklist de Aplicación del ROC",
+        "url": "https://roc.az.gov/get-a-license-checklist",
+        "descripcion": "Lista paso a paso de requisitos para obtener licencia"
+      },
+      {
+        "nombre": "Tarifas de Licencia del ROC",
+        "url": "https://roc.az.gov/licensing-fees",
+        "descripcion": "Todas las tarifas de aplicación, licencia y renovación"
+      },
+      {
+        "nombre": "Formularios de Licencia del ROC",
+        "url": "https://roc.az.gov/licensing-forms",
+        "descripcion": "Formularios descargables para aplicación y renovación"
+      },
+      {
+        "nombre": "Verificar Licencia de Contractor",
+        "url": "https://roc.az.gov/verify-a-license",
+        "descripcion": "Buscar si un contractor tiene licencia vigente del ROC"
+      },
+      {
+        "nombre": "PSI Exams - Arizona Trade Exams",
+        "url": "https://www.psiexams.com/",
+        "descripcion": "Sitio oficial de PSI para agendar trade exams. Tel: (855) 340-3908"
+      },
+      {
+        "nombre": "Gmetrix - Arizona SRE Exam",
+        "url": "https://www.gmetrix.net/",
+        "descripcion": "Plataforma para tomar el Arizona Statutes & Rules Exam (SRE)"
+      },
+      {
+        "nombre": "IBEW Local 640 - Phoenix",
+        "url": "https://www.ibew640.org/",
+        "descripcion": "Sindicato de electricistas de Phoenix - programa de aprendizaje"
+      },
+      {
+        "nombre": "Apprenticeship Programs Arizona",
+        "url": "https://www.apprenticeship.gov/apprenticeship-finder",
+        "descripcion": "Buscador federal de programas de aprendizaje registrados en Arizona"
+      },
+      {
+        "nombre": "Arizona Corporation Commission",
+        "url": "https://www.azcc.gov/",
+        "descripcion": "Para registrar tu entidad de negocio (LLC, Corp) en Arizona"
+      },
+      {
+        "nombre": "BLS - Datos de Empleo Electricistas",
+        "url": "https://www.bls.gov/oes/current/oes472111.htm",
+        "descripcion": "Salarios oficiales y proyecciones de empleo para electricistas"
+      }
+    ]
+  },
+  "content_generation_rules": {
+    "tono": "Técnico pero accesible y motivador. Enfocado en el boom de construcción de Arizona y las oportunidades únicas (semiconductores, data centers, solar).",
+    "persona": "Contractor eléctrico licenciado en Arizona con experiencia en el proceso del ROC",
+    "reglas": [
+      "Clarificar que Arizona NO tiene licencia estatal de journeyman - solo contractor del ROC",
+      "Explicar las 3 clasificaciones: R-11 (residencial), C-11 (comercial), CR-11 (dual)",
+      "Enfatizar el BOOM de construcción en Phoenix (TSMC, Intel, data centers)",
+      "Mencionar que necesitas entidad de negocio ANTES de aplicar",
+      "Destacar el bajo costo de vida vs California con salarios competitivos",
+      "Mencionar NASCLA como opción para transferir examen de otros estados",
+      "Enfatizar la necesidad de documentar los 7 proyectos nuevos + 8 mantenimiento"
+    ]
+  }
+}

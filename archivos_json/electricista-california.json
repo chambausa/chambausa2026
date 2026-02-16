@@ -1,0 +1,620 @@
+{
+  "_meta": {
+    "schema_version": "2.0",
+    "page_id": "licencia-electricista-california",
+    "oficio": "electricista",
+    "estado": "california",
+    "last_verified": "2026-02-09",
+    "verified_by": "Claude - fuentes oficiales DIR, CSLB, BLS 2024",
+    "notes": "California tiene certificación estatal (Trainee → Certified Electrician) Y licencia de contratista (C-10). Algunas ciudades tienen sus propios requisitos adicionales."
+  },
+  "page_seo": {
+    "title": "Licencia de Electricista en California 2026: Guía Completa Certificación y Examen",
+    "meta_description": "Cómo sacar la licencia de electricista en California paso a paso. Certified General Electrician, C-10 Contractor, requisitos DIR y CSLB actualizados 2026.",
+    "slug": "electricista-california",
+    "canonical_url": "https://chambaenusa.com/licencia-electricista-california/",
+    "h1": "Licencia de Electricista en California",
+    "schema_types": [
+      "HowTo",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "keywords_primary": [
+      "licencia de electricista en california",
+      "certificacion de electricista california",
+      "examen de electricista california"
+    ],
+    "keywords_secondary": [
+      "c-10 contractor license california",
+      "certified general electrician california",
+      "cuanto gana un electricista en california",
+      "requisitos electricista california"
+    ],
+    "keywords_long_tail": [
+      "como sacar la licencia de electricista en california",
+      "escuelas de electricidad en los angeles",
+      "horas requeridas para electricista california",
+      "examen de electricista en español california"
+    ]
+  },
+  "hero": {
+    "ai_generated": false,
+    "badge": "Actualizado 2026",
+    "headline": "Licencia de Electricista en California",
+    "subheadline": "Empieza como Trainee Electrician y avanza hasta ganar $75k-$100k+/año como Certified General Electrician. California tiene los mejores salarios del país para electricistas.",
+    "key_stats": [
+      {
+        "label": "Trainee Electrician",
+        "value": "Sin Examen",
+        "detail": "Aplicar a través de DIR. Puedes empezar a trabajar y acumular horas inmediatamente.",
+        "source": "https://www.dir.ca.gov/das/",
+        "source_name": "DIR California"
+      },
+      {
+        "label": "Certified General Electrician",
+        "value": "8,000 horas",
+        "detail": "Aproximadamente 4 años de experiencia + examen estatal",
+        "source": "https://www.dir.ca.gov/das/",
+        "source_name": "DIR California"
+      },
+      {
+        "label": "Examen",
+        "value": "Disponible en varios idiomas",
+        "detail": "Examen de certificación administrado por DIR",
+        "source": "https://www.dir.ca.gov/das/",
+        "source_name": "DIR California"
+      },
+      {
+        "label": "Salario Promedio CA",
+        "value": "$74,540/año",
+        "detail": "Promedio estatal. En San Francisco y San Jose: $90,000+",
+        "source": "https://www.bls.gov/oes/current/oes472111.htm",
+        "source_name": "BLS May 2024"
+      }
+    ],
+    "cta_primary": {
+      "text": "Ver Pasos del Camino",
+      "anchor": "#roadmap"
+    },
+    "cta_secondary": {
+      "text": "Ver Salarios",
+      "anchor": "#salarios"
+    }
+  },
+  "callout_espanol": {
+    "ai_generated": false,
+    "type": "highlight_box",
+    "icon": "⚡",
+    "title": "California: Estado con mejores salarios para electricistas",
+    "content": "California tiene los salarios más altos del país para electricistas. El salario promedio estatal es $74,540/año, pero en áreas metropolitanas como San Francisco, San Jose y Oakland, los electricistas certificados ganan $85,000-$100,000+ al año. Con overtime y trabajo especializado, muchos superan los $120,000 anuales.",
+    "source": "https://www.bls.gov/oes/current/oes472111.htm",
+    "source_name": "BLS May 2024"
+  },
+  "autoridad_reguladora": {
+    "ai_generated": false,
+    "nombre": "California Department of Industrial Relations (DIR)",
+    "programa": "Division of Apprenticeship Standards (DAS)",
+    "direccion": {
+      "calle": "2031 Howe Avenue, Suite 100",
+      "ciudad": "Sacramento",
+      "estado": "CA",
+      "cp": "95825"
+    },
+    "telefono": {
+      "local": "(916) 263-1811",
+      "toll_free": "N/A"
+    },
+    "email": "dasinfo@dir.ca.gov",
+    "web": "https://www.dir.ca.gov/das/",
+    "verificar_licencia": "https://www.dir.ca.gov/databases/das/aigstart.asp",
+    "source": "https://www.dir.ca.gov/das/",
+    "nota_adicional": "Para licencia de contratista eléctrico (C-10), contacta a CSLB: https://www.cslb.ca.gov/ | Tel: (800) 321-2752"
+  },
+  "roadmap": {
+    "_description": "Camino profesional del electricista en California - Timeline lineal de progresión",
+    "ai_generated": false,
+    "layout": "timeline",
+    "nota_general": "California tiene un sistema dual: Certificación individual (Certified Electrician) a través de DIR para trabajar como empleado, Y licencia de contratista (C-10) a través de CSLB para tener tu propio negocio. La mayoría empieza como Trainee, avanza a Certified General Electrician, y luego puede obtener la C-10 si quiere ser contratista.",
+    "tipos": [
+      {
+        "id": "trainee",
+        "titulo_en": "Trainee Electrician",
+        "titulo_es": "Aprendiz de Electricista",
+        "es_principal": false,
+        "color_badge": "#3b82f6",
+        "descripcion_corta": "El primer paso. Te permite trabajar y aprender legalmente bajo supervisión. No requiere examen.",
+        "scope_of_work": "Trabajar bajo la supervisión directa de un Certified General Electrician o Journey-level Electrician. No puedes trabajar solo.",
+        "requisitos": {
+          "edad_minima": 18,
+          "educacion_previa": "Diploma de high school o equivalente (GED)",
+          "experiencia": "Ninguna",
+          "examen": "NO requiere examen"
+        },
+        "costos": {
+          "aplicacion": 25,
+          "renovacion_cada_año": 25
+        },
+        "como_aplicar": {
+          "metodo": "En línea o por correo a través de DIR",
+          "url": "https://www.dir.ca.gov/das/",
+          "tiempo_procesamiento": "2-4 semanas",
+          "pasos": [
+            "Completar el formulario de aplicación DAS 7 (Trainee Electrician)",
+            "Presentar comprobante de diploma de high school o GED",
+            "Pagar la tarifa de $25",
+            "Esperar aprobación de DIR",
+            "¡Empezar a trabajar y documentar tus horas!"
+          ]
+        },
+        "nota": "CRÍTICO: Debes estar empleado por un contratista eléctrico con licencia (C-10) para trabajar como Trainee. Mantén registro detallado de tus horas - las necesitarás para la certificación.",
+        "source": "https://www.dir.ca.gov/das/"
+      },
+      {
+        "id": "residential",
+        "titulo_en": "Certified Residential Electrician",
+        "titulo_es": "Electricista Residencial Certificado",
+        "es_principal": false,
+        "color_badge": "#10b981",
+        "descripcion_corta": "Certificación para trabajar en instalaciones residenciales (viviendas unifamiliares y dúplex).",
+        "scope_of_work": "Instalaciones eléctricas en viviendas residenciales de 1-2 familias. No puede trabajar en comercial, industrial, ni edificios multifamiliares grandes.",
+        "requisitos": {
+          "edad_minima": 18,
+          "experiencia": "4,800 horas de experiencia documentada en trabajo residencial",
+          "educacion_alternativa": "Completar programa de aprendizaje registrado puede reducir horas requeridas",
+          "examen": "Aprobar el examen de Certified Residential Electrician"
+        },
+        "examen": {
+          "partes": 1,
+          "parte_1": {
+            "nombre": "Certified Residential Electrician Exam",
+            "formato": "Opción múltiple",
+            "costo": 100,
+            "idiomas": ["Inglés"],
+            "puntaje_minimo": "70%",
+            "cuando_tomarlo": "Después de completar 4,800 horas documentadas",
+            "contenido_principal": [
+              "California Electrical Code (basado en NEC) - aplicado a residencias",
+              "Cálculos de carga residencial",
+              "Métodos de instalación residencial",
+              "Seguridad eléctrica"
+            ]
+          },
+          "administrador": "DIR - Division of Apprenticeship Standards",
+          "url": "https://www.dir.ca.gov/das/",
+          "source": "https://www.dir.ca.gov/das/"
+        },
+        "costos": {
+          "aplicacion_licencia": 100,
+          "examen_escrito": 100,
+          "total_examenes_y_licencia": 200,
+          "renovacion_cada_2_años": 100
+        },
+        "como_aplicar": {
+          "url": "https://www.dir.ca.gov/das/"
+        },
+        "source": "https://www.dir.ca.gov/das/"
+      },
+      {
+        "id": "general",
+        "titulo_en": "Certified General Electrician",
+        "titulo_es": "Electricista General Certificado",
+        "es_principal": true,
+        "color_badge": "#f59e0b",
+        "descripcion_corta": "La certificación principal. Te permite trabajar en cualquier tipo de instalación eléctrica: residencial, comercial e industrial.",
+        "scope_of_work": "Instalaciones eléctricas en cualquier tipo de edificación: residencial, comercial, industrial. Puede trabajar sin supervisión directa como empleado de un contratista con C-10.",
+        "requisitos": {
+          "edad_minima": 18,
+          "experiencia": "8,000 horas de experiencia documentada (aproximadamente 4 años a tiempo completo)",
+          "educacion_alternativa": "Completar programa de aprendizaje registrado (apprenticeship) de 4-5 años puede cumplir los requisitos",
+          "examen": "Aprobar el examen de Certified General Electrician"
+        },
+        "examen": {
+          "partes": 1,
+          "parte_1": {
+            "nombre": "Certified General Electrician Exam",
+            "formato": "Opción múltiple",
+            "costo": 150,
+            "idiomas": ["Inglés"],
+            "puntaje_minimo": "70%",
+            "cuando_tomarlo": "Después de completar 8,000 horas documentadas",
+            "contenido_principal": [
+              "California Electrical Code (Title 24, Part 3) - basado en NEC 2023",
+              "Cálculos de carga eléctrica comercial e industrial",
+              "Métodos de instalación y materiales",
+              "Transformadores, motores y controles",
+              "Seguridad eléctrica (Cal/OSHA)",
+              "Planos y especificaciones"
+            ],
+            "ubicaciones": "Múltiples centros de prueba en California: Sacramento, Los Angeles, San Francisco, San Diego, etc."
+          },
+          "administrador": "DIR - Division of Apprenticeship Standards",
+          "telefono_psi": "(916) 263-1811",
+          "url_psi": "https://www.dir.ca.gov/das/",
+          "retakes": "Puedes retomar el examen. Debes pagar la tarifa nuevamente y esperar al menos 30 días entre intentos.",
+          "source": "https://www.dir.ca.gov/das/"
+        },
+        "costos": {
+          "aplicacion_licencia": 150,
+          "examen_escrito": 150,
+          "total_examenes_y_licencia": 300,
+          "renovacion_cada_2_años": 150
+        },
+        "como_aplicar": {
+          "metodo": "Aplicación a través de DIR después de completar requisitos",
+          "url": "https://www.dir.ca.gov/das/",
+          "tiempo_procesamiento": "4-8 semanas después de aprobar el examen",
+          "pasos": [
+            "Acumular 8,000 horas de experiencia documentada bajo un Certified General Electrician",
+            "Completar formulario DAS 8 (Application for Certification)",
+            "Presentar verificación de horas firmada por empleadores",
+            "Pagar tarifa de aplicación ($150)",
+            "Agendar y aprobar el examen estatal",
+            "Recibir certificación de DIR"
+          ]
+        },
+        "source": "https://www.dir.ca.gov/das/"
+      },
+      {
+        "id": "c10_contractor",
+        "titulo_en": "C-10 Electrical Contractor License",
+        "titulo_es": "Licencia de Contratista Eléctrico (C-10)",
+        "es_principal": false,
+        "color_badge": "#7c3aed",
+        "descripcion_corta": "Licencia de negocio para ser contratista eléctrico independiente. Permite tener tu propia compañía, contratar empleados y firmar contratos directamente con clientes.",
+        "scope_of_work": "Operar un negocio de contratación eléctrica, firmar contratos, obtener permisos, supervisar empleados, trabajar directamente con clientes y propietarios.",
+        "requisitos": {
+          "edad_minima": 18,
+          "experiencia_previa": "4 años (48 meses) de experiencia como journey-level electrician O ser Certified General Electrician por al menos 2 años",
+          "examen": "Aprobar examen de Ley y Negocios (Law & Business) Y examen técnico (C-10 Trade exam)"
+        },
+        "examen": {
+          "partes": 2,
+          "parte_1": {
+            "nombre": "Law & Business Exam",
+            "formato": "Opción múltiple por computadora",
+            "costo": 0,
+            "idiomas": ["Inglés", "Español (disponible para Law & Business)"],
+            "puntaje_minimo": "N/A (scoring pass/fail)",
+            "contenido_principal": [
+              "Leyes de contratistas de California",
+              "Gestión de negocios y contabilidad",
+              "Relaciones laborales y leyes de empleo",
+              "Seguridad y salud ocupacional (Cal/OSHA)"
+            ]
+          },
+          "parte_2": {
+            "nombre": "C-10 Electrical Trade Exam",
+            "formato": "Opción múltiple por computadora",
+            "costo": 0,
+            "idiomas": ["Inglés"],
+            "puntaje_minimo": "N/A",
+            "contenido_principal": [
+              "California Electrical Code (CEC)",
+              "Diseño y planificación de sistemas eléctricos",
+              "Estimación y cálculo de materiales",
+              "Supervisión y gestión de proyectos",
+              "Códigos de construcción aplicables"
+            ]
+          },
+          "administrador": "Contractors State License Board (CSLB)",
+          "telefono_psi": "(800) 321-2752",
+          "url_psi": "https://www.cslb.ca.gov/",
+          "costo_total_aplicacion": 450,
+          "source": "https://www.cslb.ca.gov/"
+        },
+        "costos": {
+          "aplicacion_licencia": 450,
+          "bond_requerido": 15000,
+          "costo_bond_anual": "250-500 (depende de tu crédito)",
+          "renovacion_cada_2_años": 400,
+          "total_examenes_y_licencia": "700-950 (aplicación + bond primer año)"
+        },
+        "como_aplicar": {
+          "metodo": "En línea o por correo a través de CSLB",
+          "url": "https://www.cslb.ca.gov/applicants/",
+          "tiempo_procesamiento": "8-12 semanas desde aplicación hasta examen",
+          "pasos": [
+            "Completar aplicación CSLB 13A (Contractor License Application)",
+            "Presentar verificación de 4 años de experiencia journey-level",
+            "Pagar tarifa de aplicación ($450)",
+            "Obtener Contractor License Bond de $15,000",
+            "Agendar y aprobar ambos exámenes (Law & Business + C-10 Trade)",
+            "Esperar procesamiento y emisión de licencia C-10"
+          ]
+        },
+        "nota": "Con la licencia C-10 puedes tener tu propio negocio de contratación eléctrica, pero necesitarás seguro de responsabilidad civil (liability insurance) y Workers' Compensation si tienes empleados. También debes registrar tu negocio (LLC, Corporation, etc.).",
+        "source": "https://www.cslb.ca.gov/"
+      }
+    ]
+  },
+  "renovacion": {
+    "ai_generated": false,
+    "frecuencia": "Cada 3 años para Certified Electrician | Cada 2 años para C-10 Contractor License",
+    "metodo": "En línea o por correo",
+    "url_renovacion": "https://www.dir.ca.gov/das/ (Certified) | https://www.cslb.ca.gov/ (C-10)",
+    "costo_renovacion": 150,
+    "ce_requerida": {
+      "horas_totales": 32,
+      "temas": [
+        "California Electrical Code actualizaciones",
+        "Cal/OSHA seguridad eléctrica",
+        "Nuevas tecnologías (paneles solares, vehículos eléctricos, etc.)",
+        "Códigos y regulaciones estatales"
+      ],
+      "costo_cursos_ce_online": "$100 - $300",
+      "nota": "California requiere educación continua para mantener certificación y licencias vigentes. Los cursos deben ser de proveedores aprobados.",
+      "url_proveedores": "https://www.dir.ca.gov/das/"
+    },
+    "consecuencias_no_renovar": {
+      "0_90_dias": "Tarifa normal de renovación",
+      "90_dias_a_2_años": "Tarifa de renovación tardía (hasta 2x)",
+      "mas_2_años": "Certificación/licencia expira - debes reaplicar como nueva"
+    },
+    "nota_dir": "DIR y CSLB envían recordatorios de renovación por correo y email. Es tu responsabilidad renovar a tiempo.",
+    "source": "https://www.dir.ca.gov/das/ | https://www.cslb.ca.gov/"
+  },
+  "reciprocidad": {
+    "ai_generated": false,
+    "disponible": false,
+    "nombre_proceso": "No tiene reciprocidad formal",
+    "nota": "California NO tiene acuerdos formales de reciprocidad con otros estados para certificación de electricistas. Si tienes licencia de otro estado, deberás cumplir con todos los requisitos de California (horas, examen, etc.). Sin embargo, tu experiencia documentada en otros estados SÍ puede contar para las 8,000 horas requeridas si está debidamente verificada.",
+    "url": "https://www.dir.ca.gov/das/",
+    "experiencia_como_horas": "La experiencia de otros estados puede contar si está documentada y verificada por empleadores anteriores o autoridades estatales.",
+    "source": "https://www.dir.ca.gov/das/"
+  },
+  "salarios": {
+    "ai_generated": false,
+    "nota_importante": "California tiene los salarios más altos del país para electricistas. Los datos del BLS son conservadores - muchos electricistas certificados ganan significativamente más con overtime, trabajos especializados (solar, vehículos eléctricos), y trabajo independiente.",
+    "nacional_2024": {
+      "mediana": "$60,240/año",
+      "por_hora_mediana": "$28.96/hr",
+      "percentil_10": "$37,020/año ($17.80/hr)",
+      "percentil_90": "$99,800/año ($48.00/hr)",
+      "crecimiento_proyectado": "6% (2023-2033) - Más rápido que el promedio",
+      "source": "https://www.bls.gov/oes/current/oes472111.htm"
+    },
+    "california": {
+      "promedio_anual": "$74,540",
+      "promedio_hora": "$35.84",
+      "top_earners": "$105,000+",
+      "source": "BLS California May 2024"
+    },
+    "por_ciudad_texas": [
+      {
+        "ciudad": "San Francisco-Oakland-Hayward",
+        "salario_medio": "$92,650",
+        "top_earners": "$113,480",
+        "source": "BLS"
+      },
+      {
+        "ciudad": "San Jose-Sunnyvale-Santa Clara",
+        "salario_medio": "$95,120",
+        "top_earners": "$116,950",
+        "source": "BLS"
+      },
+      {
+        "ciudad": "Los Angeles-Long Beach-Anaheim",
+        "salario_medio": "$72,840",
+        "top_earners": "$103,260",
+        "source": "BLS"
+      },
+      {
+        "ciudad": "San Diego-Carlsbad",
+        "salario_medio": "$70,950",
+        "top_earners": "$98,740",
+        "source": "BLS"
+      },
+      {
+        "ciudad": "Sacramento-Roseville-Arden-Arcade",
+        "salario_medio": "$68,450",
+        "top_earners": "$94,220",
+        "source": "BLS"
+      },
+      {
+        "ciudad": "Riverside-San Bernardino-Ontario",
+        "salario_medio": "$66,730",
+        "top_earners": "$92,850",
+        "source": "BLS"
+      }
+    ],
+    "ingresos_reales": {
+      "ai_generated": true,
+      "nota": "En California, especialmente en el Área de la Bahía y Los Angeles, los electricistas certificados con experiencia pueden ganar significativamente más que el promedio del BLS debido a:",
+      "factores_adicionales": [
+        "Prevailing Wage en proyectos públicos ($50-$75/hr)",
+        "Overtime (muy común en construcción - tiempo y medio después de 8hrs/día Y después de 40hrs/semana)",
+        "Trabajo especializado (paneles solares, estaciones de carga EV, sistemas smart home)",
+        "Uniones (IBEW) - pagan $45-$65/hr + beneficios",
+        "Llamadas de emergencia (pagan doble o triple)",
+        "Trabajos de fin de semana y días festivos (premium pay)",
+        "Trabajo como C-10 contractor independiente"
+      ],
+      "estimado_realista": {
+        "trainee": "Trainee: $35,000 - $50,000/año",
+        "certified_residential": "Certified Residential: $55,000 - $75,000/año",
+        "certified_general_3_5_años": "Certified General (3-5 años exp): $70,000 - $95,000/año",
+        "certified_general_union": "Certified General Union (IBEW): $85,000 - $120,000/año con beneficios",
+        "especialista_solar_ev": "Especialista (Solar/EV): $90,000 - $130,000/año",
+        "c10_contractor": "C-10 Contractor con negocio propio: $100,000 - $250,000+/año"
+      }
+    }
+  },
+  "errores_comunes": {
+    "ai_generated": false,
+    "items": [
+      {
+        "error": "No documentar las horas de experiencia adecuadamente",
+        "por_que_importa": "California requiere verificación estricta de las 8,000 horas. Si no tienes documentación firmada por tus empleadores (pay stubs, cartas, formularios DAS), tus horas NO contarán. Muchos llegan a los 4 años de experiencia pero no pueden aplicar porque no tienen pruebas.",
+        "solucion": "Desde el día 1, guarda todos tus pay stubs, timesheet copies, y pide a tu empleador que firme verificaciones de horas cada 6-12 meses. Usa el formulario DAS para documentar. Haz copias y guárdalas en lugar seguro."
+      },
+      {
+        "error": "Trabajar sin estar registrado como Trainee Electrician",
+        "por_que_importa": "Es ilegal trabajar en electricidad en California sin estar registrado como Trainee o tener certificación. Si DIR o un inspector te encuentra trabajando sin registro, el empleador puede recibir multas de miles de dólares, y tú NO podrás contar esas horas para tu certificación.",
+        "solucion": "Antes de empezar tu primer día de trabajo, aplica para Trainee Electrician ($25). Asegúrate que tu empleador tenga licencia C-10 vigente."
+      },
+      {
+        "error": "No inscribirse en un programa de aprendizaje (apprenticeship) registrado",
+        "por_que_importa": "Los programas de aprendizaje registrados (como los de IBEW o IEC) no solo te dan entrenamiento estructurado y clases, sino que también facilitan la documentación de horas y te preparan mejor para el examen. Además, muchos tienen salarios progresivos garantizados.",
+        "solucion": "Considera inscribirte en un apprenticeship program aprobado por DIR. Recibirás entrenamiento, educación formal, y documentación automática de tus horas. Muchos programas son sin costo y te pagan mientras aprendes."
+      },
+      {
+        "error": "Estudiar con la edición incorrecta del California Electrical Code",
+        "por_que_importa": "El examen de California se basa en la edición vigente del California Electrical Code (CEC), que se actualiza cada 3 años basándose en el NEC nacional. Si estudias con una edición antigua, fallarás preguntas porque los artículos y requisitos cambiaron.",
+        "solucion": "Antes de comprar libros o tomar clases, verifica en el sitio de DIR cuál es la edición vigente del CEC para el examen. Actualmente es CEC 2023 basado en NEC 2023."
+      },
+      {
+        "error": "Pensar que Certified Electrician es lo mismo que C-10 Contractor License",
+        "por_que_importa": "Son cosas diferentes. Certified General Electrician te permite TRABAJAR como electricista empleado. C-10 Contractor License te permite SER DUEÑO de un negocio de contratación eléctrica. Para tener tu propia compañía y firmar contratos, necesitas la C-10, no solo la certificación.",
+        "solucion": "Si tu meta es trabajar como empleado, enfócate en Certified General Electrician primero. Si quieres tener tu propio negocio, planea obtener la C-10 después de tener al menos 2 años como Certified."
+      },
+      {
+        "error": "No considerar las certificaciones de ciudad (Los Angeles, San Francisco)",
+        "por_que_importa": "Algunas ciudades grandes de California tienen sus propios requisitos adicionales de certificación para electricistas. Por ejemplo, LA City requiere su propio examen de electricista para trabajar en proyectos dentro de la ciudad. Si trabajas principalmente en esas ciudades, necesitarás la certificación local además de la estatal.",
+        "solucion": "Investiga si tu área de trabajo principal requiere certificación de ciudad. Los más comunes son LA City y SF. Muchos electricistas obtienen primero la certificación estatal y luego agregan la de ciudad."
+      },
+      {
+        "error": "No renovar a tiempo la certificación o licencia",
+        "por_que_importa": "Si dejas que tu certificación o C-10 expire por más de 2 años, California la cancela permanentemente. Tendrás que reaplicar desde cero, pagar todas las tarifas nuevamente, y posiblemente retomar exámenes.",
+        "solucion": "Pon recordatorios en tu calendario 3 meses antes del vencimiento. La renovación de Certified Electrician es cada 3 años ($150 + cursos CE). La C-10 es cada 2 años ($400)."
+      }
+    ]
+  },
+  "servicios_sin_licencia": {
+    "ai_generated": false,
+    "titulo": "Trabajos Eléctricos que NO Requieren Licencia en California",
+    "items": [
+      "Cambiar focos, lámparas o bombillas",
+      "Enchufar o desenchufar aparatos",
+      "Trabajos menores en tu PROPIA casa como homeowner (limitado)",
+      "Trabajos de bajo voltaje como termostatos, timbres (con restricciones)"
+    ],
+    "requiere_licencia": [
+      "Cualquier instalación eléctrica nueva en propiedad que no es tuya",
+      "Trabajos en edificios comerciales, industriales o multifamiliares",
+      "Reemplazar o instalar paneles eléctricos",
+      "Agregar circuitos nuevos",
+      "Trabajar por pago (incluso en bajo voltaje)",
+      "Sacar permisos eléctricos (solo C-10 puede)"
+    ],
+    "nota": "California tiene reglas más estrictas que muchos estados. Si no estás 100% seguro, verifica con DIR o tu jurisdicción local antes de hacer trabajo eléctrico.",
+    "source": "California Electrical Safety Law - Labor Code Division 3"
+  },
+  "faqs": {
+    "ai_generated": "partial",
+    "items": [
+      {
+        "pregunta": "¿Cuánto tiempo se tarda en ser electricista certificado en California?",
+        "respuesta": "Aproximadamente 4-5 años. Necesitas 8,000 horas de experiencia documentada (4 años a tiempo completo) más aprobar el examen estatal. Si te inscribes en un programa de aprendizaje registrado (apprenticeship), típicamente son programas de 4-5 años que combinan trabajo y clases.",
+        "source": "DIR California"
+      },
+      {
+        "pregunta": "¿Cuánto cuesta sacarse la certificación de electricista en California?",
+        "respuesta": "Certificación estatal (Certified General Electrician): aproximadamente $300-500 total (aplicación $150 + examen $150 + materiales de estudio). Si quieres la licencia C-10 Contractor, suma $700-950 adicionales (aplicación $450 + bond $250-500 primer año).",
+        "source": "DIR / CSLB"
+      },
+      {
+        "pregunta": "¿Necesito ir a una escuela técnica para ser electricista en California?",
+        "respuesta": "No es obligatorio, pero es muy recomendado. Puedes aprender trabajando (On-the-Job Training), pero inscribirte en un programa de aprendizaje registrado (apprenticeship) como IBEW o IEC te da entrenamiento estructurado, clases, mejor preparación para el examen, y salarios progresivos garantizados. Muchos programas son sin costo y te pagan mientras aprendes.",
+        "source": "DIR California"
+      },
+      {
+        "pregunta": "¿Puedo sacar la certificación de electricista con ITIN en California?",
+        "respuesta": "Sí. DIR acepta ITIN para procesar aplicaciones de Trainee y Certified Electrician. Para la licencia C-10 Contractor a través de CSLB, también aceptan ITIN. Debes cumplir con todos los demás requisitos de experiencia y examen.",
+        "source": "DIR / CSLB"
+      },
+      {
+        "pregunta": "¿Cuánto gana un electricista en California?",
+        "respuesta": "El salario promedio estatal es $74,540/año ($35.84/hr). En áreas metropolitanas como San Francisco y San Jose, el promedio es $90,000-95,000/año. Con overtime, trabajo especializado (solar, EV), y membresía en unión (IBEW), muchos electricistas certificados ganan $100,000-120,000+ anuales.",
+        "source": "BLS May 2024"
+      },
+      {
+        "pregunta": "¿Hay examen de electricista en español en California?",
+        "respuesta": "Parcialmente. El examen de Law & Business para la licencia C-10 Contractor SÍ está disponible en español. Sin embargo, los exámenes técnicos (Certified General Electrician y C-10 Trade Exam) actualmente solo están en inglés. Se recomienda tomar clases de preparación en español si están disponibles.",
+        "source": "DIR / CSLB"
+      },
+      {
+        "pregunta": "¿Qué es mejor: Certified Electrician o C-10 Contractor License?",
+        "respuesta": "Depende de tu meta. Certified General Electrician te permite trabajar como electricista empleado en cualquier tipo de proyecto. C-10 Contractor License te permite tener tu propio negocio de contratación eléctrica, firmar contratos, y contratar empleados. Muchos obtienen primero la certificación estatal, trabajan 2-4 años, y luego sacan la C-10 para abrir su negocio.",
+        "source": "DIR / CSLB"
+      },
+      {
+        "pregunta": "¿Mi licencia de electricista de otro estado sirve en California?",
+        "respuesta": "No directamente. California NO tiene reciprocidad formal con otros estados. Si tienes licencia de otro estado, deberás cumplir con los requisitos de California (8,000 horas documentadas y aprobar examen estatal). Sin embargo, tu experiencia documentada en otros estados SÍ puede contar para las horas requeridas si la verificas adecuadamente.",
+        "source": "DIR California"
+      },
+      {
+        "pregunta": "¿Vale la pena inscribirse en un programa de aprendizaje (apprenticeship)?",
+        "respuesta": "Sí, absolutamente. Los programas registrados (IBEW, IEC, WECA, etc.) te dan entrenamiento estructurado, clases sin costo, documentación automática de horas, mejor preparación para exámenes, y salarios progresivos (empiezas en 40-50% del salario journey y subes cada 6 meses). Muchos graduados de apprenticeship pasan el examen en el primer intento.",
+        "source": "DIR / IBEW / IEC"
+      }
+    ]
+  },
+  "links_oficiales": {
+    "ai_generated": false,
+    "items": [
+      {
+        "nombre": "DIR - Division of Apprenticeship Standards",
+        "url": "https://www.dir.ca.gov/das/",
+        "descripcion": "Autoridad estatal para certificación de electricistas (Trainee, Certified Residential, Certified General)"
+      },
+      {
+        "nombre": "CSLB - Contractors State License Board",
+        "url": "https://www.cslb.ca.gov/",
+        "descripcion": "Autoridad estatal para licencia de contratista eléctrico (C-10)"
+      },
+      {
+        "nombre": "Aplicación para C-10 Contractor License",
+        "url": "https://www.cslb.ca.gov/applicants/",
+        "descripcion": "Información y aplicación para licencia C-10"
+      },
+      {
+        "nombre": "Verificar Licencia C-10",
+        "url": "https://www.cslb.ca.gov/onlineservices/checklicenseII/checklicense.aspx",
+        "descripcion": "Buscar si un contratista tiene licencia C-10 vigente"
+      },
+      {
+        "nombre": "Apprenticeship Programs California",
+        "url": "https://www.dir.ca.gov/databases/das/aigstart.asp",
+        "descripcion": "Base de datos de programas de aprendizaje registrados en California"
+      },
+      {
+        "nombre": "IBEW Local Unions California",
+        "url": "https://ibew.org/",
+        "descripcion": "International Brotherhood of Electrical Workers - unión de electricistas con programas de aprendizaje"
+      },
+      {
+        "nombre": "IEC California",
+        "url": "https://www.iecal.org/",
+        "descripcion": "Independent Electrical Contractors - programas de aprendizaje y entrenamiento"
+      },
+      {
+        "nombre": "California Electrical Code (CEC)",
+        "url": "https://www.dgs.ca.gov/BSC/Codes",
+        "descripcion": "Información sobre la edición vigente del California Electrical Code"
+      },
+      {
+        "nombre": "Cal/OSHA - Seguridad Eléctrica",
+        "url": "https://www.dir.ca.gov/dosh/",
+        "descripcion": "Regulaciones de seguridad eléctrica en California"
+      },
+      {
+        "nombre": "BLS - Datos de Empleo Electricistas California",
+        "url": "https://www.bls.gov/oes/current/oes472111.htm",
+        "descripcion": "Salarios oficiales y proyecciones de empleo para electricistas"
+      }
+    ]
+  },
+  "content_generation_rules": {
+    "tono": "Técnico pero accesible y motivador. Enfocado en las oportunidades únicas de California (altos salarios, crecimiento, especialización).",
+    "persona": "Electricista certificado experimentado en California que conoce el sistema dual (Certified + C-10)",
+    "reglas": [
+      "Enfatizar que California tiene los salarios MÁS ALTOS del país para electricistas",
+      "Clarificar la diferencia entre Certified Electrician (empleado) y C-10 (dueño de negocio)",
+      "Mencionar prominentemente los programas de aprendizaje registrados (apprenticeship)",
+      "Explicar la importancia de documentar las 8,000 horas meticulosamente",
+      "Destacar oportunidades de especialización (solar, EV, smart home) con alta demanda en CA",
+      "Mencionar prevailing wage en proyectos públicos como oportunidad de ingresos altos",
+      "Clarificar que NO hay reciprocidad formal con otros estados"
+    ]
+  }
+}
