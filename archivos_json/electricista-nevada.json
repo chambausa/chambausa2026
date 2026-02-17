@@ -1,0 +1,768 @@
+{
+    "_meta": {
+        "schema_version": "2.0",
+        "page_id": "licencia-electricista-nevada",
+        "oficio": "electricista",
+        "estado": "nevada",
+        "last_verified": "2026-02-16",
+        "verified_by": "Claude AI - requiere verificación humana",
+        "notes": "Nevada tiene sistema de aprendiz registrado. Examen disponible en español para Journeyman y Residential. Regulado por Nevada State Contractors Board."
+    },
+    "page_seo": {
+        "title": "Licencia de Electricista en Nevada 2026: Guía Completa con Examen en Español",
+        "meta_description": "Cómo sacar la licencia de electricista en Nevada paso a paso. De Aprendiz registrado a Journeyman (8,000 horas). Examen en español disponible. Requisitos actualizados 2026.",
+        "slug": "licencia-electricista-nevada",
+        "canonical_url": "https://chambaenusa.com/licencia-electricista-nevada/",
+        "h1": "Licencia de Electricista en Nevada",
+        "schema_types": [
+            "HowTo",
+            "FAQPage",
+            "BreadcrumbList"
+        ],
+        "keywords_primary": [
+            "licencia de electricista en nevada",
+            "examen de electricista nevada en español",
+            "aprendiz electricista nevada"
+        ],
+        "keywords_secondary": [
+            "nevada contractors board electricista",
+            "cuanto gana un electricista en nevada",
+            "requisitos journeyman electricista nevada",
+            "renovar licencia electricista nevada"
+        ],
+        "keywords_long_tail": [
+            "como sacar licencia de electricista en las vegas",
+            "escuelas de electricidad en reno en español",
+            "examen journeyman electrician nevada en español",
+            "cuanto cuesta la licencia de electricista en nevada"
+        ]
+    },
+    "hero": {
+        "ai_generated": true,
+        "badge": "Actualizado 2026",
+        "headline": "Licencia de Electricista en Nevada",
+        "subheadline": "Comienza como Aprendiz Registrado y avanza hasta ganar $55k-$75k/año como Journeyman. El examen está disponible en español sin costo adicional.",
+        "key_stats": [
+            {
+                "label": "Aprendiz Registrado",
+                "value": "4 años",
+                "detail": "Programa de aprendizaje registrado con 8,000 horas de experiencia",
+                "source": "https://www.nvcontractorsboard.com/",
+                "source_name": "Nevada State Contractors Board"
+            },
+            {
+                "label": "Journeyman",
+                "value": "8,000 horas",
+                "detail": "Aproximadamente 4 años + examen estatal + 576 horas de educación",
+                "source": "https://www.nvcontractorsboard.com/",
+                "source_name": "NSCB"
+            },
+            {
+                "label": "Examen en Español",
+                "value": "✅ Disponible",
+                "detail": "Para Journeyman y Residential Wireman sin costo extra",
+                "source": "https://www.nvcontractorsboard.com/",
+                "source_name": "NSCB"
+            },
+            {
+                "label": "Salario Journeyman",
+                "value": "$64,020/año",
+                "detail": "Mediana en Nevada. En Las Vegas $66,000+",
+                "source": "https://www.bls.gov/oes/current/oes_nv.htm",
+                "source_name": "BLS May 2024"
+            }
+        ],
+        "cta_primary": {
+            "text": "Ver Pasos del Camino",
+            "anchor": "#roadmap"
+        },
+        "cta_secondary": {
+            "text": "Ver Salarios",
+            "anchor": "#salarios"
+        }
+    },
+    "callout_espanol": {
+        "ai_generated": true,
+        "type": "highlight_box",
+        "icon": "⚡",
+        "title": "¡El examen es en español! No dejes que el idioma te detenga",
+        "content": "Nevada State Contractors Board ofrece los exámenes de Journeyman Electrician y Residential Wireman en ESPAÑOL a través de PSI. Al programar tu cita, selecciona español como idioma. No hay costo adicional. El código NEC también está disponible en español para uso durante el examen.",
+        "source": "https://www.nvcontractorsboard.com/",
+        "source_name": "Nevada State Contractors Board"
+    },
+    "autoridad_reguladora": {
+        "ai_generated": true,
+        "nombre": "Nevada State Contractors Board (NSCB)",
+        "programa": "Electrical Program",
+        "direccion": {
+            "calle": "9670 Gateway Drive, Suite 100",
+            "ciudad": "Reno",
+            "estado": "NV",
+            "cp": "89521",
+            "mailing": "P.O. Box 50065, Reno, NV 89513"
+        },
+        "telefono": {
+            "local": "(775) 688-1141",
+            "toll_free": "(800) 624-6752"
+        },
+        "email": "nscb@nscb.state.nv.us",
+        "web": "https://www.nvcontractorsboard.com/",
+        "verificar_licencia": "https://www.nvcontractorsboard.com/lookup.html",
+        "source": "https://www.nvcontractorsboard.com/"
+    },
+    "roadmap": {
+        "_description": "Camino profesional del electricista en Nevada - Timeline de progresión",
+        "ai_generated": true,
+        "layout": "timeline",
+        "nota_general": "Nevada requiere programa de aprendizaje registrado. Debes inscribirte en un programa aprobado (union o no-union) que combine trabajo On-the-Job (OJT) con educación en aula. No puedes acumular horas trabajando solo sin estar en un programa registrado.",
+        "tipos": [
+            {
+                "id": "apprentice",
+                "titulo_en": "Registered Apprentice Electrician",
+                "titulo_es": "Aprendiz Electricista Registrado",
+                "es_principal": false,
+                "color_badge": "#3b82f6",
+                "descripcion_corta": "El primer paso. Debes inscribirte en un programa de aprendizaje aprobado (4 años).",
+                "scope_of_work": "Trabajar bajo supervisión directa de un Journeyman o Master licenciado. No puedes trabajar solo ni obtener permisos.",
+                "requisitos": {
+                    "edad_minima": 18,
+                    "educacion_previa": "High school diploma o GED",
+                    "experiencia": "Ninguna - el programa te entrena",
+                    "examen": "No requiere examen de licencia (pero programas pueden tener exámenes internos)"
+                },
+                "horas_escuela": 576,
+                "costos": {
+                    "aplicacion_licencia": 50,
+                    "renovacion_cada_2_años": 50
+                },
+                "como_aplicar": {
+                    "metodo": "A través del programa de aprendizaje",
+                    "tiempo_procesamiento": "Varía según programa",
+                    "pasos": [
+                        "Aplicar a un programa de aprendizaje registrado (IBEW, IEC, ABC, JATC)",
+                        "Completar entrevista y pruebas de aptitud del programa",
+                        "Ser aceptado en el programa",
+                        "El programa te registra como aprendiz con el Nevada State Apprenticeship Council",
+                        "Comenzar a trabajar y asistir a clases (576 horas de educación en 4 años + 8,000 horas OJT)"
+                    ]
+                },
+                "nota": "CRÍTICO: Solo las horas trabajadas mientras estás registrado en un programa aprobado cuentan. Si trabajas sin estar en un programa, tus horas NO se reconocen para el examen de Journeyman.",
+                "source": "https://www.nvcontractorsboard.com/"
+            },
+            {
+                "id": "residential",
+                "titulo_en": "Residential Wireman",
+                "titulo_es": "Electricista Residencial",
+                "es_principal": false,
+                "color_badge": "#10b981",
+                "descripcion_corta": "Licencia para trabajar solo en viviendas residenciales unifamiliares y dúplex.",
+                "scope_of_work": "Instalaciones eléctricas en viviendas residenciales de 1-2 familias solamente. No comercial ni multi-familiar grande.",
+                "requisitos": {
+                    "edad_minima": 18,
+                    "experiencia": "4,000 horas de experiencia documentada en trabajo residencial bajo supervisión + 288 horas de educación relacionada",
+                    "examen": "Aprobar examen de Residential Wireman"
+                },
+                "examen": {
+                    "partes": 1,
+                    "nombre": "Residential Wireman Examination",
+                    "formato": "Opción múltiple por computadora - Open book (puedes llevar NEC)",
+                    "costo": 75,
+                    "idiomas": [
+                        "Inglés",
+                        "Español"
+                    ],
+                    "puntaje_minimo": "70%",
+                    "cuando_tomarlo": "Después de completar 4,000 horas + 288 horas de educación",
+                    "contenido_principal": [
+                        "NEC (National Electrical Code) aplicado a residencias",
+                        "Nevada State electrical codes",
+                        "Cálculos de carga residencial",
+                        "Métodos de instalación residencial",
+                        "Seguridad eléctrica"
+                    ],
+                    "ubicaciones": "Centros PSI en Las Vegas, Reno, y Henderson",
+                    "administrador": "PSI"
+                },
+                "costos": {
+                    "aplicacion_licencia": 100,
+                    "examen_escrito": 75,
+                    "total_examenes_y_licencia": 175,
+                    "renovacion_cada_2_años": 100
+                },
+                "como_aplicar": {
+                    "url": "https://www.nvcontractorsboard.com/",
+                    "tiempo_procesamiento": "2-4 semanas después de aprobar examen"
+                },
+                "source": "https://www.nvcontractorsboard.com/"
+            },
+            {
+                "id": "journeyman",
+                "titulo_en": "Journeyman Electrician",
+                "titulo_es": "Oficial Electricista (Journeyman)",
+                "es_principal": true,
+                "color_badge": "#f59e0b",
+                "descripcion_corta": "Licencia completa para trabajar en cualquier tipo de proyecto eléctrico sin supervisión directa.",
+                "scope_of_work": "Instalaciones eléctricas en residencial, comercial, industrial. Puede trabajar sin supervisión directa bajo una compañía con licencia de contratista.",
+                "requisitos": {
+                    "edad_minima": 18,
+                    "experiencia": "8,000 horas de experiencia documentada a través de programa de aprendizaje registrado (4 años aprox) + 576 horas de educación relacionada",
+                    "examen": "Aprobar examen de Journeyman Electrician"
+                },
+                "examen": {
+                    "partes": 1,
+                    "nombre": "Journeyman Electrician Examination",
+                    "formato": "Opción múltiple por computadora - Open book (puedes llevar NEC y materiales de referencia aprobados)",
+                    "costo": 90,
+                    "idiomas": [
+                        "Inglés",
+                        "Español"
+                    ],
+                    "puntaje_minimo": "70%",
+                    "cuando_tomarlo": "Después de completar 8,000 horas + 576 horas de educación a través de programa registrado",
+                    "contenido_principal": [
+                        "NEC (National Electrical Code 2023) - mayoría del examen",
+                        "Nevada State electrical codes y statutes",
+                        "Cálculos de carga y dimensionamiento de conductores",
+                        "Transformadores, motores y controles",
+                        "Instalación de servicios y paneles",
+                        "Sistemas de protección contra fallas a tierra",
+                        "Seguridad eléctrica (NFPA 70E)"
+                    ],
+                    "ubicaciones": "Centros PSI en Las Vegas, Reno, Henderson y Elko",
+                    "e_exam": "También disponible examen online supervisado",
+                    "que_llevar": [
+                        "NEC 2023 (puede ser en español)",
+                        "Calculadora científica sin funciones de programación",
+                        "Identificación válida con foto"
+                    ],
+                    "administrador": "PSI"
+                },
+                "costos": {
+                    "aplicacion_licencia": 100,
+                    "examen_escrito": 90,
+                    "total_examenes_y_licencia": 190,
+                    "renovacion_cada_2_años": 100
+                },
+                "como_aplicar": {
+                    "metodo": "En línea después de aprobar examen",
+                    "url": "https://www.nvcontractorsboard.com/",
+                    "tiempo_procesamiento": "2-4 semanas",
+                    "pasos": [
+                        "Completar programa de aprendizaje registrado (8,000 horas + 576 horas educación)",
+                        "Obtener certificado de completación del programa",
+                        "Aplicar para tomar el examen con NSCB",
+                        "Agendar y aprobar examen con PSI",
+                        "Someter aplicación de licencia con documentación de horas",
+                        "Pagar tarifa de licencia ($100)",
+                        "Recibir licencia de Journeyman"
+                    ]
+                },
+                "source": "https://www.nvcontractorsboard.com/"
+            },
+            {
+                "id": "master",
+                "titulo_en": "Master Electrician / Electrical Contractor",
+                "titulo_es": "Maestro Electricista / Contratista Eléctrico",
+                "es_principal": false,
+                "color_badge": "#7c3aed",
+                "descripcion_corta": "Nivel más alto. Puede supervisar proyectos, obtener permisos y ser dueño de compañía de contratación eléctrica.",
+                "scope_of_work": "Supervisar otros electricistas, diseñar sistemas eléctricos, obtener permisos, ser dueño de compañía contratista eléctrica en Nevada.",
+                "requisitos": {
+                    "edad_minima": 21,
+                    "experiencia": "4 años como Journeyman licenciado (mínimo 6,000 horas documentadas como Journeyman)",
+                    "licencia_previa": "Debe tener licencia activa de Journeyman Electrician",
+                    "examen": "Aprobar examen de Master/Contractor y examen de Business & Law"
+                },
+                "examen": {
+                    "partes": 2,
+                    "parte_1": {
+                        "nombre": "Master Electrician Trade Exam",
+                        "formato": "Opción múltiple - Open book",
+                        "costo": 90,
+                        "idiomas": [
+                            "Inglés",
+                            "Español"
+                        ],
+                        "puntaje_minimo": "70%",
+                        "cuando_tomarlo": "Después de cumplir requisitos de experiencia como Journeyman",
+                        "contenido_principal": [
+                            "NEC avanzado y cálculos complejos",
+                            "Diseño de sistemas eléctricos",
+                            "Planos y especificaciones",
+                            "Cargas de servicios y transformadores",
+                            "Códigos de construcción de Nevada"
+                        ]
+                    },
+                    "parte_2": {
+                        "nombre": "Business & Law Exam",
+                        "formato": "Opción múltiple - Open book",
+                        "costo": 75,
+                        "idiomas": [
+                            "Inglés"
+                        ],
+                        "puntaje_minimo": "70%",
+                        "cuando_tomarlo": "Junto con o después del trade exam",
+                        "contenido_principal": [
+                            "Nevada contractor law (NRS 624)",
+                            "Lien laws y payment procedures",
+                            "Contratos y propuestas",
+                            "Seguros y bonding",
+                            "Gestión de proyectos y negocios"
+                        ],
+                        "idioma_nota": "El examen de Business & Law solo está disponible en inglés"
+                    },
+                    "administrador": "PSI",
+                    "url_psi": "https://psi-online.com/",
+                    "source": "https://www.nvcontractorsboard.com/"
+                },
+                "costos": {
+                    "aplicacion_licencia": 500,
+                    "examen_escrito": 90,
+                    "examen_practico": 75,
+                    "total_examenes_y_licencia": 665,
+                    "renovacion_cada_2_años": 500
+                },
+                "como_aplicar": {
+                    "url": "https://www.nvcontractorsboard.com/",
+                    "tiempo_procesamiento": "4-8 semanas"
+                },
+                "nota": "Para operar como contratista eléctrico necesitas también obtener una contractor license de NSCB, que requiere bond ($10,000-$100,000 según clasificación) y seguro de responsabilidad civil.",
+                "source": "https://www.nvcontractorsboard.com/"
+            }
+        ]
+    },
+    "calculadora_inversion": {
+        "ai_generated": true,
+        "_description": "Calculadora de inversión para obtener licencia de electricista en Nevada",
+        "escenarios": [
+            {
+                "id": "journeyman",
+                "licencia": "Journeyman Electrician",
+                "inversion": {
+                    "escuela_rango": "$0 - $5,000",
+                    "escuela_nota": "Programas de aprendizaje registrado generalmente son gratuitos o de bajo costo. Union (IBEW) es gratis. Programas no-union pueden cobrar materiales.",
+                    "libros_codigo": "$200 - $300 (NEC 2023 + materiales de estudio)",
+                    "aplicacion_licencia": "$100",
+                    "examen_escrito": "$90",
+                    "kit_herramientas_basico": "$500 - $1,500",
+                    "kit_nota": "Herramientas básicas para comenzar. Muchos programas proporcionan herramientas o descuentos.",
+                    "total_minimo": "$890",
+                    "total_maximo": "$7,000"
+                },
+                "tiempo": "4 años (8,000 horas + 576 horas de educación)",
+                "salario_esperado": {
+                    "empleada": "$55,000 - $70,000/año como Journeyman",
+                    "con_experiencia": "$70,000 - $85,000/año con 5+ años experiencia",
+                    "nota": "Aprendices ganan salario creciente: empiezan ~40-50% del salario de Journeyman y van aumentando cada año"
+                },
+                "roi_nota": "Inversión inicial baja, especialmente con programas de aprendizaje gratuitos. ROI excelente considerando salarios de $60k-$80k al graduarse."
+            },
+            {
+                "id": "residential",
+                "licencia": "Residential Wireman",
+                "inversion": {
+                    "escuela_rango": "$0 - $3,000",
+                    "escuela_nota": "Algunos pueden calificar con experiencia documentada + 288 horas de educación (cursos más cortos)",
+                    "libros_codigo": "$150 - $250",
+                    "aplicacion_licencia": "$100",
+                    "examen_escrito": "$75",
+                    "kit_herramientas_basico": "$500 - $1,200",
+                    "total_minimo": "$825",
+                    "total_maximo": "$4,625"
+                },
+                "tiempo": "2 años (4,000 horas + 288 horas educación)",
+                "salario_esperado": {
+                    "empleada": "$45,000 - $58,000/año",
+                    "independiente_booth_rental": "$55,000 - $70,000/año si trabajas independiente",
+                    "nota": "Limitado a trabajo residencial, pero entrada más rápida al mercado"
+                }
+            },
+            {
+                "id": "master",
+                "licencia": "Master Electrician / Contractor",
+                "inversion": {
+                    "licencia_journeyman": "$890 - $7,000 (ver arrarriba)",
+                    "experiencia_como_journeyman": "4 años trabajando (sin costo adicional de escuela)",
+                    "curso_preparacion_examen": "$300 - $800 (opcional pero recomendado)",
+                    "examen_journeyman": "$90 (trade exam)",
+                    "examen_medico_dl51": "$75 (business & law)",
+                    "aplicacion_licencia": "$500",
+                    "licencia_clp_dmv": "$10,000 - $100,000 (bond requerido según clasificación)",
+                    "total_estimado": "$12,000 - $110,000 (incluyendo bond y seguros)"
+                },
+                "tiempo": "8+ años totales (4 como aprendiz + 4 como Journeyman)",
+                "salario_esperado": {
+                    "empleada_salon": "$75,000 - $95,000/año como Master empleado",
+                    "med_spa_especialista": "$90,000 - $150,000+/año con negocio propio de contratación"
+                },
+                "nota": "El bond y seguro son la inversión más grande para abrir tu propia compañía."
+            }
+        ]
+    },
+    "renovacion": {
+        "ai_generated": true,
+        "frecuencia": "Cada 2 años desde la fecha de emisión",
+        "metodo": "En línea a través del portal de NSCB",
+        "url_renovacion": "https://www.nvcontractorsboard.com/",
+        "costo_renovacion": 100,
+        "ce_requerida": {
+            "horas_totales": 16,
+            "temas": [
+                "National Electrical Code (NEC) - actualizaciones y cambios",
+                "Nevada electrical codes y statutes",
+                "Seguridad eléctrica y OSHA",
+                "Nuevas tecnologías y métodos de instalación"
+            ],
+            "nota": "16 horas de educación continua requeridas cada 2 años. Cursos deben ser de proveedores aprobados por NSCB.",
+            "costo_cursos_ce_online": "$100 - $250",
+            "url_proveedores": "https://www.nvcontractorsboard.com/"
+        },
+        "consecuencias_no_renovar": {
+            "0_60_dias": "Tarifa normal de renovación",
+            "60_dias_a_1_año": "Tarifa de renovación tardía (penalty fee adicional)",
+            "mas_1_año": "Licencia expira - debes solicitar nueva licencia y posiblemente retomar examen"
+        },
+        "source": "https://www.nvcontractorsboard.com/"
+    },
+    "reciprocidad": {
+        "ai_generated": true,
+        "disponible": true,
+        "nombre_proceso": "Experience Verification (Verificación de Experiencia)",
+        "requisitos": [
+            "Tener licencia vigente de Journeyman o Master en otro estado",
+            "Demostrar 8,000 horas de experiencia documentada (para Journeyman) o experiencia equivalente",
+            "Aprobar examen de Nevada (reciprocidad NO exime del examen)",
+            "Cumplir con requisitos de educación (576 horas para Journeyman)"
+        ],
+        "nota": "Nevada NO tiene reciprocidad completa automática. Debes aprobar el examen de Nevada aunque tengas licencia de otro estado. Sin embargo, tu experiencia de otros estados puede contar para cumplir el requisito de horas si está debidamente documentada.",
+        "url": "https://www.nvcontractorsboard.com/",
+        "experiencia_como_horas": "Experiencia de otros estados cuenta si está documentada con cartas de verificación de empleadores anteriores",
+        "source": "https://www.nvcontractorsboard.com/"
+    },
+    "salarios": {
+        "ai_generated": true,
+        "nota_importante": "Los electricistas en Nevada, especialmente en Las Vegas, suelen ganar más que el promedio nacional debido a la alta demanda en construcción de casinos, hoteles y desarrollo residencial. Overtime y trabajos de emergencia son comunes.",
+        "nacional_2024": {
+            "mediana": "$60,240/año",
+            "por_hora_mediana": "$28.96/hr",
+            "percentil_10": "$37,020/año",
+            "percentil_90": "$99,800/año",
+            "crecimiento_proyectado": "6% (2023-2033)",
+            "source": "https://www.bls.gov/oes/current/oes472111.htm"
+        },
+        "texas": {
+            "promedio_anual": "$64,020",
+            "promedio_hora": "$30.78",
+            "top_earners": "$92,500+",
+            "source": "BLS Nevada May 2024"
+        },
+        "por_ciudad_texas": [
+            {
+                "ciudad": "Las Vegas-Henderson-Paradise",
+                "salario_medio": "$66,120",
+                "top_earners": "$94,000+",
+                "source": "BLS May 2024"
+            },
+            {
+                "ciudad": "Reno-Sparks",
+                "salario_medio": "$61,840",
+                "top_earners": "$88,500+",
+                "source": "BLS May 2024"
+            },
+            {
+                "ciudad": "Carson City",
+                "salario_medio": "$58,940",
+                "top_earners": "$84,200+",
+                "source": "BLS May 2024"
+            }
+        ],
+        "ingresos_reales": {
+            "ai_generated": true,
+            "nota": "Las cifras de BLS solo reflejan salario base W-2. Ingresos reales de electricistas incluyen:",
+            "factores_adicionales": [
+                "Overtime (tiempo y medio después de 40 hrs/semana) - muy común en Las Vegas",
+                "Llamadas de emergencia (pagan doble o triple, especialmente en casinos)",
+                "Trabajos nocturnos y fines de semana (premium pay)",
+                "Per diem para proyectos grandes fuera de la ciudad",
+                "Bonos por completar proyectos a tiempo",
+                "Trabajo independiente (1099) cobra tarifas más altas"
+            ],
+            "estimado_realista": {
+                "recien_licenciada": "Aprendiz año 1: $35,000 - $42,000/año (40-50% de salario Journeyman)",
+                "3_5_años_experiencia": "Journeyman: $60,000 - $80,000/año (con overtime moderado)",
+                "especialista_o_independiente": "Journeyman con especialidad o independiente: $75,000 - $95,000/año",
+                "dueña_salon": "Master con negocio propio: $90,000 - $180,000+/año"
+            }
+        }
+    },
+    "errores_comunes": {
+        "ai_generated": true,
+        "items": [
+            {
+                "error": "Trabajar sin estar inscrito en un programa de aprendizaje registrado",
+                "por_que_importa": "Nevada NO reconoce experiencia adquirida fuera de un programa de aprendizaje registrado. Si trabajas 4 años como helper o ayudante sin estar en un programa registrado, esas horas NO contarán para el examen de Journeyman. Habrás perdido 4 años de progreso.",
+                "solucion": "PRIMERO inscríbete en un programa de aprendizaje registrado (IBEW, IEC, ABC, JATC), LUEGO busca empleo. El programa te ayuda a encontrar trabajo y certifica tus horas. No trabajes 'de manera informal' esperando que cuente después."
+            },
+            {
+                "error": "No completar las 576 horas de educación en aula requeridas",
+                "por_que_importa": "Nevada requiere 576 horas de educación relacionada además de las 8,000 horas OJT. No puedes tomar el examen de Journeyman solo con experiencia de trabajo. Sin las horas de educación, tu aplicación será rechazada.",
+                "solucion": "Asegúrate de que tu programa de aprendizaje incluya las horas de educación en aula. Programas registrados normalmente lo incluyen. Mantén certificados de todos los cursos completados."
+            },
+            {
+                "error": "Estudiar con la edición incorrecta del NEC",
+                "por_que_importa": "Nevada adopta ciclos específicos del NEC (actualmente NEC 2023). Si estudias con NEC 2017 o 2020, muchas referencias, tablas y artículos habrán cambiado de ubicación o contenido. Fallarás preguntas críticas.",
+                "solucion": "Verifica en el sitio de NSCB o PSI cuál edición del NEC es vigente para el examen ANTES de comprar materiales. Compra esa edición específica, no versiones usadas antiguas."
+            },
+            {
+                "error": "No practicar cómo navegar rápido el NEC durante el examen",
+                "por_que_importa": "El examen es open-book pero tienes tiempo limitado (típicamente 4 horas para 80-100 preguntas). Si no sabes usar el índice del NEC rápido, buscar tablas correctas, y encontrar artículos relevantes, te quedarás sin tiempo aunque sepas las respuestas.",
+                "solucion": "Toma un curso de preparación que te enseñe técnicas de búsqueda rápida en el NEC. Practica con exámenes simulados cronometrados. Marca secciones importantes con tabs (está permitido)."
+            },
+            {
+                "error": "Pensar que Residential Wireman es equivalente a Journeyman",
+                "por_que_importa": "Residential Wireman SOLO puede trabajar en viviendas unifamiliares y dúplex. NO puedes trabajar en apartamentos grandes, comercios, hoteles, casinos, o industrial. En Las Vegas, la mayoría de la construcción grande es comercial/resort. Tu mercado laboral será muy limitado.",
+                "solucion": "Si tu meta es trabajar en la industria de construcción de Las Vegas (casinos, hoteles, grandes desarrollos), ve directo por Journeyman. Solo considera Residential si específicamente quieres enfocarte en casas pequeñas."
+            },
+            {
+                "error": "No mantener documentación de todas las horas trabajadas",
+                "por_que_importa": "Al aplicar para el examen de Journeyman, debes presentar documentación detallada de tus 8,000 horas: quién te supervisó, en qué proyectos trabajaste, fechas exactas. Si tu programa no mantuvo registros adecuados o tú no guardaste copias, tu aplicación será rechazada.",
+                "solucion": "Guarda copias de TODOS los certificados, reportes de horas, y cartas de verificación de tu programa de aprendizaje. Crea tu propio log personal con fechas, proyectos y supervisores. No dependas solo del programa."
+            },
+            {
+                "error": "No renovar la licencia a tiempo",
+                "por_que_importa": "Si dejas que tu licencia expire por más de 1 año, debes aplicar de nuevo como si fuera nueva licencia. Posiblemente tendrás que retomar el examen y pagar todas las tarifas nuevamente. Pierdes tu antigüedad y número de licencia.",
+                "solucion": "Pon alarma en tu teléfono 3 meses antes del vencimiento. La renovación requiere 16 horas de CE cada 2 años - no lo dejes para último momento. Muchos proveedores ofrecen cursos online de 2 días completos."
+            }
+        ]
+    },
+    "servicios_sin_licencia": {
+        "ai_generated": true,
+        "titulo": "Trabajos Eléctricos que NO Requieren Licencia en Nevada",
+        "items": [
+            "Cambiar focos, bombillas o lámparas portátiles",
+            "Enchufar y desenchufar aparatos",
+            "Trabajo de bajo voltaje (termostatos, timbres, cableado de internet/datos bajo 50V)",
+            "Mantenimiento menor en tu PROPIA residencia (cambiar switch o receptáculo)"
+        ],
+        "requiere_licencia": [
+            "Cualquier instalación eléctrica nueva o modificación al sistema eléctrico",
+            "Trabajar en propiedad ajena (aunque sea cambiar un interruptor)",
+            "Instalación de paneles, circuitos nuevos, o servicios eléctricos",
+            "Todo trabajo comercial o industrial, sin excepción",
+            "Obtener permisos eléctricos (solo Master puede sacarlos)"
+        ],
+        "nota_importante": "Nevada tiene regulaciones estrictas. Trabajar sin licencia puede resultar en multas de hasta $10,000 por violación. Empleadores también son multados por contratar electricistas sin licencia.",
+        "source": "Nevada Revised Statutes (NRS) 624"
+    },
+    "faqs": {
+        "ai_generated": true,
+        "items": [
+            {
+                "pregunta": "¿El examen de electricista en Nevada está en español?",
+                "respuesta": "Sí. Los exámenes de Journeyman Electrician y Residential Wireman están disponibles en español a través de PSI sin costo adicional. Al agendar tu cita, selecciona español como idioma. El libro NEC también está disponible en español y puedes usarlo durante el examen. NOTA: El examen de Business & Law para Master/Contractor solo está en inglés.",
+                "source": "Nevada State Contractors Board / PSI"
+            },
+            {
+                "pregunta": "¿Puedo trabajar como electricista en Nevada sin pasar por un programa de aprendizaje?",
+                "respuesta": "No. Nevada requiere que todas las horas de experiencia para calificar al examen de Journeyman sean obtenidas a través de un programa de aprendizaje registrado con el Nevada State Apprenticeship Council. La experiencia de trabajo informal no cuenta. Debes inscribirte en un programa aprobado (IBEW, IEC, ABC, u otro) que combine OJT con educación en aula.",
+                "source": "Nevada State Contractors Board"
+            },
+            {
+                "pregunta": "¿Cuánto tiempo se tarda en ser Journeyman Electrician en Nevada?",
+                "respuesta": "Aproximadamente 4 años trabajando tiempo completo a través de un programa de aprendizaje registrado. Debes completar 8,000 horas de experiencia OJT + 576 horas de educación en aula. Después, apruebas el examen de Journeyman. Si trabajas part-time o hay periodos sin trabajo, tomará más tiempo.",
+                "source": "Nevada State Contractors Board"
+            },
+            {
+                "pregunta": "¿Cuánto cuesta el examen de Journeyman en Nevada?",
+                "respuesta": "El examen de Journeyman cuesta $90 (pagado a PSI). Adicionalmente pagas $100 a NSCB por la aplicación de licencia después de aprobar. Total: $190 para obtener la licencia de Journeyman (sin contar costos de preparación o materiales de estudio).",
+                "source": "Nevada State Contractors Board / PSI"
+            },
+            {
+                "pregunta": "¿Necesito licencia de electricista con ITIN (sin número de seguro social)?",
+                "respuesta": "Nevada State Contractors Board requiere número de seguro social o Individual Taxpayer Identification Number (ITIN) para procesar licencias. Contacta directamente a NSCB para confirmar requisitos actuales de documentación con ITIN, ya que las políticas pueden variar.",
+                "source": "Nevada State Contractors Board",
+                "seo_note": "Recomendamos contactar NSCB directamente: (775) 688-1141"
+            },
+            {
+                "pregunta": "¿Puedo trabajar en California si tengo licencia de Nevada?",
+                "respuesta": "No automáticamente. Nevada y California NO tienen reciprocidad. California tiene su propio sistema de certificación eléctrica (C-10 Electrical Contractor). Tendrías que aplicar separadamente en California cumpliendo sus requisitos. Sin embargo, tu experiencia en Nevada puede contar para cumplir los requisitos de horas en California.",
+                "source": "Nevada & California State Boards"
+            },
+            {
+                "pregunta": "¿Los programas de aprendizaje en Nevada son gratuitos?",
+                "respuesta": "Los programas de aprendizaje union (IBEW/JATC) generalmente son gratuitos - sin matrícula. Te pagan mientras trabajas y aprendes. Programas no-union (IEC, ABC) pueden cobrar tarifas de matrícula o materiales, típicamente $500-$2,000 por el programa completo de 4 años. Todos los programas requieren comprar tus propias herramientas básicas y libros.",
+                "source": "Programas de aprendizaje de Nevada"
+            },
+            {
+                "pregunta": "¿Cuántas horas de educación continua necesito para renovar mi licencia?",
+                "respuesta": "16 horas de educación continua cada 2 años para Journeyman y Master. Los cursos deben ser de proveedores aprobados por NSCB. Temas típicos incluyen actualizaciones del NEC, códigos de Nevada, seguridad, y nuevas tecnologías. Cursos online están disponibles por $100-$250.",
+                "source": "Nevada State Contractors Board"
+            },
+            {
+                "pregunta": "¿Puedo ser dueño de una compañía eléctrica con licencia de Journeyman?",
+                "respuesta": "No. Para ser dueño de una compañía de contratación eléctrica en Nevada, necesitas obtener una Contractor License (licencia de contratista) con clasificación eléctrica, lo cual requiere pasar el examen de Master Electrician + Business & Law, además de cumplir requisitos de bond ($10,000-$100,000) y seguro. Como Journeyman puedes trabajar independiente pero bajo una compañía con licencia de contratista.",
+                "source": "Nevada State Contractors Board"
+            }
+        ]
+    },
+    "enlaces_utiles": {
+        "ai_generated": true,
+        "enlaces": [
+            {
+                "categoria": "Autoridad Reguladora y Licencias",
+                "enlaces": [
+                    {
+                        "titulo": "Nevada State Contractors Board - Home",
+                        "url": "https://www.nvcontractorsboard.com/",
+                        "descripcion": "Sitio oficial de NSCB - aplicaciones, exámenes, renovaciones"
+                    },
+                    {
+                        "titulo": "Aplicar para Licencia de Electricista",
+                        "url": "https://www.nvcontractorsboard.com/",
+                        "descripcion": "Información y aplicaciones para todas las licencias eléctricas"
+                    },
+                    {
+                        "titulo": "Verificar Licencia (License Lookup)",
+                        "url": "https://www.nvcontractorsboard.com/lookup.html",
+                        "descripcion": "Buscar si alguien tiene licencia vigente en Nevada"
+                    },
+                    {
+                        "titulo": "Nevada Revised Statutes (NRS) 624",
+                        "url": "https://www.leg.state.nv.us/nrs/nrs-624.html",
+                        "descripcion": "Leyes de contratistas de Nevada - importante para examen de B&L"
+                    }
+                ]
+            },
+            {
+                "categoria": "Exámenes",
+                "enlaces": [
+                    {
+                        "titulo": "PSI Exams - Nevada Testing",
+                        "url": "https://psi-online.com/",
+                        "descripcion": "Agendar examen de electricista con PSI"
+                    },
+                    {
+                        "titulo": "Información de Exámenes - NSCB",
+                        "url": "https://www.nvcontractorsboard.com/",
+                        "descripcion": "Detalles de contenido, formatos, y preparación"
+                    },
+                    {
+                        "titulo": "Centros de Examen PSI en Nevada",
+                        "url": "https://psi-online.com/",
+                        "descripcion": "Ubicaciones en Las Vegas, Reno, Henderson, Elko"
+                    }
+                ]
+            },
+            {
+                "categoria": "Programas de Aprendizaje",
+                "enlaces": [
+                    {
+                        "titulo": "Nevada State Apprenticeship Council",
+                        "url": "http://labor.nv.gov/",
+                        "descripcion": "Lista de programas de aprendizaje registrados en Nevada"
+                    },
+                    {
+                        "titulo": "IBEW Local 357 (Las Vegas) JATC",
+                        "url": "https://www.jatc357.org/",
+                        "descripcion": "Programa de aprendizaje union en Las Vegas"
+                    },
+                    {
+                        "titulo": "IBEW Local 401 (Reno) JATC",
+                        "url": "https://www.ibew401jatc.org/",
+                        "descripcion": "Programa de aprendizaje union en Reno"
+                    },
+                    {
+                        "titulo": "IEC Rocky Mountain - Nevada",
+                        "url": "https://www.iecrm.org/",
+                        "descripcion": "Programa de aprendizaje no-union (independent contractors)"
+                    },
+                    {
+                        "titulo": "ABC (Associated Builders & Contractors) Nevada",
+                        "url": "https://www.abcnv.org/",
+                        "descripcion": "Otro programa no-union con capítulos en Las Vegas y Reno"
+                    }
+                ]
+            },
+            {
+                "categoria": "Recursos de Estudio",
+                "enlaces": [
+                    {
+                        "titulo": "NFPA - National Electrical Code (NEC)",
+                        "url": "https://www.nfpa.org/NEC",
+                        "descripcion": "Comprar NEC 2023 en inglés o español (libro requerido para examen)"
+                    },
+                    {
+                        "titulo": "Mike Holt Enterprises",
+                        "url": "https://www.mikeholt.com/",
+                        "descripcion": "Cursos de preparación para examen, libros de estudio, practice tests"
+                    },
+                    {
+                        "titulo": "Tom Henry's Code Electrical Classes",
+                        "url": "https://www.tomhenry.com/",
+                        "descripcion": "Cursos online y libros de preparación enfocados en exámenes estatales"
+                    }
+                ]
+            },
+            {
+                "categoria": "Educación Continua",
+                "enlaces": [
+                    {
+                        "titulo": "Proveedores Aprobados de CE - NSCB",
+                        "url": "https://www.nvcontractorsboard.com/",
+                        "descripcion": "Lista de proveedores de educación continua aprobados"
+                    },
+                    {
+                        "titulo": "RedVector (cursos online CE)",
+                        "url": "https://www.redvector.com/",
+                        "descripcion": "Cursos de CE online aprobados por Nevada"
+                    },
+                    {
+                        "titulo": "CEU.com",
+                        "url": "https://www.ceu.com/",
+                        "descripcion": "Educación continua online para electricistas"
+                    }
+                ]
+            },
+            {
+                "categoria": "Salarios y Empleo",
+                "enlaces": [
+                    {
+                        "titulo": "Bureau of Labor Statistics - Nevada Electricians",
+                        "url": "https://www.bls.gov/oes/current/oes_nv.htm",
+                        "descripcion": "Datos oficiales de salarios de electricistas en Nevada"
+                    },
+                    {
+                        "titulo": "Nevada Department of Employment - Career Info",
+                        "url": "http://nevadaworkforce.com/",
+                        "descripcion": "Información de carreras y outlook de empleo en Nevada"
+                    },
+                    {
+                        "titulo": "Indeed - Electrician Jobs Nevada",
+                        "url": "https://www.indeed.com/q-Electrician-l-Nevada-jobs.html",
+                        "descripcion": "Ofertas de trabajo actuales para electricistas"
+                    }
+                ]
+            },
+            {
+                "categoria": "Organizaciones Profesionales",
+                "enlaces": [
+                    {
+                        "titulo": "IBEW (International Brotherhood of Electrical Workers)",
+                        "url": "https://www.ibew.org/",
+                        "descripcion": "Union de electricistas - locals en Las Vegas y Reno"
+                    },
+                    {
+                        "titulo": "NECA (National Electrical Contractors Association)",
+                        "url": "https://www.necanet.org/",
+                        "descripcion": "Asociación de contratistas eléctricos"
+                    },
+                    {
+                        "titulo": "IEC (Independent Electrical Contractors)",
+                        "url": "https://www.ieci.org/",
+                        "descripcion": "Asociación de contratistas independientes (no-union)"
+                    }
+                ]
+            }
+        ]
+    }
+}

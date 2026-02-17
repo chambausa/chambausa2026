@@ -1,0 +1,753 @@
+{
+    "_meta": {
+        "schema_version": "2.0",
+        "page_id": "licencia-plomero-texas",
+        "oficio": "plomero",
+        "estado": "texas",
+        "last_verified": "2026-02-16",
+        "verified_by": "Claude AI - requiere verificación humana",
+        "notes": "Roadmap de Apprentice → Journeyman → Master Plumber. TSBPE regula plomería en Texas. Examen disponible en español."
+    },
+    "page_seo": {
+        "title": "Licencia de Plomero en Texas 2026: Guía Completa TSBPE y Examen en Español",
+        "meta_description": "Cómo sacar la licencia de plomero en Texas paso a paso. De Apprentice a Journeyman (8,000 horas). Examen disponible en español, requisitos actualizados del TSBPE 2026.",
+        "slug": "licencia-plomero-texas",
+        "canonical_url": "https://chambaenusa.com/licencia-plomero-texas/",
+        "h1": "Licencia de Plomero en Texas",
+        "schema_types": [
+            "HowTo",
+            "FAQPage",
+            "BreadcrumbList"
+        ],
+        "keywords_primary": [
+            "licencia de plomero en texas",
+            "examen de plomero en español texas",
+            "licencia de plomería texas"
+        ],
+        "keywords_secondary": [
+            "tsbpe plomero",
+            "cuanto gana un plomero en texas",
+            "requisitos para licencia de journeyman plomero texas",
+            "renovar licencia de plomero texas"
+        ],
+        "keywords_long_tail": [
+            "como sacar la licencia de plomero en texas sin seguro social",
+            "escuelas de plomería en houston en español",
+            "horas requeridas para maestro plomero texas",
+            "cursos de preparacion para examen plomero en español"
+        ]
+    },
+    "hero": {
+        "ai_generated": true,
+        "badge": "Actualizado 2026",
+        "headline": "Licencia de Plomero en Texas",
+        "subheadline": "Empieza hoy como Apprentice Plumber, avanza a Journeyman en 4 años y gana $55k-$75k/año. El examen estatal está disponible en español sin costo adicional.",
+        "key_stats": [
+            {
+                "label": "Apprentice (Aprendiz)",
+                "value": "Sin Examen",
+                "detail": "Solo registrarte con TSBPE y empezar a trabajar bajo supervisión",
+                "source": "https://www.tsbpe.texas.gov/",
+                "source_name": "TSBPE"
+            },
+            {
+                "label": "Journeyman",
+                "value": "8,000 horas",
+                "detail": "Aproximadamente 4 años de experiencia + examen estatal",
+                "source": "https://www.tsbpe.texas.gov/",
+                "source_name": "TSBPE"
+            },
+            {
+                "label": "Examen en Español",
+                "value": "✅ Sí disponible",
+                "detail": "Journeyman y Master disponibles en español",
+                "source": "https://www.tsbpe.texas.gov/",
+                "source_name": "TSBPE"
+            },
+            {
+                "label": "Salario Journeyman",
+                "value": "$54,850/año",
+                "detail": "Mediana en Texas. Top earners $75,000+",
+                "source": "https://www.bls.gov/oes/current/oes472152.htm",
+                "source_name": "BLS May 2024"
+            }
+        ],
+        "cta_primary": {
+            "text": "Ver Pasos del Camino",
+            "anchor": "#roadmap"
+        },
+        "cta_secondary": {
+            "text": "Ver Salarios",
+            "anchor": "#salarios"
+        }
+    },
+    "callout_espanol": {
+        "ai_generated": true,
+        "type": "highlight_box",
+        "icon": "🔧",
+        "title": "¡El examen de plomero está en español! No dejes que el idioma te detenga",
+        "content": "TSBPE ofrece los exámenes de Journeyman Plumber y Master Plumber en ESPAÑOL a través de PSI. Al programar tu cita en PSI, simplemente selecciona español como idioma del examen. No hay costo adicional. Los códigos de plomería también están disponibles en español.",
+        "source": "https://www.tsbpe.texas.gov/",
+        "source_name": "TSBPE Plumber Exams"
+    },
+    "autoridad_reguladora": {
+        "ai_generated": true,
+        "nombre": "Texas State Board of Plumbing Examiners (TSBPE)",
+        "programa": "Plumber Licensing Program",
+        "direccion": {
+            "calle": "929 East 41st Street",
+            "ciudad": "Austin",
+            "estado": "TX",
+            "cp": "78751",
+            "mailing": "P.O. Box 4200, Austin, TX 78765-4200"
+        },
+        "telefono": {
+            "local": "(512) 936-5200",
+            "toll_free": "(800) 845-6584"
+        },
+        "email": "customer.service@tsbpe.texas.gov",
+        "web": "https://www.tsbpe.texas.gov/",
+        "verificar_licencia": "https://www.tsbpe.texas.gov/verify-license",
+        "source": "https://www.tsbpe.texas.gov/"
+    },
+    "roadmap": {
+        "_description": "Camino profesional del plomero en Texas - Timeline lineal de progresión",
+        "ai_generated": true,
+        "layout": "timeline",
+        "nota_general": "La carrera de plomero en Texas se basa en acumular horas de experiencia práctica bajo la supervisión de un Master Plumber o Journeyman. Puedes empezar sin escuela formal, solo necesitas registrarte como Apprentice y encontrar un empleador.",
+        "tipos": [
+            {
+                "id": "apprentice",
+                "titulo_en": "Plumber Apprentice",
+                "titulo_es": "Aprendiz de Plomero",
+                "es_principal": false,
+                "color_badge": "#3b82f6",
+                "descripcion_corta": "El primer paso. Te permite trabajar y aprender legalmente bajo supervisión. No requiere examen.",
+                "scope_of_work": "Trabajar exclusivamente bajo la supervisión directa de un Journeyman o Master Plumber licenciado. No puedes trabajar independientemente ni sacar permisos.",
+                "requisitos": {
+                    "edad_minima": 16,
+                    "educacion_previa": "Ninguna requerida oficialmente",
+                    "experiencia": "Ninguna",
+                    "examen": "NO requiere examen"
+                },
+                "costos": {
+                    "aplicacion_licencia": 40,
+                    "renovacion_cada_2_años": 40
+                },
+                "como_aplicar": {
+                    "metodo": "En línea o por correo",
+                    "url": "https://www.tsbpe.texas.gov/",
+                    "tiempo_procesamiento": "2-4 semanas",
+                    "pasos": [
+                        "Llenar la aplicación en línea en el portal de TSBPE",
+                        "Pagar $40 con tarjeta de crédito/débito",
+                        "Proveer identificación válida (DL, ID o pasaporte)",
+                        "Recibir tu número de licencia de Apprentice",
+                        "Documentar todas tus horas trabajadas para Journeyman"
+                    ]
+                },
+                "nota": "CRÍTICO: Debes mantener un registro detallado de todas tus horas trabajadas. Necesitarás la firma de tu supervisor Master/Journeyman para validar tu experiencia cuando apliques para Journeyman.",
+                "source": "https://www.tsbpe.texas.gov/"
+            },
+            {
+                "id": "tradesman_plumber_limited",
+                "titulo_en": "Tradesman Plumber-Limited",
+                "titulo_es": "Plomero Comerciante Limitado",
+                "es_principal": false,
+                "color_badge": "#10b981",
+                "descripcion_corta": "Licencia limitada para trabajos residenciales y comerciales menores. Requiere 4,000 horas de experiencia.",
+                "scope_of_work": "Puede trabajar en residencias unifamiliares, duplexes y edificios comerciales pequeños. Restricciones en el tamaño del proyecto.",
+                "requisitos": {
+                    "edad_minima": 18,
+                    "experiencia": "4,000 horas de experiencia documentada bajo un Master o Journeyman Plumber",
+                    "examen": "Aprobar examen de Tradesman Plumber-Limited"
+                },
+                "examen": {
+                    "partes": 1,
+                    "nombre": "Tradesman Plumber-Limited Exam",
+                    "idiomas": [
+                        "Inglés",
+                        "Español"
+                    ],
+                    "administrador": "PSI",
+                    "telefono_psi": "(855) 746-1552",
+                    "url_psi": "https://test-takers.psiexams.com/",
+                    "source": "https://www.tsbpe.texas.gov/"
+                },
+                "costos": {
+                    "aplicacion_licencia": 75,
+                    "examen_escrito": 58,
+                    "total_examenes_y_licencia": 133,
+                    "renovacion_cada_2_años": 75
+                },
+                "como_aplicar": {
+                    "url": "https://www.tsbpe.texas.gov/"
+                },
+                "source": "https://www.tsbpe.texas.gov/"
+            },
+            {
+                "id": "journeyman",
+                "titulo_en": "Journeyman Plumber",
+                "titulo_es": "Oficial Plomero (Journeyman)",
+                "es_principal": true,
+                "color_badge": "#f59e0b",
+                "descripcion_corta": "La meta principal. Licencia completa para trabajar en cualquier proyecto de plomería residencial y comercial sin supervisión directa.",
+                "scope_of_work": "Instalaciones de plomería en cualquier tipo de edificación: comercial, industrial, residencial. Puede trabajar sin supervisión directa pero no puede sacar permisos (requiere Master).",
+                "requisitos": {
+                    "edad_minima": 18,
+                    "experiencia": "8,000 horas de experiencia documentada (aproximadamente 4 años a tiempo completo) bajo un Master Plumber",
+                    "examen": "Aprobar el examen de Journeyman Plumber"
+                },
+                "examen": {
+                    "partes": 1,
+                    "parte_1": {
+                        "nombre": "Journeyman Plumber Exam",
+                        "formato": "Opción múltiple por computadora - Open book (puedes llevar códigos)",
+                        "costo": 58,
+                        "idiomas": [
+                            "Inglés",
+                            "Español"
+                        ],
+                        "puntaje_minimo": "70%",
+                        "cuando_tomarlo": "Después de completar 8,000 horas documentadas",
+                        "contenido_principal": [
+                            "International Plumbing Code (IPC)",
+                            "Uniform Plumbing Code (UPC)",
+                            "Texas State Plumbing Rules",
+                            "Instalación de sistemas de agua y drenaje",
+                            "Ventilación y gas",
+                            "Códigos de seguridad"
+                        ],
+                        "ubicaciones": "Múltiples centros PSI en Texas: Austin, Dallas, Houston, San Antonio, El Paso, etc.",
+                        "e_exam": "También disponible como examen online supervisado"
+                    },
+                    "administrador": "PSI",
+                    "telefono_psi": "(855) 746-1552",
+                    "url_psi": "https://test-takers.psiexams.com/",
+                    "retakes": "Puedes retomar el examen las veces que necesites. Pagas $58 cada intento. Debes esperar 30 días entre intentos.",
+                    "source": "https://www.tsbpe.texas.gov/"
+                },
+                "costos": {
+                    "aplicacion_licencia": 100,
+                    "examen_escrito": 58,
+                    "total_examenes_y_licencia": 158,
+                    "renovacion_cada_2_años": 100,
+                    "ce_horas_cada_2_años": 6
+                },
+                "como_aplicar": {
+                    "metodo": "En línea después de pasar el examen",
+                    "url": "https://www.tsbpe.texas.gov/",
+                    "tiempo_procesamiento": "2-4 semanas después de pasar el examen",
+                    "pasos": [
+                        "Documentar 8,000 horas con formularios firmados por tu Master Plumber supervisor",
+                        "Agendar y aprobar el examen de Journeyman con PSI",
+                        "Aplicar en línea en TSBPE y pagar $100",
+                        "Proveer prueba de experiencia y certificados",
+                        "Esperar procesamiento y recibir licencia"
+                    ]
+                },
+                "source": "https://www.tsbpe.texas.gov/"
+            },
+            {
+                "id": "master",
+                "titulo_en": "Master Plumber",
+                "titulo_es": "Maestro Plomero",
+                "es_principal": false,
+                "color_badge": "#7c3aed",
+                "descripcion_corta": "Nivel experto. Puede supervisar proyectos, diseñar sistemas, ser dueño de compañía de plomería y sacar permisos.",
+                "scope_of_work": "Supervisar el trabajo de otros plomeros, diseñar sistemas de plomería completos, obtener permisos municipales, ser responsable legal de una compañía de plomería.",
+                "requisitos": {
+                    "edad_minima": 18,
+                    "experiencia": "Haber sido Journeyman Plumber por al menos 1 año O 12,000 horas totales de experiencia documentada",
+                    "examen": "Aprobar el examen de Master Plumber"
+                },
+                "examen": {
+                    "partes": 1,
+                    "parte_1": {
+                        "nombre": "Master Plumber Exam",
+                        "formato": "Opción múltiple por computadora - Open book",
+                        "costo": 68,
+                        "idiomas": [
+                            "Inglés",
+                            "Español"
+                        ],
+                        "puntaje_minimo": "70%",
+                        "cuando_tomarlo": "Después de cumplir requisitos de experiencia como Journeyman",
+                        "contenido_principal": [
+                            "Códigos de plomería avanzados (IPC/UPC)",
+                            "Diseño de sistemas de plomería complejos",
+                            "Cálculos de carga y dimensionamiento",
+                            "Códigos de construcción y permisos",
+                            "Gestión de proyectos y supervisión",
+                            "Regulaciones de negocio y responsabilidad legal"
+                        ]
+                    },
+                    "administrador": "PSI",
+                    "telefono_psi": "(855) 746-1552",
+                    "url_psi": "https://test-takers.psiexams.com/",
+                    "source": "https://www.tsbpe.texas.gov/"
+                },
+                "costos": {
+                    "aplicacion_licencia": 150,
+                    "examen_escrito": 68,
+                    "total_examenes_y_licencia": 218,
+                    "renovacion_cada_2_años": 150,
+                    "ce_horas_cada_2_años": 6
+                },
+                "como_aplicar": {
+                    "url": "https://www.tsbpe.texas.gov/"
+                },
+                "source": "https://www.tsbpe.texas.gov/"
+            },
+            {
+                "id": "plumbing_inspector",
+                "titulo_en": "Plumbing Inspector",
+                "titulo_es": "Inspector de Plomería",
+                "es_principal": false,
+                "color_badge": "#6366f1",
+                "descripcion_corta": "Especialización para inspeccionar instalaciones de plomería y verificar cumplimiento de códigos.",
+                "scope_of_work": "Inspeccionar trabajos de plomería para ciudades y municipios. Verificar que las instalaciones cumplan con códigos estatales y locales. No instala, solo inspecciona.",
+                "requisitos": {
+                    "edad_minima": 18,
+                    "experiencia": "Ser Master Plumber o tener 10 años de experiencia como Journeyman",
+                    "examen": "Aprobar examen de Plumbing Inspector"
+                },
+                "examen": {
+                    "partes": 1,
+                    "nombre": "Plumbing Inspector Exam",
+                    "idiomas": [
+                        "Inglés",
+                        "Español"
+                    ],
+                    "administrador": "PSI",
+                    "telefono_psi": "(855) 746-1552",
+                    "url_psi": "https://test-takers.psiexams.com/",
+                    "source": "https://www.tsbpe.texas.gov/"
+                },
+                "costos": {
+                    "aplicacion_licencia": 150,
+                    "examen_escrito": 68,
+                    "total_examenes_y_licencia": 218,
+                    "renovacion_cada_2_años": 150
+                },
+                "source": "https://www.tsbpe.texas.gov/"
+            }
+        ]
+    },
+    "calculadora_inversion": {
+        "ai_generated": true,
+        "_description": "Cálculo de inversión real para obtener licencia de plomero en Texas",
+        "escenarios": [
+            {
+                "id": "journeyman_sin_escuela",
+                "licencia": "Journeyman Plumber (ruta apprentice)",
+                "inversion": {
+                    "licencia_aprendiz_4_anos": "$40 inicial + $40 renovación cada 2 años = $120 total",
+                    "kit_herramientas_basico": "$500-$1,500",
+                    "libros_codigo": "$200-$300 (IPC/UPC, códigos de Texas)",
+                    "curso_preparacion_examen": "$300-$800 (opcional pero recomendado)",
+                    "examen_journeyman": "$58",
+                    "licencia_journeyman": "$100",
+                    "total_minimo": "$1,318",
+                    "total_maximo": "$2,878"
+                },
+                "tiempo": "4-5 años (8,000 horas + tiempo de estudio y examen)",
+                "salario_esperado": {
+                    "empleada": "$45,000-$55,000/año como Journeyman inicial",
+                    "con_experiencia": "$60,000-$75,000/año con 3-5 años de experiencia",
+                    "independiente_booth_rental": "$75,000-$100,000+/año trabajando independiente o con tu propia compañía"
+                },
+                "roi_nota": "Como Apprentice empiezas ganando $12-$18/hr mientras aprendes. A los 4 años como Journeyman puedes ganar $25-$35/hr. La inversión se recupera en menos de 6 meses de trabajo."
+            },
+            {
+                "id": "master_plumber",
+                "licencia": "Master Plumber",
+                "inversion": {
+                    "todo_lo_anterior_journeyman": "$1,318-$2,878",
+                    "experiencia_adicional_1_año": "Costo de oportunidad (ya estás ganando como Journeyman)",
+                    "curso_preparacion_master": "$400-$1,000",
+                    "examen_master": "$68",
+                    "licencia_master": "$150",
+                    "total_estimado": "$2,000-$4,100 adicionales después de Journeyman"
+                },
+                "tiempo": "5-6 años totales (4 años Apprentice + 1-2 años como Journeyman)",
+                "salario_esperado": {
+                    "empleada": "$65,000-$80,000/año como Master empleado",
+                    "con_experiencia": "$80,000-$100,000/año con experiencia",
+                    "independiente_booth_rental": "$90,000-$150,000+/año con tu propia compañía de plomería"
+                },
+                "nota": "Como Master puedes ser dueño de tu compañía, sacar permisos y supervisar a otros plomeros. El potencial de ingresos aumenta significativamente.",
+                "roi_nota": "La inversión adicional de $2,000-$4,000 se recupera rápidamente con el aumento salarial de $15,000-$25,000/año vs Journeyman."
+            }
+        ]
+    },
+    "renovacion": {
+        "ai_generated": true,
+        "frecuencia": "Cada 2 años desde la fecha de emisión",
+        "metodo": "En línea en el portal de TSBPE",
+        "url_renovacion": "https://www.tsbpe.texas.gov/",
+        "costo_renovacion": 100,
+        "ce_requerida": {
+            "horas_totales": 6,
+            "temas": [
+                "Actualizaciones de códigos de plomería (IPC/UPC)",
+                "Nuevas tecnologías en plomería",
+                "Seguridad en el trabajo",
+                "Regulaciones estatales de TSBPE"
+            ],
+            "costo_cursos_ce_online": "$40-$80",
+            "nota": "Debes completar 6 horas de educación continua aprobada por TSBPE antes de cada renovación. Los cursos deben ser de proveedores aprobados.",
+            "url_proveedores": "https://www.tsbpe.texas.gov/"
+        },
+        "consecuencias_no_renovar": {
+            "0_90_dias": "Tarifa normal de renovación",
+            "90_dias_a_1_año": "Tarifa de renovación tardía (1.5x el costo normal)",
+            "mas_1_año": "Licencia expira - debes aplicar nuevamente como si fuera nueva licencia"
+        },
+        "nota_tdlr": "TSBPE envía recordatorios por email y correo postal aproximadamente 60 días antes del vencimiento. Es tu responsabilidad renovar a tiempo aunque no recibas el recordatorio.",
+        "source": "https://www.tsbpe.texas.gov/"
+    },
+    "reciprocidad": {
+        "ai_generated": true,
+        "disponible": true,
+        "nombre_proceso": "Endorsement (Endorso)",
+        "requisitos": [
+            "Tener licencia vigente de Journeyman o Master en otro estado con requisitos equivalentes",
+            "Haber tenido la licencia activa por al menos 1 año",
+            "Proveer verificación oficial de tu estado de origen",
+            "Pasar background check de Texas",
+            "Cumplir con requisitos de educación continua"
+        ],
+        "nota": "Texas evalúa caso por caso las licencias de otros estados. Estados con códigos de plomería similares (IPC/UPC) tienen mayor probabilidad de aprobación. Algunos candidatos pueden necesitar tomar examen parcial o completo dependiendo de las diferencias en códigos.",
+        "url": "https://www.tsbpe.texas.gov/",
+        "experiencia_como_horas": "No aplica - se basa en licencia vigente de otro estado",
+        "source": "https://www.tsbpe.texas.gov/"
+    },
+    "salarios": {
+        "ai_generated": true,
+        "nota_importante": "Los plomeros Journeyman y Master suelen ganar significativamente más que el promedio reportado por el BLS, especialmente con overtime, llamadas de emergencia (pagan tiempo y medio o doble) y trabajo independiente.",
+        "nacional_2024": {
+            "mediana": "$61,550/año",
+            "por_hora_mediana": "$29.59/hr",
+            "percentil_10": "$38,390/año ($18.46/hr)",
+            "percentil_90": "$99,920/año ($48.04/hr)",
+            "crecimiento_proyectado": "6% (2023-2033) - Más rápido que el promedio",
+            "source": "https://www.bls.gov/oes/current/oes472152.htm"
+        },
+        "texas": {
+            "promedio_anual": "$54,850",
+            "promedio_hora": "$26.37",
+            "top_earners": "$78,260+",
+            "source": "BLS Texas May 2024"
+        },
+        "por_ciudad_texas": [
+            {
+                "ciudad": "Houston-The Woodlands-Sugar Land",
+                "salario_medio": "$58,140",
+                "top_earners": "$82,560",
+                "source": "BLS"
+            },
+            {
+                "ciudad": "Dallas-Fort Worth-Arlington",
+                "salario_medio": "$56,970",
+                "top_earners": "$81,730",
+                "source": "BLS"
+            },
+            {
+                "ciudad": "Austin-Round Rock",
+                "salario_medio": "$59,320",
+                "top_earners": "$84,450",
+                "source": "BLS"
+            },
+            {
+                "ciudad": "San Antonio-New Braunfels",
+                "salario_medio": "$50,180",
+                "top_earners": "$71,920",
+                "source": "BLS"
+            },
+            {
+                "ciudad": "El Paso",
+                "salario_medio": "$44,630",
+                "top_earners": "$63,280",
+                "source": "BLS"
+            }
+        ],
+        "ingresos_reales": {
+            "ai_generated": true,
+            "nota": "Los datos del BLS solo capturan salario base de empleados W-2. El ingreso REAL de plomeros incluye:",
+            "factores_adicionales": [
+                "Overtime (tiempo y medio después de 40 horas/semana) - muy común",
+                "Llamadas de emergencia (pagan doble o triple, especialmente noches/fines de semana)",
+                "Trabajos de fin de semana y días festivos (premium pay)",
+                "Trabajo independiente (1099) - cobras directamente al cliente",
+                "Bonos por completar proyectos a tiempo",
+                "Propinas de clientes satisfechos (especialmente en residencial)"
+            ],
+            "estimado_realista": {
+                "recien_licenciada": "Apprentice: $25,000-$38,000/año",
+                "3_5_años_experiencia": "Journeyman: $50,000-$70,000/año (con overtime)",
+                "especialista_o_independiente": "Journeyman independiente o especializado: $70,000-$90,000/año",
+                "dueña_salon": "Master con negocio propio: $85,000-$150,000+/año"
+            }
+        }
+    },
+    "errores_comunes": {
+        "ai_generated": true,
+        "items": [
+            {
+                "error": "No documentar adecuadamente las horas de experiencia como Apprentice",
+                "por_que_importa": "Si trabajas 4 años como Apprentice pero no mantienes un registro detallado firmado por tu supervisor Master/Journeyman, TSBPE puede rechazar tu aplicación para Journeyman. Tus horas deben estar documentadas y verificables. Este es el error #1 más costoso.",
+                "solucion": "Mantén un libro de registro detallado de todas tus horas. Pide a tu supervisor que firme mensualmente. Guarda copias de todo. Usa el formato oficial de TSBPE si está disponible."
+            },
+            {
+                "error": "Trabajar sin licencia de Apprentice válida",
+                "por_que_importa": "Es ilegal trabajar en plomería en Texas sin licencia de TSBPE. Si te encuentran trabajando sin licencia, puedes recibir multas de hasta $5,000 por día, y las horas trabajadas NO contarán para tu Journeyman. Es trabajo perdido.",
+                "solucion": "Obtén tu licencia de Apprentice ($40) antes de tu primer día de trabajo. Mantenla renovada cada 2 años. Es económica y esencial."
+            },
+            {
+                "error": "Estudiar con la edición incorrecta de los códigos de plomería",
+                "por_que_importa": "El examen de Journeyman y Master se basa en ediciones específicas del IPC (International Plumbing Code) y UPC (Uniform Plumbing Code). Si estudias con una edición antigua, fallarás preguntas porque las secciones cambiaron de número o el contenido fue actualizado.",
+                "solucion": "Verifica en el sitio de TSBPE o PSI cuál es la edición vigente de los códigos ANTES de comprar libros o inscribirte en un curso. Compra la edición correcta."
+            },
+            {
+                "error": "No tomar curso de preparación para el examen",
+                "por_que_importa": "El examen de Journeyman es open-book, pero si no sabes cómo navegar rápido los códigos o qué buscar, te quedarás sin tiempo. Muchos reprueban en el primer intento por falta de estrategia, no por falta de conocimiento.",
+                "solucion": "Invierte en un curso de preparación de 4-8 semanas. Te enseñan cómo usar los códigos rápido, qué secciones son críticas y practican con exámenes simulados. Aumenta enormemente tu probabilidad de pasar en el primer intento."
+            },
+            {
+                "error": "Pensar que Tradesman Plumber-Limited es suficiente para todos los trabajos",
+                "por_que_importa": "La licencia de Tradesman está limitada a proyectos residenciales pequeños y comerciales menores. NO puedes trabajar en proyectos comerciales grandes o industriales. Si tu meta es tener más oportunidades laborales, necesitas Journeyman.",
+                "solucion": "Si solo te interesa plomería residencial pequeña, Tradesman es más rápido (4,000 horas). Si quieres máxima flexibilidad laboral, ve directo por Journeyman (8,000 horas)."
+            },
+            {
+                "error": "No renovar a tiempo y dejar que la licencia expire",
+                "por_que_importa": "Si tu licencia expira por más de 1 año, TSBPE la cancela. Tendrás que aplicar nuevamente desde cero, pagar todas las tarifas de nuevo y posiblemente retomar exámenes. Es un retroceso enorme.",
+                "solucion": "Pon un recordatorio en tu teléfono 60 días antes del vencimiento. Renueva cada 2 años. Cuesta $100 + $40-80 del curso de educación continua. Es tu responsabilidad."
+            },
+            {
+                "error": "No completar los 6 créditos de educación continua antes de renovar",
+                "por_que_importa": "TSBPE no renovará tu licencia si no has completado las 6 horas de educación continua requeridas. Sin CE, tu licencia expira automáticamente.",
+                "solucion": "Completa tus cursos de CE 2-3 meses antes de tu fecha de vencimiento. Muchos proveedores ofrecen cursos online económicos ($40-80) que puedes completar en un fin de semana."
+            }
+        ]
+    },
+    "servicios_sin_licencia": {
+        "ai_generated": true,
+        "titulo": "Trabajos de Plomería que NO Requieren Licencia en Texas",
+        "items": [
+            "Reparaciones menores como cambiar un grifo o cabeza de regadera",
+            "Destapar drenajes con desatascador o productos químicos",
+            "Reemplazar el asiento del inodoro",
+            "Conectar mangueras de jardín o lavavajillas portátil"
+        ],
+        "requiere_licencia": [
+            "Cualquier instalación nueva de tuberías de agua o drenaje",
+            "Reemplazar o reparar calentadores de agua (water heaters)",
+            "Instalar sistemas de gas",
+            "Trabajar en líneas de drenaje principales",
+            "Cualquier trabajo que requiera permiso municipal",
+            "Trabajos en propiedades comerciales o de terceros"
+        ],
+        "source": "Texas Occupations Code Chapter 1301"
+    },
+    "faqs": {
+        "ai_generated": true,
+        "items": [
+            {
+                "pregunta": "¿El examen de plomero en Texas está disponible en español?",
+                "respuesta": "Sí. TSBPE ofrece los exámenes de Journeyman Plumber y Master Plumber en español a través de PSI. Al agendar tu cita en el sitio de PSI, selecciona español como idioma del examen. No hay costo adicional. Los códigos de plomería (IPC/UPC) también están disponibles en español.",
+                "source": "TSBPE / PSI"
+            },
+            {
+                "pregunta": "¿Puedo sacar la licencia de plomero con ITIN (sin número de Seguro Social)?",
+                "respuesta": "Sí. TSBPE acepta ITIN para procesar licencias de plomero si no tienes número de Seguro Social, siempre que cumplas con los demás requisitos de identidad y experiencia documentada. Muchos plomeros en Texas usan ITIN.",
+                "source": "TSBPE"
+            },
+            {
+                "pregunta": "¿Necesito ir a una escuela de plomería para ser plomero licenciado?",
+                "respuesta": "No obligatoriamente. En Texas puedes aprender 100% trabajando (On-the-Job Training) bajo un Master Plumber o Journeyman. Sin embargo, tomar cursos de códigos de plomería y preparación para el examen te ayuda enormemente a pasar el examen de Journeyman. Muchos aprueban más rápido si toman un curso de preparación.",
+                "source": "TSBPE"
+            },
+            {
+                "pregunta": "¿Cuánto tiempo se tarda en ser Journeyman Plumber?",
+                "respuesta": "Aproximadamente 4-5 años trabajando tiempo completo (40 horas/semana) para acumular las 8,000 horas requeridas. Si trabajas part-time o hay temporadas lentas, puede tomar más tiempo. Después de las 8,000 horas, debes aprobar el examen de Journeyman.",
+                "source": "TSBPE"
+            },
+            {
+                "pregunta": "¿Cuánto cuesta el examen de Journeyman Plumber?",
+                "respuesta": "El examen de Journeyman cuesta $58 (lo pagas a PSI). Adicionalmente pagas $100 a TSBPE por la aplicación de licencia después de aprobar. Total: $158 para obtener la licencia de Journeyman (sin contar cursos de preparación o libros).",
+                "source": "TSBPE / PSI"
+            },
+            {
+                "pregunta": "¿Puedo retomar el examen si repruebo?",
+                "respuesta": "Sí, puedes retomar el examen. Debes esperar 30 días entre intentos y pagar los $58 nuevamente cada vez. No hay límite en el número de intentos.",
+                "source": "PSI"
+            },
+            {
+                "pregunta": "¿Cada cuánto debo renovar mi licencia de plomero?",
+                "respuesta": "Cada 2 años para todas las licencias (Apprentice, Journeyman, Master). La renovación de Journeyman cuesta $100 y requiere 6 horas de educación continua aprobada por TSBPE. Los cursos de educación continua cuestan entre $40-80 online.",
+                "source": "TSBPE"
+            },
+            {
+                "pregunta": "¿Puedo ser dueño de mi propia compañía de plomería con licencia de Journeyman?",
+                "respuesta": "No. Para ser dueño de una compañía de plomería en Texas y sacar permisos, necesitas licencia de Master Plumber. Como Journeyman puedes trabajar independiente (1099) pero bajo la supervisión legal de una compañía con Master Plumber.",
+                "source": "TSBPE / Texas Occupations Code"
+            },
+            {
+                "pregunta": "¿Cuánto gana un plomero en Texas?",
+                "respuesta": "El salario mediano es $54,850/año según BLS, pero los plomeros experimentados con overtime y trabajo de emergencia ganan $65,000-$85,000/año. Master Plumbers con negocio propio pueden ganar $90,000-$150,000+/año. Como Apprentice empiezas ganando $12-$18/hr.",
+                "source": "BLS May 2024"
+            },
+            {
+                "pregunta": "¿Qué diferencia hay entre Tradesman Plumber-Limited y Journeyman Plumber?",
+                "respuesta": "Tradesman Plumber-Limited solo puede trabajar en residencias unifamiliares y proyectos comerciales pequeños (requiere 4,000 horas). Journeyman Plumber puede trabajar en cualquier tipo de proyecto sin restricciones (requiere 8,000 horas). Journeyman tiene más oportunidades laborales.",
+                "source": "TSBPE"
+            }
+        ]
+    },
+    "links_oficiales": {
+        "ai_generated": true,
+        "items": [
+            {
+                "nombre": "TSBPE - Texas State Board of Plumbing Examiners",
+                "url": "https://www.tsbpe.texas.gov/",
+                "descripcion": "Página oficial del ente regulador de plomería en Texas"
+            },
+            {
+                "nombre": "Aplicaciones de Licencia (Todos los Niveles)",
+                "url": "https://www.tsbpe.texas.gov/",
+                "descripcion": "Aplicar para Apprentice, Journeyman, Master o Tradesman"
+            },
+            {
+                "nombre": "Información de Exámenes",
+                "url": "https://www.tsbpe.texas.gov/",
+                "descripcion": "Detalles de exámenes, contenido y preparación"
+            },
+            {
+                "nombre": "PSI Testing Centers - Agendar Examen",
+                "url": "https://test-takers.psiexams.com/",
+                "descripcion": "Sitio oficial de PSI para agendar tu examen. Tel: (855) 746-1552"
+            },
+            {
+                "nombre": "Verificar Licencia de Plomero",
+                "url": "https://www.tsbpe.texas.gov/verify-license",
+                "descripcion": "Buscar si alguien tiene licencia vigente de TSBPE"
+            },
+            {
+                "nombre": "Renovar Licencia",
+                "url": "https://www.tsbpe.texas.gov/",
+                "descripcion": "Renovación en línea para todas las licencias"
+            },
+            {
+                "nombre": "Educación Continua - Proveedores Aprobados",
+                "url": "https://www.tsbpe.texas.gov/",
+                "descripcion": "Lista de proveedores aprobados de cursos de educación continua"
+            },
+            {
+                "nombre": "Formularios y Documentos",
+                "url": "https://www.tsbpe.texas.gov/",
+                "descripcion": "Descargar formularios de aplicación, reporte de horas, etc."
+            },
+            {
+                "nombre": "BLS - Datos de Empleo Plomeros",
+                "url": "https://www.bls.gov/oes/current/oes472152.htm",
+                "descripcion": "Salarios oficiales y proyecciones de empleo (Bureau of Labor Statistics)"
+            },
+            {
+                "nombre": "Contacto TSBPE",
+                "url": "https://www.tsbpe.texas.gov/",
+                "descripcion": "Teléfonos, emails y dirección física de TSBPE"
+            },
+            {
+                "nombre": "Códigos de Plomería de Texas",
+                "url": "https://www.tsbpe.texas.gov/",
+                "descripcion": "Acceso a IPC, UPC y reglas estatales de plomería"
+            }
+        ]
+    },
+    "enlaces_utiles": {
+        "ai_generated": true,
+        "enlaces": [
+            {
+                "categoria": "Autoridad Reguladora",
+                "enlaces": [
+                    {
+                        "titulo": "TSBPE - Texas State Board of Plumbing Examiners",
+                        "url": "https://www.tsbpe.texas.gov/",
+                        "descripcion": "Sitio oficial del ente regulador de plomería en Texas"
+                    },
+                    {
+                        "titulo": "Aplicar para Licencia",
+                        "url": "https://www.tsbpe.texas.gov/",
+                        "descripcion": "Portal de aplicaciones para todas las licencias"
+                    },
+                    {
+                        "titulo": "Verificar Licencia",
+                        "url": "https://www.tsbpe.texas.gov/verify-license",
+                        "descripcion": "Buscar licencias vigentes de plomeros en Texas"
+                    }
+                ]
+            },
+            {
+                "categoria": "Exámenes",
+                "enlaces": [
+                    {
+                        "titulo": "PSI - Agendar Examen",
+                        "url": "https://test-takers.psiexams.com/",
+                        "descripcion": "Programar tu examen de Journeyman o Master (Tel: 855-746-1552)"
+                    },
+                    {
+                        "titulo": "Información de Exámenes TSBPE",
+                        "url": "https://www.tsbpe.texas.gov/",
+                        "descripcion": "Contenido, formato y requisitos de exámenes"
+                    }
+                ]
+            },
+            {
+                "categoria": "Educación y Preparación",
+                "enlaces": [
+                    {
+                        "titulo": "Proveedores de Educación Continua",
+                        "url": "https://www.tsbpe.texas.gov/",
+                        "descripcion": "Cursos aprobados de CE para renovación"
+                    },
+                    {
+                        "titulo": "Códigos de Plomería",
+                        "url": "https://www.tsbpe.texas.gov/",
+                        "descripcion": "IPC, UPC y reglas estatales de Texas"
+                    }
+                ]
+            },
+            {
+                "categoria": "Datos de Empleo y Salarios",
+                "enlaces": [
+                    {
+                        "titulo": "BLS - Plumbers Data",
+                        "url": "https://www.bls.gov/oes/current/oes472152.htm",
+                        "descripcion": "Estadísticas oficiales de empleo y salarios de plomeros"
+                    },
+                    {
+                        "titulo": "Texas Workforce Commission",
+                        "url": "https://www.twc.texas.gov/",
+                        "descripcion": "Datos de empleo y oportunidades en Texas"
+                    }
+                ]
+            },
+            {
+                "categoria": "Asociaciones Profesionales",
+                "enlaces": [
+                    {
+                        "titulo": "Plumbing-Heating-Cooling Contractors Association",
+                        "url": "https://www.phccweb.org/",
+                        "descripcion": "Asociación nacional de contratistas de plomería"
+                    },
+                    {
+                        "titulo": "United Association (UA)",
+                        "url": "https://www.ua.org/",
+                        "descripcion": "Sindicato de plomeros y pipefitters"
+                    }
+                ]
+            }
+        ]
+    }
+}

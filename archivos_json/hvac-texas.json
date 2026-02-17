@@ -1,0 +1,863 @@
+{
+    "_meta": {
+        "schema_version": "2.0",
+        "page_id": "licencia-hvac-texas",
+        "oficio": "hvac",
+        "estado": "texas",
+        "last_verified": "2026-02-16",
+        "verified_by": "Claude AI - requiere verificación humana",
+        "notes": "Roadmap de Aprendiz → Técnico → Contratista. Examen NO disponible en español. TDLR regula HVAC en Texas."
+    },
+    "page_seo": {
+        "title": "Licencia de HVAC en Texas 2026: Guía Completa TDLR, Requisitos y Examen",
+        "meta_description": "Cómo sacar la licencia de técnico HVAC en Texas paso a paso. Requisitos, examen, costos y salarios actualizados 2026. Guía completa para hispanohablantes.",
+        "slug": "licencia-hvac-texas",
+        "canonical_url": "https://chambaenusa.com/licencia-hvac-texas/",
+        "h1": "Licencia de HVAC en Texas",
+        "schema_types": [
+            "HowTo",
+            "FAQPage",
+            "BreadcrumbList"
+        ],
+        "keywords_primary": [
+            "licencia de hvac en texas",
+            "como sacar licencia de aire acondicionado en texas",
+            "requisitos para licencia hvac texas"
+        ],
+        "keywords_secondary": [
+            "tdlr hvac",
+            "cuanto gana un tecnico hvac en texas",
+            "examen hvac texas",
+            "escuelas de hvac en texas"
+        ],
+        "keywords_long_tail": [
+            "como sacar licencia de hvac en texas sin experiencia",
+            "escuelas de aire acondicionado en houston para hispanos",
+            "cuanto cuesta la licencia de hvac en texas",
+            "licencia de contratista hvac texas requisitos"
+        ]
+    },
+    "hero": {
+        "ai_generated": true,
+        "badge": "Actualizado 2026",
+        "headline": "Licencia de Técnico HVAC en Texas",
+        "subheadline": "Carrera estable con alta demanda. Gana $45k-$65k/año como técnico certificado. Texas requiere certificación EPA + licencia TDLR para trabajar legalmente en aire acondicionado y calefacción.",
+        "key_stats": [
+            {
+                "label": "Certificación EPA",
+                "value": "Requerida",
+                "detail": "Universal Type II o Universal para trabajar con refrigerantes. Examen de $150-200",
+                "source": "https://www.epa.gov/section608",
+                "source_name": "EPA"
+            },
+            {
+                "label": "Licencia TDLR",
+                "value": "Technician o Contractor",
+                "detail": "Technician para trabajar. Contractor para tener negocio propio.",
+                "source": "https://www.tdlr.texas.gov/ac/ac.htm",
+                "source_name": "TDLR"
+            },
+            {
+                "label": "Experiencia Requerida",
+                "value": "48 meses",
+                "detail": "4 años de experiencia O combinación de escuela + experiencia",
+                "source": "https://www.tdlr.texas.gov/ac/ac.htm",
+                "source_name": "TDLR"
+            },
+            {
+                "label": "Salario Mediano Texas",
+                "value": "$52,000/año",
+                "detail": "Top earners $75,000+. Overtime y llamadas de emergencia aumentan ingresos.",
+                "source": "https://www.bls.gov/oes/current/oes499021.htm",
+                "source_name": "BLS 2024"
+            }
+        ],
+        "cta_primary": {
+            "text": "Ver Pasos del Camino",
+            "anchor": "#roadmap"
+        },
+        "cta_secondary": {
+            "text": "Ver Salarios",
+            "anchor": "#salarios"
+        }
+    },
+    "callout_espanol": {
+        "ai_generated": true,
+        "type": "warning_box",
+        "icon": "⚠️",
+        "title": "IMPORTANTE: El examen de HVAC en Texas NO está disponible en español",
+        "content": "Los exámenes de TDLR para técnicos y contratistas de HVAC solo se ofrecen en INGLÉS. Debes tener nivel de inglés técnico para leer manuales, entender códigos de construcción y comunicarte con clientes. Sin embargo, muchas escuelas técnicas en Texas ofrecen clases en español o bilingües para prepararte. No dejes que el idioma te detenga - con preparación puedes aprobar.",
+        "source": "https://www.tdlr.texas.gov/ac/ac.htm",
+        "source_name": "TDLR Air Conditioning and Refrigeration"
+    },
+    "autoridad_reguladora": {
+        "ai_generated": true,
+        "nombre": "Texas Department of Licensing and Regulation (TDLR)",
+        "programa": "Air Conditioning and Refrigeration Contractors Program",
+        "direccion": {
+            "calle": "920 Colorado Street",
+            "ciudad": "Austin",
+            "estado": "TX",
+            "cp": "78701",
+            "mailing": "P.O. Box 12157, Austin, TX 78711"
+        },
+        "telefono": {
+            "local": "(512) 463-6599",
+            "toll_free": "(800) 803-9202",
+            "tdd": "(800) 735-2989"
+        },
+        "email": "customer.service@tdlr.texas.gov",
+        "web": "https://www.tdlr.texas.gov/ac/ac.htm",
+        "verificar_licencia": "https://www.tdlr.texas.gov/LicenseSearch/",
+        "source": "https://www.tdlr.texas.gov/ac/contact.htm"
+    },
+    "roadmap": {
+        "_description": "Camino profesional del técnico HVAC en Texas - Timeline de progresión",
+        "ai_generated": true,
+        "layout": "timeline",
+        "nota_general": "En Texas, para trabajar legalmente en HVAC necesitas DOS credenciales: (1) Certificación EPA para manejar refrigerantes, y (2) Licencia TDLR (Technician o Contractor). La mayoría comienza con certificación EPA + escuela técnica, luego acumula experiencia para obtener licencia TDLR.",
+        "tipos": [
+            {
+                "id": "epa_certification",
+                "titulo_en": "EPA Section 608 Certification",
+                "titulo_es": "Certificación EPA (Refrigerantes)",
+                "es_principal": true,
+                "color_badge": "#10b981",
+                "descripcion_corta": "Certificación federal OBLIGATORIA para trabajar con refrigerantes. Sin esto, no puedes tocar sistemas de AC legalmente.",
+                "scope_of_work": "Permite instalar, reparar, mantener y desechar sistemas que contienen refrigerantes regulados por la EPA (todos los sistemas de AC y refrigeración modernos).",
+                "requisitos": {
+                    "edad_minima": 18,
+                    "educacion_previa": "Ninguna oficialmente requerida, pero se recomienda tomar curso preparatorio",
+                    "experiencia": "Ninguna requerida",
+                    "examen": "Aprobar examen EPA Section 608"
+                },
+                "examen": {
+                    "partes": 4,
+                    "nombre": "EPA Section 608 Technician Certification",
+                    "administrador": "Organizaciones aprobadas por EPA (ESCO, HVAC Excellence, etc.)",
+                    "idiomas": [
+                        "Inglés"
+                    ],
+                    "parte_1": {
+                        "nombre": "Core (Núcleo)",
+                        "formato": "Opción múltiple - 25 preguntas",
+                        "puntaje_minimo": "70%",
+                        "cuando_tomarlo": "Obligatorio para todos los tipos de certificación",
+                        "contenido_principal": [
+                            "Leyes de la EPA sobre refrigerantes",
+                            "Protección del ozono y calentamiento global",
+                            "Recuperación y reciclaje de refrigerantes",
+                            "Seguridad y manejo de cilindros"
+                        ]
+                    },
+                    "nota": "Tipos de certificación EPA: Type I (electrodomésticos pequeños), Type II (sistemas high-pressure como AC), Type III (sistemas low-pressure), Universal (todos los tipos). La mayoría de técnicos HVAC necesitan Type II o Universal.",
+                    "costo": 150,
+                    "source": "https://www.epa.gov/section608"
+                },
+                "costos": {
+                    "examen_escrito": 150,
+                    "total_examenes_y_licencia": 150
+                },
+                "como_aplicar": {
+                    "metodo": "A través de organizaciones certificadoras aprobadas por EPA",
+                    "url": "https://www.epa.gov/section608/section-608-technician-certification",
+                    "tiempo_procesamiento": "Resultados inmediatos o en 1-2 semanas",
+                    "pasos": [
+                        "Tomar curso preparatorio (recomendado) - online o presencial",
+                        "Registrarte con una organización certificadora (ESCO, HVAC Excellence, etc.)",
+                        "Agendar y tomar el examen",
+                        "Recibir certificado EPA (válido de por vida)"
+                    ]
+                },
+                "nota": "Esta certificación EPA es FEDERAL y válida en todos los estados de USA. No caduca - es de por vida.",
+                "source": "https://www.epa.gov/section608"
+            },
+            {
+                "id": "registered_technician",
+                "titulo_en": "Registered Technician (TDLR)",
+                "titulo_es": "Técnico Registrado",
+                "es_principal": false,
+                "color_badge": "#3b82f6",
+                "descripcion_corta": "Primer nivel de licencia TDLR. Te permite trabajar bajo la supervisión de un contratista licenciado.",
+                "scope_of_work": "Instalar, mantener y reparar sistemas HVAC bajo supervisión directa de un Air Conditioning Contractor licenciado. No puedes trabajar solo ni obtener permisos.",
+                "requisitos": {
+                    "edad_minima": 18,
+                    "educacion_previa": "Diploma de high school o equivalente (GED)",
+                    "experiencia": "18 meses de experiencia práctica en HVAC",
+                    "licencia_previa": "Certificación EPA Section 608",
+                    "examen": "No requiere examen TDLR"
+                },
+                "costos": {
+                    "aplicacion_licencia": 25,
+                    "renovacion_cada_2_años": 25
+                },
+                "como_aplicar": {
+                    "metodo": "En línea o por correo",
+                    "url": "https://www.tdlr.texas.gov/ac/acapplications.htm",
+                    "tiempo_procesamiento": "2-4 semanas",
+                    "pasos": [
+                        "Obtener certificación EPA primero",
+                        "Documentar 18 meses de experiencia (carta de empleador)",
+                        "Aplicar en línea en portal de TDLR",
+                        "Pagar $25 con tarjeta",
+                        "Esperar aprobación (2-4 semanas)"
+                    ]
+                },
+                "nota": "Este nivel es opcional. Muchos técnicos trabajan acumulando experiencia sin registrarse hasta que estén listos para el examen de Technician.",
+                "source": "https://www.tdlr.texas.gov/ac/acapplications.htm"
+            },
+            {
+                "id": "technician",
+                "titulo_en": "Air Conditioning & Refrigeration Technician",
+                "titulo_es": "Técnico de Aire Acondicionado y Refrigeración",
+                "es_principal": true,
+                "color_badge": "#f59e0b",
+                "descripcion_corta": "Licencia principal para trabajar como técnico HVAC en Texas. Requiere experiencia y examen estatal.",
+                "scope_of_work": "Instalar, mantener, modificar y reparar sistemas de aire acondicionado, calefacción y refrigeración. Puede trabajar de forma independiente bajo una compañía con contratista licenciado.",
+                "requisitos": {
+                    "edad_minima": 18,
+                    "educacion_previa": "Diploma de high school o equivalente (GED)",
+                    "experiencia": "48 meses (4 años) de experiencia práctica verificable en HVAC",
+                    "licencia_previa": "Certificación EPA Section 608 Type II o Universal",
+                    "examen": "Aprobar examen de Technician de TDLR"
+                },
+                "examen": {
+                    "partes": 1,
+                    "parte_1": {
+                        "nombre": "AC & Refrigeration Technician Exam",
+                        "formato": "Opción múltiple por computadora - 100 preguntas",
+                        "costo": 78,
+                        "idiomas": [
+                            "Inglés"
+                        ],
+                        "puntaje_minimo": "75%",
+                        "cuando_tomarlo": "Después de completar 48 meses de experiencia",
+                        "contenido_principal": [
+                            "Fundamentos de refrigeración y ciclo de refrigeración",
+                            "Electricidad aplicada a HVAC (circuitos, motores, controles)",
+                            "Sistemas de calefacción (gas, eléctricos, bombas de calor)",
+                            "Códigos y estándares de Texas (TAC Title 16)",
+                            "Diagnóstico y resolución de problemas",
+                            "Seguridad eléctrica y manejo de refrigerantes"
+                        ],
+                        "ubicaciones": "Centros PSI en Texas: Austin, Dallas, Houston, San Antonio, etc.",
+                        "e_exam": "También disponible online supervisado (E-Exam)"
+                    },
+                    "administrador": "PSI Services LLC",
+                    "telefono_psi": "(855) 746-1552",
+                    "url_psi": "https://test-takers.psiexams.com/tdlr",
+                    "retakes": "Puedes retomar el examen pagando $78 cada vez. No hay límite de intentos ni periodo de espera mínimo.",
+                    "source": "https://www.tdlr.texas.gov/ac/acexam.htm"
+                },
+                "costos": {
+                    "aplicacion_licencia": 60,
+                    "examen_escrito": 78,
+                    "total_examenes_y_licencia": 138,
+                    "renovacion_cada_2_años": 60
+                },
+                "como_aplicar": {
+                    "metodo": "En línea después de aprobar examen",
+                    "url": "https://www.tdlr.texas.gov/ac/acapplications.htm",
+                    "tiempo_procesamiento": "2-4 semanas después de pasar examen",
+                    "pasos": [
+                        "Documentar 48 meses de experiencia (cartas de empleadores)",
+                        "Obtener certificación EPA primero",
+                        "Agendar y aprobar examen de Technician con PSI",
+                        "Aplicar en línea en TDLR y pagar $60",
+                        "Esperar procesamiento (2-4 semanas)",
+                        "Recibir licencia por correo"
+                    ]
+                },
+                "nota": "Con esta licencia puedes trabajar como técnico para cualquier compañía HVAC en Texas, pero NO puedes ser dueño de tu propia compañía contratista.",
+                "source": "https://www.tdlr.texas.gov/ac/acapplications.htm"
+            },
+            {
+                "id": "contractor",
+                "titulo_en": "Air Conditioning & Refrigeration Contractor",
+                "titulo_es": "Contratista de Aire Acondicionado",
+                "es_principal": false,
+                "color_badge": "#7c3aed",
+                "descripcion_corta": "Nivel más alto. Permite ser dueño de compañía HVAC, obtener permisos y supervisar técnicos.",
+                "scope_of_work": "Operar negocio de contratación HVAC, obtener permisos municipales, supervisar técnicos y aprendices, firmar contratos comerciales. Responsable legalmente de todo el trabajo realizado.",
+                "requisitos": {
+                    "edad_minima": 18,
+                    "educacion_previa": "Diploma de high school o equivalente (GED)",
+                    "experiencia": "48 meses como Technician licenciado O 4 años de experiencia como contratista en otro estado",
+                    "licencia_previa": "Certificación EPA + debe tener o contratar Technician licenciado",
+                    "examen": "Aprobar examen de Contractor de TDLR"
+                },
+                "examen": {
+                    "partes": 1,
+                    "parte_1": {
+                        "nombre": "AC & Refrigeration Contractor Exam",
+                        "formato": "Opción múltiple por computadora - 100 preguntas",
+                        "costo": 78,
+                        "idiomas": [
+                            "Inglés"
+                        ],
+                        "puntaje_minimo": "75%",
+                        "cuando_tomarlo": "Después de cumplir requisitos de experiencia",
+                        "contenido_principal": [
+                            "Leyes de Texas y regulaciones TDLR (TAC Title 16)",
+                            "Códigos de construcción y permisos",
+                            "Gestión de negocios y contratos",
+                            "Responsabilidad legal y seguros",
+                            "Supervisión de empleados y seguridad",
+                            "Códigos eléctricos y mecánicos aplicables"
+                        ],
+                        "ubicaciones": "Centros PSI en Texas",
+                        "e_exam": "Disponible online supervisado"
+                    },
+                    "administrador": "PSI Services LLC",
+                    "telefono_psi": "(855) 746-1552",
+                    "url_psi": "https://test-takers.psiexams.com/tdlr",
+                    "source": "https://www.tdlr.texas.gov/ac/acexam.htm"
+                },
+                "costos": {
+                    "aplicacion_licencia": 180,
+                    "examen_escrito": 78,
+                    "total_examenes_y_licencia": 258,
+                    "renovacion_cada_2_años": 180
+                },
+                "como_aplicar": {
+                    "metodo": "En línea o por correo",
+                    "url": "https://www.tdlr.texas.gov/ac/acapplications.htm",
+                    "tiempo_procesamiento": "4-6 semanas",
+                    "pasos": [
+                        "Cumplir requisitos de experiencia como Technician",
+                        "Aprobar examen de Contractor con PSI",
+                        "Obtener seguro de responsabilidad civil ($300,000 mínimo)",
+                        "Registrar nombre de negocio si aplica",
+                        "Aplicar en línea en TDLR y pagar $180",
+                        "Esperar aprobación (4-6 semanas)"
+                    ]
+                },
+                "nota": "Requiere seguro de responsabilidad civil de $300,000 y bond de $10,000. La licencia de Contractor es para la COMPAÑÍA, no solo para ti. Si cambias de compañía o cierras, debes notificar a TDLR.",
+                "source": "https://www.tdlr.texas.gov/ac/acapplications.htm"
+            }
+        ]
+    },
+    "calculadora_inversion": {
+        "ai_generated": true,
+        "_description": "Costos reales para obtener licencia HVAC en Texas",
+        "escenarios": [
+            {
+                "id": "technician_con_escuela",
+                "licencia": "Technician (ruta con escuela técnica)",
+                "inversion": {
+                    "escuela_rango": "$3,000 - $15,000",
+                    "escuela_nota": "Programas de 6-18 meses en community colleges o escuelas técnicas. Los community colleges son más baratos ($3k-5k). Escuelas privadas $8k-15k.",
+                    "certificacion_epa": "$150 - $250",
+                    "kit_herramientas_basico": "$500 - $1,500",
+                    "kit_nota": "Multímetro, manifold gauges, herramientas básicas. Algunos empleadores proveen herramientas.",
+                    "examen_technician_psi": "$78",
+                    "aplicacion_licencia": "$60",
+                    "total_minimo": "$3,788",
+                    "total_maximo": "$16,888"
+                },
+                "tiempo": "12-24 meses (6-12 meses escuela + 6-12 meses experiencia adicional para cumplir 48 meses totales)",
+                "salario_esperado": {
+                    "empleada": "$35,000 - $45,000/año durante aprendizaje",
+                    "con_experiencia": "$50,000 - $65,000/año como Technician licenciado",
+                    "nota": "Overtime y llamadas de emergencia pueden aumentar ingresos 20-30%"
+                },
+                "roi_nota": "La escuela acorta el tiempo de aprendizaje y mejora tus posibilidades de pasar el examen. Inversión se recupera en 1-2 años."
+            },
+            {
+                "id": "technician_sin_escuela",
+                "licencia": "Technician (ruta sin escuela - solo experiencia)",
+                "inversion": {
+                    "escuela_rango": "$0",
+                    "escuela_nota": "No asistes a escuela formal. Aprendes trabajando (OJT) durante 4 años completos.",
+                    "certificacion_epa": "$150 - $250",
+                    "curso_preparacion_examen": "$300 - $800",
+                    "kit_herramientas_basico": "$500 - $1,500",
+                    "examen_technician_psi": "$78",
+                    "aplicacion_licencia": "$60",
+                    "total_minimo": "$1,088",
+                    "total_maximo": "$2,688"
+                },
+                "tiempo": "48 meses (4 años) de experiencia trabajando a tiempo completo",
+                "salario_esperado": {
+                    "empleada": "$30,000 - $40,000/año durante primeros 2 años",
+                    "con_experiencia": "$45,000 - $60,000/año después de licencia"
+                },
+                "nota": "Ruta más lenta pero menos costosa. CRÍTICO: Debes estudiar por tu cuenta para el examen estatal. Muchos reprueban en el primer intento sin preparación formal.",
+                "roi_nota": "Empiezas a ganar desde el día 1, pero toma 4 años completos para calificar para el examen."
+            },
+            {
+                "id": "contractor",
+                "licencia": "Contractor (después de ser Technician)",
+                "inversion": {
+                    "examen_contractor_psi": "$78",
+                    "aplicacion_licencia": "$180",
+                    "seguro_responsabilidad_civil": "$1,500 - $3,000/año",
+                    "bond": "$200 - $500/año",
+                    "registro_negocio": "$300 - $500",
+                    "total_estimado": "$2,258 - $4,258 (primer año)"
+                },
+                "tiempo": "Después de 4 años como Technician licenciado (total 8 años desde cero)",
+                "salario_esperado": {
+                    "empleada": "No aplica - eres dueño de negocio",
+                    "independiente_booth_rental": "$60,000 - $100,000/año como contratista pequeño",
+                    "dueña_salon": "$80,000 - $150,000+/año con negocio establecido y varios técnicos"
+                },
+                "nota": "Ser Contractor implica responsabilidad legal, seguros costosos y gestión de negocio. No es solo técnico - eres empresario."
+            }
+        ]
+    },
+    "renovacion": {
+        "ai_generated": true,
+        "frecuencia": "Cada año (anualmente) para todas las licencias HVAC en Texas",
+        "metodo": "En línea en el portal de TDLR",
+        "url_renovacion": "https://www.tdlr.texas.gov/ac/acapplications.htm",
+        "costo_renovacion": 60,
+        "ce_requerida": {
+            "horas_totales": 0,
+            "nota": "Texas NO requiere educación continua (CE) para renovar licencias de HVAC. Solo debes pagar la tarifa de renovación y mantener tu certificación EPA vigente (la cual es de por vida)."
+        },
+        "consecuencias_no_renovar": {
+            "0_90_dias": "Tarifa normal de renovación ($60 para Technician, $180 para Contractor)",
+            "90_dias_a_1_año": "Tarifa de renovación tardía (1.5x) + posible multa",
+            "mas_1_año": "Licencia expira permanentemente - debes aplicar como si fuera nueva licencia y retomar examen"
+        },
+        "nota_tdlr": "TDLR envía recordatorio de renovación por email ~60 días antes del vencimiento. Es tu responsabilidad renovar a tiempo. Si trabajas sin licencia vigente, puedes recibir multas de hasta $5,000 por día.",
+        "source": "https://www.tdlr.texas.gov/ac/acapplications.htm"
+    },
+    "reciprocidad": {
+        "ai_generated": true,
+        "disponible": false,
+        "nombre_proceso": "No hay reciprocidad automática",
+        "requisitos": [
+            "Texas NO tiene acuerdos de reciprocidad para licencias HVAC",
+            "Si tienes licencia de otro estado, debes aplicar como nuevo candidato",
+            "Tu experiencia de otro estado SÍ cuenta para cumplir los 48 meses requeridos",
+            "Debes aprobar el examen de Texas (leyes y códigos específicos de TX)"
+        ],
+        "nota": "A diferencia de electricistas, HVAC en Texas no tiene reciprocidad con ningún estado. Sin embargo, tu experiencia laboral en otro estado cuenta para los requisitos de experiencia - solo necesitas documentarla con cartas de empleadores. Debes tomar el examen de Texas porque cubre leyes y códigos específicos del estado.",
+        "url": "https://www.tdlr.texas.gov/ac/acapplications.htm",
+        "experiencia_como_horas": "Experiencia de otro estado cuenta para los 48 meses requeridos si está debidamente documentada",
+        "source": "https://www.tdlr.texas.gov/ac/acapplications.htm"
+    },
+    "salarios": {
+        "ai_generated": true,
+        "nota_importante": "Los técnicos HVAC suelen ganar significativamente más que el promedio reportado por BLS debido a overtime (muy común en verano), llamadas de emergencia (pagan tiempo y medio o doble), y comisiones por ventas de sistemas nuevos.",
+        "nacional_2024": {
+            "mediana": "$57,300/año",
+            "por_hora_mediana": "$27.55/hr",
+            "percentil_10": "$36,680/año ($17.64/hr)",
+            "percentil_90": "$89,220/año ($42.89/hr)",
+            "crecimiento_proyectado": "6% (2023-2033) - Más rápido que el promedio",
+            "source": "https://www.bls.gov/oes/current/oes499021.htm"
+        },
+        "texas": {
+            "promedio_anual": "$52,170",
+            "promedio_hora": "$25.08",
+            "top_earners": "$75,680+",
+            "source": "BLS Texas May 2024"
+        },
+        "por_ciudad_texas": [
+            {
+                "ciudad": "Houston-The Woodlands-Sugar Land",
+                "salario_medio": "$53,840",
+                "top_earners": "$78,120",
+                "source": "BLS May 2024"
+            },
+            {
+                "ciudad": "Dallas-Fort Worth-Arlington",
+                "salario_medio": "$54,290",
+                "top_earners": "$79,350",
+                "source": "BLS May 2024"
+            },
+            {
+                "ciudad": "Austin-Round Rock",
+                "salario_medio": "$55,670",
+                "top_earners": "$76,890",
+                "source": "BLS May 2024"
+            },
+            {
+                "ciudad": "San Antonio-New Braunfels",
+                "salario_medio": "$48,920",
+                "top_earners": "$70,540",
+                "source": "BLS May 2024"
+            },
+            {
+                "ciudad": "El Paso",
+                "salario_medio": "$44,380",
+                "top_earners": "$64,210",
+                "source": "BLS May 2024"
+            }
+        ],
+        "ingresos_reales": {
+            "ai_generated": true,
+            "nota": "Los datos del BLS solo capturan salario base de empleados W-2. El ingreso REAL de técnicos HVAC incluye:",
+            "factores_adicionales": [
+                "Overtime (tiempo y medio) - MUY común en verano (junio-septiembre en Texas)",
+                "Llamadas de emergencia nocturnas/fin de semana (pagan doble o más)",
+                "Comisiones por vender sistemas nuevos ($500-2,000 por venta)",
+                "Bonos por cumplir metas de servicio o satisfacción del cliente",
+                "Propinas de clientes residenciales satisfechos",
+                "Per diem para trabajos comerciales fuera de la ciudad",
+                "Pago de camioneta de compañía o gasolina"
+            ],
+            "estimado_realista": {
+                "recien_licenciada": "Aprendiz sin licencia: $30,000 - $40,000/año",
+                "3_5_años_experiencia": "Technician licenciado: $50,000 - $70,000/año (con overtime y comisiones)",
+                "especialista_o_independiente": "Technician senior o especialista comercial: $65,000 - $85,000/año",
+                "dueña_salon": "Contractor con negocio propio: $80,000 - $150,000+/año (depende de tamaño de compañía)"
+            }
+        }
+    },
+    "errores_comunes": {
+        "ai_generated": true,
+        "items": [
+            {
+                "error": "No obtener certificación EPA ANTES de buscar trabajo",
+                "por_que_importa": "Es ILEGAL tocar refrigerantes sin certificación EPA federal. Ningún empleador te contratará sin ella. Si trabajas sin certificación EPA y te descubren, TÚ puedes recibir multas personales de hasta $10,000 por violación. Es lo primero que debes sacar.",
+                "solucion": "Obtén certificación EPA Section 608 Type II o Universal ANTES de aplicar a trabajos. Cuesta $150-200, toma 1-2 semanas, y es válida de por vida. Muchas escuelas técnicas incluyen el examen EPA en su programa."
+            },
+            {
+                "error": "No documentar tus horas de experiencia con cartas firmadas de empleadores",
+                "por_que_importa": "TDLR requiere PRUEBA escrita de tus 48 meses de experiencia. Si trabajaste 4 años pero no tienes cartas firmadas de tus supervisores o empleadores, oficialmente tienes CERO experiencia documentada. No podrás tomar el examen de Technician.",
+                "solucion": "Cada vez que cambies de trabajo o cada año, pide una carta firmada a tu supervisor/empleador detallando: fechas de empleo, horas trabajadas, tipo de trabajo realizado. Guarda copias digitales y físicas. Si tu empleador cierra o desaparece, perdiste esa documentación para siempre."
+            },
+            {
+                "error": "Pensar que la certificación EPA es lo mismo que la licencia TDLR",
+                "por_que_importa": "Son DOS credenciales SEPARADAS y AMBAS son obligatorias en Texas. EPA es federal (para refrigerantes). TDLR es estatal (para trabajar legalmente en Texas). Necesitas las dos. Si solo tienes EPA, estás trabajando ilegalmente en Texas y puedes recibir multas de $5,000/día.",
+                "solucion": "Obtén EPA primero (es más rápida). Luego acumula experiencia y aplica para licencia TDLR Technician cuando cumplas los 48 meses."
+            },
+            {
+                "error": "No estudiar para el examen de TDLR porque 'ya sé trabajar en HVAC'",
+                "por_que_importa": "El examen de Technician tiene 100 preguntas y 75% mínimo para aprobar. Cubre MUCHO material teórico (ciclo de refrigeración, electricidad, códigos de Texas, leyes TDLR) que no usas diariamente en el trabajo. Muchos técnicos con 10 años de experiencia reprueban porque no estudiaron. Cada intento cuesta $78.",
+                "solucion": "Toma un curso de preparación (online o presencial) 2-3 meses antes del examen. Lee los libros recomendados (RSES, Refrigeration & Air Conditioning Technology). Practica con exámenes simulados. No subestimes el examen."
+            },
+            {
+                "error": "Trabajar sin seguro de responsabilidad civil como técnico independiente",
+                "por_que_importa": "Si instalas un sistema mal y causa un incendio, o si un cliente se lastima en su propiedad mientras trabajas, puedes ser demandado personalmente por cientos de miles de dólares. Sin seguro, pierdes tu casa, ahorros, todo. Los clientes comerciales NO te contratarán sin seguro.",
+                "solucion": "Si trabajas independiente (1099) o eres Contractor, DEBES tener seguro de responsabilidad civil de mínimo $300,000 (Contractor) o $500,000 (recomendado). Cuesta $1,500-3,000/año pero te protege de perderlo todo en una demanda."
+            },
+            {
+                "error": "No renovar la licencia TDLR a tiempo y dejar que expire más de 1 año",
+                "por_que_importa": "Si tu licencia expira por más de 1 año, TDLR la cancela permanentemente. Tendrás que volver a tomar el examen de Technician ($78), pagar aplicación de nuevo ($60), y perder todo tu historial de licencia. Además, trabajar con licencia vencida es ilegal - multas de $5,000/día.",
+                "solucion": "La renovación es cada año (no cada 2 como electricistas). Pon recordatorio en tu teléfono 2 meses antes del vencimiento. Solo cuesta $60 para Technician y no requiere cursos de educación continua. No hay excusa para dejarla vencer."
+            },
+            {
+                "error": "Usar refrigerantes R-22 (Freon) sin saber que ya no se fabrica y es ilegal ventilar",
+                "por_que_importa": "R-22 se eliminó gradualmente en 2020. Ya no se fabrica en USA. Es ILEGAL ventilar refrigerante intencionalmente - multas de $10,000+ por violación EPA. Los clientes con sistemas viejos de R-22 pagan $100-150 por libra de refrigerante reciclado (antes costaba $5). Si no sabes manejar esto correctamente, pierdes dinero y puedes violar leyes federales.",
+                "solucion": "Aprende sobre refrigerantes alternativos (R-410A, R-32, R-454B). SIEMPRE recupera refrigerante con equipo certificado - nunca ventiles. Educa a clientes sobre el costo real de reparar sistemas viejos de R-22 vs reemplazarlos."
+            }
+        ]
+    },
+    "faqs": {
+        "ai_generated": true,
+        "items": [
+            {
+                "pregunta": "¿El examen de HVAC en Texas está disponible en español?",
+                "respuesta": "NO. Los exámenes de TDLR para Technician y Contractor de HVAC solo se ofrecen en INGLÉS. Debes tener nivel de inglés técnico para aprobar. Sin embargo, muchas escuelas técnicas en Texas (especialmente en Houston, Dallas, San Antonio) ofrecen programas bilingües o con instructores hispanohablantes que te ayudan a prepararte en español y luego tomar el examen en inglés.",
+                "source": "TDLR",
+                "seo_note": "Keyword: examen hvac en español texas"
+            },
+            {
+                "pregunta": "¿Puedo sacar la licencia de HVAC en Texas con ITIN (sin seguro social)?",
+                "respuesta": "Sí. TDLR acepta ITIN para procesar licencias de HVAC si no tienes número de Seguro Social. Debes proporcionar tu ITIN en la aplicación y cumplir con todos los demás requisitos (certificación EPA, experiencia, aprobar examen). Muchos técnicos HVAC en Texas tienen licencia con ITIN.",
+                "source": "TDLR",
+                "seo_note": "Keyword: licencia hvac sin seguro social texas"
+            },
+            {
+                "pregunta": "¿Cuánto cuesta hacerse técnico de HVAC en Texas?",
+                "respuesta": "Depende de tu ruta: (1) Con escuela técnica: $3,000-15,000 de colegiatura + $150 EPA + $78 examen + $60 licencia = $3,288-15,288 total. (2) Sin escuela (solo experiencia): $150 EPA + $300-800 curso preparación + $78 examen + $60 licencia = $1,088-1,588. La ruta con escuela es más cara pero más rápida y mejora tus probabilidades de aprobar el examen.",
+                "source": "Estimado basado en datos de escuelas técnicas de Texas y TDLR",
+                "seo_note": "Keyword: cuanto cuesta licencia hvac texas"
+            },
+            {
+                "pregunta": "¿Cuánto tiempo se tarda en sacar la licencia de técnico HVAC en Texas?",
+                "respuesta": "Mínimo 12-18 meses si tomas ruta acelerada (6-12 meses escuela + 6-12 meses experiencia adicional para completar 48 meses totales). La ruta típica sin escuela toma 4 años completos (48 meses) trabajando tiempo completo bajo supervisión. Después debes aprobar el examen de TDLR.",
+                "source": "TDLR",
+                "seo_note": "Keyword: cuanto tiempo toma licencia hvac texas"
+            },
+            {
+                "pregunta": "¿Necesito ir a una escuela para ser técnico de HVAC?",
+                "respuesta": "NO es obligatorio, pero ALTAMENTE recomendado. Texas permite aprender 100% trabajando (OJT) durante 4 años. Sin embargo, el examen de TDLR cubre mucha teoría (electricidad, termodinámica, códigos) que no aprendes solo trabajando. La mayoría de personas que intentan el examen sin escuela formal reprueban en el primer intento. Una escuela técnica te prepara mejor y puede acortar el tiempo total si ofrece créditos por las horas de clase.",
+                "source": "TDLR / Experiencia de la industria",
+                "seo_note": "Keyword: escuelas de hvac en texas"
+            },
+            {
+                "pregunta": "¿Cuánto gana un técnico de HVAC en Texas?",
+                "respuesta": "Salario mediano: $52,000/año según BLS. Pero el ingreso REAL es mayor: $50,000-70,000/año para Technician licenciado con 3-5 años experiencia (incluyendo overtime, comisiones, llamadas de emergencia). Top earners (senior techs, especialistas comerciales): $75,000-85,000/año. Contractors con negocio propio: $80,000-150,000+/año.",
+                "source": "BLS May 2024 + Estimados de industria",
+                "seo_note": "Keyword: cuanto gana tecnico hvac texas"
+            },
+            {
+                "pregunta": "¿Puedo trabajar en HVAC sin licencia mientras acumulo experiencia?",
+                "respuesta": "SÍ, pero solo bajo supervisión directa de un Technician o Contractor licenciado. Debes tener certificación EPA para tocar refrigerantes. No puedes trabajar solo, obtener permisos, ni presentarte como técnico licenciado. Si trabajas completamente sin supervisión o sin EPA, es ilegal y puedes recibir multas de $5,000/día de TDLR más multas federales de EPA.",
+                "source": "TDLR / EPA",
+                "seo_note": "Keyword: trabajar hvac sin licencia texas"
+            },
+            {
+                "pregunta": "¿Qué es la certificación EPA y por qué la necesito?",
+                "respuesta": "EPA Section 608 es una certificación FEDERAL obligatoria para cualquier persona que trabaje con refrigerantes (todos los sistemas de AC modernos). Es ilegal comprar, manejar o ventilar refrigerantes sin esta certificación. Multas: hasta $10,000 por violación. La certificación es de por vida (no expira), cuesta $150-200, y puedes obtenerla en 1-2 semanas tomando un curso online + examen. Necesitas Type II o Universal para HVAC.",
+                "source": "https://www.epa.gov/section608",
+                "seo_note": "Keyword: certificacion epa hvac texas"
+            },
+            {
+                "pregunta": "¿Puedo tener mi propio negocio de HVAC con licencia de Technician?",
+                "respuesta": "NO. Para ser dueño de una compañía de contratación HVAC en Texas, necesitas licencia de CONTRACTOR (no Technician). El Contractor debe obtener todos los permisos, firmar contratos, y supervisar el trabajo. Como Technician puedes trabajar independiente (1099) para varios Contractors, pero no puedes obtener permisos ni presentarte como contratista.",
+                "source": "TDLR",
+                "seo_note": "Keyword: abrir negocio hvac texas"
+            },
+            {
+                "pregunta": "¿Cada cuánto debo renovar mi licencia de HVAC en Texas?",
+                "respuesta": "CADA AÑO (anualmente). La renovación de Technician cuesta $60. Contractor $180. NO hay requisito de educación continua (CE) en Texas para HVAC - solo pagas la tarifa de renovación. CRÍTICO: Si dejas que expire por más de 1 año, la licencia se cancela permanentemente y debes retomar el examen.",
+                "source": "TDLR",
+                "seo_note": "Keyword: renovar licencia hvac texas"
+            }
+        ]
+    },
+    "enlaces_utiles": {
+        "ai_generated": true,
+        "enlaces": [
+            {
+                "categoria": "Autoridad Reguladora - TDLR",
+                "enlaces": [
+                    {
+                        "titulo": "TDLR Air Conditioning & Refrigeration Home",
+                        "url": "https://www.tdlr.texas.gov/ac/ac.htm",
+                        "descripcion": "Página principal del programa HVAC de TDLR"
+                    },
+                    {
+                        "titulo": "Aplicaciones de Licencia HVAC",
+                        "url": "https://www.tdlr.texas.gov/ac/acapplications.htm",
+                        "descripcion": "Aplicar para Technician, Contractor o Registered Technician"
+                    },
+                    {
+                        "titulo": "Información de Exámenes HVAC",
+                        "url": "https://www.tdlr.texas.gov/ac/acexam.htm",
+                        "descripcion": "Contenido de examen, guías de estudio, libros recomendados"
+                    },
+                    {
+                        "titulo": "Verificar Licencia HVAC",
+                        "url": "https://www.tdlr.texas.gov/LicenseSearch/",
+                        "descripcion": "Buscar si alguien tiene licencia vigente de TDLR"
+                    },
+                    {
+                        "titulo": "Contacto TDLR HVAC",
+                        "url": "https://www.tdlr.texas.gov/ac/contact.htm",
+                        "descripcion": "Teléfonos, email y dirección de TDLR"
+                    }
+                ]
+            },
+            {
+                "categoria": "Exámenes - PSI",
+                "enlaces": [
+                    {
+                        "titulo": "PSI Testing - Agendar Examen TDLR",
+                        "url": "https://test-takers.psiexams.com/tdlr",
+                        "descripcion": "Sitio oficial para agendar examen de Technician o Contractor. Tel: (855) 746-1552"
+                    },
+                    {
+                        "titulo": "PSI Centros de Examen en Texas",
+                        "url": "https://candidate.psiexams.com/catalog/test_center_locator.jsp",
+                        "descripcion": "Encuentra centros de examen PSI cerca de ti"
+                    }
+                ]
+            },
+            {
+                "categoria": "Certificación EPA (Federal)",
+                "enlaces": [
+                    {
+                        "titulo": "EPA Section 608 - Información Oficial",
+                        "url": "https://www.epa.gov/section608",
+                        "descripcion": "Todo sobre certificación EPA para técnicos de refrigeración"
+                    },
+                    {
+                        "titulo": "ESCO Institute - Examen EPA",
+                        "url": "https://www.escoinst.com/608-technician-certification",
+                        "descripcion": "Uno de los proveedores más populares de certificación EPA"
+                    },
+                    {
+                        "titulo": "HVAC Excellence - Examen EPA",
+                        "url": "https://www.hvacexcellence.org/section-608-technician-certification/",
+                        "descripcion": "Otro proveedor aprobado de certificación EPA"
+                    }
+                ]
+            },
+            {
+                "categoria": "Escuelas Técnicas en Texas",
+                "enlaces": [
+                    {
+                        "titulo": "Houston Community College - HVAC Program",
+                        "url": "https://www.hccs.edu/programs/areas-of-study/technical--career-education/heating--air-conditioning--and-refrigeration-technology/",
+                        "descripcion": "Programa bilingüe accesible en Houston"
+                    },
+                    {
+                        "titulo": "San Jacinto College - HVAC",
+                        "url": "https://www.sanjac.edu/program/heating-ventilation-air-conditioning-hvacr-technology",
+                        "descripcion": "Programa técnico en área de Houston"
+                    },
+                    {
+                        "titulo": "Austin Community College - HVAC",
+                        "url": "https://www.austincc.edu/programs/hvac",
+                        "descripcion": "Programa técnico en Austin"
+                    },
+                    {
+                        "titulo": "Dallas College - HVAC Technology",
+                        "url": "https://www.dallascollege.edu/pages/hvac.aspx",
+                        "descripcion": "Programa técnico en área de Dallas"
+                    },
+                    {
+                        "titulo": "Alamo Colleges - HVAC (San Antonio)",
+                        "url": "https://alamo.edu/",
+                        "descripcion": "Búsqueda de programas HVAC en San Antonio"
+                    }
+                ]
+            },
+            {
+                "categoria": "Asociaciones Profesionales",
+                "enlaces": [
+                    {
+                        "titulo": "Air Conditioning Contractors of America (ACCA) Texas",
+                        "url": "https://www.acca.org/",
+                        "descripcion": "Asociación nacional de contratistas HVAC"
+                    },
+                    {
+                        "titulo": "RSES (Refrigeration Service Engineers Society)",
+                        "url": "https://www.rses.org/",
+                        "descripcion": "Organización de técnicos de refrigeración - ofrecen cursos y certificaciones adicionales"
+                    },
+                    {
+                        "titulo": "ASHRAE (American Society of Heating, Refrigerating and Air-Conditioning Engineers)",
+                        "url": "https://www.ashrae.org/",
+                        "descripcion": "Estándares de la industria y educación continua"
+                    }
+                ]
+            },
+            {
+                "categoria": "Datos de Empleo y Salarios",
+                "enlaces": [
+                    {
+                        "titulo": "BLS - HVAC Mechanics and Installers",
+                        "url": "https://www.bls.gov/oes/current/oes499021.htm",
+                        "descripcion": "Salarios oficiales y proyecciones de empleo (Bureau of Labor Statistics)"
+                    },
+                    {
+                        "titulo": "Texas Workforce Commission - HVAC Jobs",
+                        "url": "https://www.twc.texas.gov/",
+                        "descripcion": "Búsqueda de empleos HVAC en Texas"
+                    }
+                ]
+            },
+            {
+                "categoria": "Recursos de Estudio",
+                "enlaces": [
+                    {
+                        "titulo": "HVAC Practice Exams",
+                        "url": "https://www.hvacpracticeexam.com/",
+                        "descripcion": "Exámenes de práctica online para prepararte"
+                    },
+                    {
+                        "titulo": "Refrigeration & Air Conditioning Technology (Libro)",
+                        "url": "https://www.amazon.com/Refrigeration-Conditioning-Technology-William-Whitman/dp/1305578295",
+                        "descripcion": "Libro más recomendado para estudiar (disponible en español como 'Tecnología de Refrigeración y Aire Acondicionado')"
+                    }
+                ]
+            }
+        ]
+    },
+    "escuelas": {
+        "ai_generated": true,
+        "items": [
+            {
+                "id": "hcc-hvac",
+                "name": "Houston Community College - HVAC Program",
+                "city": "Houston",
+                "phone": "(713) 718-2000",
+                "website": "https://www.hccs.edu/programs/areas-of-study/technical--career-education/heating--air-conditioning--and-refrigeration-technology/",
+                "is_bilingual": true,
+                "programs": [
+                    {
+                        "id": "aas-hvac",
+                        "name": "Associate of Applied Science (AAS) in HVAC",
+                        "duration_months": 18,
+                        "cost": 4500,
+                        "modality": "Presencial"
+                    },
+                    {
+                        "id": "cert-hvac",
+                        "name": "Certificate in HVAC Technology",
+                        "duration_months": 12,
+                        "cost": 3500,
+                        "modality": "Presencial"
+                    }
+                ]
+            },
+            {
+                "id": "sanjac-hvac",
+                "name": "San Jacinto College - HVAC",
+                "city": "Pasadena (Houston area)",
+                "phone": "(281) 998-6150",
+                "website": "https://www.sanjac.edu/program/heating-ventilation-air-conditioning-hvacr-technology",
+                "is_bilingual": false,
+                "programs": [
+                    {
+                        "id": "aas-hvacr",
+                        "name": "Associate Degree in HVAC/R Technology",
+                        "duration_months": 18,
+                        "cost": 5000,
+                        "modality": "Presencial"
+                    }
+                ]
+            },
+            {
+                "id": "acc-hvac",
+                "name": "Austin Community College - HVAC",
+                "city": "Austin",
+                "phone": "(512) 223-7000",
+                "website": "https://www.austincc.edu/programs/hvac",
+                "is_bilingual": false,
+                "programs": [
+                    {
+                        "id": "aas-hvac-acc",
+                        "name": "Associate of Applied Science in HVAC",
+                        "duration_months": 18,
+                        "cost": 4800,
+                        "modality": "Presencial"
+                    }
+                ]
+            },
+            {
+                "id": "dallas-college-hvac",
+                "name": "Dallas College - HVAC Technology",
+                "city": "Dallas",
+                "phone": "(214) 378-1500",
+                "website": "https://www.dallascollege.edu/pages/hvac.aspx",
+                "is_bilingual": false,
+                "programs": [
+                    {
+                        "id": "aas-hvac-dallas",
+                        "name": "Associate Degree in HVAC Technology",
+                        "duration_months": 18,
+                        "cost": 4200,
+                        "modality": "Presencial"
+                    }
+                ]
+            },
+            {
+                "id": "alamo-hvac",
+                "name": "Alamo Colleges - HVAC (San Antonio)",
+                "city": "San Antonio",
+                "phone": "(210) 485-0000",
+                "website": "https://alamo.edu/",
+                "is_bilingual": true,
+                "programs": [
+                    {
+                        "id": "cert-hvac-alamo",
+                        "name": "HVAC Technician Certificate",
+                        "duration_months": 12,
+                        "cost": 3800,
+                        "modality": "Presencial"
+                    }
+                ]
+            }
+        ]
+    }
+}

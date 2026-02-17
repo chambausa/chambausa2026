@@ -1,0 +1,944 @@
+{
+    "_meta": {
+        "schema_version": "2.0",
+        "page_id": "licencia-cdl-new-york",
+        "oficio": "cdl",
+        "estado": "new-york",
+        "last_verified": "2026-02-16",
+        "verified_by": "Claude AI - requiere verificación humana",
+        "notes": "Información basada en NY DMV y FMCSA. Nueva York requiere ELDT federal y tiene requisitos específicos de edad según tipo de operación."
+    },
+    "page_seo": {
+        "title": "Licencia CDL en New York 2026: Requisitos, Clases A y B, Examen en Español",
+        "meta_description": "Guía completa para obtener tu Licencia Comercial (CDL) en New York. Requisitos para Clase A y B, Permiso de Aprendizaje (CLP), examen médico y escuelas de manejo.",
+        "slug": "licencia-cdl-new-york",
+        "canonical_url": "https://chambaenusa.com/licencia-cdl-new-york/",
+        "h1": "Licencia Comercial (CDL) en New York: Guía Completa 2026",
+        "schema_types": [
+            "HowTo",
+            "FAQPage",
+            "BreadcrumbList"
+        ],
+        "keywords_primary": [
+            "licencia cdl new york",
+            "cdl nueva york",
+            "examen cdl new york español",
+            "requisitos licencia comercial new york"
+        ],
+        "keywords_secondary": [
+            "permiso de aprendizaje comercial ny",
+            "escuelas de manejo de camiones new york",
+            "clase a clase b cdl diferencia",
+            "certificado médico dot new york"
+        ],
+        "keywords_long_tail": [
+            "cuanto cuesta sacar cdl en new york",
+            "examen de frenos de aire cdl ny español",
+            "escuelas cdl bilingues new york",
+            "cuanto gana un trailero en nueva york",
+            "eldt training providers new york spanish"
+        ]
+    },
+    "hero": {
+        "ai_generated": true,
+        "badge": "Guía Oficial 2026",
+        "headline": "Obtén tu Licencia CDL en New York (Clase A, B y C)",
+        "subheadline": "Conviértete en conductor comercial en NY. El examen escrito está disponible en español, pero el práctico es en inglés.",
+        "key_stats": [
+            {
+                "label": "Permiso CLP",
+                "value": "14 días",
+                "detail": "Espera mínima antes del examen práctico",
+                "source": "https://dmv.ny.gov/commercial-drivers",
+                "source_name": "NY DMV"
+            },
+            {
+                "label": "Entrenamiento",
+                "value": "ELDT Obligatorio",
+                "detail": "Requerido por FMCSA desde 2022",
+                "source": "https://tpr.fmcsa.dot.gov/",
+                "source_name": "FMCSA"
+            },
+            {
+                "label": "Examen Escrito",
+                "value": "Español",
+                "detail": "Disponible en múltiples idiomas incluyendo español",
+                "source": "https://dmv.ny.gov/commercial-drivers",
+                "source_name": "NY DMV"
+            },
+            {
+                "label": "Salario Promedio",
+                "value": "$58k - $85k",
+                "detail": "Para conductores Clase A en NY",
+                "source": "https://www.bls.gov/oes/current/oes_ny.htm",
+                "source_name": "BLS New York"
+            }
+        ],
+        "cta_primary": {
+            "text": "Ver Requisitos",
+            "anchor": "#roadmap"
+        },
+        "cta_secondary": {
+            "text": "Calculadora de Costos",
+            "anchor": "#calculadora"
+        }
+    },
+    "callout_espanol": {
+        "ai_generated": true,
+        "type": "info_box",
+        "icon": "🗽",
+        "title": "Exámenes en Español en New York",
+        "content": "Buenas noticias: El examen TEÓRICO (conocimientos) está disponible en español. Sin embargo, el examen PRÁCTICO (de manejo, inspección pre-viaje y maniobras) debe realizarse en inglés según regulaciones federales. Debes poder entender instrucciones básicas de seguridad en inglés.",
+        "source": "https://dmv.ny.gov/commercial-drivers",
+        "source_name": "NY DMV"
+    },
+    "autoridad_reguladora": {
+        "ai_generated": true,
+        "nombre": "New York State Department of Motor Vehicles",
+        "programa": "Commercial Driver License Program",
+        "nota_consolidacion": "El DMV de New York administra todas las licencias comerciales en el estado, con oficinas especializadas en CDL en las principales ciudades.",
+        "direccion": {
+            "calle": "6 Empire State Plaza",
+            "ciudad": "Albany",
+            "estado": "NY",
+            "cp": "12228",
+            "mailing": "NYS DMV, 6 Empire State Plaza, Albany, NY 12228"
+        },
+        "telefono": {
+            "toll_free": "1-518-486-9786",
+            "local": "(518) 486-9786"
+        },
+        "email": "dmv.ny.gov/contact",
+        "web": "https://dmv.ny.gov/commercial-drivers",
+        "verificar_licencia": "https://dmv.ny.gov/driver-license/driver-license-search",
+        "source": "https://dmv.ny.gov/"
+    },
+    "roadmap": {
+        "_description": "Proceso completo para obtener la CDL en New York, desde el permiso CLP hasta la licencia completa",
+        "ai_generated": true,
+        "layout": "timeline",
+        "nota_general": "El proceso consiste en obtener primero el Permiso de Aprendizaje Comercial (CLP), completar entrenamiento ELDT obligatorio, y finalmente aprobar el examen de habilidades prácticas. New York requiere que seas residente del estado.",
+        "tipos": [
+            {
+                "id": "clp",
+                "titulo_en": "Commercial Learner's Permit (CLP)",
+                "titulo_es": "Permiso de Aprendizaje Comercial (CLP)",
+                "es_principal": false,
+                "color_badge": "#1e40af",
+                "descripcion_corta": "El primer paso obligatorio. Te permite practicar conducción comercial bajo supervisión.",
+                "scope_of_work": "Conducir vehículos comerciales SOLAMENTE acompañado por un titular de CDL válida de la misma clase o superior, sentado en el asiento del pasajero delantero.",
+                "requisitos": {
+                    "edad_minima": 18,
+                    "educacion_previa": "Licencia de conducir de NY válida (Clase D)",
+                    "licencia_previa": "Licencia regular de New York válida",
+                    "examen_medico": "Certificado médico DOT válido (Federal Medical Examiner's Certificate)",
+                    "examen": "Aprobar exámenes escritos de conocimientos generales y específicos según la clase"
+                },
+                "examen": {
+                    "nombre": "Exámenes de Conocimientos",
+                    "partes": 3,
+                    "parte_1": {
+                        "nombre": "General Knowledge Test",
+                        "formato": "50 preguntas de opción múltiple",
+                        "idiomas": [
+                            "Inglés",
+                            "Español",
+                            "Ruso",
+                            "Chino",
+                            "Árabe",
+                            "Bengali"
+                        ],
+                        "puntaje_minimo": "80% (40 de 50 correctas)",
+                        "cuando_tomarlo": "En oficina DMV después de presentar documentos",
+                        "contenido_principal": [
+                            "Inspección del vehículo",
+                            "Control básico del vehículo",
+                            "Conducción en carretera",
+                            "Materiales peligrosos básicos"
+                        ]
+                    },
+                    "parte_2": {
+                        "nombre": "Endorsement Tests (según aplique)",
+                        "formato": "20-30 preguntas cada uno",
+                        "idiomas": [
+                            "Inglés",
+                            "Español"
+                        ],
+                        "puntaje_minimo": "80%",
+                        "cuando_tomarlo": "Mismo día que el examen general",
+                        "contenido_principal": [
+                            "Air Brakes (obligatorio para camiones con frenos de aire)",
+                            "Combination Vehicles (para Clase A)",
+                            "Passenger (para autobuses)",
+                            "School Bus",
+                            "Tanker",
+                            "Hazmat",
+                            "Double/Triple Trailers"
+                        ]
+                    },
+                    "administrador": "NY DMV",
+                    "source": "https://dmv.ny.gov/commercial-drivers/study-commercial-driver-license"
+                },
+                "costos": {
+                    "examen_medico": 100,
+                    "aplicacion_licencia": 10,
+                    "examen_escrito": 0,
+                    "total_examenes_y_licencia": 110
+                },
+                "como_aplicar": {
+                    "metodo": "En persona en oficina DMV",
+                    "url": "https://dmv.ny.gov/offices",
+                    "tiempo_procesamiento": "1-2 días (mismo día si apruebas)",
+                    "pasos": [
+                        "Obtener certificado médico DOT de un examinador certificado",
+                        "Completar formulario MV-44 (Application for Driver License)",
+                        "Presentarte en oficina DMV con: licencia actual, certificado médico, comprobante de residencia, SSN",
+                        "Pagar tarifa de $10",
+                        "Aprobar examen de conocimientos generales (80%)",
+                        "Aprobar exámenes de endorsements que necesites (Air Brakes, Combination, etc.)",
+                        "Recibir CLP válido por 180 días (renovable)"
+                    ]
+                },
+                "nota": "El CLP es válido por 180 días y puede renovarse. Debes mantenerlo al menos 14 días antes de tomar el examen práctico. Si tienes menos de 21 años, solo puedes conducir dentro del estado (intraestatal).",
+                "source": "https://dmv.ny.gov/commercial-drivers/get-commercial-learners-permit-clp"
+            },
+            {
+                "id": "cdl_c",
+                "titulo_en": "Class C CDL",
+                "titulo_es": "Licencia Clase C (Vehículos Pequeños/Pasajeros/HazMat)",
+                "es_principal": false,
+                "color_badge": "#059669",
+                "descripcion_corta": "Para vehículos pequeños que transportan pasajeros (16+ personas) o materiales peligrosos.",
+                "scope_of_work": "Vehículos diseñados para transportar 16 o más pasajeros (incluyendo conductor), o cualquier vehículo usado para transportar materiales peligrosos que requieren placas. Peso menor a 26,001 lbs.",
+                "requisitos": {
+                    "edad_minima": 18,
+                    "licencia_previa": "Tener CLP Clase C por mínimo 14 días",
+                    "experiencia": "Completar entrenamiento ELDT en escuela registrada en TPR",
+                    "examen_medico": "Certificado médico DOT vigente",
+                    "examen": "Examen de habilidades prácticas (Skills Test)"
+                },
+                "examen": {
+                    "partes": 3,
+                    "parte_1": {
+                        "nombre": "Pre-Trip Inspection (Inspección Pre-Viaje)",
+                        "formato": "Demostración oral y física",
+                        "idiomas": [
+                            "Inglés"
+                        ],
+                        "puntaje_minimo": "Sin fallos críticos",
+                        "cuando_tomarlo": "Después de 14 días con CLP y completar ELDT",
+                        "contenido_principal": [
+                            "Inspección externa del vehículo",
+                            "Inspección del motor",
+                            "Inspección de la cabina",
+                            "Sistemas de frenos",
+                            "Luces y señales"
+                        ],
+                        "que_llevar": [
+                            "CLP vigente",
+                            "Certificado médico",
+                            "Vehículo apropiado para el examen (provisto por escuela)",
+                            "Comprobante de seguro del vehículo"
+                        ]
+                    },
+                    "parte_2": {
+                        "nombre": "Basic Vehicle Control (Control Básico)",
+                        "formato": "Maniobras en espacio cerrado",
+                        "idiomas": [
+                            "Inglés"
+                        ],
+                        "puntaje_minimo": "Sin fallos críticos",
+                        "cuando_tomarlo": "Mismo día que pre-trip",
+                        "contenido_principal": [
+                            "Retroceso en línea recta",
+                            "Retroceso lado del conductor",
+                            "Retroceso en ángulo de 90 grados",
+                            "Estacionamiento paralelo",
+                            "Maniobras en espacios reducidos"
+                        ]
+                    },
+                    "parte_3": {
+                        "nombre": "Road Test (Examen de Carretera)",
+                        "formato": "Conducción en vías públicas",
+                        "idiomas": [
+                            "Inglés"
+                        ],
+                        "puntaje_minimo": "Sin fallos críticos",
+                        "cuando_tomarlo": "Después de aprobar pre-trip y control básico",
+                        "contenido_principal": [
+                            "Giros a la izquierda y derecha",
+                            "Intersecciones y cruces",
+                            "Cambios de carril",
+                            "Manejo en autopista",
+                            "Manejo en ciudad",
+                            "Uso de señales",
+                            "Manejo defensivo"
+                        ]
+                    },
+                    "administrador": "NY DMV o Third-Party Tester aprobado",
+                    "source": "https://dmv.ny.gov/commercial-drivers/commercial-skills-test"
+                },
+                "costos": {
+                    "aplicacion_licencia": 50,
+                    "examen_practico": 40,
+                    "entrenamiento_eldt": "$1,500 - $3,000",
+                    "total_examenes_y_licencia": "$1,600 - $3,100"
+                },
+                "como_aplicar": {
+                    "metodo": "Agendar examen después de completar ELDT",
+                    "url": "https://dmv.ny.gov/offices",
+                    "tiempo_procesamiento": "2-4 semanas para agendar examen",
+                    "pasos": [
+                        "Mantener CLP por mínimo 14 días",
+                        "Completar entrenamiento ELDT en escuela registrada",
+                        "Llamar o ir en línea para agendar Skills Test",
+                        "Presentarte con vehículo apropiado (usualmente provisto por escuela)",
+                        "Aprobar las 3 partes del examen práctico",
+                        "Recibir CDL temporal, permanente llega por correo en 2 semanas"
+                    ]
+                },
+                "nota": "Si tienes menos de 21 años, tu licencia tendrá restricción 'K' (solo operación intraestatal). A los 21 años puedes remover esta restricción.",
+                "source": "https://dmv.ny.gov/commercial-drivers/get-commercial-drivers-license-cdl"
+            },
+            {
+                "id": "cdl_b",
+                "titulo_en": "Class B CDL",
+                "titulo_es": "Licencia Clase B (Camiones Rectos/Autobuses)",
+                "es_principal": false,
+                "color_badge": "#0891b2",
+                "descripcion_corta": "Para camiones pesados de una sola unidad y autobuses grandes.",
+                "scope_of_work": "Vehículo único con peso bruto (GVWR) de 26,001 libras o más, O diseñado para transportar 24 o más pasajeros (incluyendo conductor). Puede remolcar vehículos con GVWR menor a 10,000 lbs.",
+                "requisitos": {
+                    "edad_minima": 18,
+                    "licencia_previa": "Tener CLP Clase B por mínimo 14 días",
+                    "experiencia": "Completar entrenamiento ELDT en escuela registrada",
+                    "examen_medico": "Certificado médico DOT vigente",
+                    "examen": "Examen de habilidades prácticas en vehículo Clase B"
+                },
+                "examen": {
+                    "partes": 3,
+                    "parte_1": {
+                        "nombre": "Pre-Trip Inspection",
+                        "formato": "Inspección completa del vehículo",
+                        "idiomas": [
+                            "Inglés"
+                        ],
+                        "puntaje_minimo": "Sin fallos críticos",
+                        "cuando_tomarlo": "Después de ELDT y 14 días con CLP"
+                    },
+                    "parte_2": {
+                        "nombre": "Basic Vehicle Control",
+                        "formato": "Maniobras de retroceso y control",
+                        "idiomas": [
+                            "Inglés"
+                        ],
+                        "puntaje_minimo": "Sin fallos críticos",
+                        "cuando_tomarlo": "Mismo día"
+                    },
+                    "parte_3": {
+                        "nombre": "Road Test",
+                        "formato": "Conducción en carretera",
+                        "idiomas": [
+                            "Inglés"
+                        ],
+                        "puntaje_minimo": "Sin fallos críticos",
+                        "cuando_tomarlo": "Después de aprobar partes 1 y 2"
+                    },
+                    "administrador": "NY DMV o Third-Party Tester",
+                    "source": "https://dmv.ny.gov/commercial-drivers/commercial-skills-test"
+                },
+                "costos": {
+                    "aplicacion_licencia": 50,
+                    "examen_practico": 40,
+                    "entrenamiento_eldt": "$2,500 - $4,500",
+                    "total_examenes_y_licencia": "$2,600 - $4,600"
+                },
+                "como_aplicar": {
+                    "metodo": "Igual que Clase C, pero con vehículo Clase B",
+                    "tiempo_procesamiento": "2-4 semanas para agendar"
+                },
+                "nota": "Común para conductores de autobuses escolares, camiones de basura, camiones de reparto grandes, y dump trucks. Si planeas conducir autobús escolar, necesitas también el endorsement 'S'.",
+                "source": "https://dmv.ny.gov/commercial-drivers"
+            },
+            {
+                "id": "cdl_a",
+                "titulo_en": "Class A CDL",
+                "titulo_es": "Licencia Clase A (Tractor-Trailer/Troqueros)",
+                "es_principal": true,
+                "color_badge": "#dc2626",
+                "descripcion_corta": "La licencia más completa. Para tractocamiones con trailer y combinaciones de vehículos pesados.",
+                "scope_of_work": "Combinación de vehículos con peso bruto combinado (GCWR) de 26,001 libras o más, siempre que el vehículo remolcado tenga GVWR de más de 10,000 libras. Permite conducir también vehículos Clase B y C.",
+                "requisitos": {
+                    "edad_minima": 18,
+                    "licencia_previa": "Tener CLP Clase A por mínimo 14 días",
+                    "experiencia": "Completar entrenamiento ELDT obligatorio (Theory + Behind-the-Wheel + Range)",
+                    "examen_medico": "Certificado médico DOT vigente cada 2 años",
+                    "examen": "Examen de habilidades prácticas en combinación de vehículos"
+                },
+                "examen": {
+                    "partes": 3,
+                    "parte_1": {
+                        "nombre": "Pre-Trip Inspection (Inspección Pre-Viaje)",
+                        "formato": "Inspección completa de tractor y trailer",
+                        "idiomas": [
+                            "Inglés solamente"
+                        ],
+                        "puntaje_minimo": "Sin defectos críticos de seguridad",
+                        "cuando_tomarlo": "Después de completar ELDT y mantener CLP 14+ días",
+                        "contenido_principal": [
+                            "Inspección del motor y compartimiento",
+                            "Sistema de frenos de aire (obligatorio)",
+                            "Quinta rueda (kingpin) y conexiones",
+                            "Inspección del trailer completo",
+                            "Luces, señales y reflectores",
+                            "Llantas, rines y suspensión",
+                            "Sistema eléctrico y neumático"
+                        ],
+                        "ubicaciones": "Centros de prueba DMV o Third-Party Testers autorizados",
+                        "que_llevar": [
+                            "CLP vigente",
+                            "Certificado médico DOT",
+                            "Vehículo Clase A apropiado (tractor-trailer)",
+                            "Comprobante de seguro del vehículo",
+                            "Comprobante de completar ELDT"
+                        ],
+                        "nota_licencia_temporal": "Debes demostrar conocimiento de cada sistema y nombrar componentes en inglés"
+                    },
+                    "parte_2": {
+                        "nombre": "Basic Vehicle Control Skills (Control Básico)",
+                        "formato": "Maniobras en espacio controlado (range)",
+                        "idiomas": [
+                            "Inglés"
+                        ],
+                        "puntaje_minimo": "Menos de 12 puntos de error por maniobra",
+                        "cuando_tomarlo": "Inmediatamente después de aprobar pre-trip",
+                        "contenido_principal": [
+                            "Straight Line Backing (retroceso en línea recta)",
+                            "Offset Backing (retroceso con desplazamiento lateral)",
+                            "Parallel Parking (estacionamiento paralelo con trailer)",
+                            "Alley Dock (retroceso en muelle de carga 90°)"
+                        ],
+                        "ubicaciones": "Centro de pruebas con área de maniobras",
+                        "que_llevar": [
+                            "Mismo vehículo usado en pre-trip"
+                        ]
+                    },
+                    "parte_3": {
+                        "nombre": "Road Test (Examen de Manejo en Carretera)",
+                        "formato": "Conducción en vías públicas y autopista",
+                        "idiomas": [
+                            "Inglés"
+                        ],
+                        "puntaje_minimo": "Sin errores críticos, menos de 30 puntos totales",
+                        "cuando_tomarlo": "Después de aprobar control básico",
+                        "contenido_principal": [
+                            "Manejo en calles urbanas",
+                            "Giros amplios (wide turns)",
+                            "Cambios de carril seguros",
+                            "Conducción en autopista/freeway",
+                            "Rampas de entrada y salida",
+                            "Intersecciones y cruces de tren",
+                            "Manejo de espacios limitados",
+                            "Uso correcto de espejos",
+                            "Gestión de velocidad y marchas"
+                        ],
+                        "ubicaciones": "Ruta designada por DMV (15-30 millas aprox.)",
+                        "que_llevar": [
+                            "Confianza en manejo de combinación de vehículos"
+                        ],
+                        "idioma_nota": "El examinador da instrucciones en inglés. Debes entender comandos básicos de seguridad."
+                    },
+                    "administrador": "NY DMV o Third-Party Tester aprobado por NY",
+                    "telefono_psi": "No aplica - NY usa sistema propio",
+                    "retakes": "Si repruebas una parte, debes esperar 1 día hábil para volver a intentar. Debes pagar $40 por cada reexamen.",
+                    "source": "https://dmv.ny.gov/commercial-drivers/commercial-skills-test"
+                },
+                "costos": {
+                    "aplicacion_licencia": 50,
+                    "examen_practico": 40,
+                    "entrenamiento_eldt": "$3,000 - $7,000",
+                    "total_examenes_y_licencia": "$3,100 - $7,100"
+                },
+                "como_aplicar": {
+                    "metodo": "Presencial después de completar ELDT",
+                    "url": "https://dmv.ny.gov/commercial-drivers/schedule-commercial-skills-test",
+                    "tiempo_procesamiento": "2-6 semanas para conseguir cita",
+                    "pasos": [
+                        "Obtener CLP Clase A (aprobar exámenes escritos)",
+                        "Inscribirse en escuela de manejo registrada en FMCSA TPR",
+                        "Completar entrenamiento ELDT (teoría + rango + carretera)",
+                        "Mantener CLP activo por mínimo 14 días",
+                        "Agendar Skills Test (llamando o en línea)",
+                        "Aprobar Pre-Trip Inspection, Basic Control y Road Test",
+                        "Pagar $40 por el examen",
+                        "Recibir CDL temporal inmediata, permanente llega por correo en 2 semanas"
+                    ]
+                },
+                "combinaciones": [
+                    "Endorsement N (Tank Vehicles)",
+                    "Endorsement H (Hazardous Materials)",
+                    "Endorsement X (Tank + HazMat combinados)",
+                    "Endorsement T (Double/Triple Trailers)"
+                ],
+                "nota": "Es la licencia más demandada en la industria del transporte. Te permite trabajar como OTR (over-the-road) driver cruzando estados. Si tienes menos de 21 años, solo puedes operar dentro de New York (restricción K). A los 21 se puede remover para operar interestatalmente.",
+                "horas_escuela": 160,
+                "source": "https://dmv.ny.gov/commercial-drivers/get-commercial-drivers-license-cdl"
+            }
+        ]
+    },
+    "calculadora_inversion": {
+        "ai_generated": true,
+        "_description": "Costos estimados para obtener CDL en New York según diferentes rutas",
+        "escenarios": [
+            {
+                "id": "cdl_a_escuela_privada",
+                "licencia": "CDL Clase A - Escuela Privada",
+                "inversion": {
+                    "examen_medico_dl51": "$75 - $150",
+                    "licencia_clp_dmv": "$10",
+                    "escuela_manejo": "$4,000 - $7,000",
+                    "examenes_endosos": "$0 (incluidos al sacar CLP)",
+                    "kit_libros": "$50 - $100",
+                    "examen_practico": "$40",
+                    "total_minimo": "$4,175",
+                    "total_maximo": "$7,300"
+                },
+                "tiempo": "3-8 semanas (tiempo completo)",
+                "salario_esperado": {
+                    "empleada": "$50,000 - $65,000 (primer año)",
+                    "con_experiencia": "$65,000 - $85,000 (3-5 años)",
+                    "independiente_booth_rental": "$80,000 - $120,000+ (owner-operator)",
+                    "nota": "Los salarios en el área metropolitana de NYC son típicamente 15-25% más altos que el promedio estatal"
+                },
+                "nota": "La ruta más rápida. Incluye entrenamiento ELDT completo, uso de camión para el examen, y generalmente asistencia con colocación laboral.",
+                "roi_nota": "Con salario promedio de $60k, recuperas la inversión en 1-2 meses de trabajo"
+            },
+            {
+                "id": "cdl_a_company_sponsored",
+                "licencia": "CDL Clase A - Entrenamiento Patrocinado por Compañía",
+                "inversion": {
+                    "examen_medico_dl51": "$100",
+                    "licencia_clp_dmv": "$10",
+                    "escuela_manejo": "$0 (pagado por la compañía)",
+                    "total_estimado": "$110 - $200"
+                },
+                "tiempo": "3-4 semanas + contrato de 9-12 meses",
+                "salario_esperado": {
+                    "empleada": "$45,000 - $55,000 (durante contrato)",
+                    "nota": "Salario más bajo durante el período de contrato, pero sin deuda inicial"
+                },
+                "nota": "Compañías como Swift, Schneider, CR England, Prime ofrecen entrenamiento gratis a cambio de un contrato laboral. Si rompes el contrato, debes pagar el costo del entrenamiento ($3,000-$6,000).",
+                "roi_nota": "Costo inicial casi cero, pero menor salario durante contrato y menos flexibilidad"
+            },
+            {
+                "id": "cdl_b_autobuses",
+                "licencia": "CDL Clase B - Autobuses/Transporte Público",
+                "inversion": {
+                    "examen_medico_dl51": "$100",
+                    "licencia_clp_dmv": "$10",
+                    "escuela_manejo": "$2,500 - $4,500",
+                    "endorsement_p": "$0 (incluido en CLP)",
+                    "examen_practico": "$40",
+                    "total_minimo": "$2,650",
+                    "total_maximo": "$4,650"
+                },
+                "tiempo": "3-6 semanas",
+                "salario_esperado": {
+                    "empleada": "$45,000 - $60,000 (MTA, autobuses escolares)",
+                    "con_experiencia": "$60,000 - $75,000 (con benefits y pensión)",
+                    "nota": "MTA NYC ofrece excelentes beneficios y pensión. Conductores de school bus ganan menos pero tienen horario de medio día."
+                },
+                "nota": "Popular entre quienes quieren trabajar para la MTA, autobuses escolares o shuttles. Requiere Passenger Endorsement."
+            }
+        ]
+    },
+    "renovacion": {
+        "ai_generated": true,
+        "frecuencia": "Cada 8 años (licencia) / Cada 1-2 años (certificado médico)",
+        "metodo": "En línea, por correo, o en persona",
+        "url_renovacion": "https://dmv.ny.gov/driver-license/renew-license",
+        "costo_renovacion": 64.5,
+        "ce_requerida": {
+            "horas_totales": 0,
+            "temas": [],
+            "nota": "New York NO requiere cursos de educación continua para renovar tu CDL. Sin embargo, DEBES mantener tu certificado médico DOT actualizado. Si tu certificado médico expira, tu CDL será automáticamente degradada a licencia no-comercial."
+        },
+        "consecuencias_no_renovar": {
+            "0_60_dias": "Puedes renovar normalmente con recargo de $40",
+            "mas_de_2_años": "Debes volver a tomar todos los exámenes (escritos y prácticos) como si fuera primera vez",
+            "certificado_medico_vencido": "CDL degradada a licencia Clase D inmediatamente. Debes presentar nuevo certificado médico y puede requerir reexamen."
+        },
+        "nota_tdlr": "NY DMV te enviará aviso de renovación 6-8 meses antes del vencimiento. Puedes renovar hasta 1 año antes de la fecha de expiración. Asegúrate de renovar tu certificado médico antes de renovar la licencia.",
+        "source": "https://dmv.ny.gov/driver-license/renew-commercial-drivers-license-cdl"
+    },
+    "reciprocidad": {
+        "ai_generated": true,
+        "disponible": true,
+        "nombre_proceso": "Transfer of Out-of-State CDL",
+        "requisitos": [
+            "Tener CDL válida de otro estado de USA",
+            "Ser residente de New York (comprobante de domicilio)",
+            "Presentar certificado médico DOT vigente",
+            "Renunciar a la CDL del otro estado",
+            "Pasar examen de vista",
+            "Pagar tarifa de transferencia ($50)",
+            "Aprobar examen de conocimientos si tu licencia está vencida o suspendida"
+        ],
+        "nota": "New York acepta transferencias de CDL de otros estados sin necesidad de volver a tomar el examen práctico, siempre y cuando tu licencia actual esté vigente y en buen estado. Si tienes endorsements (HazMat, Tanker, etc.), debes aprobar los exámenes escritos de esos endorsements en NY. El endorsement de HazMat requiere nueva verificación de antecedentes (TSA Background Check).",
+        "url": "https://dmv.ny.gov/driver-license/transfer-out-state-driver-license",
+        "experiencia_como_horas": "No aplica para transferencias",
+        "source": "https://dmv.ny.gov/driver-license/transfer-out-state-driver-license"
+    },
+    "salarios": {
+        "ai_generated": true,
+        "nota_importante": "Los salarios varían significativamente según el tipo de ruta (local vs OTR), experiencia, endorsements, y ubicación dentro del estado. El área metropolitana de NYC paga significativamente más que zonas rurales de upstate NY.",
+        "nacional_2024": {
+            "mediana": "$54,320",
+            "por_hora_mediana": "$26.12",
+            "percentil_10": "$35,490",
+            "percentil_90": "$79,420",
+            "crecimiento_proyectado": "4% (2023-2033)",
+            "source": "https://www.bls.gov/oes/current/oes533032.htm"
+        },
+        "texas": {
+            "promedio_anual": "$61,240",
+            "promedio_hora": "$29.44",
+            "top_earners": "$85,000 - $95,000",
+            "source": "https://www.bls.gov/oes/current/oes_ny.htm"
+        },
+        "por_ciudad_texas": [
+            {
+                "ciudad": "New York City (5 boroughs)",
+                "salario_medio": "$65,000 - $75,000",
+                "top_earners": "$90,000+",
+                "source": "Indeed/Glassdoor 2024"
+            },
+            {
+                "ciudad": "Long Island / Nassau-Suffolk",
+                "salario_medio": "$62,000 - $70,000",
+                "top_earners": "$85,000+",
+                "source": "Indeed/Glassdoor 2024"
+            },
+            {
+                "ciudad": "Buffalo-Niagara Falls",
+                "salario_medio": "$50,000 - $60,000",
+                "top_earners": "$72,000",
+                "source": "BLS/Indeed 2024"
+            },
+            {
+                "ciudad": "Rochester / Syracuse",
+                "salario_medio": "$48,000 - $58,000",
+                "top_earners": "$70,000",
+                "source": "BLS/Indeed 2024"
+            },
+            {
+                "ciudad": "Albany-Schenectady",
+                "salario_medio": "$52,000 - $62,000",
+                "top_earners": "$75,000",
+                "source": "BLS/Indeed 2024"
+            }
+        ],
+        "ingresos_reales": {
+            "ai_generated": true,
+            "nota": "Los ingresos reales dependen de múltiples factores: tipo de carga, rutas (local vs OTR), endorsements especiales, y si eres empleado o owner-operator.",
+            "factores_adicionales": [
+                "Tipo de ruta: Local (home daily) paga menos ($50-65k) vs OTR (over-the-road) paga más ($60-85k)",
+                "Endorsements: HazMat, Tanker, Doubles/Triples pueden agregar $5,000-$15,000 al salario base",
+                "Tipo de carga: Reefer (refrigerado), flatbed, y cargas especiales pagan premium",
+                "Experiencia: +$5,000-$10,000 por cada 2-3 años de experiencia limpia",
+                "Owner-Operator: $100,000-$200,000+ brutos (pero con gastos de 40-50%)",
+                "Empleos sindicalizados (UPS, ABF, XPO): $70,000-$95,000 con excelentes beneficios"
+            ],
+            "estimado_realista": {
+                "recien_licenciada": "$45,000 - $55,000 (primer año, trainee)",
+                "3_5_años_experiencia": "$60,000 - $75,000 (rutas regionales)",
+                "especialista_o_independiente": "$75,000 - $95,000 (OTR con endorsements)",
+                "dueña_salon": "$120,000 - $200,000+ (owner-operator, ingresos brutos antes de gastos)"
+            }
+        }
+    },
+    "errores_comunes": {
+        "ai_generated": true,
+        "items": [
+            {
+                "error": "No mantener actualizado el certificado médico DOT",
+                "por_que_importa": "Si tu certificado médico expira, el DMV de NY automáticamente degrada tu CDL a licencia no-comercial (Clase D). Pierdes tu estatus comercial inmediatamente y no puedes conducir comercialmente hasta renovar el certificado y notificar al DMV.",
+                "solucion": "Renueva tu certificado médico 30-60 días ANTES de que expire. Configura recordatorios en tu teléfono. Presenta el nuevo certificado al DMV inmediatamente."
+            },
+            {
+                "error": "No completar el entrenamiento ELDT en una escuela registrada",
+                "por_que_importa": "Desde febrero 2022, es OBLIGATORIO federalmente completar ELDT (Entry-Level Driver Training) en una escuela registrada en el TPR de FMCSA. Sin el certificado ELDT, NO puedes tomar el examen práctico, aunque tengas tu CLP.",
+                "solucion": "Verifica que tu escuela esté registrada en https://tpr.fmcsa.dot.gov/ ANTES de inscribirte. Pide el certificado de completación antes de agendar tu examen."
+            },
+            {
+                "error": "Reprobar la inspección pre-viaje por no saber el vocabulario en inglés",
+                "por_que_importa": "Aunque el examen escrito se puede hacer en español, la inspección pre-viaje DEBE hacerse en inglés. Debes poder nombrar cada componente en inglés: 'fifth wheel', 'glad hands', 'kingpin', 'slack adjusters', etc. Muchos hispanos reprueban por esto.",
+                "solucion": "Memoriza el vocabulario técnico EN INGLÉS desde el inicio. Usa flashcards. Practica la inspección completa en inglés 50+ veces antes del examen. Busca videos en YouTube de inspección pre-viaje."
+            },
+            {
+                "error": "No practicar suficiente el retroceso (backing)",
+                "por_que_importa": "El backing es la parte más difícil del examen práctico. Straight line backing, offset backing, y parallel parking con trailer requieren mucha práctica. Es donde más conductores reprueban.",
+                "solucion": "Practica backing mínimo 20-30 horas. Aprende los puntos de referencia (reference points) específicos del camión que usarás en el examen. Practica en el mismo tipo de camión si es posible."
+            },
+            {
+                "error": "Inscribirse en escuelas no acreditadas o 'tramposas'",
+                "por_que_importa": "Hay escuelas que prometen CDL 'rápida y fácil' pero no están registradas en TPR, no dan entrenamiento real, o usan prácticas fraudulentas. Terminas perdiendo dinero y tiempo sin poder tomar el examen oficial.",
+                "solucion": "SIEMPRE verifica en https://tpr.fmcsa.dot.gov/ que la escuela esté registrada. Lee reviews en Google. Visita las instalaciones. Pregunta cuántas horas behind-the-wheel ofrecen (mínimo 40-50 hrs)."
+            },
+            {
+                "error": "Tomar el examen sin estudiar el manual",
+                "por_que_importa": "El examen de conocimientos tiene 50 preguntas y necesitas 80% (40 correctas) para aprobar. Aunque esté en español, las preguntas son específicas y técnicas. Sin estudiar, es muy difícil pasar.",
+                "solucion": "Lee el NY CDL Manual completo (disponible en español en dmv.ny.gov). Toma practice tests en línea. Estudia especialmente Air Brakes y General Knowledge."
+            },
+            {
+                "error": "No entender las restricciones de edad (18 vs 21 años)",
+                "por_que_importa": "A los 18 años puedes obtener CDL pero SOLO para operación INTRAESTATAL (dentro de NY). No puedes cruzar fronteras estatales hasta los 21. Muchos empleadores requieren 21+ años, limitando tus opciones laborales.",
+                "solucion": "Si tienes 18-20 años, enfócate en trabajos locales (delivery, dump trucks, buses escolares). A los 21 puedes aplicar para remover la restricción y trabajar OTR (interstate)."
+            },
+            {
+                "error": "No verificar las restricciones en tu CDL",
+                "por_que_importa": "Si tomas el examen en un camión con transmisión automática, tu CDL tendrá restricción 'E' (no manual transmission). Si tomas el examen sin air brakes, tendrás restricción 'L' (no air brakes). Estas restricciones limitan qué camiones puedes conducir.",
+                "solucion": "Entrena y toma el examen en un camión con transmisión MANUAL y con FRENOS DE AIRE para tener CDL sin restricciones."
+            }
+        ]
+    },
+    "faqs": {
+        "ai_generated": true,
+        "items": [
+            {
+                "pregunta": "¿Puedo tomar el examen de CDL en español en New York?",
+                "respuesta": "Parcialmente. El examen ESCRITO (conocimientos generales y endorsements) está disponible en español y otros idiomas. Sin embargo, el examen PRÁCTICO (inspección pre-viaje, maniobras, y road test) DEBE realizarse en inglés por regulación federal. No se permiten traductores durante el examen práctico.",
+                "source": "https://dmv.ny.gov/commercial-drivers",
+                "seo_note": "keyword: examen cdl new york español"
+            },
+            {
+                "pregunta": "¿Cuánto cuesta sacar la licencia CDL en New York?",
+                "respuesta": "El costo total varía según la ruta: (1) Escuela privada: $4,000-$7,000 incluyendo todo. (2) Entrenamiento patrocinado por compañía: $100-$200 inicial, pero con contrato laboral de 9-12 meses. Los costos del DMV son: CLP $10, examen médico $75-150, examen práctico $40, licencia completa $50.",
+                "source": "https://dmv.ny.gov/fees",
+                "seo_note": "keyword: cuanto cuesta sacar cdl new york"
+            },
+            {
+                "pregunta": "¿Qué es el ELDT y es obligatorio en New York?",
+                "respuesta": "ELDT (Entry-Level Driver Training) es un entrenamiento obligatorio FEDERAL desde febrero 2022. Todos los solicitantes de CDL Clase A o B (o nuevos endorsements de Passenger, School Bus, o HazMat) DEBEN completar ELDT en una escuela registrada en el TPR de FMCSA antes de tomar el examen práctico. Sin certificado ELDT, no puedes agendar el Skills Test.",
+                "source": "https://tpr.fmcsa.dot.gov/",
+                "seo_note": "keyword: eldt training new york"
+            },
+            {
+                "pregunta": "¿Cuál es la diferencia entre CDL Clase A, B y C?",
+                "respuesta": "Clase A: Combinaciones de vehículos (tractor-trailer) con GCWR 26,001+ lbs y remolque 10,000+ lbs. Te permite conducir también Clase B y C. Clase B: Vehículo único 26,001+ lbs, o 24+ pasajeros. Puede remolcar <10,000 lbs. Clase C: Vehículos diseñados para 16+ pasajeros o materiales peligrosos, peso <26,001 lbs. La Clase A es la más versátil y mejor pagada.",
+                "source": "https://dmv.ny.gov/commercial-drivers",
+                "seo_note": "keyword: diferencia clase a b c cdl"
+            },
+            {
+                "pregunta": "¿Necesito ir a una escuela de manejo o puedo aprender por mi cuenta?",
+                "respuesta": "Desde 2022, DEBES completar ELDT en una escuela registrada en FMCSA - aprender por tu cuenta ya NO es opción válida. Además, necesitas acceso a un vehículo comercial apropiado para practicar y para el examen. La mayoría de las escuelas proveen el camión para el examen, lo cual es una gran ventaja. Técnicamente puedes usar tu propio camión, pero debes asegurarte que cumpla todos los requisitos de seguridad para el examen.",
+                "source": "https://tpr.fmcsa.dot.gov/",
+                "seo_note": "keyword: escuelas cdl new york"
+            },
+            {
+                "pregunta": "¿Cuánto tiempo tarda el proceso completo de obtener la CDL?",
+                "respuesta": "Depende de tu disponibilidad: (1) Full-time (tiempo completo): 3-8 semanas desde el inicio hasta tener la licencia en mano. (2) Part-time (fines de semana/noches): 2-4 meses. (3) Company-sponsored: 3-4 semanas de entrenamiento intensivo. El tiempo mínimo obligatorio es 14 días con el CLP antes de poder tomar el examen práctico.",
+                "source": "Promedio de escuelas en NY"
+            },
+            {
+                "pregunta": "¿Puedo trabajar con CDL si tengo menos de 21 años?",
+                "respuesta": "Sí, pero CON RESTRICCIONES. A los 18 años puedes obtener CDL pero solo para operación INTRAESTATAL (dentro de New York únicamente). No puedes cruzar líneas estatales ni transportar carga interestatal hasta los 21 años. Tu licencia tendrá restricción 'K'. A los 21 puedes aplicar para remover esta restricción y trabajar interstate (OTR).",
+                "source": "https://dmv.ny.gov/commercial-drivers",
+                "seo_note": "keyword: cdl 18 años new york"
+            },
+            {
+                "pregunta": "¿Cuánto gana un conductor de camión (trucker) en New York?",
+                "respuesta": "Salarios 2024: (1) Principiante (0-1 año): $45,000-$55,000. (2) Experiencia media (2-5 años): $60,000-$75,000. (3) Conductor experimentado OTR: $75,000-$90,000. (4) Owner-operator: $100,000-$200,000+ (ingresos brutos antes de gastos). El área de NYC paga 15-25% más que upstate NY. Conductores con endorsements especiales (HazMat, Tanker) ganan $5,000-$15,000 adicionales.",
+                "source": "BLS + Indeed/Glassdoor 2024",
+                "seo_note": "keyword: cuanto gana un trailero en nueva york"
+            },
+            {
+                "pregunta": "¿Qué pasa si repruebo el examen práctico?",
+                "respuesta": "Puedes volver a intentar después de esperar 1 día hábil. Debes pagar $40 por cada reexamen. Si repruebas 3 veces, es recomendable tomar entrenamiento adicional antes de seguir intentando. Identifica exactamente qué parte reprobaste (pre-trip, basic control, o road test) y enfoca tu práctica ahí. La mayoría de las escuelas ofrecen sesiones de práctica adicional.",
+                "source": "https://dmv.ny.gov/commercial-drivers/commercial-skills-test"
+            },
+            {
+                "pregunta": "¿Qué endorsements (endosos) necesito y cuáles son útiles?",
+                "respuesta": "Endorsements comunes: N (Tanker): Para transportar líquidos en tanques. H (HazMat): Materiales peligrosos - requiere TSA background check ($86.50). X (Combinado): Tanker + HazMat. P (Passenger): Para autobuses. S (School Bus): Autobuses escolares - requiere examen adicional. T (Doubles/Triples): Remolques dobles/triples. Los más valiosos para salario son H (HazMat) y N (Tanker). Si quieres trabajar con autobuses, necesitas P o S.",
+                "source": "https://dmv.ny.gov/commercial-drivers"
+            },
+            {
+                "pregunta": "¿Puedo transferir mi CDL de otro estado a New York?",
+                "respuesta": "Sí, New York acepta transferencias de CDL de otros estados. Requisitos: (1) CDL válida actual, (2) Renunciar a la licencia del otro estado, (3) Ser residente de NY con comprobante, (4) Presentar certificado médico DOT vigente, (5) Pasar examen de vista, (6) Pagar $50 de transferencia. Si tu licencia está vencida o tienes endorsements especiales (HazMat), debes aprobar exámenes escritos correspondientes.",
+                "source": "https://dmv.ny.gov/driver-license/transfer-out-state-driver-license"
+            },
+            {
+                "pregunta": "¿Qué es el certificado médico DOT y cada cuánto debo renovarlo?",
+                "respuesta": "El certificado médico DOT (DL 51) es un examen físico requerido para todos los conductores comerciales. Lo realiza un Medical Examiner certificado por FMCSA. Debes renovarlo cada 1-2 años (según condiciones de salud). Si tu certificado expira, tu CDL es automáticamente degradada a licencia no-comercial. Costo: $75-$150. Incluye: examen de vista, audición, presión arterial, orina (drogas), revisión de condiciones médicas.",
+                "source": "https://www.fmcsa.dot.gov/medical"
+            }
+        ]
+    },
+    "escuelas": {
+        "ai_generated": true,
+        "items": [
+            {
+                "id": "160_driving_academy",
+                "name": "160 Driving Academy",
+                "city": "Multiple locations in NY",
+                "phone": "(877) 932-8872",
+                "website": "https://160drivingacademy.com/",
+                "is_bilingual": true,
+                "programs": [
+                    {
+                        "id": "class_a_cdl",
+                        "name": "Class A CDL Training",
+                        "duration_months": 1,
+                        "cost": 5995,
+                        "modality": "Full-time / Part-time"
+                    }
+                ]
+            },
+            {
+                "id": "career_concepts",
+                "name": "Career Concepts Truck Driving School",
+                "city": "Bronx, NY",
+                "phone": "(718) 328-5678",
+                "website": "https://careerconceptstruckdriving.com/",
+                "is_bilingual": true,
+                "programs": [
+                    {
+                        "id": "class_a_training",
+                        "name": "Class A CDL Program",
+                        "duration_months": 1.5,
+                        "modality": "Bilingual instruction available"
+                    }
+                ]
+            },
+            {
+                "id": "apex_cdl",
+                "name": "Apex CDL Institute",
+                "city": "Hicksville, Long Island",
+                "phone": "(516) 513-8000",
+                "website": "https://www.apexcdl.com/",
+                "is_bilingual": false,
+                "programs": [
+                    {
+                        "id": "class_a_b",
+                        "name": "Class A & B Training",
+                        "duration_months": 1,
+                        "modality": "English"
+                    }
+                ]
+            },
+            {
+                "id": "atds_truck_driving",
+                "name": "ATDS Truck Driving School",
+                "city": "Elmsford, NY",
+                "phone": "(914) 345-5020",
+                "website": "https://www.atdstruckdriving.com/",
+                "is_bilingual": true,
+                "programs": [
+                    {
+                        "id": "cdl_class_a",
+                        "name": "Class A CDL Course",
+                        "duration_months": 1,
+                        "cost": 4500,
+                        "modality": "Spanish & English"
+                    }
+                ]
+            },
+            {
+                "id": "sage_truck_driving",
+                "name": "Sage Truck Driving School",
+                "city": "Syracuse & Albany, NY",
+                "phone": "(315) 455-9071",
+                "website": "https://sagetruckdrivingschools.com/",
+                "is_bilingual": false,
+                "programs": [
+                    {
+                        "id": "professional_driver",
+                        "name": "Professional Driver Training",
+                        "duration_months": 1,
+                        "modality": "English"
+                    }
+                ]
+            }
+        ]
+    },
+    "enlaces_utiles": {
+        "ai_generated": true,
+        "enlaces": [
+            {
+                "categoria": "DMV de New York - CDL",
+                "enlaces": [
+                    {
+                        "titulo": "Página Principal de CDL - NY DMV",
+                        "url": "https://dmv.ny.gov/commercial-drivers",
+                        "descripcion": "Portal oficial del DMV de New York para licencias comerciales"
+                    },
+                    {
+                        "titulo": "Manual CDL de New York (PDF)",
+                        "url": "https://dmv.ny.gov/about-dmv/chapter-12-commercial-drivers-manual",
+                        "descripcion": "Manual oficial de estudio - disponible en español"
+                    },
+                    {
+                        "titulo": "Buscar Oficinas DMV en NY",
+                        "url": "https://dmv.ny.gov/offices",
+                        "descripcion": "Encuentra la oficina DMV más cercana"
+                    },
+                    {
+                        "titulo": "Agendar Examen de Habilidades (Skills Test)",
+                        "url": "https://dmv.ny.gov/commercial-drivers/schedule-commercial-skills-test",
+                        "descripcion": "Sistema para agendar tu examen práctico"
+                    }
+                ]
+            },
+            {
+                "categoria": "FMCSA - Federal",
+                "enlaces": [
+                    {
+                        "titulo": "Training Provider Registry (TPR)",
+                        "url": "https://tpr.fmcsa.dot.gov/",
+                        "descripcion": "Buscar escuelas aprobadas para ELDT en New York"
+                    },
+                    {
+                        "titulo": "Información sobre ELDT",
+                        "url": "https://www.fmcsa.dot.gov/registration/commercial-drivers-license/entry-level-driver-training-eldt",
+                        "descripcion": "Explicación oficial del requisito ELDT"
+                    },
+                    {
+                        "titulo": "National Registry of Medical Examiners",
+                        "url": "https://nationalregistry.fmcsa.dot.gov/",
+                        "descripcion": "Buscar médicos certificados para examen DOT"
+                    }
+                ]
+            },
+            {
+                "categoria": "Recursos de Estudio",
+                "enlaces": [
+                    {
+                        "titulo": "CDL Practice Tests - NY (gratis)",
+                        "url": "https://driving-tests.org/new-york/cdl/",
+                        "descripcion": "Exámenes de práctica gratuitos en español e inglés"
+                    },
+                    {
+                        "titulo": "High Road CDL Training Program",
+                        "url": "https://www.truckingtruth.com/cdl-training-program/",
+                        "descripcion": "Programa de estudio interactivo gratuito"
+                    }
+                ]
+            },
+            {
+                "categoria": "Empleos y Salarios",
+                "enlaces": [
+                    {
+                        "titulo": "Bureau of Labor Statistics - NY",
+                        "url": "https://www.bls.gov/oes/current/oes_ny.htm",
+                        "descripcion": "Datos oficiales de salarios en New York"
+                    },
+                    {
+                        "titulo": "Indeed - CDL Jobs NY",
+                        "url": "https://www.indeed.com/jobs?q=CDL+Driver&l=New+York",
+                        "descripcion": "Bolsa de trabajo para conductores comerciales"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,944 @@
+{
+    "_meta": {
+        "schema_version": "2.0",
+        "page_id": "licencia-cdl-texas",
+        "oficio": "cdl",
+        "estado": "texas",
+        "last_verified": "2026-02-16",
+        "verified_by": "Claude AI - requiere verificación humana",
+        "notes": "Información basada en Texas DPS y FMCSA. Énfasis en requisitos ELDT y examen en español."
+    },
+    "page_seo": {
+        "title": "Licencia CDL en Texas 2026: Requisitos, Clases A y B, Examen en Español",
+        "meta_description": "Guía completa para obtener tu Licencia Comercial (CDL) en Texas. Requisitos para Clase A y B, Permiso CLP, examen médico, escuelas de manejo y salarios 2026.",
+        "slug": "licencia-cdl-texas",
+        "canonical_url": "https://chambaenusa.com/licencia-cdl-texas/",
+        "h1": "Licencia Comercial (CDL) en Texas: Guía Completa 2026",
+        "schema_types": [
+            "HowTo",
+            "FAQPage",
+            "BreadcrumbList"
+        ],
+        "keywords_primary": [
+            "licencia cdl texas",
+            "examen cdl texas español",
+            "requisitos licencia comercial texas",
+            "permiso comercial clp texas"
+        ],
+        "keywords_secondary": [
+            "escuelas de manejo de camiones en texas",
+            "clase a vs clase b cdl texas",
+            "certificado médico cdl texas",
+            "cuanto gana un trailero en texas"
+        ],
+        "keywords_long_tail": [
+            "cómo sacar licencia cdl en texas siendo hispano",
+            "examen de frenos de aire texas en español",
+            "escuelas cdl bilingües en houston texas",
+            "costo total para sacar cdl en texas 2026"
+        ]
+    },
+    "hero": {
+        "ai_generated": true,
+        "badge": "Guía Oficial 2026",
+        "headline": "Tu Licencia CDL en Texas: El Camino al Éxito Profesional",
+        "subheadline": "Conviértete en conductor comercial en Texas. Examen escrito disponible en español. Salarios competitivos y alta demanda laboral.",
+        "key_stats": [
+            {
+                "label": "Permiso CLP",
+                "value": "14 días",
+                "detail": "Tiempo mínimo antes del examen práctico",
+                "source": "https://www.dps.texas.gov/section/driver-license/commercial-driver-license",
+                "source_name": "Texas DPS"
+            },
+            {
+                "label": "Entrenamiento",
+                "value": "ELDT",
+                "detail": "Obligatorio desde Feb 2022 (Federal)",
+                "source": "https://www.fmcsa.dot.gov/registration/commercial-drivers-license/entry-level-driver-training-eldt",
+                "source_name": "FMCSA"
+            },
+            {
+                "label": "Examen Escrito",
+                "value": "Español",
+                "detail": "Disponible en 11 idiomas incluyendo español",
+                "source": "https://www.dps.texas.gov/section/driver-license/commercial-driver-license",
+                "source_name": "Texas DPS"
+            },
+            {
+                "label": "Salario Promedio",
+                "value": "$52k - $75k",
+                "detail": "Rango anual para conductores en Texas",
+                "source": "https://www.bls.gov/oes/current/oes_tx.htm",
+                "source_name": "BLS Texas"
+            }
+        ],
+        "cta_primary": {
+            "text": "Ver Pasos Completos",
+            "anchor": "#roadmap"
+        },
+        "cta_secondary": {
+            "text": "Calcular Inversión",
+            "anchor": "#calculadora"
+        }
+    },
+    "callout_espanol": {
+        "ai_generated": true,
+        "type": "success_box",
+        "icon": "✅",
+        "title": "Buenas Noticias: Examen en Español",
+        "content": "En Texas, el examen TEÓRICO (escrito) está disponible en español. Sin embargo, el examen PRÁCTICO (de manejo e inspección pre-viaje) debe realizarse en inglés según regulaciones federales. Se recomienda conocimiento básico de inglés para términos de seguridad vehicular.",
+        "source": "https://www.dps.texas.gov/section/driver-license/commercial-driver-license",
+        "source_name": "Texas DPS"
+    },
+    "autoridad_reguladora": {
+        "ai_generated": true,
+        "nombre": "Texas Department of Public Safety (DPS)",
+        "programa": "Driver License Division - Commercial Driver License (CDL)",
+        "nota_consolidacion": "El Texas DPS regula todas las licencias comerciales en el estado, incluyendo permisos CLP y todas las clases de CDL.",
+        "direccion": {
+            "calle": "5805 N Lamar Blvd",
+            "ciudad": "Austin",
+            "estado": "TX",
+            "cp": "78752",
+            "mailing": "P.O. Box 4087, Austin, TX 78773-0001"
+        },
+        "telefono": {
+            "toll_free": "1-866-357-3639",
+            "local": "(512) 424-2600"
+        },
+        "email": "dlcomments@dps.texas.gov",
+        "web": "https://www.dps.texas.gov/section/driver-license/commercial-driver-license",
+        "verificar_licencia": "https://www.dps.texas.gov/section/driver-license/driver-license-check",
+        "source": "https://www.dps.texas.gov/section/driver-license/commercial-driver-license"
+    },
+    "roadmap": {
+        "_description": "Proceso paso a paso para obtener tu CDL en Texas, desde el permiso de aprendizaje hasta la licencia completa.",
+        "ai_generated": true,
+        "layout": "timeline",
+        "nota_general": "El proceso comienza con el permiso CLP (Commercial Learner's Permit), seguido por entrenamiento ELDT obligatorio, y culmina con el examen práctico de habilidades. Texas requiere certificado médico válido durante todo el proceso.",
+        "tipos": [
+            {
+                "id": "clp_texas",
+                "titulo_en": "Commercial Learner's Permit (CLP)",
+                "titulo_es": "Permiso de Aprendizaje Comercial (CLP)",
+                "es_principal": false,
+                "color_badge": "#0066CC",
+                "descripcion_corta": "El primer paso obligatorio para cualquier CDL. Permite practicar con supervisor calificado.",
+                "scope_of_work": "Operar vehículos comerciales ÚNICAMENTE con un titular de CDL válida en el asiento del pasajero.",
+                "requisitos": {
+                    "edad_minima": 18,
+                    "educacion_previa": "Licencia Clase C de Texas válida (o equivalente de otro estado)",
+                    "licencia_previa": "Licencia regular válida sin suspensiones activas",
+                    "examen_medico": "Certificado médico DOT (Medical Examiner's Certificate) válido",
+                    "examen": "Aprobar examen de conocimientos generales y exámenes específicos según endorsements deseados"
+                },
+                "examen": {
+                    "nombre": "Knowledge Tests (Exámenes de Conocimiento)",
+                    "partes": 1,
+                    "parte_1": {
+                        "nombre": "General Knowledge + Endorsements",
+                        "formato": "Opción múltiple en computadora",
+                        "idiomas": [
+                            "Español",
+                            "Inglés",
+                            "Vietnamita",
+                            "Chino",
+                            "Coreano",
+                            "Árabe",
+                            "Hindi",
+                            "Farsi",
+                            "Japonés",
+                            "Francés",
+                            "Alemán"
+                        ],
+                        "puntaje_minimo": "80% (40 de 50 preguntas correctas en General Knowledge)",
+                        "cuando_tomarlo": "Después de estudiar el manual y tener certificado médico",
+                        "contenido_principal": [
+                            "Inspección del vehículo",
+                            "Control básico del vehículo",
+                            "Manejo en carretera",
+                            "Transporte seguro de carga",
+                            "Frenos de aire (si aplica)",
+                            "Endorsements específicos (Tanque, Dobles/Triples, Pasajeros, HazMat)"
+                        ],
+                        "ubicaciones": "Cualquier oficina de DPS que ofrezca servicios de CDL",
+                        "que_llevar": [
+                            "Identificación válida",
+                            "Certificado médico DOT",
+                            "Prueba de residencia en Texas",
+                            "Número de Seguro Social o carta de inelegibilidad"
+                        ],
+                        "nota_licencia_temporal": "El CLP es válido por 6 meses y puede renovarse hasta por 3 veces (máximo 2 años total)"
+                    },
+                    "administrador": "Texas Department of Public Safety (DPS)",
+                    "source": "https://www.dps.texas.gov/section/driver-license/commercial-driver-license"
+                },
+                "costos": {
+                    "examen_medico": 75,
+                    "aplicacion_licencia": 61,
+                    "examen_escrito": 0,
+                    "total_examenes_y_licencia": 136
+                },
+                "como_aplicar": {
+                    "metodo": "En persona en oficinas DPS designadas",
+                    "url": "https://www.dps.texas.gov/section/driver-license/how-apply-texas-commercial-driver-license-cdl",
+                    "tiempo_procesamiento": "Mismo día (si apruebas exámenes)",
+                    "pasos": [
+                        "Obtener certificado médico DOT de examinador certificado (válido 2 años)",
+                        "Estudiar el Manual CDL de Texas (disponible en español)",
+                        "Reunir documentos requeridos (ID, SSN, residencia)",
+                        "Visitar oficina DPS con servicios de CDL",
+                        "Completar aplicación DL-91A",
+                        "Pasar examen de vista",
+                        "Tomar foto y dar huellas",
+                        "Aprobar exámenes de conocimiento necesarios",
+                        "Pagar tarifas ($61 CLP)",
+                        "Recibir CLP válido por 6 meses"
+                    ]
+                },
+                "nota": "Debes tener el CLP por MÍNIMO 14 días antes de poder tomar el examen práctico de habilidades. Durante este tiempo, completa tu entrenamiento ELDT."
+            },
+            {
+                "id": "cdl_class_c",
+                "titulo_en": "Class C CDL",
+                "titulo_es": "Licencia Comercial Clase C",
+                "es_principal": false,
+                "color_badge": "#28a745",
+                "descripcion_corta": "Para vehículos diseñados para transportar 16+ pasajeros o materiales peligrosos.",
+                "scope_of_work": "Vehículos que no califican para Clase A o B, pero requieren CDL por tipo de carga o pasajeros (ej: vans de pasajeros, vehículos con HazMat).",
+                "requisitos": {
+                    "permiso": "CLP Clase C válido por mínimo 14 días",
+                    "entrenamiento": "ELDT (Entry-Level Driver Training) obligatorio desde Feb 2022",
+                    "examen": "Examen de habilidades prácticas (Skills Test) en vehículo representativo"
+                },
+                "examen": {
+                    "nombre": "CDL Skills Test",
+                    "partes": 3,
+                    "parte_1": {
+                        "nombre": "Pre-Trip Inspection (Inspección Pre-Viaje)",
+                        "formato": "Demostración práctica verbal",
+                        "idiomas": [
+                            "Inglés"
+                        ],
+                        "puntaje_minimo": "Aprobar sin errores críticos",
+                        "cuando_tomarlo": "Después de completar ELDT y tener CLP por 14+ días",
+                        "contenido_principal": [
+                            "Inspección del motor",
+                            "Cabina y controles",
+                            "Luces y señales",
+                            "Frenos y suspensión",
+                            "Llantas y ruedas",
+                            "Carga y amarres"
+                        ],
+                        "que_llevar": [
+                            "CLP válido",
+                            "Certificado médico vigente",
+                            "Certificado ELDT del proveedor",
+                            "Vehículo apropiado para la clase de CDL"
+                        ],
+                        "idioma_nota": "El examen práctico DEBE realizarse en inglés por regulación federal. No se permiten intérpretes."
+                    },
+                    "parte_2": {
+                        "nombre": "Basic Vehicle Control (Control Básico)",
+                        "formato": "Maniobras en área cerrada",
+                        "puntaje_minimo": "Completar sin errores críticos",
+                        "cuando_tomarlo": "Inmediatamente después de aprobar inspección",
+                        "contenido_principal": [
+                            "Reversa en línea recta",
+                            "Estacionamiento en ángulo",
+                            "Reversa paralela al muelle"
+                        ]
+                    },
+                    "administrador": "Texas DPS o Third-Party Testing Program",
+                    "source": "https://www.dps.texas.gov/section/driver-license/commercial-driver-license"
+                },
+                "costos": {
+                    "examen_practico": 120,
+                    "aplicacion_licencia": 60,
+                    "entrenamiento": "Varía según proveedor ELDT ($500-$2,000 estimado)"
+                },
+                "como_aplicar": {
+                    "metodo": "Agendar examen práctico con DPS o proveedor third-party",
+                    "url": "https://www.dps.texas.gov/section/driver-license/scheduling-road-test",
+                    "pasos": [
+                        "Completar entrenamiento ELDT con proveedor registrado",
+                        "Esperar mínimo 14 días desde emisión del CLP",
+                        "Agendar Skills Test (en línea o por teléfono)",
+                        "Practicar con instructor certificado",
+                        "Presentarse con vehículo apropiado el día del examen",
+                        "Aprobar las 3 partes del Skills Test",
+                        "Pagar tarifa de licencia CDL ($60)",
+                        "Recibir CDL temporal (plástico llega por correo)"
+                    ]
+                },
+                "nota": "La Clase C es menos común. La mayoría de conductores comerciales necesitan Clase A o B."
+            },
+            {
+                "id": "cdl_class_b",
+                "titulo_en": "Class B CDL",
+                "titulo_es": "Licencia Comercial Clase B (Camiones Rectos, Autobuses)",
+                "es_principal": false,
+                "color_badge": "#17a2b8",
+                "descripcion_corta": "Para vehículos pesados de una sola unidad: autobuses escolares, camiones de basura, dump trucks, box trucks.",
+                "scope_of_work": "Vehículo único con peso bruto (GVWR) de 26,001+ libras. Puede remolcar vehículo de menos de 10,000 lbs.",
+                "requisitos": {
+                    "permiso": "CLP Clase B válido por mínimo 14 días",
+                    "entrenamiento": "ELDT obligatorio (teoría + behind-the-wheel con proveedor registrado)",
+                    "examen": "Skills Test completo en vehículo Clase B"
+                },
+                "examen": {
+                    "nombre": "CDL Class B Skills Test",
+                    "partes": 3,
+                    "parte_1": {
+                        "nombre": "Pre-Trip Inspection",
+                        "formato": "Demostración verbal en inglés",
+                        "puntaje_minimo": "Sin errores críticos",
+                        "cuando_tomarlo": "Después de ELDT + 14 días con CLP",
+                        "contenido_principal": [
+                            "Motor y compartimiento",
+                            "Cabina: cinturones, espejos, controles",
+                            "Sistema de frenos (incluye frenos de aire si aplica)",
+                            "Sistema de dirección y suspensión",
+                            "Luces, señales y reflectores",
+                            "Llantas, rines y espaciadores"
+                        ]
+                    },
+                    "parte_2": {
+                        "nombre": "Basic Controls (Maniobras)",
+                        "formato": "Práctico en área cerrada",
+                        "puntaje_minimo": "Completar sin errores críticos",
+                        "cuando_tomarlo": "Después de aprobar Pre-Trip",
+                        "contenido_principal": [
+                            "Straight Line Backing (reversa en línea recta)",
+                            "Alley Dock (estacionamiento en muelle)",
+                            "Offset Back o Parallel Park (según vehículo)"
+                        ]
+                    },
+                    "administrador": "Texas DPS o Third-Party Tester",
+                    "url_psi": "https://www.dps.texas.gov/section/driver-license/third-party-testing-program",
+                    "source": "https://www.dps.texas.gov/section/driver-license/commercial-driver-license"
+                },
+                "costos": {
+                    "examen_practico": 120,
+                    "aplicacion_licencia": 60,
+                    "entrenamiento": "Variable: $2,000 - $4,500 (promedio en escuelas privadas)"
+                },
+                "como_aplicar": {
+                    "url": "https://www.dps.texas.gov/section/driver-license/how-apply-texas-commercial-driver-license-cdl",
+                    "pasos": [
+                        "Obtener CLP Clase B",
+                        "Inscribirse en escuela ELDT registrada",
+                        "Completar horas de teoría y práctica (varía por escuela)",
+                        "Obtener certificado ELDT",
+                        "Agendar Skills Test con DPS o third-party",
+                        "Aprobar las 3 partes del examen",
+                        "Recibir CDL Clase B (válida 5 años hasta edad 79)"
+                    ]
+                },
+                "combinaciones": [
+                    "Passenger (P): para autobuses",
+                    "School Bus (S): para autobuses escolares",
+                    "Air Brakes: si el vehículo tiene sistema de aire"
+                ],
+                "nota": "Clase B es ideal para trabajos locales: basura, entregas urbanas, autobuses escolares. No requiere experiencia en carretera larga."
+            },
+            {
+                "id": "cdl_class_a",
+                "titulo_en": "Class A CDL",
+                "titulo_es": "Licencia Comercial Clase A (Tractocamiones/Trailers)",
+                "es_principal": true,
+                "color_badge": "#ff6b35",
+                "descripcion_corta": "La licencia comercial más versátil. Permite manejar cualquier combinación de vehículos pesados.",
+                "scope_of_work": "Combinación de vehículos con peso bruto combinado (GCWR) de 26,001+ lbs, donde el vehículo remolcado pesa 10,001+ lbs. Incluye tractocamiones (semi-trucks) con trailers.",
+                "requisitos": {
+                    "edad_minima": 18,
+                    "permiso": "CLP Clase A válido por mínimo 14 días",
+                    "entrenamiento": "ELDT obligatorio (teoría + range + behind-the-wheel)",
+                    "examen_medico": "Certificado DOT válido",
+                    "examen": "Skills Test completo en combinación Clase A"
+                },
+                "examen": {
+                    "nombre": "CDL Class A Skills Test",
+                    "partes": 3,
+                    "parte_1": {
+                        "nombre": "Vehicle Inspection (Pre-Trip)",
+                        "formato": "Demostración práctica verbal en inglés",
+                        "puntaje_minimo": "Sin errores que causen falla automática",
+                        "cuando_tomarlo": "Después de completar ELDT y tener CLP 14+ días",
+                        "contenido_principal": [
+                            "Inspección del tractocamión (motor, cabina, frenos)",
+                            "Sistema de acople (fifth wheel, kingpin, air lines, cables)",
+                            "Trailer completo (luces, frenos, llantas, carga)",
+                            "Sistema de frenos de aire (pruebas específicas)",
+                            "Suspensión y sistema eléctrico"
+                        ],
+                        "que_llevar": [
+                            "CLP Clase A válido",
+                            "Certificado médico DOT vigente",
+                            "Certificado de completación ELDT",
+                            "Tractocamión con trailer representativo (proporcionado por escuela o empleador)"
+                        ],
+                        "idioma_nota": "DEBE realizarse en INGLÉS. Memoriza términos técnicos en inglés durante el entrenamiento."
+                    },
+                    "parte_2": {
+                        "nombre": "Basic Control Skills",
+                        "formato": "Maniobras en área controlada",
+                        "puntaje_minimo": "Completar sin exceder límites de puntos",
+                        "cuando_tomarlo": "Inmediatamente después de aprobar Pre-Trip",
+                        "contenido_principal": [
+                            "Straight Line Backing (reversa en línea recta con trailer)",
+                            "Offset Back (reversa con desplazamiento lateral)",
+                            "Parallel Park o Alley Dock (estacionamiento en muelle)"
+                        ]
+                    },
+                    "administrador": "Texas DPS o Third-Party CDL Testing Provider",
+                    "telefono_psi": "1-866-357-3639",
+                    "url_psi": "https://www.dps.texas.gov/section/driver-license/third-party-testing-program",
+                    "retakes": "Si fallas, debes esperar tiempo especificado y pagar nuevamente. Máximo 3 intentos con mismo CLP.",
+                    "source": "https://www.dps.texas.gov/section/driver-license/commercial-driver-license"
+                },
+                "costos": {
+                    "examen_medico": 75,
+                    "aplicacion_clp": 61,
+                    "examen_escrito": 0,
+                    "examen_practico": 120,
+                    "aplicacion_licencia": 60,
+                    "entrenamiento": "Variable: $3,000 - $7,000 (escuelas privadas)",
+                    "total_estimado": "$3,400 - $7,400"
+                },
+                "como_aplicar": {
+                    "metodo": "Proceso de múltiples pasos con DPS y proveedor ELDT",
+                    "url": "https://www.dps.texas.gov/section/driver-license/how-apply-texas-commercial-driver-license-cdl",
+                    "tiempo_procesamiento": "4-12 semanas desde inicio hasta CDL (depende de escuela)",
+                    "pasos": [
+                        "Obtener certificado médico DOT ($75)",
+                        "Solicitar y aprobar CLP Clase A ($61 + exámenes escritos)",
+                        "Inscribirse en programa ELDT registrado con FMCSA",
+                        "Completar teoría (mínimo 31 horas según FMCSA)",
+                        "Completar entrenamiento práctico (horas varían, típicamente 120-160)",
+                        "Recibir certificado ELDT del proveedor",
+                        "Esperar 14 días desde emisión del CLP",
+                        "Agendar Skills Test con DPS o third-party",
+                        "Aprobar las 3 partes del examen ($120)",
+                        "Pagar licencia CDL final ($60)",
+                        "Recibir CDL temporal (tarjeta permanente por correo en 2-3 semanas)"
+                    ]
+                },
+                "combinaciones": [
+                    "T - Double/Triple Trailers",
+                    "N - Tank Vehicles",
+                    "H - Hazardous Materials (requiere TSA background check)",
+                    "X - Combinación de H + N"
+                ],
+                "nota": "Clase A es la licencia más demandada. Te permite trabajar en transporte de larga distancia (OTR - Over The Road) con mejores salarios. Muchas compañías ofrecen entrenamiento pagado a cambio de contrato laboral."
+            }
+        ]
+    },
+    "calculadora_inversion": {
+        "ai_generated": true,
+        "_description": "Desglose realista de costos para obtener CDL en Texas, incluyendo diferentes rutas (escuela privada vs. company-sponsored).",
+        "escenarios": [
+            {
+                "id": "cdl_a_escuela_privada",
+                "licencia": "CDL Clase A - Vía Escuela Privada",
+                "inversion": {
+                    "examen_medico_dl51": "$75 - $100",
+                    "licencia_clp_dmv": "$61",
+                    "escuela_manejo": "$3,500 - $7,000",
+                    "kit_libros": "$50 - $100 (algunos incluidos en matrícula)",
+                    "examenes_endosos": "$0 (incluidos en tarifa CLP si se toman inicialmente)",
+                    "examen_practico": "$120 (DPS) o incluido en escuela",
+                    "licencia_final_cdl": "$60",
+                    "total_minimo": "$3,866",
+                    "total_maximo": "$7,441"
+                },
+                "tiempo": "3-8 semanas (tiempo completo) o 3-6 meses (medio tiempo)",
+                "salario_esperado": {
+                    "empleada": "$45,000 - $55,000 primer año (local/regional)",
+                    "con_experiencia": "$60,000 - $75,000 (2-3 años experiencia, OTR)",
+                    "especialista": "$80,000 - $100,000+ (HazMat, tanques, equipos especializados)",
+                    "nota": "OTR (Over-The-Road) generalmente paga más pero requiere estar fuera de casa por semanas."
+                },
+                "nota": "Inversión inicial alta pero recuperable en 6-12 meses de trabajo. Muchas escuelas ofrecen financiamiento o programas con reembolso del empleador.",
+                "roi_nota": "ROI típico: recuperas inversión en 4-8 meses trabajando tiempo completo."
+            },
+            {
+                "id": "cdl_a_company_sponsored",
+                "licencia": "CDL Clase A - Programa Patrocinado por Compañía",
+                "inversion": {
+                    "examen_medico_dl51": "$0 - $100 (algunas empresas lo pagan)",
+                    "licencia_clp_dmv": "$61",
+                    "escuela_manejo": "$0 (pagado por empresa)",
+                    "kit_libros": "$0 (proporcionado)",
+                    "examenes_y_licencia": "$0 - $200 (la mayoría pagado por empresa)",
+                    "total_estimado": "$100 - $400"
+                },
+                "tiempo": "3-4 semanas (entrenamiento intensivo) + 9-12 meses de contrato obligatorio",
+                "salario_esperado": {
+                    "empleada": "$40,000 - $50,000 primer año (salario puede ser menor durante contrato)",
+                    "nota": "Salarios iniciales pueden ser más bajos y debes cumplir contrato de 9-24 meses. Si renuncias antes, debes reembolsar costo del entrenamiento ($3,000-$6,000)."
+                },
+                "nota": "Inversión mínima pero requiere compromiso laboral. Ideal si no tienes capital inicial. Empresas comunes: Prime, Swift, CR England, Werner, Schneider.",
+                "roi_nota": "Prácticamente sin costo inicial, pero sacrificas flexibilidad laboral por 1-2 años."
+            },
+            {
+                "id": "cdl_b_escuela",
+                "licencia": "CDL Clase B - Escuela Privada",
+                "inversion": {
+                    "examen_medico_dl51": "$75 - $100",
+                    "licencia_clp_dmv": "$61",
+                    "escuela_manejo": "$2,000 - $4,500",
+                    "kit_libros": "$30 - $80",
+                    "examen_practico": "$120",
+                    "licencia_final_cdl": "$60",
+                    "total_minimo": "$2,346",
+                    "total_maximo": "$4,921"
+                },
+                "tiempo": "2-6 semanas",
+                "salario_esperado": {
+                    "empleada": "$38,000 - $52,000 (conductores de autobús escolar, basura, delivery)",
+                    "con_experiencia": "$50,000 - $65,000 (con endorsements y experiencia)",
+                    "nota": "Trabajos Clase B suelen ser locales (home daily) con horarios más predecibles."
+                },
+                "nota": "Menor inversión que Clase A. Ideal para trabajos locales sin viajes largos.",
+                "roi_nota": "Recuperación de inversión en 3-6 meses."
+            }
+        ]
+    },
+    "renovacion": {
+        "ai_generated": true,
+        "frecuencia": "Cada 5 años (hasta edad 79) / Cada 2 años (edad 79-84) / Anual (85+)",
+        "metodo": "En persona en oficina DPS (no renovable en línea para CDL)",
+        "url_renovacion": "https://www.dps.texas.gov/section/driver-license/renewing-your-texas-driver-license",
+        "costo_renovacion": 60,
+        "ce_requerida": {
+            "horas_totales": 0,
+            "temas": [],
+            "nota": "Texas NO requiere educación continua para renovar CDL. Sin embargo, DEBES mantener tu certificado médico DOT vigente (renovación cada 2 años). Si tu certificado médico vence, tu CDL es degradada automáticamente a licencia Clase C regular.",
+            "costo_cursos_ce_online": "N/A",
+            "url_proveedores": "N/A"
+        },
+        "consecuencias_no_renovar": {
+            "0_6_meses": "Período de gracia. Puedes renovar con penalidad mínima.",
+            "6_12_meses": "Licencia expirada. Debes renovar en persona. No puedes operar vehículos comerciales.",
+            "12_meses_plus": "CDL expirada. Posible necesidad de volver a tomar exámenes. Consulta con DPS.",
+            "certificado_medico_vencido": "Tu CDL es DEGRADADA automáticamente a Clase C. Para restaurar, debes presentar nuevo certificado médico DOT válido."
+        },
+        "nota_tdlr": "CRÍTICO: Mantén tu certificado médico al día. El DPS recibe notificaciones automáticas de FMCSA. Si tu médico no sube tu certificado al National Registry, tu CDL será degradada incluso si tienes el papel en mano.",
+        "source": "https://www.dps.texas.gov/section/driver-license/renewing-your-texas-driver-license"
+    },
+    "reciprocidad": {
+        "ai_generated": true,
+        "disponible": true,
+        "nombre_proceso": "Transferencia de CDL de Otro Estado (Out-of-State CDL Transfer)",
+        "requisitos": [
+            "Tener CDL válida de otro estado de EE.UU.",
+            "Renunciar a la CDL del estado anterior (surrendered)",
+            "Establecer residencia en Texas (prueba de domicilio)",
+            "Aprobar examen de vista",
+            "Presentar certificado médico DOT válido",
+            "Pasar verificación de historial de manejo (MVR)",
+            "Completar aplicación DL-91A"
+        ],
+        "nota": "NO necesitas volver a tomar exámenes de conocimiento ni Skills Test si transfieres CDL válida de otro estado. EXCEPCIÓN: Si tu CDL del otro estado ha estado expirada más de 1 año, Texas puede requerir exámenes nuevamente.",
+        "url": "https://www.dps.texas.gov/section/driver-license/transferring-your-out-state-driver-license-texas",
+        "experiencia_como_horas": "N/A para transferencias",
+        "source": "https://www.dps.texas.gov/section/driver-license/transferring-your-out-state-driver-license-texas"
+    },
+    "salarios": {
+        "ai_generated": true,
+        "nota_importante": "Los salarios varían significativamente según el tipo de carga, rutas (local vs. OTR), experiencia y endorsements. Los datos siguientes son promedios; muchos conductores ganan más con especializaciones.",
+        "nacional_2024": {
+            "mediana": "$54,320 anual",
+            "por_hora_mediana": "$26.12",
+            "percentil_10": "$35,000",
+            "percentil_90": "$76,000+",
+            "crecimiento_proyectado": "+4% (2023-2033)",
+            "source": "https://www.bls.gov/oes/current/oes533032.htm",
+            "top_earners": "$80,000 - $120,000 (especializados, owner-operators)"
+        },
+        "texas": {
+            "promedio_anual": "$51,880",
+            "promedio_hora": "$24.94",
+            "top_earners": "$72,000+",
+            "source": "https://www.bls.gov/oes/current/oes_tx.htm"
+        },
+        "por_ciudad_texas": [
+            {
+                "ciudad": "Houston",
+                "salario_medio": "$52,000 - $65,000",
+                "top_earners": "$75,000+ (especialmente en petroquímicos/HazMat)",
+                "source": "Indeed, Glassdoor 2024"
+            },
+            {
+                "ciudad": "Dallas-Fort Worth",
+                "salario_medio": "$50,000 - $62,000",
+                "top_earners": "$70,000+",
+                "source": "Indeed, Glassdoor 2024"
+            },
+            {
+                "ciudad": "San Antonio",
+                "salario_medio": "$48,000 - $58,000",
+                "source": "Indeed, Glassdoor 2024"
+            },
+            {
+                "ciudad": "Austin",
+                "salario_medio": "$49,000 - $61,000",
+                "source": "Indeed, Glassdoor 2024"
+            },
+            {
+                "ciudad": "El Paso",
+                "salario_medio": "$45,000 - $55,000",
+                "top_earners": "$65,000+ (cruces fronterizos)",
+                "source": "Indeed, Glassdoor 2024"
+            }
+        ],
+        "ingresos_reales": {
+            "ai_generated": true,
+            "nota": "Salarios reales incluyen factores como bonos, per diem, y tipo de pago (millas vs. hora).",
+            "factores_adicionales": [
+                "Pago por milla vs. por hora (la mayoría OTR paga por milla: $0.40-$0.65/milla)",
+                "Bonos de seguridad, puntualidad y retención",
+                "Per diem (deducción de impuestos para gastos de comida)",
+                "Tiempo de espera en cargas/descargas (pagado o no pagado según empresa)",
+                "Endorsements especializados (HazMat, Tanques, Dobles)"
+            ],
+            "estimado_realista": {
+                "recien_licenciada": "$40,000 - $52,000 (local/regional, entrenamiento pagado)",
+                "3_5_años_experiencia": "$55,000 - $70,000 (OTR con buenos miles semanales)",
+                "especialista_o_independiente": "$75,000 - $95,000 (HazMat, oversized loads, tanques, owner-operator)",
+                "dueña_salon": "$100,000 - $150,000+ (owner-operator con camión propio, contratos dedicados)"
+            }
+        }
+    },
+    "errores_comunes": {
+        "ai_generated": true,
+        "items": [
+            {
+                "error": "Dejar vencer el certificado médico DOT",
+                "por_que_importa": "Si tu certificado médico vence, el DPS automáticamente DEGRADA tu CDL a licencia Clase C regular. No puedes operar vehículos comerciales hasta renovar el médico.",
+                "solucion": "Renueva tu certificado médico 30 días ANTES de que venza. Asegúrate de que tu examinador médico esté en el National Registry y suba tu certificado electrónicamente."
+            },
+            {
+                "error": "No estudiar la inspección pre-viaje en inglés",
+                "por_que_importa": "El examen práctico es 100% en inglés. La inspección pre-viaje es donde más candidatos fallan porque deben nombrar partes específicas y explicar procedimientos en inglés.",
+                "solucion": "Memoriza el guion de inspección pre-viaje palabra por palabra en inglés. Practica con un instructor que hable inglés. YouTube tiene videos completos de pre-trip en español con traducción."
+            },
+            {
+                "error": "Elegir escuela no registrada en FMCSA",
+                "por_que_importa": "Desde febrero 2022, DEBES completar ELDT con un proveedor registrado en el TPR (Training Provider Registry). Si tu escuela no está registrada, NO podrás tomar el Skills Test.",
+                "solucion": "Verifica que tu escuela esté en https://tpr.fmcsa.dot.gov/ ANTES de inscribirte y pagar."
+            },
+            {
+                "error": "Tomar el Skills Test antes de 14 días con CLP",
+                "por_que_importa": "Regulación federal requiere que tengas tu CLP por MÍNIMO 14 días antes del examen práctico. Si intentas antes, el DPS rechazará tu examen.",
+                "solucion": "Cuenta 14 días calendario desde la fecha de emisión en tu CLP. Usa ese tiempo para practicar intensivamente."
+            },
+            {
+                "error": "No practicar lo suficiente en el vehículo exacto del examen",
+                "por_que_importa": "Cada camión maneja diferente. Si practicas en un camión automático pero tomas el examen en manual (o viceversa), puedes fallar por falta de familiaridad.",
+                "solucion": "Practica en el MISMO camión (o tipo idéntico) que usarás en el Skills Test. Pregunta a tu escuela qué camión proporciona para el examen."
+            },
+            {
+                "error": "Asumir que la CDL de Texas te permite manejar interestatal siendo menor de 21",
+                "por_que_importa": "Con 18-20 años puedes obtener CDL de Texas, pero SOLO para comercio intraestatal (dentro de Texas). No puedes cruzar líneas estatales hasta los 21 años por regulación federal.",
+                "solucion": "Si tienes 18-20 años, acepta que tus opciones laborales estarán limitadas a rutas dentro de Texas hasta cumplir 21."
+            },
+            {
+                "error": "Olvidar reportar tickets de tráfico o accidentes",
+                "por_que_importa": "Los conductores CDL tienen requisitos más estrictos de reporte. No reportar violaciones puede resultar en suspensión de CDL.",
+                "solucion": "Reporta CUALQUIER ticket o accidente (incluso en tu vehículo personal) a tu empleador y al DPS dentro de 30 días."
+            },
+            {
+                "error": "Pensar que la CDL te protege de DUI/DWI más estrictos",
+                "por_que_importa": "Para conductores CDL, el límite de alcohol es 0.04% (mitad del límite normal de 0.08%). Un DUI/DWI puede resultar en pérdida PERMANENTE de tu CDL.",
+                "solucion": "Tolerancia CERO con alcohol si tienes CDL. Incluso un DUI fuera de servicio (en carro personal) puede terminar tu carrera."
+            }
+        ]
+    },
+    "faqs": {
+        "ai_generated": true,
+        "items": [
+            {
+                "pregunta": "¿Puedo tomar el examen práctico de CDL en español en Texas?",
+                "respuesta": "No. El examen de CONOCIMIENTO (escrito) está disponible en español, pero el examen PRÁCTICO (Skills Test: inspección pre-viaje, maniobras, manejo en ruta) DEBE realizarse en inglés según regulaciones federales. No se permiten intérpretes durante el Skills Test. Debes poder comunicarte en inglés básico con el examinador.",
+                "source": "https://www.dps.texas.gov/section/driver-license/commercial-driver-license",
+                "seo_note": "Keyword: examen cdl texas español"
+            },
+            {
+                "pregunta": "¿Qué es ELDT y por qué es obligatorio?",
+                "respuesta": "ELDT (Entry-Level Driver Training) es un requisito federal desde febrero 7, 2022. DEBES completar entrenamiento teórico y práctico con un proveedor registrado en el TPR (Training Provider Registry) de FMCSA antes de poder tomar el Skills Test. Sin certificado ELDT, el DPS no te permitirá hacer el examen práctico. Verifica que tu escuela esté registrada en https://tpr.fmcsa.dot.gov/",
+                "source": "https://www.fmcsa.dot.gov/registration/commercial-drivers-license/entry-level-driver-training-eldt",
+                "seo_note": "Keyword: eldt texas cdl"
+            },
+            {
+                "pregunta": "¿Cuál es la diferencia entre CDL Clase A, B y C en Texas?",
+                "respuesta": "Clase A: Para combinaciones de tractocamión + trailer donde el trailer pesa 10,001+ lbs (típico semi-truck). Clase B: Para vehículos pesados de una sola unidad como autobuses, camiones de basura, dump trucks (26,001+ lbs, remolque <10,000 lbs). Clase C: Para vehículos diseñados para 16+ pasajeros o que transportan materiales peligrosos (que no califican para A o B). La Clase A es la más versátil y mejor pagada.",
+                "source": "https://www.dps.texas.gov/section/driver-license/commercial-driver-license",
+                "seo_note": "Keyword: diferencia clase a b cdl texas"
+            },
+            {
+                "pregunta": "¿Cuánto cuesta sacar la licencia CDL en Texas en total?",
+                "respuesta": "Costos directos al DPS: CLP $61 + Skills Test $120 + CDL final $60 = $241. PERO también necesitas: certificado médico DOT ($75-$100) y entrenamiento ELDT ($2,000-$7,000 dependiendo de escuela y clase). Total realista: $2,400-$7,500. Alternativa: programas company-sponsored cuestan casi $0 inicial pero requieren contrato de 9-24 meses.",
+                "source": "Texas DPS + escuelas privadas",
+                "seo_note": "Keyword: costo total cdl texas"
+            },
+            {
+                "pregunta": "¿Puedo obtener CDL en Texas si soy indocumentado?",
+                "respuesta": "No. Para obtener CDL en Texas necesitas: (1) SSN válido o carta de inelegibilidad del SSA, (2) prueba de residencia legal en EE.UU., y (3) pasar verificación de estatus migratorio. Además, para trabajar como conductor comercial interestatal necesitas autorización federal de trabajo. Si tienes DACA, TPS u otro estatus temporal, puedes calificar para CDL intraestatal (solo dentro de Texas) pero verifica con DPS.",
+                "source": "Texas DPS",
+                "seo_note": "Keyword sensible pero frecuente"
+            },
+            {
+                "pregunta": "¿Cuánto tiempo toma sacar la CDL en Texas desde cero?",
+                "respuesta": "Mínimo absoluto: 3-4 semanas (si estudias tiempo completo en escuela intensiva). Realista: 6-12 semanas. Desglose: Día 1: Certificado médico. Días 2-7: Estudiar y aprobar exámenes escritos para CLP. Días 8-35+: Escuela ELDT (14+ días obligatorios con CLP). Día 36+: Skills Test. Si trabajas mientras estudias, puede tomar 3-6 meses.",
+                "source": "Texas DPS + escuelas",
+                "seo_note": "Keyword: cuanto tiempo sacar cdl texas"
+            },
+            {
+                "pregunta": "¿Necesito escuela o puedo estudiar por mi cuenta?",
+                "respuesta": "DEBES asistir a una escuela registrada en el TPR de FMCSA para cumplir con ELDT. No puedes 'estudiar por tu cuenta' y presentar el examen práctico. Sin embargo, el examen TEÓRICO (para CLP) sí puedes estudiarlo por tu cuenta con el manual del DPS. Para el Skills Test, necesitas acceso a un camión comercial apropiado, lo cual generalmente solo las escuelas o empleadores proporcionan.",
+                "source": "FMCSA ELDT regulations",
+                "seo_note": "Keyword: sacar cdl sin escuela texas"
+            },
+            {
+                "pregunta": "¿Qué endorsements (endosos) debo sacar y cuándo?",
+                "respuesta": "Endorsements comunes: N (Tanque), H (HazMat), T (Dobles/Triples), P (Pasajeros), S (Autobús Escolar). CUÁNDO: Puedes tomar exámenes de endorsements junto con tu CLP inicial (sin costo extra en esa visita) o agregarlos después ($10-15 cada uno). RECOMENDACIÓN: Si planeas OTR, saca al menos Air Brakes (evita restricción) y considera Tanque. HazMat requiere background check de TSA ($86.50) y huellas digitales.",
+                "source": "Texas DPS",
+                "seo_note": "Keyword: endorsements cdl texas"
+            },
+            {
+                "pregunta": "¿Cuánto gana un trailero en Texas realmente?",
+                "respuesta": "Rango amplio dependiendo de experiencia y tipo de carga: Principiante (local/regional): $40k-$52k. Con 2-3 años (OTR): $55k-$70k. Especializado (HazMat, tanques, oversized): $75k-$95k. Owner-operator: $100k-$150k+ (pero con gastos de camión). Factores: pago por milla ($0.40-$0.65/milla típico) vs. por hora, bonos, per diem, benefits. OTR (largas distancias) paga más pero estás fuera de casa semanas.",
+                "source": "BLS + Indeed/Glassdoor Texas 2024",
+                "seo_note": "Keyword: cuanto gana trailero texas"
+            },
+            {
+                "pregunta": "¿Puedo transferir mi CDL de otro estado a Texas?",
+                "respuesta": "Sí. Proceso: (1) Establece residencia en Texas, (2) Visita DPS con tu CDL válida del otro estado, (3) Presenta certificado médico DOT vigente, (4) Aprueba examen de vista, (5) Renuncia a tu CDL anterior, (6) Paga $60. NO necesitas volver a tomar exámenes de conocimiento ni Skills Test si tu CDL está vigente. EXCEPCIÓN: Si tu CDL expiró hace más de 1 año, Texas puede requerir exámenes nuevamente.",
+                "source": "https://www.dps.texas.gov/section/driver-license/transferring-your-out-state-driver-license-texas",
+                "seo_note": "Keyword: transferir cdl a texas"
+            },
+            {
+                "pregunta": "¿Qué pasa si repruebo el examen práctico (Skills Test)?",
+                "respuesta": "Puedes volver a intentarlo, pero: (1) Debes esperar tiempo mínimo (varía, generalmente 7-14 días), (2) Debes pagar nuevamente la tarifa del examen ($120), (3) Tu CLP permite máximo 3 intentos de Skills Test. Si fallas 3 veces, debes obtener un nuevo CLP (pagar $61 de nuevo) y volver a tomar exámenes escritos. CONSEJO: No te apresures. Practica más con tu instructor antes del segundo intento.",
+                "source": "Texas DPS",
+                "seo_note": "Keyword: reprobar skills test cdl texas"
+            },
+            {
+                "pregunta": "¿Las escuelas CDL en Texas ofrecen clases en español?",
+                "respuesta": "Algunas sí. Escuelas con instructores bilingües o material en español existen especialmente en Houston, Dallas, San Antonio, El Paso. SIN EMBARGO: Recuerda que el examen PRÁCTICO es en inglés, así que incluso escuelas bilingües te prepararán para explicar la inspección pre-viaje en inglés. Pregunta directamente a la escuela sobre disponibilidad de instructores hispanohablantes. Verifica siempre que la escuela esté registrada en el TPR de FMCSA.",
+                "source": "Escuelas privadas en Texas",
+                "seo_note": "Keyword: escuelas cdl español texas"
+            }
+        ]
+    },
+    "escuelas": {
+        "ai_generated": true,
+        "items": [
+            {
+                "id": "160_driving_academy",
+                "name": "160 Driving Academy",
+                "city": "Multiple locations (Houston, Dallas, San Antonio, Austin, El Paso)",
+                "phone": "(866) 160-0333",
+                "website": "https://www.160drivingacademy.com/",
+                "is_bilingual": true,
+                "programs": [
+                    {
+                        "id": "class_a_cdl",
+                        "name": "Class A CDL Training",
+                        "duration_months": 1,
+                        "cost": 5500,
+                        "modality": "Tiempo completo (4 semanas) - Bilingüe"
+                    }
+                ]
+            },
+            {
+                "id": "truck_driving_school_texas",
+                "name": "Texas Truck Driving School",
+                "city": "Houston, TX",
+                "phone": "(713) 691-0700",
+                "website": "https://texastruckdrivingschool.com/",
+                "is_bilingual": true,
+                "programs": [
+                    {
+                        "id": "cdl_class_a",
+                        "name": "CDL Class A Program",
+                        "duration_months": 1.5,
+                        "cost": 4200,
+                        "modality": "Flexible - Instructores bilingües"
+                    }
+                ]
+            },
+            {
+                "id": "all_state_career",
+                "name": "All-State Career School",
+                "city": "Dallas, TX & Multiple locations",
+                "phone": "(214) 339-5990",
+                "website": "https://www.allstatecareerschool.com/",
+                "is_bilingual": true,
+                "programs": [
+                    {
+                        "id": "cdl_training",
+                        "name": "CDL Class A Training",
+                        "duration_months": 1,
+                        "cost": 4500,
+                        "modality": "Tiempo completo - Español disponible"
+                    }
+                ]
+            },
+            {
+                "id": "roadmaster_houston",
+                "name": "Roadmaster Drivers School",
+                "city": "Houston, TX",
+                "phone": "(713) 589-5400",
+                "website": "https://www.roadmaster.com/",
+                "is_bilingual": false,
+                "programs": [
+                    {
+                        "id": "class_a_program",
+                        "name": "Class A CDL Program",
+                        "duration_months": 1,
+                        "cost": 6500,
+                        "modality": "Tiempo completo - Inglés"
+                    }
+                ]
+            },
+            {
+                "id": "united_cdl_training",
+                "name": "United CDL Training School",
+                "city": "San Antonio, TX",
+                "phone": "(210) 490-8181",
+                "website": "https://www.unitedcdlschool.com/",
+                "is_bilingual": true,
+                "programs": [
+                    {
+                        "id": "cdl_class_a_b",
+                        "name": "Class A & B CDL Training",
+                        "duration_months": 1,
+                        "cost": 3800,
+                        "modality": "Bilingüe - Horarios flexibles"
+                    }
+                ]
+            },
+            {
+                "id": "tti_truck_driving",
+                "name": "TTI Truck Driving School",
+                "city": "El Paso, TX",
+                "phone": "(915) 877-1747",
+                "website": "https://www.ttitruckdrivingschool.com/",
+                "is_bilingual": true,
+                "programs": [
+                    {
+                        "id": "cdl_a_training",
+                        "name": "CDL Class A Training",
+                        "duration_months": 1,
+                        "cost": 4000,
+                        "modality": "Español e Inglés"
+                    }
+                ]
+            }
+        ]
+    },
+    "enlaces_utiles": {
+        "ai_generated": true,
+        "enlaces": [
+            {
+                "categoria": "Autoridad Reguladora",
+                "enlaces": [
+                    {
+                        "titulo": "Texas DPS - Commercial Driver License",
+                        "url": "https://www.dps.texas.gov/section/driver-license/commercial-driver-license",
+                        "descripcion": "Portal oficial del DPS para CDL en Texas"
+                    },
+                    {
+                        "titulo": "Cómo Aplicar para CDL en Texas",
+                        "url": "https://www.dps.texas.gov/section/driver-license/how-apply-texas-commercial-driver-license-cdl",
+                        "descripcion": "Guía oficial paso a paso"
+                    },
+                    {
+                        "titulo": "Verificar Licencia de Conductor en Texas",
+                        "url": "https://www.dps.texas.gov/section/driver-license/driver-license-check",
+                        "descripcion": "Para verificar estatus de CDL"
+                    }
+                ]
+            },
+            {
+                "categoria": "Manuales y Estudio",
+                "enlaces": [
+                    {
+                        "titulo": "Manual Oficial CDL de Texas (PDF)",
+                        "url": "https://www.dps.texas.gov/internetforms/Forms/CDL-7.pdf",
+                        "descripcion": "Manual completo en inglés para estudiar examen teórico"
+                    },
+                    {
+                        "titulo": "Texas CDL Practice Tests (Inglés)",
+                        "url": "https://driving-tests.org/texas/texas-cdl-practice-test/",
+                        "descripcion": "Exámenes de práctica gratuitos en línea"
+                    }
+                ]
+            },
+            {
+                "categoria": "ELDT y Escuelas",
+                "enlaces": [
+                    {
+                        "titulo": "Training Provider Registry (TPR) - FMCSA",
+                        "url": "https://tpr.fmcsa.dot.gov/",
+                        "descripcion": "Buscador oficial de escuelas ELDT registradas"
+                    },
+                    {
+                        "titulo": "ELDT Information - FMCSA",
+                        "url": "https://www.fmcsa.dot.gov/registration/commercial-drivers-license/entry-level-driver-training-eldt",
+                        "descripcion": "Información federal sobre requisito ELDT"
+                    }
+                ]
+            },
+            {
+                "categoria": "Certificado Médico",
+                "enlaces": [
+                    {
+                        "titulo": "National Registry of Certified Medical Examiners",
+                        "url": "https://nationalregistry.fmcsa.dot.gov/",
+                        "descripcion": "Buscar examinadores médicos DOT certificados en Texas"
+                    },
+                    {
+                        "titulo": "Medical Certification Requirements",
+                        "url": "https://www.fmcsa.dot.gov/regulations/medical/medical-certification-requirements",
+                        "descripcion": "Requisitos federales de certificación médica"
+                    }
+                ]
+            },
+            {
+                "categoria": "Salarios y Empleo",
+                "enlaces": [
+                    {
+                        "titulo": "BLS - Heavy Truck Drivers (Texas)",
+                        "url": "https://www.bls.gov/oes/current/oes_tx.htm#53-0000",
+                        "descripcion": "Estadísticas oficiales de salarios en Texas"
+                    },
+                    {
+                        "titulo": "Indeed - CDL Jobs Texas",
+                        "url": "https://www.indeed.com/q-CDL-Driver-l-Texas-jobs.html",
+                        "descripcion": "Búsqueda de empleos CDL en Texas"
+                    }
+                ]
+            },
+            {
+                "categoria": "Recursos Comunitarios",
+                "enlaces": [
+                    {
+                        "titulo": "TruckersReport Forum",
+                        "url": "https://www.thetruckersreport.com/",
+                        "descripcion": "Foro de conductores (en inglés) con sección de principiantes"
+                    },
+                    {
+                        "titulo": "CDL Life - Spanish Resources",
+                        "url": "https://cdllife.com/",
+                        "descripcion": "Blog y recursos para conductores CDL"
+                    }
+                ]
+            }
+        ]
+    }
+}

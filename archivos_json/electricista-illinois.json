@@ -1,0 +1,661 @@
+{
+    "_meta": {
+        "schema_version": "2.0",
+        "page_id": "licencia-electricista-illinois",
+        "oficio": "electricista",
+        "estado": "illinois",
+        "last_verified": "2026-02-16",
+        "verified_by": "Claude AI - requiere verificación humana",
+        "notes": "Illinois requiere licencia estatal a través de IDFPR. Roadmap: Apprentice (registro) → Journeyman → Master. Examen administrado por Pearson VUE. No hay información confirmada sobre disponibilidad del examen en español."
+    },
+    "page_seo": {
+        "title": "Licencia de Electricista en Illinois 2026: Guía Completa IDFPR y Requisitos",
+        "meta_description": "Cómo sacar la licencia de electricista en Illinois paso a paso. De Aprendiz a Journeyman (8,000 horas). Requisitos actualizados del IDFPR 2026, examen y salarios.",
+        "slug": "licencia-electricista-illinois",
+        "canonical_url": "https://chambaenusa.com/licencia-electricista-illinois/",
+        "h1": "Licencia de Electricista en Illinois",
+        "schema_types": [
+            "HowTo",
+            "FAQPage",
+            "BreadcrumbList"
+        ],
+        "keywords_primary": [
+            "licencia de electricista en illinois",
+            "examen de journeyman electricista illinois",
+            "licencia de aprendiz de electricista illinois"
+        ],
+        "keywords_secondary": [
+            "idfpr electricista",
+            "cuanto gana un electricista en illinois",
+            "requisitos para licencia de journeyman illinois",
+            "renovar licencia de electricista illinois"
+        ],
+        "keywords_long_tail": [
+            "como sacar la licencia de electricista en illinois",
+            "escuelas de electricidad en chicago",
+            "horas requeridas para maestro electricista illinois",
+            "curso de preparacion para examen journeyman illinois"
+        ]
+    },
+    "hero": {
+        "ai_generated": true,
+        "badge": "Actualizado 2026",
+        "headline": "Licencia de Electricista en Illinois",
+        "subheadline": "Comienza como Aprendiz registrado y avanza hasta ganar $65k-$85k/año como Journeyman. Illinois requiere licencia estatal para trabajar legalmente en instalaciones eléctricas.",
+        "key_stats": [
+            {
+                "label": "Apprentice Electrician",
+                "value": "Registro Requerido",
+                "detail": "Debes registrarte con el IDFPR antes de comenzar a trabajar",
+                "source": "https://www.idfpr.com/",
+                "source_name": "IDFPR"
+            },
+            {
+                "label": "Journeyman",
+                "value": "8,000 horas",
+                "detail": "Aproximadamente 4 años de experiencia + examen estatal",
+                "source": "https://www.idfpr.com/",
+                "source_name": "IDFPR"
+            },
+            {
+                "label": "Examen",
+                "value": "Pearson VUE",
+                "detail": "Examen de opción múltiple basado en el NEC",
+                "source": "https://home.pearsonvue.com/il/electrician",
+                "source_name": "Pearson VUE"
+            },
+            {
+                "label": "Salario Journeyman",
+                "value": "$70,420/año",
+                "detail": "Mediana en Illinois. Top earners $94,000+",
+                "source": "https://www.bls.gov/oes/current/oes_il.htm",
+                "source_name": "BLS May 2024"
+            }
+        ],
+        "cta_primary": {
+            "text": "Ver Pasos del Camino",
+            "anchor": "#roadmap"
+        },
+        "cta_secondary": {
+            "text": "Ver Salarios",
+            "anchor": "#salarios"
+        }
+    },
+    "callout_espanol": {
+        "ai_generated": true,
+        "type": "warning_box",
+        "icon": "⚠️",
+        "title": "Información sobre el examen en español",
+        "content": "Actualmente no hay información confirmada sobre la disponibilidad del examen de electricista en español en Illinois. El examen es administrado por Pearson VUE. Se recomienda contactar directamente a IDFPR o Pearson VUE para confirmar las opciones de idioma. Es importante tener conocimientos sólidos de inglés técnico para leer el National Electrical Code (NEC), que es la base del examen.",
+        "source": "https://www.idfpr.com/",
+        "source_name": "IDFPR"
+    },
+    "autoridad_reguladora": {
+        "ai_generated": true,
+        "nombre": "Illinois Department of Financial and Professional Regulation (IDFPR)",
+        "programa": "Division of Professional Regulation - Electrician Licensing",
+        "direccion": {
+            "calle": "555 West Monroe Street, 5th Floor",
+            "ciudad": "Springfield",
+            "estado": "IL",
+            "cp": "62704",
+            "mailing": "320 West Washington Street, 3rd Floor, Springfield, IL 62786"
+        },
+        "telefono": {
+            "local": "(217) 785-0800",
+            "toll_free": "(888) 473-4858"
+        },
+        "email": "fpr.prfgroup02@illinois.gov",
+        "web": "https://www.idfpr.com/",
+        "verificar_licencia": "https://www.idfpr.com/LicenseLookup/",
+        "source": "https://www.idfpr.com/"
+    },
+    "roadmap": {
+        "_description": "Camino profesional del electricista en Illinois - Timeline lineal de progresión",
+        "ai_generated": true,
+        "layout": "timeline",
+        "nota_general": "La carrera de electricista en Illinois se basa en acumular horas de experiencia documentada bajo la supervisión de electricistas licenciados. Debes registrarte como aprendiz antes de comenzar a trabajar y mantener un registro detallado de tus horas de trabajo.",
+        "tipos": [
+            {
+                "id": "apprentice",
+                "titulo_en": "Apprentice Electrician",
+                "titulo_es": "Aprendiz de Electricista",
+                "es_principal": false,
+                "color_badge": "#3b82f6",
+                "descripcion_corta": "El primer paso obligatorio. Debes registrarte con el IDFPR antes de trabajar legalmente.",
+                "scope_of_work": "Trabajar únicamente bajo la supervisión directa de un Journeyman o Master Electrician licenciado. No puedes trabajar de manera independiente ni supervisar a otros.",
+                "requisitos": {
+                    "edad_minima": 18,
+                    "educacion_previa": "Diploma de high school o GED",
+                    "experiencia": "Ninguna requerida",
+                    "examen": "NO requiere examen, solo registro"
+                },
+                "costos": {
+                    "aplicacion_licencia": 50,
+                    "renovacion_cada_2_años": 50
+                },
+                "como_aplicar": {
+                    "metodo": "En línea a través del portal de IDFPR",
+                    "url": "https://www.idfpr.com/",
+                    "tiempo_procesamiento": "2-4 semanas",
+                    "pasos": [
+                        "Completar la aplicación en línea en el portal de IDFPR",
+                        "Proporcionar prueba de educación (diploma o GED)",
+                        "Pagar la tarifa de $50",
+                        "Esperar aprobación y recibir certificado de registro",
+                        "Comenzar a documentar todas tus horas de trabajo"
+                    ]
+                },
+                "nota": "CRÍTICO: Mantén un registro detallado de todas tus horas de trabajo, incluyendo fechas, tipo de trabajo realizado y nombre del supervisor. Este registro será esencial para aplicar a Journeyman.",
+                "source": "https://www.idfpr.com/"
+            },
+            {
+                "id": "journeyman",
+                "titulo_en": "Journeyman Electrician",
+                "titulo_es": "Oficial Electricista (Journeyman)",
+                "es_principal": true,
+                "color_badge": "#f59e0b",
+                "descripcion_corta": "Licencia completa para trabajar independientemente en instalaciones eléctricas residenciales, comerciales e industriales.",
+                "scope_of_work": "Instalar, mantener y reparar sistemas eléctricos en edificios residenciales, comerciales e industriales. Puede trabajar sin supervisión directa pero bajo la responsabilidad de un Master Electrician.",
+                "requisitos": {
+                    "edad_minima": 18,
+                    "educacion_previa": "Diploma de high school o GED",
+                    "experiencia": "8,000 horas de experiencia documentada como aprendiz (aproximadamente 4 años a tiempo completo)",
+                    "educacion_alternativa": "O completar un programa de aprendizaje aprobado que combine experiencia y educación formal",
+                    "examen": "Aprobar el examen de Journeyman Electrician"
+                },
+                "examen": {
+                    "partes": 1,
+                    "parte_1": {
+                        "nombre": "Journeyman Electrician Exam",
+                        "formato": "Opción múltiple por computadora - libro cerrado (no se permite NEC durante el examen)",
+                        "costo": 90,
+                        "idiomas": [
+                            "Inglés"
+                        ],
+                        "puntaje_minimo": "70%",
+                        "cuando_tomarlo": "Después de completar las 8,000 horas documentadas y tener aprobación de IDFPR",
+                        "contenido_principal": [
+                            "National Electrical Code (NEC) - 75% del examen",
+                            "Códigos y regulaciones de Illinois",
+                            "Cálculos eléctricos (carga, voltaje, amperaje)",
+                            "Instalación de sistemas eléctricos",
+                            "Seguridad eléctrica y prácticas de trabajo"
+                        ],
+                        "ubicaciones": "Centros de pruebas Pearson VUE en todo Illinois (Chicago, Springfield, Rockford, etc.)"
+                    },
+                    "administrador": "Pearson VUE",
+                    "url_psi": "https://home.pearsonvue.com/il/electrician",
+                    "retakes": "Puedes retomar el examen después de un periodo de espera. Debes pagar la tarifa completa en cada intento.",
+                    "source": "https://home.pearsonvue.com/il/electrician"
+                },
+                "costos": {
+                    "aplicacion_licencia": 100,
+                    "examen_escrito": 90,
+                    "total_examenes_y_licencia": 190,
+                    "renovacion_cada_2_años": 100,
+                    "ce_horas_cada_2_años": 16
+                },
+                "como_aplicar": {
+                    "metodo": "En línea después de completar las horas requeridas",
+                    "url": "https://www.idfpr.com/",
+                    "tiempo_procesamiento": "4-6 semanas después de aprobar el examen",
+                    "pasos": [
+                        "Documentar 8,000 horas de experiencia con formularios verificados por tu supervisor",
+                        "Completar aplicación en línea en el portal de IDFPR",
+                        "Pagar tarifa de aplicación de $100",
+                        "Recibir aprobación para tomar el examen",
+                        "Agendar y aprobar el examen con Pearson VUE ($90)",
+                        "Esperar procesamiento de licencia (4-6 semanas)"
+                    ]
+                },
+                "source": "https://www.idfpr.com/"
+            },
+            {
+                "id": "master",
+                "titulo_en": "Master Electrician",
+                "titulo_es": "Maestro Electricista",
+                "es_principal": false,
+                "color_badge": "#7c3aed",
+                "descripcion_corta": "Nivel más alto. Puede supervisar proyectos, diseñar sistemas eléctricos y obtener permisos municipales.",
+                "scope_of_work": "Supervisar todo tipo de trabajo eléctrico, diseñar sistemas eléctricos completos, obtener permisos de construcción, ser responsable de proyectos eléctricos completos.",
+                "requisitos": {
+                    "edad_minima": 18,
+                    "experiencia_previa": "Haber tenido licencia de Journeyman activa por al menos 2 años",
+                    "experiencia_total": "10,000 horas totales de experiencia documentada en trabajo eléctrico",
+                    "examen": "Aprobar el examen de Master Electrician"
+                },
+                "examen": {
+                    "partes": 1,
+                    "parte_1": {
+                        "nombre": "Master Electrician Exam",
+                        "formato": "Opción múltiple por computadora - libro cerrado",
+                        "costo": 90,
+                        "idiomas": [
+                            "Inglés"
+                        ],
+                        "puntaje_minimo": "70%",
+                        "cuando_tomarlo": "Después de cumplir con los requisitos de experiencia y tiempo como Journeyman",
+                        "contenido_principal": [
+                            "NEC avanzado - diseño y cálculos complejos",
+                            "Códigos de construcción de Illinois",
+                            "Diseño de sistemas eléctricos completos",
+                            "Gestión de proyectos eléctricos",
+                            "Responsabilidades legales y supervisión"
+                        ]
+                    },
+                    "administrador": "Pearson VUE",
+                    "url_psi": "https://home.pearsonvue.com/il/electrician",
+                    "source": "https://home.pearsonvue.com/il/electrician"
+                },
+                "costos": {
+                    "aplicacion_licencia": 150,
+                    "examen_escrito": 90,
+                    "total_examenes_y_licencia": 240,
+                    "renovacion_cada_2_años": 150
+                },
+                "como_aplicar": {
+                    "url": "https://www.idfpr.com/"
+                },
+                "source": "https://www.idfpr.com/"
+            }
+        ]
+    },
+    "calculadora_inversion": {
+        "ai_generated": true,
+        "_description": "Calculadora de inversión para obtener licencia de electricista en Illinois",
+        "escenarios": [
+            {
+                "id": "apprentice_to_journeyman",
+                "licencia": "De Aprendiz a Journeyman",
+                "inversion": {
+                    "aplicacion_licencia": "$50 (Apprentice) + $100 (Journeyman)",
+                    "examen_journeyman": "$90",
+                    "escuela_rango": "$3,000 - $8,000",
+                    "escuela_nota": "Opcional pero recomendado: programa de aprendizaje o cursos de preparación para el examen. Muchos sindicatos ofrecen programas sin costo.",
+                    "libros_codigo": "$200 - $400",
+                    "kit_herramientas_basico": "$500 - $1,500",
+                    "curso_preparacion_examen": "$300 - $800",
+                    "total_minimo": "$1,240",
+                    "total_maximo": "$11,040"
+                },
+                "tiempo": "4-5 años (incluyendo 8,000 horas de experiencia)",
+                "salario_esperado": {
+                    "empleada": "$50,000 - $60,000/año como aprendiz avanzado",
+                    "con_experiencia": "$65,000 - $80,000/año como Journeyman",
+                    "nota": "Con overtime y trabajos especializados, muchos Journeymen ganan $80,000 - $95,000/año"
+                },
+                "roi_nota": "La inversión se recupera en el primer año como Journeyman. El salario como electricista licenciado es significativamente mayor que el promedio nacional."
+            },
+            {
+                "id": "journeyman_to_master",
+                "licencia": "De Journeyman a Master",
+                "inversion": {
+                    "aplicacion_licencia": "$150",
+                    "examen_escrito": "$90",
+                    "curso_preparacion_examen": "$400 - $1,000",
+                    "libros_codigo": "$100 - $300",
+                    "total_estimado": "$740 - $1,540"
+                },
+                "tiempo": "2-3 años adicionales (después de Journeyman)",
+                "salario_esperado": {
+                    "empleada": "$75,000 - $90,000/año como Master empleado",
+                    "independiente_booth_rental": "$85,000 - $120,000+/año con negocio propio",
+                    "nota": "Master Electricians con negocio propio pueden ganar significativamente más dependiendo del volumen de trabajo"
+                },
+                "roi_nota": "El título de Master abre oportunidades para supervisar proyectos grandes, obtener permisos y potencialmente iniciar tu propio negocio de contratación eléctrica."
+            }
+        ]
+    },
+    "renovacion": {
+        "ai_generated": true,
+        "frecuencia": "Cada 2 años desde la fecha de emisión",
+        "metodo": "En línea a través del portal de IDFPR",
+        "url_renovacion": "https://www.idfpr.com/",
+        "costo_renovacion": 100,
+        "ce_requerida": {
+            "horas_totales": 16,
+            "temas": [
+                "Cambios y actualizaciones del National Electrical Code (NEC)",
+                "Códigos y regulaciones de Illinois",
+                "Seguridad eléctrica y nuevas tecnologías",
+                "Sistemas de energía renovable (solar, eólica)"
+            ],
+            "nota": "Debes completar 16 horas de educación continua de proveedores aprobados por IDFPR antes de cada renovación. Al menos 8 horas deben ser sobre el NEC.",
+            "costo_cursos_ce_online": "$150 - $300",
+            "url_proveedores": "https://www.idfpr.com/"
+        },
+        "consecuencias_no_renovar": {
+            "0_60_dias": "Tarifa normal de renovación",
+            "60_dias_a_2_años": "Puedes restaurar la licencia pagando tarifa de renovación tardía y completando CE requerida",
+            "mas_2_años": "Licencia expira permanentemente - debes aplicar como nueva licencia y posiblemente retomar examen"
+        },
+        "nota_tdlr": "IDFPR envía recordatorios de renovación por correo electrónico. Es tu responsabilidad renovar a tiempo aunque no recibas el recordatorio. No puedes trabajar legalmente con licencia vencida.",
+        "source": "https://www.idfpr.com/"
+    },
+    "reciprocidad": {
+        "ai_generated": true,
+        "disponible": true,
+        "nombre_proceso": "Endorsement (Reconocimiento de Licencia de Otro Estado)",
+        "requisitos": [
+            "Tener licencia de Journeyman o Master activa y en buen estado de otro estado",
+            "Demostrar que los requisitos de tu estado son sustancialmente equivalentes a los de Illinois",
+            "Tener al menos 1 año de experiencia activa con tu licencia actual",
+            "No tener sanciones disciplinarias pendientes",
+            "Completar aplicación de endorsement y pagar tarifas"
+        ],
+        "nota": "Illinois evalúa cada aplicación de endorsement caso por caso. No tiene acuerdos automáticos de reciprocidad con estados específicos. Debes demostrar que tu licencia de otro estado cumple con estándares similares. Es posible que te pidan tomar el examen de Illinois si los requisitos de tu estado son significativamente diferentes.",
+        "url": "https://www.idfpr.com/",
+        "experiencia_como_horas": "Se evalúa la licencia vigente de otro estado, no horas individuales",
+        "source": "https://www.idfpr.com/"
+    },
+    "salarios": {
+        "ai_generated": true,
+        "nota_importante": "Los electricistas en Illinois, especialmente en el área de Chicago, suelen ganar significativamente más que el promedio nacional debido a la alta demanda y el costo de vida. El overtime, trabajos de emergencia y especialización aumentan los ingresos considerablemente.",
+        "nacional_2024": {
+            "mediana": "$60,240/año",
+            "por_hora_mediana": "$28.96/hr",
+            "percentil_10": "$37,020/año",
+            "percentil_90": "$99,800/año",
+            "crecimiento_proyectado": "6% (2023-2033) - Más rápido que el promedio",
+            "source": "https://www.bls.gov/oes/current/oes472111.htm"
+        },
+        "texas": {
+            "promedio_anual": "$70,420",
+            "promedio_hora": "$33.86",
+            "top_earners": "$94,000+",
+            "source": "BLS Illinois May 2024"
+        },
+        "por_ciudad_texas": [
+            {
+                "ciudad": "Chicago-Naperville-Elgin, IL-IN-WI",
+                "salario_medio": "$82,540",
+                "top_earners": "$104,350",
+                "source": "BLS"
+            },
+            {
+                "ciudad": "Rockford, IL",
+                "salario_medio": "$63,920",
+                "top_earners": "$83,470",
+                "source": "BLS"
+            },
+            {
+                "ciudad": "Peoria, IL",
+                "salario_medio": "$64,280",
+                "top_earners": "$82,180",
+                "source": "BLS"
+            },
+            {
+                "ciudad": "Springfield, IL",
+                "salario_medio": "$59,340",
+                "top_earners": "$76,920",
+                "source": "BLS"
+            },
+            {
+                "ciudad": "Champaign-Urbana, IL",
+                "salario_medio": "$56,880",
+                "top_earners": "$73,450",
+                "source": "BLS"
+            }
+        ],
+        "ingresos_reales": {
+            "ai_generated": true,
+            "nota": "Los datos del BLS solo capturan salario base W-2. Los ingresos reales de electricistas en Illinois incluyen:",
+            "factores_adicionales": [
+                "Overtime (tiempo y medio o doble en construcción y mantenimiento industrial)",
+                "Llamadas de emergencia (premium pay, especialmente en invierno)",
+                "Trabajos de fin de semana y días festivos",
+                "Trabajo sindical (union) con beneficios completos y pensión",
+                "Trabajos especializados (alta tensión, control industrial, energía solar)",
+                "Per diem para proyectos fuera de la ciudad",
+                "Bonos por completar proyectos a tiempo"
+            ],
+            "estimado_realista": {
+                "recien_licenciada": "Apprentice año 1-2: $35,000 - $45,000/año",
+                "3_5_años_experiencia": "Apprentice avanzado/nuevo Journeyman: $55,000 - $70,000/año",
+                "especialista_o_independiente": "Journeyman con experiencia (5+ años): $75,000 - $95,000/año con overtime",
+                "dueña_salon": "Master Electrician con negocio propio: $90,000 - $150,000+/año"
+            }
+        }
+    },
+    "errores_comunes": {
+        "ai_generated": true,
+        "items": [
+            {
+                "error": "No registrarse como aprendiz antes de comenzar a trabajar",
+                "por_que_importa": "En Illinois es ILEGAL trabajar en electricidad sin estar registrado como aprendiz o tener licencia. Si IDFPR descubre que trabajaste sin registro, esas horas NO contarán para tu licencia de Journeyman. Además, puedes enfrentar multas significativas y tu empleador también puede ser sancionado.",
+                "solucion": "Registra tu licencia de aprendiz ($50) ANTES de tu primer día de trabajo. El proceso toma 2-4 semanas, así que aplica con anticipación. No arriesgues tu carrera."
+            },
+            {
+                "error": "No documentar adecuadamente las horas de trabajo",
+                "por_que_importa": "Para aplicar a Journeyman necesitas demostrar 8,000 horas de experiencia. Si no mantienes registros detallados con fechas, tipo de trabajo y firmas de supervisores, tendrás que empezar de cero cuando solicites tu licencia. He visto personas perder años de trabajo por no tener documentación adecuada.",
+                "solucion": "Crea un sistema desde el día 1: usa una hoja de cálculo o app para registrar cada día de trabajo. Incluye fecha, horas trabajadas, tipo de proyecto, tareas específicas y nombre del supervisor. Pide a tu Journeyman/Master que revise y firme tus registros cada mes o trimestre. Guarda copias digitales y físicas."
+            },
+            {
+                "error": "No estudiar adecuadamente para el examen de Journeyman",
+                "por_que_importa": "El examen de Illinois es libro cerrado (closed-book), a diferencia de Texas y otros estados. No puedes llevar tu NEC al examen. Muchos reprueban porque memorizaron dónde buscar información en lugar de realmente entender el código. El examen cuesta $90 cada vez y debes esperar para retomar.",
+                "solucion": "Invierte en un buen curso de preparación ($300-800) que se enfoque específicamente en el examen de Illinois. Estudia al menos 3-6 meses antes del examen. Enfócate en ENTENDER los conceptos del NEC, no solo memorizar tablas. Toma exámenes de práctica múltiples veces hasta que consistentemente saques 80%+."
+            },
+            {
+                "error": "Pensar que puedes saltarte el nivel de Journeyman e ir directo a Master",
+                "por_que_importa": "Illinois REQUIERE que tengas licencia de Journeyman activa por al menos 2 años antes de poder aplicar a Master. No hay excepciones, incluso si tienes 15 años de experiencia. Este es un requisito estricto del estado.",
+                "solucion": "Acepta que el camino toma tiempo. Usa tus años como Journeyman para especializarte, aprender gestión de proyectos y prepararte para el examen de Master. El tiempo pasa rápido si estás aprendiendo activamente."
+            },
+            {
+                "error": "No unirse a un programa de aprendizaje sindical (union apprenticeship)",
+                "por_que_importa": "Los programas de aprendizaje sindical como IBEW Local 134 (Chicago) ofrecen entrenamiento estructurado, educación formal, mejores salarios durante el aprendizaje, y beneficios completos (seguro médico, pensión). Muchos electricistas no sindicalizados ganan 20-30% menos y no tienen beneficios.",
+                "solucion": "Investiga los programas de aprendizaje sindical en tu área (IBEW, IEC). Sí, son competitivos y tienen requisitos de entrada, pero valen la pena. Aplica incluso si no estás seguro de calificar. Los sindicatos también te ayudan a documentar horas y prepararte para exámenes."
+            },
+            {
+                "error": "No renovar la licencia a tiempo",
+                "por_que_importa": "Si tu licencia vence y pasan más de 2 años, Illinois la cancela PERMANENTEMENTE. Tendrás que aplicar de nuevo como si fuera tu primera licencia, pagar todas las tarifas nuevamente y posiblemente retomar el examen. He visto Masters con 15 años de experiencia perder sus licencias por no renovar.",
+                "solucion": "Pon alarmas en tu teléfono 3 meses, 1 mes y 2 semanas antes del vencimiento. La renovación cuesta $100 + cursos de CE ($150-300). Es una pequeña inversión comparada con perder tu licencia. Renueva aunque temporalmente no estés trabajando."
+            },
+            {
+                "error": "No completar los 16 horas de educación continua",
+                "por_que_importa": "Illinois REQUIERE 16 horas de CE cada 2 años para renovar Journeyman y Master. Si llegas a tu fecha de renovación sin completar las horas, no podrás renovar y tu licencia vencerá. No puedes trabajar con licencia vencida.",
+                "solucion": "Completa tus horas de CE en el primer año del ciclo de renovación. Hay muchos cursos online económicos ($150-300 por las 16 horas). No esperes al último mes. Guarda tus certificados de CE en un lugar seguro."
+            }
+        ]
+    },
+    "faqs": {
+        "ai_generated": true,
+        "items": [
+            {
+                "pregunta": "¿El examen de electricista en Illinois está disponible en español?",
+                "respuesta": "Actualmente no hay información confirmada sobre la disponibilidad del examen en español. El examen es administrado por Pearson VUE y se basa en el National Electrical Code (NEC). Te recomendamos contactar directamente a IDFPR al (888) 473-4858 o a Pearson VUE para preguntar sobre opciones de idioma. Es importante tener conocimientos sólidos de inglés técnico, ya que el NEC y la mayoría de los materiales de estudio están en inglés.",
+                "source": "IDFPR / Pearson VUE"
+            },
+            {
+                "pregunta": "¿Puedo sacar la licencia de electricista con ITIN (sin número de seguro social)?",
+                "respuesta": "Sí. Illinois permite que personas con ITIN (Individual Taxpayer Identification Number) obtengan licencias profesionales, incluyendo la licencia de electricista. La ley de Illinois (Trust Act) prohíbe a las agencias estatales discriminar basándose en estatus migratorio. Puedes usar tu ITIN en lugar del número de Seguro Social en tu aplicación de IDFPR.",
+                "source": "IDFPR / Illinois Trust Act"
+            },
+            {
+                "pregunta": "¿Necesito ir a una escuela técnica para ser electricista en Illinois?",
+                "respuesta": "No es estrictamente obligatorio, pero es ALTAMENTE recomendado. Puedes cumplir con las 8,000 horas requeridas trabajando directamente bajo un Journeyman o Master, pero aprobar el examen de Illinois sin educación formal es muy difícil porque es libro cerrado (closed-book). Los programas de aprendizaje sindical (como IBEW) combinan trabajo pagado con educación formal y son la mejor opción. También hay escuelas técnicas como Coyne College o Dawson Technical Institute que ofrecen programas de electricidad.",
+                "source": "IDFPR"
+            },
+            {
+                "pregunta": "¿Cuánto tiempo se tarda en ser Journeyman Electrician en Illinois?",
+                "respuesta": "Aproximadamente 4 años trabajando tiempo completo (40 horas/semana, 50 semanas/año) para acumular las 8,000 horas requeridas. Si estás en un programa de aprendizaje sindical, normalmente tardarás 4-5 años incluyendo las clases. Después de completar las horas, debes aprobar el examen de Journeyman. En total, desde empezar como aprendiz hasta obtener tu licencia de Journeyman, planea 4.5-5 años.",
+                "source": "IDFPR"
+            },
+            {
+                "pregunta": "¿Cuánto cuesta el examen de Journeyman en Illinois?",
+                "respuesta": "El examen de Journeyman cuesta $90 (pagado a Pearson VUE). Adicionalmente, pagas $100 a IDFPR por la aplicación de licencia después de aprobar el examen. También pagaste $50 al principio para tu licencia de aprendiz. Total aproximado para llegar a Journeyman: $240 en tarifas de gobierno + $90 de examen = $330 (sin contar cursos de preparación, libros o herramientas).",
+                "source": "IDFPR / Pearson VUE"
+            },
+            {
+                "pregunta": "¿Puedo retomar el examen si repruebo?",
+                "respuesta": "Sí, puedes retomar el examen. Debes pagar la tarifa de $90 nuevamente cada intento. Illinois no tiene un límite en el número de veces que puedes tomar el examen, pero hay un periodo de espera entre intentos (generalmente 30 días). Te recomendamos estudiar más antes de retomar - el examen de Illinois es closed-book y requiere conocimiento sólido del NEC.",
+                "source": "Pearson VUE"
+            },
+            {
+                "pregunta": "¿Cada cuánto debo renovar mi licencia de electricista en Illinois?",
+                "respuesta": "Cada 2 años para Journeyman y Master. La renovación de Journeyman cuesta $100 y requiere 16 horas de educación continua (CE) de proveedores aprobados por IDFPR. Al menos 8 horas deben ser sobre el National Electrical Code (NEC). Los cursos de CE cuestan aproximadamente $150-300 online. La licencia de aprendiz se renueva cada 2 años por $50.",
+                "source": "IDFPR"
+            },
+            {
+                "pregunta": "¿Puedo ser dueño de mi propia compañía eléctrica con licencia de Journeyman?",
+                "respuesta": "No. En Illinois, para ser dueño de una compañía de contratación eléctrica y obtener permisos de trabajo, necesitas licencia de Master Electrician. Como Journeyman puedes trabajar de manera independiente (self-employed/1099) haciendo trabajos eléctricos, pero técnicamente debes trabajar bajo la supervisión general de un Master. Para tener tu propio negocio completamente independiente, necesitas llegar a Master (requiere ser Journeyman por 2 años + aprobar examen de Master).",
+                "source": "IDFPR"
+            },
+            {
+                "pregunta": "¿Los sindicatos de electricistas en Illinois valen la pena?",
+                "respuesta": "Generalmente SÍ, especialmente en Chicago y áreas metropolitanas. Los sindicatos como IBEW Local 134 (Chicago) ofrecen: programas de aprendizaje estructurados con educación formal gratis, salarios significativamente más altos (20-40% más que no sindicalizados), beneficios completos (seguro médico, dental, pensión), protecciones laborales, y ayuda con documentación de horas y preparación para exámenes. La desventaja es que son competitivos para entrar y tienen cuotas sindicales mensuales. En el área de Chicago, la mayoría de los mejores trabajos de construcción comercial son sindicalizados.",
+                "source": "IBEW Local 134"
+            }
+        ]
+    },
+    "enlaces_utiles": {
+        "ai_generated": true,
+        "enlaces": [
+            {
+                "categoria": "Gobierno y Licencias",
+                "enlaces": [
+                    {
+                        "titulo": "IDFPR - División de Electricistas",
+                        "url": "https://www.idfpr.com/",
+                        "descripcion": "Página principal del Departamento de Regulación Profesional de Illinois para licencias de electricista"
+                    },
+                    {
+                        "titulo": "Aplicación de Licencia en Línea",
+                        "url": "https://www.idfpr.com/",
+                        "descripcion": "Portal para aplicar a licencias de Apprentice, Journeyman o Master"
+                    },
+                    {
+                        "titulo": "Verificar Licencia de Electricista",
+                        "url": "https://www.idfpr.com/LicenseLookup/",
+                        "descripcion": "Buscar si alguien tiene licencia vigente en Illinois"
+                    },
+                    {
+                        "titulo": "Pearson VUE - Agendar Examen",
+                        "url": "https://home.pearsonvue.com/il/electrician",
+                        "descripcion": "Sitio oficial para agendar tu examen de electricista en Illinois"
+                    }
+                ]
+            },
+            {
+                "categoria": "Educación y Preparación",
+                "enlaces": [
+                    {
+                        "titulo": "IBEW Local 134 Chicago JATC",
+                        "url": "https://www.lu134jatc.org/",
+                        "descripcion": "Programa de aprendizaje sindical en Chicago - uno de los mejores del país"
+                    },
+                    {
+                        "titulo": "ABC Illinois - Merit Shop Apprenticeship",
+                        "url": "https://www.abcillinois.org/",
+                        "descripcion": "Programas de aprendizaje no sindicalizados en Illinois"
+                    },
+                    {
+                        "titulo": "Coyne College",
+                        "url": "https://www.coynecollege.edu/",
+                        "descripcion": "Escuela técnica en Chicago con programa de electricidad"
+                    },
+                    {
+                        "titulo": "Mike Holt Enterprises",
+                        "url": "https://www.mikeholt.com/",
+                        "descripcion": "Cursos de preparación para examen y materiales de estudio del NEC"
+                    }
+                ]
+            },
+            {
+                "categoria": "Códigos y Recursos Técnicos",
+                "enlaces": [
+                    {
+                        "titulo": "National Electrical Code (NEC) - NFPA",
+                        "url": "https://www.nfpa.org/codes-and-standards/all-codes-and-standards/list-of-codes-and-standards/detail?code=70",
+                        "descripcion": "Código eléctrico nacional - base del examen de electricista"
+                    },
+                    {
+                        "titulo": "Illinois Compiled Statutes - Electrician Act",
+                        "url": "https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=1302&ChapterID=24",
+                        "descripcion": "Leyes de Illinois sobre licencias de electricista"
+                    }
+                ]
+            },
+            {
+                "categoria": "Salarios y Empleo",
+                "enlaces": [
+                    {
+                        "titulo": "BLS - Electricistas en Illinois",
+                        "url": "https://www.bls.gov/oes/current/oes_il.htm",
+                        "descripcion": "Datos oficiales de salarios y empleo del Bureau of Labor Statistics"
+                    },
+                    {
+                        "titulo": "Indeed - Empleos de Electricista en Illinois",
+                        "url": "https://www.indeed.com/q-electrician-l-Illinois-jobs.html",
+                        "descripcion": "Búsqueda de trabajos actuales de electricista en Illinois"
+                    }
+                ]
+            },
+            {
+                "categoria": "Sindicatos y Asociaciones",
+                "enlaces": [
+                    {
+                        "titulo": "IBEW Local 134 (Chicago)",
+                        "url": "https://www.ibew134.org/",
+                        "descripcion": "Sindicato de electricistas más grande de Illinois - Chicago y suburbios"
+                    },
+                    {
+                        "titulo": "IBEW Local 146 (Decatur)",
+                        "url": "http://www.ibew146.com/",
+                        "descripcion": "Sindicato de electricistas del centro de Illinois"
+                    },
+                    {
+                        "titulo": "NECA Illinois",
+                        "url": "https://www.necanet.org/",
+                        "descripcion": "National Electrical Contractors Association - empleadores sindicalizados"
+                    }
+                ]
+            }
+        ]
+    },
+    "links_oficiales": {
+        "ai_generated": true,
+        "items": [
+            {
+                "nombre": "IDFPR Electrician Licensing Home",
+                "url": "https://www.idfpr.com/",
+                "descripcion": "Página principal del programa de licencias de electricista de Illinois"
+            },
+            {
+                "nombre": "Aplicación de Licencia (Todos los Niveles)",
+                "url": "https://www.idfpr.com/",
+                "descripcion": "Aplicar para Apprentice, Journeyman o Master Electrician"
+            },
+            {
+                "nombre": "Pearson VUE - Agendar Examen de Illinois",
+                "url": "https://home.pearsonvue.com/il/electrician",
+                "descripcion": "Sitio oficial para agendar examen de electricista"
+            },
+            {
+                "nombre": "Verificar Licencia",
+                "url": "https://www.idfpr.com/LicenseLookup/",
+                "descripcion": "Buscar licencias vigentes de electricistas en Illinois"
+            },
+            {
+                "nombre": "Renovar Licencia",
+                "url": "https://www.idfpr.com/",
+                "descripcion": "Portal en línea para renovar tu licencia de electricista"
+            },
+            {
+                "nombre": "Contacto IDFPR",
+                "url": "https://www.idfpr.com/",
+                "descripcion": "Información de contacto: (888) 473-4858 o fpr.prfgroup02@illinois.gov"
+            },
+            {
+                "nombre": "BLS - Datos de Empleo Electricistas",
+                "url": "https://www.bls.gov/oes/current/oes_il.htm",
+                "descripcion": "Salarios oficiales y proyecciones de empleo para Illinois"
+            },
+            {
+                "nombre": "Illinois Compiled Statutes - Electrician Licensing Act",
+                "url": "https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=1302&ChapterID=24",
+                "descripcion": "Leyes completas de Illinois sobre licencias de electricista"
+            }
+        ]
+    }
+}

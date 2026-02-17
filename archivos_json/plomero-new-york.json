@@ -1,0 +1,654 @@
+{
+    "_meta": {
+        "schema_version": "2.0",
+        "page_id": "licencia-plomero-new-york",
+        "oficio": "plomero",
+        "estado": "new-york",
+        "last_verified": "2026-02-16",
+        "verified_by": "Claude AI - requiere verificación humana",
+        "notes": "New York requiere licencia a nivel de ciudad/condado. NYC tiene el sistema más estructurado con Master Plumber License del DOB."
+    },
+    "page_seo": {
+        "title": "Licencia de Plomero en New York 2026: Guía Completa NYC DOB y Examen",
+        "meta_description": "Cómo sacar la licencia de plomero en New York paso a paso. Requisitos de NYC DOB, 5 años de experiencia, examen y salarios de $65k-$90k. Guía en español 2026.",
+        "slug": "licencia-plomero-new-york",
+        "canonical_url": "https://chambaenusa.com/licencia-plomero-new-york/",
+        "h1": "Licencia de Plomero en New York",
+        "schema_types": [
+            "HowTo",
+            "FAQPage",
+            "BreadcrumbList"
+        ],
+        "keywords_primary": [
+            "licencia de plomero en new york",
+            "licencia de plomero nyc",
+            "master plumber license new york"
+        ],
+        "keywords_secondary": [
+            "nyc dob plumber license",
+            "cuanto gana un plomero en new york",
+            "requisitos para licencia de plomero nyc",
+            "examen de plomero new york"
+        ],
+        "keywords_long_tail": [
+            "como sacar la licencia de plomero en nueva york",
+            "cuantos años se necesitan para ser plomero en nyc",
+            "escuelas de plomeria en new york en español",
+            "renovar licencia de plomero nueva york"
+        ]
+    },
+    "hero": {
+        "ai_generated": true,
+        "badge": "Actualizado 2026",
+        "headline": "Licencia de Plomero en New York",
+        "subheadline": "En NYC, el camino es: 5 años de experiencia registrada como aprendiz + examen riguroso = Master Plumber License. Gana $65k-$95k/año con una de las licencias de plomería más respetadas del país.",
+        "key_stats": [
+            {
+                "label": "Experiencia Requerida",
+                "value": "5 años",
+                "detail": "Mínimo 10,000 horas documentadas bajo un Master Plumber licenciado en NYC",
+                "source": "https://www.nyc.gov/site/dob/",
+                "source_name": "NYC DOB"
+            },
+            {
+                "label": "Examen",
+                "value": "2 partes",
+                "detail": "Examen escrito + examen práctico. Tasa de aprobación ~40% en primer intento",
+                "source": "https://www.nyc.gov/site/dob/",
+                "source_name": "NYC DOB"
+            },
+            {
+                "label": "Costo Total",
+                "value": "$1,500 - $2,500",
+                "detail": "Incluye aplicación, exámenes, cursos de preparación y renovaciones",
+                "source": "https://www.nyc.gov/site/dob/",
+                "source_name": "NYC DOB"
+            },
+            {
+                "label": "Salario Master Plumber NYC",
+                "value": "$75,000/año",
+                "detail": "Mediana. Con overtime y trabajos de emergencia: $85k-$110k+",
+                "source": "https://www.bls.gov/oes/current/oes472152.htm",
+                "source_name": "BLS May 2024"
+            }
+        ],
+        "cta_primary": {
+            "text": "Ver Requisitos Completos",
+            "anchor": "#roadmap"
+        },
+        "cta_secondary": {
+            "text": "Ver Salarios",
+            "anchor": "#salarios"
+        }
+    },
+    "callout_espanol": {
+        "ai_generated": true,
+        "type": "warning_box",
+        "icon": "⚠️",
+        "title": "El examen de plomero en NYC es solo en inglés - prepárate bien",
+        "content": "A diferencia de otros estados, el Department of Buildings de NYC NO ofrece el examen de Master Plumber en español. Debes tomar tanto el examen escrito como el práctico en inglés. El examen incluye preguntas sobre el NYC Plumbing Code, matemáticas aplicadas y diagramas técnicos. Considera tomar cursos de preparación que te ayuden con el vocabulario técnico en inglés.",
+        "source": "https://www.nyc.gov/site/dob/",
+        "source_name": "NYC DOB"
+    },
+    "autoridad_reguladora": {
+        "ai_generated": true,
+        "nombre": "New York City Department of Buildings (DOB)",
+        "programa": "Master Plumber License Program",
+        "nota_consolidacion": "New York regula las licencias de plomería a nivel de ciudad/condado. NYC (los 5 boroughs) tiene el sistema más estructurado bajo el DOB. Otras ciudades como Buffalo, Rochester y Syracuse tienen sus propios requisitos locales.",
+        "direccion": {
+            "calle": "280 Broadway",
+            "ciudad": "New York",
+            "estado": "NY",
+            "cp": "10007",
+            "mailing": "DOB Licensing Unit, 280 Broadway, New York, NY 10007"
+        },
+        "telefono": {
+            "local": "(212) 393-2000",
+            "toll_free": "311 (dentro de NYC)"
+        },
+        "email": "dobservicecenter@buildings.nyc.gov",
+        "web": "https://www.nyc.gov/site/dob/",
+        "verificar_licencia": "https://a810-bisweb.nyc.gov/bisweb/",
+        "source": "https://www.nyc.gov/site/dob/"
+    },
+    "roadmap": {
+        "_description": "Camino profesional del plomero en New York City - Sistema DOB",
+        "ai_generated": true,
+        "layout": "timeline",
+        "nota_general": "En NYC, el camino es lineal: Apprentice (aprendiz no regulado) → acumular 5 años de experiencia documentada → aprobar examen → Master Plumber License. No hay nivel intermedio como 'Journeyman' - saltas directo a Master después de cumplir requisitos. Necesitas trabajar bajo un Master Plumber licenciado que firme tus horas.",
+        "tipos": [
+            {
+                "id": "apprentice",
+                "titulo_en": "Plumbing Apprentice",
+                "titulo_es": "Aprendiz de Plomería",
+                "es_principal": false,
+                "color_badge": "#3b82f6",
+                "descripcion_corta": "Etapa inicial. No requiere licencia formal en NYC, pero debes trabajar bajo supervisión directa de un Master Plumber.",
+                "scope_of_work": "Asistir en instalaciones y reparaciones de plomería bajo supervisión directa. No puedes sacar permisos ni trabajar solo.",
+                "requisitos": {
+                    "edad_minima": 18,
+                    "educacion_previa": "High school diploma o GED recomendado",
+                    "experiencia": "Ninguna - puedes empezar desde cero",
+                    "examen": "No requiere examen"
+                },
+                "costos": {
+                    "aplicacion_licencia": 0
+                },
+                "como_aplicar": {
+                    "metodo": "Buscar empleo con una compañía de plomería que tenga Master Plumbers en staff",
+                    "pasos": [
+                        "Encontrar trabajo con compañía de plomería registrada en NYC",
+                        "Inscribirte en un programa de aprendizaje sindical (opcional pero recomendado): Local 1 UA, Local 371 UA",
+                        "Empezar a documentar tus horas trabajadas bajo un Master Plumber",
+                        "Guardar todos los contratos laborales, pay stubs y cartas de verificación"
+                    ]
+                },
+                "nota": "CRÍTICO: Aunque no necesitas licencia formal de aprendiz, DEBES documentar meticulosamente tus horas desde el día 1. Necesitarás cartas notariadas de tus empleadores Master Plumbers para probar tus 5 años de experiencia al aplicar para el examen.",
+                "source": "https://www.nyc.gov/site/dob/"
+            },
+            {
+                "id": "master_plumber",
+                "titulo_en": "Master Plumber",
+                "titulo_es": "Maestro Plomero",
+                "es_principal": true,
+                "color_badge": "#f59e0b",
+                "descripcion_corta": "Licencia completa de NYC. Puedes supervisar trabajos, sacar permisos, firmar planos y ser dueño de compañía de plomería.",
+                "scope_of_work": "Diseñar, instalar y supervisar sistemas de plomería completos en NYC. Obtener permisos del DOB. Firmar como responsable en proyectos. Supervisar aprendices y journeymen. Ser dueño de compañía de plomería.",
+                "requisitos": {
+                    "edad_minima": 21,
+                    "experiencia": "5 años (mínimo 10,000 horas) de experiencia práctica en plomería bajo un Master Plumber licenciado",
+                    "educacion_alternativa": "O 3 años si tienes un grado en ingeniería mecánica de una universidad acreditada",
+                    "examen": "Aprobar ambos: examen escrito Y examen práctico"
+                },
+                "examen": {
+                    "partes": 2,
+                    "parte_1": {
+                        "nombre": "Written Examination (Examen Escrito)",
+                        "formato": "Opción múltiple y problemas de cálculo - en papel",
+                        "costo": 525,
+                        "idiomas": [
+                            "Inglés"
+                        ],
+                        "puntaje_minimo": "70%",
+                        "cuando_tomarlo": "Después de completar 5 años de experiencia y enviar la aplicación",
+                        "contenido_principal": [
+                            "NYC Plumbing Code (Local Law 33, NYC Administrative Code Chapter 4)",
+                            "NYC Building Code relacionado con plomería",
+                            "Cálculos hidráulicos (dimensionamiento de tuberías, presión de agua)",
+                            "Sistemas de drenaje, ventilación y alcantarillado (DWV)",
+                            "Sistemas de gas, agua caliente y vapor",
+                            "Protección contra reflujo (backflow)",
+                            "Seguridad en construcción"
+                        ],
+                        "ubicaciones": "DOB Testing Center en Brooklyn",
+                        "que_llevar": [
+                            "ID válida con foto",
+                            "Calculadora simple (no programable)",
+                            "Lápices #2",
+                            "Autorización para tomar el examen del DOB"
+                        ]
+                    },
+                    "parte_2": {
+                        "nombre": "Practical Examination (Examen Práctico)",
+                        "formato": "Instalación física de sistemas de plomería en un escenario simulado",
+                        "costo": 0,
+                        "idiomas": [
+                            "Inglés"
+                        ],
+                        "puntaje_minimo": "Evaluación de habilidades prácticas por examinadores del DOB",
+                        "cuando_tomarlo": "Solo si apruebas el examen escrito",
+                        "contenido_principal": [
+                            "Instalación de tuberías de drenaje y ventilación",
+                            "Soldadura y ensamblaje de cobre",
+                            "Instalación de válvulas y accesorios",
+                            "Lectura e interpretación de planos",
+                            "Cumplimiento del código en instalación real"
+                        ],
+                        "nota_licencia_temporal": "Si apruebas ambos exámenes, recibes tu Master Plumber License válida en los 5 boroughs de NYC.",
+                        "que_llevar": [
+                            "Herramientas propias (lista provista por DOB)",
+                            "Ropa de trabajo adecuada",
+                            "Gafas de seguridad"
+                        ]
+                    },
+                    "administrador": "NYC Department of Buildings (DOB)",
+                    "telefono_psi": "(212) 393-2000",
+                    "url_psi": "https://www.nyc.gov/site/dob/",
+                    "retakes": "Puedes retomar cada examen hasta 3 veces en un año. Después del tercer fallo, debes esperar 1 año o tomar cursos adicionales de remediación.",
+                    "source": "https://www.nyc.gov/site/dob/"
+                },
+                "costos": {
+                    "aplicacion_licencia": 300,
+                    "examen_escrito": 525,
+                    "examen_practico": 0,
+                    "total_examenes_y_licencia": 825,
+                    "renovacion_cada_2_años": 440,
+                    "ce_horas_cada_2_años": 0
+                },
+                "como_aplicar": {
+                    "metodo": "En línea a través del portal DOB NOW",
+                    "url": "https://www1.nyc.gov/site/dob/licenses/dob-now-licensing.page",
+                    "tiempo_procesamiento": "4-8 semanas para revisar aplicación y aprobar para examen",
+                    "pasos": [
+                        "Crear cuenta en DOB NOW: Licensing",
+                        "Completar la aplicación de Master Plumber License",
+                        "Subir documentos requeridos: cartas notariadas de Master Plumbers verificando tus 5 años de experiencia, certificado de nacimiento o pasaporte, prueba de residencia",
+                        "Pagar $300 de aplicación",
+                        "Esperar aprobación del DOB para tomar el examen",
+                        "Recibir carta de autorización para examen",
+                        "Programar y pagar examen escrito ($525)",
+                        "Aprobar examen escrito",
+                        "Programar examen práctico (sin costo adicional)",
+                        "Aprobar examen práctico",
+                        "Recibir tu Master Plumber License"
+                    ]
+                },
+                "nota": "NYC es uno de los procesos más rigurosos del país. La tasa de aprobación del examen escrito en el primer intento es solo ~40%. Se recomienda ALTAMENTE tomar un curso de preparación de 3-6 meses. El examen práctico también es exigente - debes demostrar habilidades reales de instalación.",
+                "source": "https://www.nyc.gov/site/dob/"
+            },
+            {
+                "id": "special_master_plumber",
+                "titulo_en": "Special Master Plumber (Fire Suppression Piping)",
+                "titulo_es": "Maestro Plomero Especializado (Tuberías de Supresión de Incendios)",
+                "es_principal": false,
+                "color_badge": "#ef4444",
+                "descripcion_corta": "Licencia adicional opcional para instalar sistemas de rociadores y tuberías de supresión de incendios (sprinklers).",
+                "scope_of_work": "Diseñar, instalar y mantener sistemas de rociadores contra incendios y sistemas de supresión de incendios en edificios comerciales y residenciales de NYC.",
+                "requisitos": {
+                    "edad_minima": 21,
+                    "licencia_previa": "Tener licencia vigente de Master Plumber O 5 años de experiencia específica en sistemas de supresión de incendios",
+                    "experiencia": "5 años en instalación de sistemas de supresión de incendios bajo un Special Master Plumber",
+                    "examen": "Aprobar examen especializado de fire suppression piping"
+                },
+                "examen": {
+                    "partes": 1,
+                    "parte_1": {
+                        "nombre": "Fire Suppression Piping Exam",
+                        "formato": "Examen escrito especializado",
+                        "costo": 525,
+                        "idiomas": [
+                            "Inglés"
+                        ],
+                        "puntaje_minimo": "70%",
+                        "cuando_tomarlo": "Después de cumplir requisitos de experiencia",
+                        "contenido_principal": [
+                            "NFPA 13 (Standard for Installation of Sprinkler Systems)",
+                            "NYC Fire Code relacionado con sprinklers",
+                            "Diseño hidráulico de sistemas de rociadores",
+                            "Tipos de rociadores y aplicaciones",
+                            "Sistemas de tubería seca, húmeda y pre-acción",
+                            "Bombas contra incendios"
+                        ]
+                    },
+                    "administrador": "NYC Department of Buildings",
+                    "source": "https://www.nyc.gov/site/dob/"
+                },
+                "costos": {
+                    "aplicacion_licencia": 300,
+                    "examen_escrito": 525,
+                    "total_examenes_y_licencia": 825,
+                    "renovacion_cada_2_años": 440
+                },
+                "nota": "Esta es una especialización lucrativa. Los Special Master Plumbers pueden cobrar tarifas premium por instalaciones de sprinklers en edificios comerciales grandes.",
+                "source": "https://www.nyc.gov/site/dob/"
+            }
+        ]
+    },
+    "calculadora_inversion": {
+        "ai_generated": true,
+        "_description": "Estimación de inversión para obtener Master Plumber License en NYC",
+        "escenarios": [
+            {
+                "id": "master_plumber_nyc",
+                "licencia": "Master Plumber (NYC DOB)",
+                "inversion": {
+                    "escuela_rango": "$0 - $5,000",
+                    "escuela_nota": "No obligatoria, pero los cursos de preparación para el examen cuestan $1,500-$5,000 (altamente recomendados)",
+                    "aplicacion_licencia": "$300",
+                    "examen_escrito": "$525",
+                    "examen_practico": "$0 (incluido)",
+                    "kit_herramientas": "$2,000 - $5,000",
+                    "kit_nota": "Herramientas profesionales para el examen práctico y trabajo diario: llaves de tubo, cortadores, soldadores, nivel, etc.",
+                    "total_minimo": "$3,825",
+                    "total_maximo": "$10,825"
+                },
+                "tiempo": "5 años de experiencia + 6-12 meses de preparación para examen",
+                "salario_esperado": {
+                    "empleada": "$60,000 - $75,000/año como Master Plumber empleado",
+                    "con_experiencia": "$75,000 - $95,000/año con 3-5 años como Master + overtime",
+                    "independiente_booth_rental": "$90,000 - $150,000+/año como dueño de compañía con cuadrilla"
+                },
+                "roi_nota": "La inversión se recupera en 1-2 años. La licencia de Master Plumber de NYC es reconocida nacionalmente y abre puertas a proyectos grandes y bien pagados."
+            }
+        ]
+    },
+    "renovacion": {
+        "ai_generated": true,
+        "frecuencia": "Cada 2 años desde la fecha de emisión",
+        "metodo": "En línea a través del portal DOB NOW: Licensing",
+        "url_renovacion": "https://www1.nyc.gov/site/dob/licenses/dob-now-licensing.page",
+        "costo_renovacion": 440,
+        "ce_requerida": {
+            "horas_totales": 0,
+            "nota": "NYC NO requiere educación continua formal para renovar la licencia de Master Plumber. Solo debes pagar la tarifa de renovación cada 2 años y mantener tu seguro de responsabilidad civil vigente."
+        },
+        "consecuencias_no_renovar": {
+            "0_90_dias": "Tarifa normal de renovación ($440)",
+            "90_dias_a_6_meses": "Tarifa de renovación tardía ($440 + penalización)",
+            "mas_6_meses": "Licencia expira y debes aplicar de nuevo desde cero - incluyendo retomar los exámenes"
+        },
+        "nota_tdlr": "El DOB envía recordatorios por email antes del vencimiento, pero es tu responsabilidad renovar a tiempo. Si trabajas con la licencia vencida, enfrentas multas de hasta $25,000 y posible revocación permanente.",
+        "source": "https://www.nyc.gov/site/dob/"
+    },
+    "reciprocidad": {
+        "ai_generated": true,
+        "disponible": false,
+        "nombre_proceso": "No hay reciprocidad formal",
+        "requisitos": [
+            "NYC no tiene acuerdos de reciprocidad con otros estados",
+            "Si tienes licencia de plomero de otro estado, igual debes cumplir los 5 años de experiencia en NYC",
+            "Debes tomar y aprobar los exámenes de NYC completos"
+        ],
+        "nota": "A diferencia de algunos oficios, NYC NO acepta licencias de plomero de otros estados como equivalentes. La razón: el NYC Plumbing Code es único y muy específico. Incluso si eres Master Plumber en New Jersey o Connecticut, debes pasar por el proceso completo de NYC. Tu experiencia previa sí cuenta para los 5 años requeridos si puedes documentarla.",
+        "url": "https://www.nyc.gov/site/dob/",
+        "experiencia_como_horas": "Experiencia de otros estados cuenta para los 5 años si está documentada y verificada por Master Plumbers",
+        "source": "https://www.nyc.gov/site/dob/"
+    },
+    "salarios": {
+        "ai_generated": true,
+        "nota_importante": "Los plomeros en NYC están entre los mejor pagados del país debido al alto costo de vida, fuerte presencia sindical (Local 1 UA, Local 371 UA) y demanda constante. Los datos del BLS solo capturan salario base - el ingreso real con overtime, trabajos de emergencia y propinas es significativamente mayor.",
+        "nacional_2024": {
+            "mediana": "$61,550/año",
+            "por_hora_mediana": "$29.59/hr",
+            "percentil_10": "$38,620/año ($18.57/hr)",
+            "percentil_90": "$100,690/año ($48.41/hr)",
+            "crecimiento_proyectado": "6% (2023-2033) - Más rápido que el promedio",
+            "source": "https://www.bls.gov/oes/current/oes472152.htm"
+        },
+        "texas": {
+            "promedio_anual": "$74,580",
+            "promedio_hora": "$35.86",
+            "top_earners": "$105,340+",
+            "source": "BLS New York State May 2024"
+        },
+        "por_ciudad_texas": [
+            {
+                "ciudad": "New York City (5 boroughs)",
+                "salario_medio": "$78,240",
+                "top_earners": "$110,890",
+                "source": "BLS"
+            },
+            {
+                "ciudad": "Albany-Schenectady-Troy",
+                "salario_medio": "$68,420",
+                "top_earners": "$95,210",
+                "source": "BLS"
+            },
+            {
+                "ciudad": "Buffalo-Cheektowaga",
+                "salario_medio": "$66,180",
+                "top_earners": "$92,530",
+                "source": "BLS"
+            },
+            {
+                "ciudad": "Rochester",
+                "salario_medio": "$70,940",
+                "top_earners": "$98,420",
+                "source": "BLS"
+            },
+            {
+                "ciudad": "Syracuse",
+                "salario_medio": "$65,720",
+                "top_earners": "$89,650",
+                "source": "BLS"
+            }
+        ],
+        "ingresos_reales": {
+            "ai_generated": true,
+            "nota": "El ingreso REAL de Master Plumbers en NYC es mucho mayor que las estadísticas del BLS. Factores clave:",
+            "factores_adicionales": [
+                "Overtime: En trabajos sindicales, después de 40 horas/semana pagas tiempo y medio. Muchos plomeros trabajan 50-60 horas regularmente",
+                "Llamadas de emergencia: Reparaciones urgentes (burst pipes, inundaciones) pagan triple o más, especialmente noches/fines de semana",
+                "Prevailing wage jobs: Proyectos de construcción del gobierno pagan tarifas sindicales de $50-$70/hr + beneficios",
+                "Side jobs: Muchos Master Plumbers hacen trabajos privados los fines de semana cobrando $150-$300/hr",
+                "Propias empresas: Dueños de compañías con 3-5 empleados pueden facturar $200k-$500k+/año"
+            ],
+            "estimado_realista": {
+                "recien_licenciada": "Apprentice: $40,000 - $50,000/año",
+                "3_5_años_experiencia": "Master Plumber empleado con overtime: $75,000 - $95,000/año",
+                "especialista_o_independiente": "Master Plumber con side jobs: $90,000 - $130,000/año",
+                "dueña_salon": "Dueño de compañía de plomería pequeña-mediana: $120,000 - $300,000+/año"
+            }
+        }
+    },
+    "errores_comunes": {
+        "ai_generated": true,
+        "items": [
+            {
+                "error": "No documentar meticulosamente los 5 años de experiencia desde el primer día",
+                "por_que_importa": "El DOB requiere cartas notariadas de CADA Master Plumber bajo el que trabajaste, especificando fechas exactas y tipo de trabajo. Si no guardaste contratos, pay stubs o información de contacto de tus empleadores, puede ser IMPOSIBLE probar tu experiencia años después. Muchos candidatos son rechazados por documentación incompleta.",
+                "solucion": "Desde tu primer día como aprendiz, crea un archivo donde guardes: contratos laborales, pay stubs, cartas de referencia, información de contacto de tus Master Plumbers. Pide cartas de verificación cuando cambies de trabajo, no esperes 5 años."
+            },
+            {
+                "error": "Subestimar la dificultad del examen escrito de NYC",
+                "por_que_importa": "El examen de Master Plumber de NYC tiene una tasa de aprobación de solo ~40% en el primer intento. No es como exámenes de otros estados - cubre el NYC Plumbing Code en profundidad, cálculos hidráulicos complejos, y escenarios prácticos muy específicos. Muchos candidatos con años de experiencia reprueban por no estudiar adecuadamente.",
+                "solucion": "Invierte en un curso de preparación de calidad (Plumbers & Steamfitters Local 1 ofrece clases de prep, también hay cursos privados). Estudia 3-6 meses MÍNIMO. Compra el NYC Plumbing Code actual y léelo completo. Practica cálculos de dimensionamiento de tuberías constantemente."
+            },
+            {
+                "error": "No unirse a un sindicato de plomería",
+                "por_que_importa": "Los sindicatos de plomería (Local 1 UA, Local 371 UA) ofrecen programas de aprendizaje estructurados, mejores salarios, beneficios de salud, pensión, y conexiones para trabajos. Los plomeros sindicalizados en NYC ganan 30-50% más que los no sindicalizados. Además, el sindicato ofrece cursos de preparación para el examen de Master Plumber.",
+                "solucion": "Aplica a los programas de aprendizaje sindical temprano en tu carrera. Aunque la admisión es competitiva, vale la pena. Incluso si no entras inmediatamente, mantén contacto y reaplica."
+            },
+            {
+                "error": "Trabajar 'under the table' sin documentar horas oficialmente",
+                "por_que_importa": "Si trabajas en cash sin contratos formales o W-2s, no tienes forma de probar tu experiencia al DOB. Aunque hayas trabajado 5 años, si no tienes documentación oficial, oficialmente tienes CERO horas. El DOB no acepta testimonios verbales.",
+                "solucion": "Trabaja solo para compañías legítimas que te den W-2 y contratos. Si un empleador te ofrece pagar en cash sin papeles, rechaza - aunque pague más a corto plazo, te costará tu licencia a largo plazo."
+            },
+            {
+                "error": "No practicar suficientemente para el examen práctico",
+                "por_que_importa": "El examen práctico requiere que instales sistemas de plomería funcionales bajo observación. No basta con saber teoría - debes demostrar habilidades reales de soldadura de cobre, instalación de PVC, ensamblaje de válvulas, etc. Muchos candidatos que pasan el escrito fallan el práctico por nervios o falta de práctica.",
+                "solucion": "Antes del examen práctico, practica instalaciones completas en el trabajo o en casa. Cronométrate. Practica bajo presión. Pide a tu Master Plumber actual que te observe y critique tu técnica."
+            },
+            {
+                "error": "No mantener seguro de responsabilidad civil después de obtener la licencia",
+                "por_que_importa": "NYC requiere que todos los Master Plumbers mantengan un seguro de responsabilidad civil (liability insurance) vigente. Si trabajas sin seguro y causas daños (una inundación, una fuga de gas), puedes ser demandado personalmente por cientos de miles de dólares Y perder tu licencia permanentemente.",
+                "solucion": "Obtén un seguro de responsabilidad profesional de al menos $1 millón desde el día que obtienes tu licencia. Cuesta $1,500-$3,000/año pero te protege de ruina financiera."
+            }
+        ]
+    },
+    "servicios_sin_licencia": {
+        "ai_generated": true,
+        "titulo": "Trabajos de Plomería que NO Requieren Licencia en NYC",
+        "items": [
+            "Cambiar una llave de fregadero o regadera (faucet/showerhead) en tu PROPIA casa",
+            "Desatascar un drenaje con un émbolo o snake manual",
+            "Reemplazar un asiento de inodoro",
+            "Mantenimiento menor de electrodomésticos (no instalación)"
+        ],
+        "requiere_licencia": [
+            "CUALQUIER trabajo de plomería en la casa de otra persona (aunque sea cambiar un faucet)",
+            "Instalar o reubicar tuberías de agua o drenaje",
+            "Trabajar en sistemas de gas (requiere además certificado especial de gas)",
+            "Instalar calentadores de agua, boilers o sistemas de calefacción",
+            "Cualquier trabajo que requiera un permiso del DOB",
+            "Instalar sistemas de sprinklers contra incendios (requiere Special Master Plumber)"
+        ],
+        "nota_legal": "Trabajar como plomero sin licencia en NYC es un MISDEMEANOR criminal. Las multas van de $1,000 a $25,000, más posible tiempo en cárcel. El DOB hace inspecciones y sting operations regularmente.",
+        "source": "NYC Administrative Code, Chapter 1, Title 28"
+    },
+    "faqs": {
+        "ai_generated": true,
+        "items": [
+            {
+                "pregunta": "¿El examen de plomero en New York está disponible en español?",
+                "respuesta": "No. El Department of Buildings de NYC solo ofrece el examen de Master Plumber en inglés, tanto la parte escrita como la práctica. Debes estar preparado para leer y entender el NYC Plumbing Code en inglés, así como responder preguntas técnicas en inglés. Considera tomar cursos de preparación que te ayuden con el vocabulario técnico.",
+                "source": "NYC DOB"
+            },
+            {
+                "pregunta": "¿Puedo sacar la licencia de plomero en NYC con ITIN (sin número de seguro social)?",
+                "respuesta": "Sí, el DOB acepta ITIN como identificación fiscal válida para procesar licencias de Master Plumber, siempre y cuando cumplas con todos los demás requisitos de experiencia, identidad y exámenes. Muchos Master Plumbers en NYC operan con ITIN.",
+                "source": "NYC DOB"
+            },
+            {
+                "pregunta": "¿Necesito ir a una escuela técnica de plomería?",
+                "respuesta": "No es obligatorio para obtener la licencia. Puedes acumular los 5 años de experiencia trabajando directamente como aprendiz. Sin embargo, la mayoría de candidatos exitosos toman un curso de preparación para el examen de 3-6 meses porque el examen de NYC es muy difícil. Los programas sindicales de aprendizaje (Local 1 UA, Local 371 UA) combinan trabajo y educación formal.",
+                "source": "NYC DOB"
+            },
+            {
+                "pregunta": "¿Cuánto tiempo se tarda en ser Master Plumber en NYC?",
+                "respuesta": "Mínimo 5 años trabajando tiempo completo (10,000 horas) bajo un Master Plumber. Después de acumular las horas, el proceso de aplicación y exámenes toma 6-12 meses adicionales. En total, desde que empiezas como aprendiz hasta que recibes tu licencia de Master: 5.5-6 años.",
+                "source": "NYC DOB"
+            },
+            {
+                "pregunta": "¿Cuánto cuesta el examen de Master Plumber en NYC?",
+                "respuesta": "El examen escrito cuesta $525. El examen práctico está incluido (sin costo adicional si apruebas el escrito). La aplicación inicial de licencia cuesta $300. Total para obtener la licencia: $825 solo en tarifas del DOB, sin contar cursos de preparación o herramientas.",
+                "source": "NYC DOB"
+            },
+            {
+                "pregunta": "¿Puedo retomar el examen si repruebo?",
+                "respuesta": "Sí, pero con límites. Puedes intentar cada examen (escrito y práctico) hasta 3 veces en un periodo de 1 año. Si fallas las 3 veces, debes esperar 1 año completo antes de volver a aplicar, O completar cursos adicionales de remediación aprobados por el DOB. Cada intento del examen escrito cuesta $525.",
+                "source": "NYC DOB"
+            },
+            {
+                "pregunta": "¿Cada cuánto debo renovar mi licencia de Master Plumber?",
+                "respuesta": "Cada 2 años. La renovación cuesta $440 y NO requiere educación continua formal en NYC (a diferencia de otros estados). Solo pagas la tarifa y mantienes tu seguro de responsabilidad civil vigente.",
+                "source": "NYC DOB"
+            },
+            {
+                "pregunta": "¿Puedo transferir mi licencia de plomero de otro estado a NYC?",
+                "respuesta": "No hay reciprocidad formal. Aunque tengas licencia de Master Plumber en New Jersey, Connecticut o cualquier otro estado, debes pasar por el proceso completo de NYC: documentar 5 años de experiencia, tomar ambos exámenes, y obtener la licencia de NYC. Tu experiencia previa sí cuenta para los 5 años si puedes documentarla.",
+                "source": "NYC DOB"
+            },
+            {
+                "pregunta": "¿Cuánto gana un Master Plumber en NYC realísticamente?",
+                "respuesta": "Empleado en compañía sindical: $75,000-$95,000/año con overtime. Con trabajos privados de fin de semana (side jobs): $90,000-$130,000/año. Dueño de compañía pequeña con cuadrilla: $120,000-$300,000+/año. Los plomeros sindicalizados con prevailing wage jobs ganan más. Las llamadas de emergencia pagan premium rates.",
+                "source": "BLS + datos de mercado"
+            },
+            {
+                "pregunta": "¿Necesito unirme a un sindicato de plomería?",
+                "respuesta": "No es obligatorio, pero altamente recomendado. Los sindicatos (Local 1 UA, Local 371 UA) ofrecen programas de aprendizaje estructurados, mejores salarios (30-50% más), beneficios de salud, pensión, y acceso a proyectos grandes. También ofrecen cursos de preparación para el examen de Master Plumber. La membresía sindical paga por sí misma.",
+                "source": "Plumbers & Steamfitters Local 1 UA"
+            }
+        ]
+    },
+    "enlaces_utiles": {
+        "ai_generated": true,
+        "enlaces": [
+            {
+                "categoria": "Autoridad Reguladora",
+                "enlaces": [
+                    {
+                        "titulo": "NYC Department of Buildings - Home",
+                        "url": "https://www.nyc.gov/site/dob/",
+                        "descripcion": "Página principal del DOB de NYC"
+                    },
+                    {
+                        "titulo": "DOB NOW: Licensing Portal",
+                        "url": "https://www1.nyc.gov/site/dob/licenses/dob-now-licensing.page",
+                        "descripcion": "Portal en línea para aplicar, renovar y gestionar licencias"
+                    },
+                    {
+                        "titulo": "Master Plumber License Requirements",
+                        "url": "https://www1.nyc.gov/site/dob/licenses/master-plumber-license.page",
+                        "descripcion": "Requisitos oficiales para Master Plumber en NYC"
+                    },
+                    {
+                        "titulo": "BISWeb - Verificar Licencia",
+                        "url": "https://a810-bisweb.nyc.gov/bisweb/",
+                        "descripcion": "Buscar licencias de plomeros en NYC"
+                    }
+                ]
+            },
+            {
+                "categoria": "Exámenes y Preparación",
+                "enlaces": [
+                    {
+                        "titulo": "DOB Exam Information",
+                        "url": "https://www1.nyc.gov/site/dob/about/exams.page",
+                        "descripcion": "Información sobre exámenes de licencias del DOB"
+                    },
+                    {
+                        "titulo": "NYC Plumbing Code (Local Law 33)",
+                        "url": "https://www1.nyc.gov/site/dob/codes/nyc-construction-codes.page",
+                        "descripcion": "Código de plomería oficial de NYC - base del examen"
+                    }
+                ]
+            },
+            {
+                "categoria": "Sindicatos y Aprendizajes",
+                "enlaces": [
+                    {
+                        "titulo": "Plumbers & Steamfitters Local 1 UA",
+                        "url": "https://www.ualocal1.com/",
+                        "descripcion": "Sindicato principal de plomeros en NYC - programa de aprendizaje"
+                    },
+                    {
+                        "titulo": "Plumbers Local Union 371 UA",
+                        "url": "https://www.local371.com/",
+                        "descripcion": "Otro sindicato importante en NYC con programa de aprendizaje"
+                    }
+                ]
+            },
+            {
+                "categoria": "Datos de Salarios y Empleo",
+                "enlaces": [
+                    {
+                        "titulo": "BLS - Plumbers, Pipefitters, and Steamfitters",
+                        "url": "https://www.bls.gov/oes/current/oes472152.htm",
+                        "descripcion": "Datos oficiales de salarios y empleo (BLS May 2024)"
+                    },
+                    {
+                        "titulo": "New York State Department of Labor - Wage Data",
+                        "url": "https://dol.ny.gov/",
+                        "descripcion": "Datos de empleo y salarios en New York State"
+                    }
+                ]
+            },
+            {
+                "categoria": "Recursos Adicionales",
+                "enlaces": [
+                    {
+                        "titulo": "NYC Building Code (Complete)",
+                        "url": "https://www1.nyc.gov/site/dob/codes/nyc-construction-codes.page",
+                        "descripcion": "Todos los códigos de construcción de NYC"
+                    },
+                    {
+                        "titulo": "DOB Violations and Complaints",
+                        "url": "https://www1.nyc.gov/site/dob/safety/safety.page",
+                        "descripcion": "Reportar violaciones de códigos o trabajos ilegales"
+                    }
+                ]
+            }
+        ]
+    },
+    "links_oficiales": {
+        "ai_generated": true,
+        "items": [
+            {
+                "nombre": "NYC DOB - Master Plumber License",
+                "url": "https://www1.nyc.gov/site/dob/licenses/master-plumber-license.page",
+                "descripcion": "Página oficial de requisitos de Master Plumber"
+            },
+            {
+                "nombre": "DOB NOW: Licensing",
+                "url": "https://www1.nyc.gov/site/dob/licenses/dob-now-licensing.page",
+                "descripcion": "Portal para aplicar y gestionar licencias"
+            },
+            {
+                "nombre": "BISWeb - Verificar Licencias",
+                "url": "https://a810-bisweb.nyc.gov/bisweb/",
+                "descripcion": "Buscar licencias vigentes de plomeros"
+            },
+            {
+                "nombre": "NYC Plumbing Code",
+                "url": "https://www1.nyc.gov/site/dob/codes/nyc-construction-codes.page",
+                "descripcion": "Código oficial de plomería de NYC"
+            },
+            {
+                "nombre": "Contacto DOB",
+                "url": "https://www1.nyc.gov/site/dob/contact/contact-dob.page",
+                "descripcion": "Información de contacto del DOB"
+            }
+        ]
+    }
+}

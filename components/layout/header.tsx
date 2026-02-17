@@ -1,7 +1,21 @@
+'use client'
+
+import { useState } from 'react'
 import Link from 'next/link'
-import { Search } from 'lucide-react'
+import { Search, Menu, X } from 'lucide-react'
+
+const NAV_LINKS = [
+  { href: '/oficio/electricista', label: 'Electricista' },
+  { href: '/oficio/cdl', label: 'CDL' },
+  { href: '/oficio/cosmetologia', label: 'Cosmetología' },
+  { href: '/oficio/hvac', label: 'HVAC' },
+  { href: '/oficio/plomero', label: 'Plomería' },
+  { href: '/estados', label: 'Estados' },
+]
 
 export function Header() {
+  const [mobileOpen, setMobileOpen] = useState(false)
+
   return (
     <header className="sticky top-0 z-50 w-full border-b bg-white/95 backdrop-blur supports-[backdrop-filter]:bg-white/60">
       <div className="container mx-auto px-4">
@@ -11,39 +25,48 @@ export function Header() {
             <span className="text-xl font-bold text-primary">ChambaEnUSA</span>
           </Link>
 
-          {/* Navigation */}
+          {/* Desktop Navigation */}
           <nav className="hidden md:flex items-center space-x-6">
-            <Link href="/oficio/electricista" className="text-sm font-medium hover:text-primary">
-              Electricista
-            </Link>
-            <Link href="/oficio/cdl" className="text-sm font-medium hover:text-primary">
-              CDL
-            </Link>
-            <Link href="/oficio/cosmetologia" className="text-sm font-medium hover:text-primary">
-              Cosmetología
-            </Link>
-            <Link href="/oficio/hvac" className="text-sm font-medium hover:text-primary">
-              HVAC
-            </Link>
-            <Link href="/estados" className="text-sm font-medium hover:text-primary">
-              Estados
-            </Link>
+            {NAV_LINKS.map((link) => (
+              <Link key={link.href} href={link.href} className="text-sm font-medium hover:text-primary">
+                {link.label}
+              </Link>
+            ))}
           </nav>
 
-          {/* Search & CTA */}
-          <div className="flex items-center space-x-4">
-            <button className="p-2 hover:bg-gray-100 rounded-full">
+          {/* Right side: Search + Mobile toggle */}
+          <div className="flex items-center space-x-2">
+            <Link href="/buscar" className="p-2 hover:bg-gray-100 rounded-full">
               <Search className="h-5 w-5 text-gray-600" />
-            </button>
-            <Link 
-              href="/contacto" 
-              className="hidden sm:inline-flex h-9 items-center justify-center rounded-md bg-primary px-4 py-2 text-sm font-medium text-primary-foreground shadow hover:bg-primary/90"
-            >
-              Contáctanos
             </Link>
+            <button
+              onClick={() => setMobileOpen(!mobileOpen)}
+              className="md:hidden p-2 hover:bg-gray-100 rounded-full"
+              aria-label={mobileOpen ? 'Cerrar menú' : 'Abrir menú'}
+            >
+              {mobileOpen ? <X className="h-5 w-5" /> : <Menu className="h-5 w-5" />}
+            </button>
           </div>
         </div>
       </div>
+
+      {/* Mobile Navigation */}
+      {mobileOpen && (
+        <nav className="md:hidden border-t bg-white">
+          <div className="container mx-auto px-4 py-4 space-y-3">
+            {NAV_LINKS.map((link) => (
+              <Link
+                key={link.href}
+                href={link.href}
+                onClick={() => setMobileOpen(false)}
+                className="block text-base font-medium py-2 hover:text-primary"
+              >
+                {link.label}
+              </Link>
+            ))}
+          </div>
+        </nav>
+      )}
     </header>
   )
 }

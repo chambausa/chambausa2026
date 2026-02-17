@@ -1,0 +1,622 @@
+{
+    "_meta": {
+        "schema_version": "2.0",
+        "page_id": "licencia-plomero-florida",
+        "oficio": "plomero",
+        "estado": "florida",
+        "last_verified": "2026-02-16",
+        "verified_by": "Claude AI - requiere verificación humana",
+        "notes": "Información basada en Florida Department of Business and Professional Regulation (DBPR). Florida requiere licencia estatal para plomeros. El examen NO está disponible en español."
+    },
+    "page_seo": {
+        "title": "Licencia de Plomero en Florida 2026: Guía Completa DBPR, Requisitos y Examen",
+        "meta_description": "Cómo sacar la licencia de plomero en Florida paso a paso. De Apprentice a Journeyman y Master Plumber. Requisitos actualizados del DBPR 2026, examen, costos y salarios.",
+        "slug": "licencia-plomero-florida",
+        "canonical_url": "https://chambaenusa.com/licencia-plomero-florida/",
+        "h1": "Licencia de Plomero en Florida",
+        "schema_types": [
+            "HowTo",
+            "FAQPage",
+            "BreadcrumbList"
+        ],
+        "keywords_primary": [
+            "licencia de plomero en florida",
+            "plumber license florida",
+            "como sacar licencia de plomero en florida"
+        ],
+        "keywords_secondary": [
+            "examen de plomero florida",
+            "cuanto gana un plomero en florida",
+            "requisitos para plomero en florida",
+            "dbpr plomero florida"
+        ],
+        "keywords_long_tail": [
+            "cuanto cuesta la licencia de plomero en florida",
+            "como ser plomero en florida sin papeles",
+            "escuelas de plomeria en miami en español",
+            "examen de journeyman plomero florida en español"
+        ]
+    },
+    "hero": {
+        "ai_generated": true,
+        "badge": "Actualizado 2026",
+        "headline": "Licencia de Plomero en Florida",
+        "subheadline": "Comienza como Apprentice registrado y avanza hasta ganar $50k-$70k/año como Journeyman. Florida requiere licencia estatal regulada por DBPR. El camino toma 4-5 años de experiencia más examen.",
+        "key_stats": [
+            {
+                "label": "Registered Plumber Apprentice",
+                "value": "Sin Examen",
+                "detail": "Registrarte con DBPR para trabajar legalmente bajo supervisión",
+                "source": "https://www.myfloridalicense.com/DBPR/",
+                "source_name": "DBPR Florida"
+            },
+            {
+                "label": "Journeyman Plumber",
+                "value": "4 años experiencia",
+                "detail": "10,000 horas de experiencia documentada + examen estatal",
+                "source": "https://www.myfloridalicense.com/DBPR/",
+                "source_name": "DBPR Florida"
+            },
+            {
+                "label": "Examen en Español",
+                "value": "❌ NO disponible",
+                "detail": "Solo en inglés. Requiere preparación intensiva en inglés técnico.",
+                "source": "https://www.myfloridalicense.com/DBPR/",
+                "source_name": "DBPR Florida"
+            },
+            {
+                "label": "Salario Journeyman",
+                "value": "$52,000/año",
+                "detail": "Mediana en Florida. Top earners $75,000+",
+                "source": "https://www.bls.gov/oes/current/oes472152.htm",
+                "source_name": "BLS May 2024"
+            }
+        ],
+        "cta_primary": {
+            "text": "Ver Pasos del Camino",
+            "anchor": "#roadmap"
+        },
+        "cta_secondary": {
+            "text": "Ver Salarios",
+            "anchor": "#salarios"
+        }
+    },
+    "callout_espanol": {
+        "ai_generated": true,
+        "type": "warning_box",
+        "icon": "⚠️",
+        "title": "IMPORTANTE: El examen NO está disponible en español",
+        "content": "A diferencia de otros estados, Florida NO ofrece el examen de plomero en español. Debes tomar el examen en inglés, incluyendo términos técnicos de plomería (pipes, valves, fixtures, codes, etc.). Considera tomar clases de inglés técnico y cursos de preparación bilingües antes del examen. Muchos plomeros hispanos aprueban con preparación adecuada - ¡no te rindas!",
+        "source": "https://www.myfloridalicense.com/DBPR/",
+        "source_name": "DBPR Florida"
+    },
+    "autoridad_reguladora": {
+        "ai_generated": true,
+        "nombre": "Florida Department of Business and Professional Regulation (DBPR)",
+        "programa": "Construction Industry Licensing Board - Plumbing",
+        "direccion": {
+            "calle": "2601 Blair Stone Road",
+            "ciudad": "Tallahassee",
+            "estado": "FL",
+            "cp": "32399"
+        },
+        "telefono": {
+            "local": "(850) 487-1395",
+            "toll_free": "(850) 487-1395"
+        },
+        "email": "contact@myfloridalicense.com",
+        "web": "https://www.myfloridalicense.com/DBPR/",
+        "verificar_licencia": "https://www.myfloridalicense.com/LicenseSearch/",
+        "source": "https://www.myfloridalicense.com/DBPR/"
+    },
+    "roadmap": {
+        "_description": "Camino profesional del plomero en Florida - Timeline lineal de progresión",
+        "ai_generated": true,
+        "layout": "timeline",
+        "nota_general": "Florida requiere que todos los plomeros estén licenciados o registrados con el DBPR. El camino profesional se basa en acumular horas de experiencia bajo la supervisión de un Master Plumber licenciado. Puedes empezar trabajando como Registered Apprentice mientras acumulas experiencia.",
+        "tipos": [
+            {
+                "id": "registered_apprentice",
+                "titulo_en": "Registered Plumber Apprentice",
+                "titulo_es": "Aprendiz de Plomero Registrado",
+                "es_principal": false,
+                "color_badge": "#3b82f6",
+                "descripcion_corta": "El primer paso legal. Te permite trabajar y aprender bajo supervisión directa de un plomero licenciado.",
+                "scope_of_work": "Trabajar únicamente bajo la supervisión directa de un Journeyman o Master Plumber licenciado. No puede trabajar solo ni obtener permisos.",
+                "requisitos": {
+                    "edad_minima": 18,
+                    "educacion_previa": "Diploma de secundaria o GED recomendado",
+                    "experiencia": "Ninguna",
+                    "examen": "NO requiere examen"
+                },
+                "costos": {
+                    "aplicacion_licencia": 50,
+                    "renovacion_cada_2_años": 50
+                },
+                "como_aplicar": {
+                    "metodo": "En línea o por correo",
+                    "url": "https://www.myfloridalicense.com/DBPR/",
+                    "tiempo_procesamiento": "2-4 semanas",
+                    "pasos": [
+                        "Completar aplicación en el portal de DBPR",
+                        "Proveer prueba de identidad y edad (ID válido)",
+                        "Pagar tarifa de $50",
+                        "Esperar aprobación de DBPR",
+                        "Comenzar a trabajar y documentar tus horas"
+                    ]
+                },
+                "nota": "CRÍTICO: Debes mantener un registro detallado de tus horas trabajadas, firmado por tu supervisor Master Plumber. Estas horas son esenciales para calificar al examen de Journeyman.",
+                "source": "https://www.myfloridalicense.com/DBPR/"
+            },
+            {
+                "id": "journeyman",
+                "titulo_en": "Journeyman Plumber",
+                "titulo_es": "Oficial Plomero (Journeyman)",
+                "es_principal": true,
+                "color_badge": "#f59e0b",
+                "descripcion_corta": "Licencia completa para trabajar en plomería residencial, comercial e industrial sin supervisión directa.",
+                "scope_of_work": "Instalación, reparación y mantenimiento de sistemas de plomería en cualquier tipo de edificación. Puede trabajar sin supervisión directa pero bajo una compañía con Master Plumber.",
+                "requisitos": {
+                    "edad_minima": 18,
+                    "experiencia": "10,000 horas de experiencia documentada (aproximadamente 4-5 años a tiempo completo) bajo un Master Plumber licenciado",
+                    "educacion_alternativa": "O completar programa de aprendizaje aprobado por el estado que puede reducir horas requeridas",
+                    "examen": "Aprobar el examen de Journeyman Plumber"
+                },
+                "examen": {
+                    "partes": 1,
+                    "parte_1": {
+                        "nombre": "Journeyman Plumber Exam",
+                        "formato": "Opción múltiple por computadora - Open book (puedes llevar Florida Building Code - Plumbing)",
+                        "costo": 125,
+                        "idiomas": [
+                            "Inglés únicamente"
+                        ],
+                        "puntaje_minimo": "70%",
+                        "cuando_tomarlo": "Después de completar 10,000 horas documentadas",
+                        "contenido_principal": [
+                            "Florida Building Code - Plumbing (FBC)",
+                            "International Plumbing Code (IPC)",
+                            "Sistemas de agua potable y drenaje",
+                            "Cálculos de tamaño de tuberías",
+                            "Sistemas de gas y ventilación",
+                            "Seguridad y códigos locales"
+                        ],
+                        "ubicaciones": "Centros de examen Pearson VUE en todo Florida: Miami, Orlando, Tampa, Jacksonville, etc.",
+                        "e_exam": "Disponible examen online supervisado (Online Proctored)"
+                    },
+                    "administrador": "Pearson VUE",
+                    "url_psi": "https://home.pearsonvue.com/fl/plumbing",
+                    "retakes": "Puedes retomar el examen después de 30 días si repruebas. Debes pagar la tarifa completa de nuevo ($125 por intento).",
+                    "source": "https://www.myfloridalicense.com/DBPR/"
+                },
+                "costos": {
+                    "aplicacion_licencia": 125,
+                    "examen_escrito": 125,
+                    "total_examenes_y_licencia": 250,
+                    "renovacion_cada_2_años": 125,
+                    "ce_horas_cada_2_años": 14
+                },
+                "como_aplicar": {
+                    "metodo": "En línea después de aprobar el examen",
+                    "url": "https://www.myfloridalicense.com/DBPR/",
+                    "tiempo_procesamiento": "2-4 semanas después de aprobar el examen",
+                    "pasos": [
+                        "Documentar 10,000 horas usando formulario de experiencia firmado por tu Master Plumber",
+                        "Agendar y aprobar el examen de Journeyman con Pearson VUE",
+                        "Completar aplicación en línea en DBPR",
+                        "Pagar $125 por la licencia",
+                        "Proveer prueba de seguro de responsabilidad si aplica",
+                        "Esperar procesamiento y recibir tu licencia"
+                    ]
+                },
+                "source": "https://www.myfloridalicense.com/DBPR/"
+            },
+            {
+                "id": "master",
+                "titulo_en": "Master Plumber",
+                "titulo_es": "Maestro Plomero",
+                "es_principal": false,
+                "color_badge": "#7c3aed",
+                "descripcion_corta": "Nivel experto. Puede supervisar proyectos, diseñar sistemas, ser contratista independiente y obtener permisos.",
+                "scope_of_work": "Supervisar trabajo de otros plomeros, diseñar sistemas de plomería completos, obtener permisos, ser dueño de compañía de plomería contratista.",
+                "requisitos": {
+                    "edad_minima": 18,
+                    "experiencia_previa": "Haber tenido licencia de Journeyman por al menos 1 año",
+                    "experiencia_total": "Mínimo 4 años de experiencia total en plomería (puede incluir tiempo como Journeyman)",
+                    "examen": "Aprobar el examen de Master Plumber"
+                },
+                "examen": {
+                    "partes": 1,
+                    "parte_1": {
+                        "nombre": "Master Plumber Exam",
+                        "formato": "Opción múltiple por computadora - Open book",
+                        "costo": 150,
+                        "idiomas": [
+                            "Inglés únicamente"
+                        ],
+                        "puntaje_minimo": "70%",
+                        "cuando_tomarlo": "Después de cumplir requisitos de experiencia y tiempo como Journeyman",
+                        "contenido_principal": [
+                            "Florida Building Code - Plumbing avanzado",
+                            "Diseño de sistemas de plomería complejos",
+                            "Cálculos hidráulicos avanzados",
+                            "Códigos de construcción y permisos",
+                            "Gestión de proyectos y supervisión",
+                            "Leyes de negocio y responsabilidad del contratista"
+                        ]
+                    },
+                    "administrador": "Pearson VUE",
+                    "url_psi": "https://home.pearsonvue.com/fl/plumbing",
+                    "source": "https://www.myfloridalicense.com/DBPR/"
+                },
+                "costos": {
+                    "aplicacion_licencia": 150,
+                    "examen_escrito": 150,
+                    "total_examenes_y_licencia": 300,
+                    "renovacion_cada_2_años": 150
+                },
+                "como_aplicar": {
+                    "url": "https://www.myfloridalicense.com/DBPR/"
+                },
+                "source": "https://www.myfloridalicense.com/DBPR/"
+            },
+            {
+                "id": "contractor",
+                "titulo_en": "Plumbing Contractor",
+                "titulo_es": "Contratista de Plomería",
+                "es_principal": false,
+                "color_badge": "#059669",
+                "descripcion_corta": "Licencia de negocio para operar compañía de plomería. Requiere Master Plumber + licencia de contratista.",
+                "scope_of_work": "Dueño/operador de negocio de plomería. Puede contratar empleados, hacer licitaciones de proyectos grandes, obtener permisos comerciales.",
+                "requisitos": {
+                    "licencia_previa": "Licencia de Master Plumber vigente",
+                    "experiencia": "Experiencia en gestión de negocios recomendada",
+                    "examen": "Aprobar examen de Business & Finance + examen de contratista"
+                },
+                "examen": {
+                    "nombre": "Contractor Business & Finance Exam + Plumbing Contractor Exam",
+                    "idiomas": [
+                        "Inglés"
+                    ]
+                },
+                "costos": {
+                    "aplicacion_licencia": 250,
+                    "examen_escrito": 300,
+                    "total_examenes_y_licencia": 550
+                },
+                "nota": "Ser contratista requiere además seguro de responsabilidad, bonos (bonds), y cumplir con requisitos financieros del estado. Es el nivel más alto para dueños de negocio.",
+                "source": "https://www.myfloridalicense.com/DBPR/"
+            }
+        ]
+    },
+    "calculadora_inversion": {
+        "ai_generated": true,
+        "_description": "Cálculo realista de inversión para obtener licencia de plomero en Florida",
+        "escenarios": [
+            {
+                "id": "journeyman_standard",
+                "licencia": "Journeyman Plumber",
+                "inversion": {
+                    "aplicacion_licencia": 125,
+                    "examen_escrito": 125,
+                    "kit_herramientas_basico": "$500 - $1,500",
+                    "kit_nota": "Herramientas básicas: llave inglesa, llaves de tubo, cortador de tubos, soplete, nivel, etc. El empleador a veces provee herramientas grandes.",
+                    "libros_codigo": "$150 - $300",
+                    "curso_preparacion_examen": "$300 - $800",
+                    "total_minimo": "$1,200",
+                    "total_maximo": "$2,850"
+                },
+                "tiempo": "4-5 años de experiencia + 3-6 meses preparación para examen",
+                "salario_esperado": {
+                    "empleada": "$45,000 - $55,000/año como Journeyman empleado",
+                    "con_experiencia": "$60,000 - $75,000/año con 5+ años de experiencia",
+                    "nota": "Plomeros con especialización (gas, backflow, medical gas) ganan más"
+                },
+                "roi_nota": "La inversión inicial es moderada. El retorno es excelente considerando que puedes ganar $50k+ después de 5 años de carrera. Muchos plomeros eventualmente abren su propio negocio y ganan $80k-$120k+/año."
+            },
+            {
+                "id": "master_plumber",
+                "licencia": "Master Plumber",
+                "inversion": {
+                    "licencia_journeyman": "$250 (ya pagado)",
+                    "examen_master": 150,
+                    "aplicacion_master": 150,
+                    "curso_preparacion_examen": "$500 - $1,200",
+                    "total_estimado": "$1,050 - $1,750 adicionales después de Journeyman"
+                },
+                "tiempo": "1-2 años adicionales después de obtener Journeyman",
+                "salario_esperado": {
+                    "empleada": "$65,000 - $80,000/año como Master empleado",
+                    "independiente_booth_rental": "$80,000 - $120,000+/año como contratista independiente o dueño de negocio"
+                },
+                "nota": "Master Plumber abre la puerta a ser dueño de negocio, lo cual tiene ingresos ilimitados pero también más responsabilidad y riesgo."
+            }
+        ]
+    },
+    "renovacion": {
+        "ai_generated": true,
+        "frecuencia": "Cada 2 años desde la fecha de emisión",
+        "metodo": "En línea en el portal de DBPR",
+        "url_renovacion": "https://www.myfloridalicense.com/",
+        "costo_renovacion": 125,
+        "ce_requerida": {
+            "horas_totales": 14,
+            "temas": [
+                "Florida Building Code - Plumbing actualizaciones",
+                "Leyes y reglas de Florida DBPR",
+                "Seguridad en plomería",
+                "Nuevas tecnologías y materiales"
+            ],
+            "nota": "Debes completar 14 horas de educación continua antes de cada renovación. Los cursos deben ser de proveedores aprobados por DBPR.",
+            "costo_cursos_ce_online": "$100 - $250",
+            "url_proveedores": "https://www.myfloridalicense.com/DBPR/"
+        },
+        "consecuencias_no_renovar": {
+            "0_90_dias": "Tarifa de renovación tardía (adicional $50)",
+            "90_dias_a_2_años": "Licencia inactiva - debe reactivar y pagar multas",
+            "mas_2_años": "Licencia expira - debe aplicar como nueva licencia"
+        },
+        "nota_tdlr": "DBPR envía recordatorios de renovación por email. Es tu responsabilidad renovar a tiempo. Trabajar con licencia vencida es ilegal y puede resultar en multas.",
+        "source": "https://www.myfloridalicense.com/DBPR/"
+    },
+    "reciprocidad": {
+        "ai_generated": true,
+        "disponible": true,
+        "nombre_proceso": "Endorsement (Reciprocidad por Aprobación)",
+        "requisitos": [
+            "Tener licencia vigente de Journeyman o Master Plumber en otro estado",
+            "Haber pasado un examen equivalente al de Florida",
+            "Cumplir con requisitos de experiencia de Florida",
+            "No tener sanciones disciplinarias en otro estado",
+            "Pasar background check de Florida"
+        ],
+        "nota": "Florida evalúa caso por caso las licencias de otros estados. No hay reciprocidad automática. Debes demostrar que tu estado de origen tiene requisitos iguales o superiores a Florida. Algunos estados tienen acuerdos más fluidos (Alabama, Georgia, Mississippi). Contacta DBPR para evaluación.",
+        "url": "https://www.myfloridalicense.com/DBPR/",
+        "experiencia_como_horas": "Debes probar experiencia equivalente a los requisitos de Florida (10,000 horas para Journeyman)",
+        "source": "https://www.myfloridalicense.com/DBPR/"
+    },
+    "salarios": {
+        "ai_generated": true,
+        "nota_importante": "Los plomeros licenciados ganan significativamente más que el promedio del BLS, especialmente con trabajos de emergencia (pagan tiempo y medio o doble), trabajo independiente y especializaciones (gas, backflow, medical gas).",
+        "nacional_2024": {
+            "mediana": "$60,090/año",
+            "por_hora_mediana": "$28.89/hr",
+            "percentil_10": "$37,700/año ($18.13/hr)",
+            "percentil_90": "$99,920/año ($48.04/hr)",
+            "crecimiento_proyectado": "6% (2023-2033) - Más rápido que el promedio",
+            "source": "https://www.bls.gov/oes/current/oes472152.htm"
+        },
+        "texas": {
+            "promedio_anual": "$52,340",
+            "promedio_hora": "$25.17",
+            "top_earners": "$78,600+",
+            "source": "BLS Florida May 2024"
+        },
+        "por_ciudad_texas": [
+            {
+                "ciudad": "Miami-Fort Lauderdale-West Palm Beach",
+                "salario_medio": "$54,870",
+                "top_earners": "$82,100",
+                "source": "BLS"
+            },
+            {
+                "ciudad": "Orlando-Kissimmee-Sanford",
+                "salario_medio": "$50,230",
+                "top_earners": "$75,800",
+                "source": "BLS"
+            },
+            {
+                "ciudad": "Tampa-St. Petersburg-Clearwater",
+                "salario_medio": "$51,780",
+                "top_earners": "$77,400",
+                "source": "BLS"
+            },
+            {
+                "ciudad": "Jacksonville",
+                "salario_medio": "$49,650",
+                "top_earners": "$74,200",
+                "source": "BLS"
+            },
+            {
+                "ciudad": "Cape Coral-Fort Myers",
+                "salario_medio": "$48,920",
+                "top_earners": "$72,500",
+                "source": "BLS"
+            }
+        ],
+        "ingresos_reales": {
+            "ai_generated": true,
+            "nota": "Los datos del BLS solo capturan salario base de empleados W-2. El ingreso REAL de plomeros licenciados incluye:",
+            "factores_adicionales": [
+                "Llamadas de emergencia (after-hours) - pagan $100-$200/hora o más",
+                "Overtime (tiempo y medio después de 40 horas/semana) - muy común",
+                "Trabajos de fin de semana y días festivos (premium pay)",
+                "Trabajo independiente (1099) - cobras directamente al cliente $75-$150/hora",
+                "Especializaciones: gas, backflow prevention, medical gas - pagan 20-40% más",
+                "Bonos por completar proyectos grandes a tiempo",
+                "Propinas de clientes residenciales"
+            ],
+            "estimado_realista": {
+                "recien_licenciada": "Apprentice: $30,000 - $40,000/año",
+                "3_5_años_experiencia": "Journeyman: $50,000 - $65,000/año (con overtime)",
+                "especialista_o_independiente": "Journeyman independiente o especializado: $70,000 - $95,000/año",
+                "dueña_salon": "Master con negocio propio: $90,000 - $180,000+/año"
+            }
+        }
+    },
+    "errores_comunes": {
+        "ai_generated": true,
+        "items": [
+            {
+                "error": "No documentar adecuadamente las horas de experiencia",
+                "por_que_importa": "Si trabajas 5 años como aprendiz pero no tienes documentación firmada por tu Master Plumber supervisor cada año, DBPR puede rechazar tu aplicación para Journeyman. Oficialmente tienes CERO horas. Este es el error más costoso - pierdes años de trabajo.",
+                "solucion": "Mantén un registro detallado semanal de tus horas. Cada 6 meses, pide a tu Master Plumber que firme un formulario de verificación de horas. Guarda copias para ti y envía una a DBPR. Usa el formulario oficial de DBPR."
+            },
+            {
+                "error": "Trabajar sin estar registrado como Apprentice",
+                "por_que_importa": "Es ilegal trabajar en plomería en Florida sin estar registrado o licenciado. Si DBPR te descubre, puedes recibir multas de hasta $5,000. Además, las horas trabajadas sin registro NO cuentan para tu licencia de Journeyman. Es trabajo perdido.",
+                "solucion": "Regístrate como Apprentice ($50) el primer día de trabajo. Renueva cada 2 años. Es barato y esencial para que tus horas cuenten."
+            },
+            {
+                "error": "No prepararse para el examen en inglés (para hispanohablantes)",
+                "por_que_importa": "El examen solo está en inglés y usa mucho vocabulario técnico (PVC, copper, fixtures, valves, vents, drainage, water heater, etc.). Si no dominas estos términos en inglés, reprobarás aunque seas excelente plomero en la práctica. Muchos reprueban 2-3 veces por el idioma.",
+                "solucion": "Toma un curso de preparación bilingüe (en Miami, Orlando hay varios). Estudia flashcards de términos técnicos inglés-español. Lee el Florida Building Code en inglés mientras practicas. Considera clases de ESL técnico antes del examen."
+            },
+            {
+                "error": "Estudiar con código desactualizado (old edition of Florida Building Code)",
+                "por_que_importa": "El examen se basa en la edición vigente del Florida Building Code - Plumbing (actualmente 7th Edition basada en 2020 IPC). Si estudias con la edición de 2017, tendrás tablas, secciones y reglas desactualizadas. Fallarás preguntas clave.",
+                "solucion": "Antes de comprar libros o inscribirte en curso, verifica en el sitio de Pearson VUE cuál es la edición vigente del código para el examen. Compra ESA edición, no una usada vieja."
+            },
+            {
+                "error": "No practicar cálculos de tamaño de tuberías y drenaje",
+                "por_que_importa": "Una porción grande del examen de Journeyman son problemas de cálculo: sizing de tuberías, unidades de fixture, caída de presión, tamaño de drenajes. Si no practicas matemáticas aplicadas, reprobarás aunque conozcas bien la instalación práctica.",
+                "solucion": "Toma un curso de preparación que incluya práctica de problemas matemáticos. Usa la calculadora permitida en el examen. Practica con exámenes simulados antes del día oficial."
+            },
+            {
+                "error": "Pensar que Journeyman es suficiente para abrir negocio propio",
+                "por_que_importa": "En Florida NO puedes ser dueño de una compañía de plomería contratista con solo Journeyman. Necesitas licencia de Master Plumber + licencia de Plumbing Contractor. Si abres negocio sin estas licencias, enfrentas multas severas y cierre de tu negocio.",
+                "solucion": "Si tu meta es tener tu negocio, planifica obtener Master Plumber después de Journeyman, y luego estudia para la licencia de Contractor (incluye examen de Business & Finance)."
+            },
+            {
+                "error": "No renovar a tiempo y dejar que la licencia expire",
+                "por_que_importa": "Si tu licencia expira por más de 2 años, DBPR la cancela permanentemente. Tendrás que aplicar de nuevo, pagar todas las tarifas, y posiblemente retomar el examen. Pierdes tu número de licencia y antigüedad.",
+                "solucion": "Pon recordatorio en tu teléfono 3 meses antes del vencimiento. La renovación es cada 2 años y cuesta $125 + cursos de CE ($100-250). No dejes pasar la fecha."
+            }
+        ]
+    },
+    "faqs": {
+        "ai_generated": true,
+        "items": [
+            {
+                "pregunta": "¿El examen de plomero en Florida está disponible en español?",
+                "respuesta": "NO. A diferencia de otros estados, Florida NO ofrece el examen de plomero (Journeyman, Master o Contractor) en español. Solo está disponible en inglés. Debes estar preparado para leer y entender términos técnicos de plomería en inglés (pipes, fixtures, valves, drainage, venting, etc.). Considera tomar cursos de preparación bilingües o clases de inglés técnico antes del examen.",
+                "source": "DBPR Florida"
+            },
+            {
+                "pregunta": "¿Puedo sacar la licencia de plomero con ITIN (sin número de Seguro Social)?",
+                "respuesta": "Sí. DBPR acepta ITIN para procesar licencias de plomero si no tienes número de Seguro Social, siempre y cuando cumplas con los demás requisitos de identidad, experiencia y examen. Muchos plomeros en Florida usan ITIN para obtener su licencia.",
+                "source": "DBPR Florida"
+            },
+            {
+                "pregunta": "¿Necesito ir a una escuela técnica para ser plomero en Florida?",
+                "respuesta": "No es estrictamente obligatorio, pero es muy recomendado. Puedes aprender 100% trabajando (On-the-Job Training) como Registered Apprentice bajo un Master Plumber. Sin embargo, tomar un programa de plomería en una escuela técnica (trade school) acelera tu aprendizaje y te prepara mejor para el examen. Muchos empleadores prefieren contratar aprendices con educación formal.",
+                "source": "DBPR Florida"
+            },
+            {
+                "pregunta": "¿Cuánto tiempo se tarda en ser Journeyman Plumber en Florida?",
+                "respuesta": "Aproximadamente 4-5 años trabajando tiempo completo (40 horas/semana) para acumular las 10,000 horas requeridas. Esto asume trabajo constante. Si trabajas part-time o hay temporadas lentas, puede tomar más tiempo. Después de las 10,000 horas, debes aprobar el examen de Journeyman.",
+                "source": "DBPR Florida"
+            },
+            {
+                "pregunta": "¿Cuánto cuesta el examen de Journeyman Plumber en Florida?",
+                "respuesta": "El examen de Journeyman cuesta $125 (lo pagas a Pearson VUE). Adicionalmente pagas $125 a DBPR por la aplicación de licencia después de aprobar. Total: $250 para obtener la licencia de Journeyman (sin contar cursos de preparación o libros).",
+                "source": "DBPR Florida / Pearson VUE"
+            },
+            {
+                "pregunta": "¿Puedo retomar el examen si repruebo?",
+                "respuesta": "Sí, puedes retomar el examen. Debes esperar 30 días antes de retomar y pagar los $125 de nuevo cada intento. No hay límite en el número de intentos, pero cada uno cuesta $125. Considera tomar un curso de preparación si repruebas dos veces.",
+                "source": "Pearson VUE"
+            },
+            {
+                "pregunta": "¿Cada cuánto debo renovar mi licencia de plomero en Florida?",
+                "respuesta": "Cada 2 años para Journeyman, Master y Contractor. Cada 2 años también para Registered Apprentice. La renovación de Journeyman cuesta $125 y requiere 14 horas de educación continua (CE) aprobada por DBPR. Los cursos de CE cuestan entre $100-250 online.",
+                "source": "DBPR Florida"
+            },
+            {
+                "pregunta": "¿Puedo ser dueño de mi propia compañía de plomería con licencia de Journeyman?",
+                "respuesta": "NO. Para ser dueño de una compañía de plomería contratista en Florida, necesitas dos cosas: 1) Licencia de Master Plumber, y 2) Licencia de Plumbing Contractor (que incluye examen de Business & Finance). Como Journeyman puedes trabajar para una compañía pero no ser el dueño/contratista principal.",
+                "source": "DBPR Florida"
+            },
+            {
+                "pregunta": "¿Cuánto gana un plomero Journeyman en Florida?",
+                "respuesta": "El salario mediano es aproximadamente $52,000/año según BLS. Sin embargo, con overtime, llamadas de emergencia, y trabajo independiente, muchos Journeyman ganan $60,000-$75,000/año. Plomeros con especializaciones (gas, backflow, medical gas) ganan aún más. Master Plumbers con negocio propio pueden ganar $90,000-$180,000+/año.",
+                "source": "BLS 2024"
+            },
+            {
+                "pregunta": "¿Florida tiene reciprocidad con otros estados para licencia de plomero?",
+                "respuesta": "Florida evalúa caso por caso (llamado 'endorsement'). No hay reciprocidad automática. Debes demostrar que tu estado de origen tiene requisitos iguales o superiores a Florida. Estados como Georgia, Alabama, Mississippi tienen procesos más fluidos. Debes aplicar y probablemente retomar al menos el examen de leyes de Florida. Contacta DBPR para evaluación de tu caso específico.",
+                "source": "DBPR Florida"
+            }
+        ]
+    },
+    "enlaces_utiles": {
+        "ai_generated": true,
+        "enlaces": [
+            {
+                "categoria": "Autoridad Reguladora",
+                "enlaces": [
+                    {
+                        "titulo": "DBPR - Plumbing Home",
+                        "url": "https://www.myfloridalicense.com/DBPR/",
+                        "descripcion": "Página principal del Department of Business and Professional Regulation para plomeros"
+                    },
+                    {
+                        "titulo": "Aplicaciones de Licencia",
+                        "url": "https://www.myfloridalicense.com/DBPR/",
+                        "descripcion": "Aplicar para Apprentice, Journeyman, Master o Contractor"
+                    },
+                    {
+                        "titulo": "Verificar Licencia",
+                        "url": "https://www.myfloridalicense.com/LicenseSearch/",
+                        "descripcion": "Buscar si alguien tiene licencia vigente en Florida"
+                    }
+                ]
+            },
+            {
+                "categoria": "Examen",
+                "enlaces": [
+                    {
+                        "titulo": "Pearson VUE - Agendar Examen de Plomero",
+                        "url": "https://home.pearsonvue.com/fl/plumbing",
+                        "descripcion": "Sitio oficial de Pearson VUE para agendar tu examen de Journeyman o Master"
+                    },
+                    {
+                        "titulo": "Información de Exámenes DBPR",
+                        "url": "https://www.myfloridalicense.com/DBPR/",
+                        "descripcion": "Detalles de exámenes, contenido, y requisitos"
+                    }
+                ]
+            },
+            {
+                "categoria": "Códigos y Referencias",
+                "enlaces": [
+                    {
+                        "titulo": "Florida Building Code Online",
+                        "url": "https://www.floridabuilding.org/",
+                        "descripcion": "Acceso al código de construcción de Florida (incluye Plumbing Code)"
+                    },
+                    {
+                        "titulo": "ICC - International Plumbing Code",
+                        "url": "https://www.iccsafe.org/products-and-services/i-codes/",
+                        "descripcion": "Comprar IPC (International Plumbing Code) usado en Florida"
+                    }
+                ]
+            },
+            {
+                "categoria": "Educación Continua",
+                "enlaces": [
+                    {
+                        "titulo": "Proveedores de CE Aprobados",
+                        "url": "https://www.myfloridalicense.com/DBPR/",
+                        "descripcion": "Lista de proveedores aprobados de educación continua para renovación"
+                    }
+                ]
+            },
+            {
+                "categoria": "Estadísticas de Empleo",
+                "enlaces": [
+                    {
+                        "titulo": "BLS - Plumbers, Pipefitters, and Steamfitters",
+                        "url": "https://www.bls.gov/oes/current/oes472152.htm",
+                        "descripcion": "Salarios oficiales y proyecciones de empleo (Bureau of Labor Statistics)"
+                    },
+                    {
+                        "titulo": "Florida Department of Economic Opportunity - Plumbing Jobs",
+                        "url": "https://floridajobs.org/",
+                        "descripcion": "Datos de empleo y crecimiento proyectado en Florida"
+                    }
+                ]
+            }
+        ]
+    }
+}

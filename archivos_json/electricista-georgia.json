@@ -1,0 +1,732 @@
+{
+    "_meta": {
+        "schema_version": "2.0",
+        "page_id": "licencia-electricista-georgia",
+        "oficio": "electricista",
+        "estado": "georgia",
+        "last_verified": "2026-02-16",
+        "verified_by": "Claude AI - requiere verificación humana",
+        "notes": "Georgia tiene un sistema estatal de licencias gestionado por la Secretaría de Estado. Roadmap de Helper → Apprentice → Journeyman → Master. Examen en español disponible para Journeyman y Master."
+    },
+    "page_seo": {
+        "title": "Licencia de Electricista en Georgia 2026: Guía Completa y Examen en Español",
+        "meta_description": "Cómo sacar la licencia de electricista en Georgia paso a paso. De Apprentice a Journeyman (8,000 horas). Examen disponible en español, requisitos actualizados 2026.",
+        "slug": "licencia-electricista-georgia",
+        "canonical_url": "https://chambaenusa.com/licencia-electricista-georgia/",
+        "h1": "Licencia de Electricista en Georgia",
+        "schema_types": [
+            "HowTo",
+            "FAQPage",
+            "BreadcrumbList"
+        ],
+        "keywords_primary": [
+            "licencia de electricista en georgia",
+            "examen de journeyman electricista en español georgia",
+            "licencia de aprendiz de electricista georgia"
+        ],
+        "keywords_secondary": [
+            "georgia electrical contractor license",
+            "cuanto gana un electricista en georgia",
+            "requisitos para licencia de journeyman georgia",
+            "renovar licencia de electricista georgia"
+        ],
+        "keywords_long_tail": [
+            "como sacar la licencia de electricista en georgia sin seguro social",
+            "escuelas de electricidad en atlanta en español",
+            "horas requeridas para maestro electricista georgia",
+            "cursos de preparacion para examen journeyman georgia en español"
+        ]
+    },
+    "hero": {
+        "ai_generated": true,
+        "badge": "Actualizado 2026",
+        "headline": "Licencia de Electricista en Georgia",
+        "subheadline": "Empieza como Helper sin licencia, luego Apprentice, y avanza hasta ganar $55k-$75k/año como Journeyman. El examen estatal está disponible en español sin costo adicional.",
+        "key_stats": [
+            {
+                "label": "Helper",
+                "value": "Sin Licencia",
+                "detail": "Puedes empezar a trabajar bajo supervisión mientras aprendes el oficio",
+                "source": "https://sos.ga.gov/electrical-contractors-board",
+                "source_name": "Georgia Secretary of State"
+            },
+            {
+                "label": "Journeyman",
+                "value": "8,000 horas",
+                "detail": "Aproximadamente 4 años de experiencia + examen estatal",
+                "source": "https://sos.ga.gov/electrical-contractors-board",
+                "source_name": "Georgia SOS"
+            },
+            {
+                "label": "Examen en Español",
+                "value": "✅ Sí, sin costo extra",
+                "detail": "Disponible para Journeyman y Master Electrician",
+                "source": "https://sos.ga.gov/electrical-contractors-board",
+                "source_name": "Georgia SOS"
+            },
+            {
+                "label": "Salario Journeyman",
+                "value": "$56,840/año",
+                "detail": "Mediana en Georgia. Top earners $78,000+",
+                "source": "https://www.bls.gov/oes/current/oes472111.htm",
+                "source_name": "BLS May 2024"
+            }
+        ],
+        "cta_primary": {
+            "text": "Ver Pasos del Camino",
+            "anchor": "#roadmap"
+        },
+        "cta_secondary": {
+            "text": "Ver Salarios",
+            "anchor": "#salarios"
+        }
+    },
+    "callout_espanol": {
+        "ai_generated": true,
+        "type": "highlight_box",
+        "icon": "⚡",
+        "title": "¡El examen es en español! No dejes que el idioma te detenga",
+        "content": "La Secretaría de Estado de Georgia ofrece los exámenes de Journeyman y Master Electrician en ESPAÑOL a través de PSI. Al programar tu cita, selecciona español como idioma del examen. No hay costo adicional. El National Electrical Code (NEC) también está disponible en español para que lo uses durante el examen.",
+        "source": "https://sos.ga.gov/electrical-contractors-board",
+        "source_name": "Georgia Electrical Contractors Board"
+    },
+    "autoridad_reguladora": {
+        "ai_generated": true,
+        "nombre": "Georgia Secretary of State",
+        "programa": "State Electrical Contractors Board",
+        "direccion": {
+            "calle": "2 Martin Luther King Jr. Drive SE",
+            "ciudad": "Atlanta",
+            "estado": "GA",
+            "cp": "30334",
+            "mailing": "237 Coliseum Drive, Macon, GA 31217"
+        },
+        "telefono": {
+            "local": "(478) 207-2440",
+            "toll_free": "(844) 753-7825"
+        },
+        "email": "plb@sos.ga.gov",
+        "web": "https://sos.ga.gov/electrical-contractors-board",
+        "verificar_licencia": "https://verify.sos.ga.gov/verification/",
+        "source": "https://sos.ga.gov/electrical-contractors-board"
+    },
+    "roadmap": {
+        "_description": "Camino profesional del electricista en Georgia - Timeline lineal de progresión",
+        "ai_generated": true,
+        "layout": "timeline",
+        "nota_general": "Georgia requiere que acumules experiencia práctica (On-the-Job Training) bajo la supervisión de un electricista licenciado. Puedes empezar como Helper sin licencia, luego registrarte como Apprentice, y eventualmente convertirte en Journeyman o Master. El estado requiere que apruebes exámenes estatales para Journeyman y Master.",
+        "tipos": [
+            {
+                "id": "helper",
+                "titulo_en": "Electrical Helper",
+                "titulo_es": "Ayudante de Electricista",
+                "es_principal": false,
+                "color_badge": "#6b7280",
+                "descripcion_corta": "Punto de entrada. Puedes empezar a trabajar sin licencia bajo supervisión directa.",
+                "scope_of_work": "Asistir a electricistas licenciados en tareas básicas: cargar materiales, preparar sitio, pasar herramientas. No puedes realizar trabajo eléctrico independiente.",
+                "requisitos": {
+                    "edad_minima": 16,
+                    "educacion_previa": "Ninguna requerida",
+                    "experiencia": "Ninguna",
+                    "examen": "NO requiere licencia ni examen"
+                },
+                "costos": {
+                    "aplicacion_licencia": 0
+                },
+                "como_aplicar": {
+                    "metodo": "Buscar empleo directamente con contratistas",
+                    "pasos": [
+                        "Buscar empleadores que contraten helpers (construcción, empresas eléctricas)",
+                        "Empezar a trabajar y aprender el oficio",
+                        "Documentar tus horas trabajadas para futura licencia"
+                    ]
+                },
+                "nota": "Aunque no necesitas licencia como Helper, es el primer paso para aprender el oficio. Muchos empleadores prefieren contratar helpers que planean eventualmente obtener su licencia de Apprentice.",
+                "source": "https://sos.ga.gov/electrical-contractors-board"
+            },
+            {
+                "id": "apprentice",
+                "titulo_en": "Registered Apprentice Electrician",
+                "titulo_es": "Aprendiz de Electricista Registrado",
+                "es_principal": false,
+                "color_badge": "#3b82f6",
+                "descripcion_corta": "Registro oficial para documentar tu experiencia hacia Journeyman. No requiere examen.",
+                "scope_of_work": "Trabajar bajo la supervisión de un Journeyman o Master Electrician licenciado. Realizar instalaciones eléctricas como parte de tu entrenamiento. No puedes trabajar solo ni obtener permisos.",
+                "requisitos": {
+                    "edad_minima": 18,
+                    "educacion_previa": "Diploma de preparatoria o GED",
+                    "experiencia": "Ninguna previa requerida",
+                    "examen": "NO requiere examen"
+                },
+                "costos": {
+                    "aplicacion_licencia": 50,
+                    "renovacion_cada_2_años": 50
+                },
+                "como_aplicar": {
+                    "metodo": "En línea o por correo",
+                    "url": "https://sos.ga.gov/electrical-contractors-board",
+                    "tiempo_procesamiento": "2-4 semanas",
+                    "pasos": [
+                        "Completar la aplicación de Apprentice en el sitio de SOS Georgia",
+                        "Proveer prueba de educación (diploma o GED)",
+                        "Pagar la tarifa de $50",
+                        "Recibir tu tarjeta de Apprentice",
+                        "Comenzar a documentar tus horas de experiencia"
+                    ]
+                },
+                "nota": "CRÍTICO: Debes mantener un registro detallado de tus horas trabajadas. Georgia requiere 8,000 horas documentadas para aplicar al examen de Journeyman. Usa un logbook firmado por tu supervisor cada mes.",
+                "source": "https://sos.ga.gov/electrical-contractors-board"
+            },
+            {
+                "id": "journeyman",
+                "titulo_en": "Journeyman Electrician",
+                "titulo_es": "Oficial Electricista (Journeyman)",
+                "es_principal": true,
+                "color_badge": "#f59e0b",
+                "descripcion_corta": "Licencia completa para trabajar en instalaciones eléctricas residenciales, comerciales e industriales sin supervisión directa.",
+                "scope_of_work": "Instalar, mantener y reparar sistemas eléctricos en cualquier tipo de edificación. Trabajar de forma independiente bajo la dirección de un Master o contratista. No puedes ser dueño de compañía ni obtener permisos (requiere Master).",
+                "requisitos": {
+                    "edad_minima": 18,
+                    "educacion_previa": "Diploma de preparatoria o GED",
+                    "experiencia": "8,000 horas de experiencia documentada como Apprentice (aproximadamente 4 años a tiempo completo)",
+                    "examen": "Aprobar el examen de Journeyman Electrician de Georgia"
+                },
+                "examen": {
+                    "partes": 1,
+                    "parte_1": {
+                        "nombre": "Georgia Journeyman Electrician Exam",
+                        "formato": "Opción múltiple por computadora - Open book (puedes llevar NEC)",
+                        "costo": 77,
+                        "idiomas": [
+                            "Inglés",
+                            "Español"
+                        ],
+                        "puntaje_minimo": "70%",
+                        "cuando_tomarlo": "Después de completar 8,000 horas documentadas",
+                        "contenido_principal": [
+                            "National Electrical Code (NEC 2023) - 70-80% del examen",
+                            "Leyes y regulaciones de Georgia",
+                            "Cálculos de carga eléctrica y dimensionamiento de conductores",
+                            "Instalación de sistemas de distribución",
+                            "Transformadores y motores",
+                            "Seguridad eléctrica"
+                        ],
+                        "ubicaciones": "Múltiples centros PSI en Georgia: Atlanta, Augusta, Columbus, Macon, Savannah",
+                        "e_exam": "Disponible como examen online supervisado (E-Exam)"
+                    },
+                    "administrador": "PSI Services LLC",
+                    "telefono_psi": "(855) 746-1552",
+                    "url_psi": "https://test-takers.psiexams.com/",
+                    "retakes": "Puedes retomar el examen después de 30 días. Debes pagar la tarifa de $77 cada intento.",
+                    "source": "https://sos.ga.gov/electrical-contractors-board"
+                },
+                "costos": {
+                    "aplicacion_licencia": 85,
+                    "examen_escrito": 77,
+                    "total_examenes_y_licencia": 162,
+                    "renovacion_cada_2_años": 85,
+                    "ce_horas_cada_2_años": 5
+                },
+                "como_aplicar": {
+                    "metodo": "En línea después de aprobar el examen",
+                    "url": "https://sos.ga.gov/electrical-contractors-board",
+                    "tiempo_procesamiento": "2-4 semanas después de pasar el examen",
+                    "pasos": [
+                        "Documentar 8,000 horas de experiencia con formularios firmados por tu supervisor",
+                        "Agendar y aprobar el examen de Journeyman con PSI",
+                        "Completar la aplicación en línea en SOS Georgia",
+                        "Pagar la tarifa de licencia ($85)",
+                        "Proveer verificación de experiencia",
+                        "Esperar procesamiento y aprobación"
+                    ]
+                },
+                "nota": "Georgia requiere prueba detallada de tus 8,000 horas. Mantén registros mensuales firmados por tu supervisor Journeyman o Master desde el primer día.",
+                "source": "https://sos.ga.gov/electrical-contractors-board"
+            },
+            {
+                "id": "master",
+                "titulo_en": "Master Electrician",
+                "titulo_es": "Maestro Electricista",
+                "es_principal": false,
+                "color_badge": "#7c3aed",
+                "descripcion_corta": "Nivel más alto. Puede supervisar proyectos, diseñar sistemas, ser contratista y obtener permisos municipales.",
+                "scope_of_work": "Supervisar trabajo de otros electricistas, diseñar sistemas eléctricos completos, ser dueño de empresa contratista, obtener permisos de construcción, firmar planos eléctricos.",
+                "requisitos": {
+                    "edad_minima": 21,
+                    "educacion_previa": "Diploma de preparatoria o GED",
+                    "experiencia": "12,000 horas totales de experiencia eléctrica documentada O 4 años como Journeyman licenciado",
+                    "examen": "Aprobar el examen de Master Electrician de Georgia"
+                },
+                "examen": {
+                    "partes": 1,
+                    "parte_1": {
+                        "nombre": "Georgia Master Electrician Exam",
+                        "formato": "Opción múltiple por computadora - Open book",
+                        "costo": 77,
+                        "idiomas": [
+                            "Inglés",
+                            "Español"
+                        ],
+                        "puntaje_minimo": "70%",
+                        "cuando_tomarlo": "Después de cumplir requisitos de experiencia",
+                        "contenido_principal": [
+                            "NEC avanzado (cálculos complejos de carga)",
+                            "Diseño de sistemas eléctricos",
+                            "Códigos de construcción de Georgia",
+                            "Gestión de proyectos y supervisión",
+                            "Leyes de negocio y responsabilidad contractual",
+                            "Interpretación de planos y especificaciones"
+                        ],
+                        "ubicaciones": "Centros PSI en Georgia"
+                    },
+                    "administrador": "PSI Services LLC",
+                    "telefono_psi": "(855) 746-1552",
+                    "url_psi": "https://test-takers.psiexams.com/",
+                    "retakes": "Después de 30 días, pagando la tarifa nuevamente",
+                    "source": "https://sos.ga.gov/electrical-contractors-board"
+                },
+                "costos": {
+                    "aplicacion_licencia": 100,
+                    "examen_escrito": 77,
+                    "total_examenes_y_licencia": 177,
+                    "renovacion_cada_2_años": 100,
+                    "ce_horas_cada_2_años": 6
+                },
+                "como_aplicar": {
+                    "url": "https://sos.ga.gov/electrical-contractors-board",
+                    "pasos": [
+                        "Acumular 12,000 horas o 4 años como Journeyman",
+                        "Estudiar para el examen de Master (más complejo que Journeyman)",
+                        "Aprobar el examen con PSI",
+                        "Aplicar en línea y pagar $100",
+                        "Proveer verificación de experiencia y licencia previa"
+                    ]
+                },
+                "nota": "La licencia de Master es necesaria para ser contratista eléctrico independiente en Georgia. Sin ella, no puedes obtener permisos ni firmar contratos como empresa.",
+                "source": "https://sos.ga.gov/electrical-contractors-board"
+            },
+            {
+                "id": "unrestricted",
+                "titulo_en": "Unrestricted Master Electrician",
+                "titulo_es": "Maestro Electricista Sin Restricciones",
+                "es_principal": false,
+                "color_badge": "#dc2626",
+                "descripcion_corta": "Certificación adicional para Master que permite trabajar en sistemas de alto voltaje y proyectos complejos sin limitaciones.",
+                "scope_of_work": "Todo lo que hace un Master Electrician, más: sistemas de más de 600 voltios, subestaciones eléctricas, líneas de transmisión, plantas industriales grandes.",
+                "requisitos": {
+                    "edad_minima": 21,
+                    "experiencia": "2 años adicionales como Master Electrician O 18,000 horas totales de experiencia",
+                    "examen": "Aprobar examen adicional de Unrestricted Master"
+                },
+                "examen": {
+                    "partes": 1,
+                    "parte_1": {
+                        "nombre": "Unrestricted Master Electrician Exam",
+                        "formato": "Opción múltiple - Open book",
+                        "costo": 77,
+                        "idiomas": [
+                            "Inglés",
+                            "Español (verificar disponibilidad)"
+                        ],
+                        "puntaje_minimo": "70%",
+                        "contenido_principal": [
+                            "NEC para sistemas de alto voltaje (>600V)",
+                            "Subestaciones y transformadores de potencia",
+                            "Protección de sistemas eléctricos",
+                            "Coordinación de protecciones",
+                            "Diseño de plantas industriales"
+                        ]
+                    },
+                    "administrador": "PSI Services LLC",
+                    "source": "https://sos.ga.gov/electrical-contractors-board"
+                },
+                "costos": {
+                    "aplicacion_licencia": 100,
+                    "examen_escrito": 77,
+                    "renovacion_cada_2_años": 100
+                },
+                "nota": "Esta certificación es opcional pero abre oportunidades en proyectos industriales grandes, plantas de manufactura, y utility work. Salarios significativamente más altos.",
+                "source": "https://sos.ga.gov/electrical-contractors-board"
+            }
+        ]
+    },
+    "calculadora_inversion": {
+        "ai_generated": true,
+        "_description": "Inversión estimada para obtener la licencia de Journeyman en Georgia",
+        "escenarios": [
+            {
+                "id": "journeyman_experiencia",
+                "licencia": "Journeyman Electrician (ruta de experiencia)",
+                "inversion": {
+                    "licencia_aprendiz_4_anos": "$200 (4 renovaciones bienales)",
+                    "kit_herramientas_basico": "$500 - $1,500",
+                    "libros_codigo": "$200 - $350 (NEC + libros de referencia)",
+                    "curso_preparacion_examen": "$300 - $600 (opcional pero recomendado)",
+                    "examen_journeyman": "$77",
+                    "licencia_journeyman": "$85",
+                    "total_minimo": "$1,362",
+                    "total_maximo": "$2,812"
+                },
+                "tiempo": "4 años (8,000 horas de experiencia)",
+                "salario_esperado": {
+                    "empleada": "$45,000 - $60,000/año como Journeyman",
+                    "con_experiencia": "$60,000 - $75,000/año con 5+ años",
+                    "nota": "Salario como Apprentice durante los 4 años: $28,000 - $40,000/año mientras aprendes"
+                },
+                "roi_nota": "Inversión total bajo $3,000 para una carrera que paga $55k-$75k/año. ROI excelente - recuperas tu inversión en los primeros 2-3 meses como Journeyman."
+            },
+            {
+                "id": "master_desde_journeyman",
+                "licencia": "Master Electrician (desde Journeyman)",
+                "inversion": {
+                    "experiencia_adicional": "4 años trabajando como Journeyman ($0 - ganas mientras aprendes)",
+                    "libros_codigo": "$150 - $300 (actualizaciones de NEC y código avanzado)",
+                    "curso_preparacion_examen": "$400 - $800 (examen más complejo)",
+                    "examen_master": "$77",
+                    "licencia_master": "$100",
+                    "total_estimado": "$727 - $1,277"
+                },
+                "tiempo": "4 años adicionales como Journeyman",
+                "salario_esperado": {
+                    "empleada": "$65,000 - $85,000/año como Master empleado",
+                    "independiente_booth_rental": "$80,000 - $120,000+/año como contratista independiente"
+                },
+                "nota": "Master te permite ser dueño de tu propia compañía eléctrica, obtener permisos y contratos directos.",
+                "roi_nota": "Inversión mínima (<$1,500) para aumentar tus ingresos en $15k-$40k/año. Esencial si quieres ser dueño de negocio."
+            }
+        ]
+    },
+    "renovacion": {
+        "ai_generated": true,
+        "frecuencia": "Cada 2 años desde la fecha de emisión",
+        "metodo": "En línea a través del portal de Georgia SOS",
+        "url_renovacion": "https://sos.ga.gov/electrical-contractors-board",
+        "costo_renovacion": 85,
+        "ce_requerida": {
+            "horas_totales": 5,
+            "temas": [
+                "Actualizaciones del National Electrical Code (NEC)",
+                "Cambios en códigos de construcción de Georgia",
+                "Seguridad eléctrica (NFPA 70E)",
+                "Nuevas tecnologías y prácticas"
+            ],
+            "nota": "Los 5 horas de educación continua deben completarse antes de renovar. Los cursos deben ser de proveedores aprobados por el estado de Georgia.",
+            "costo_cursos_ce_online": "$50 - $100"
+        },
+        "consecuencias_no_renovar": {
+            "0_60_dias": "Tarifa normal de renovación",
+            "60_dias_a_1_año": "Tarifa de renovación tardía (posible recargo)",
+            "mas_1_año": "Licencia expira - debes aplicar de nuevo y posiblemente retomar el examen"
+        },
+        "nota_tdlr": "El estado de Georgia envía recordatorios por correo y email antes del vencimiento. Es tu responsabilidad renovar a tiempo.",
+        "source": "https://sos.ga.gov/electrical-contractors-board"
+    },
+    "reciprocidad": {
+        "ai_generated": true,
+        "disponible": true,
+        "nombre_proceso": "License by Endorsement (Licencia por Endoso)",
+        "requisitos": [
+            "Tener licencia vigente de Journeyman o Master en otro estado",
+            "La licencia de otro estado debe tener requisitos similares o superiores a Georgia",
+            "Haber mantenido la licencia activa por al menos 1 año",
+            "No tener sanciones disciplinarias pendientes",
+            "Pasar background check de Georgia"
+        ],
+        "nota": "Georgia puede otorgar licencia por endoso si tu estado de origen tiene estándares equivalentes. Debes aplicar y pagar las tarifas de Georgia. Es posible que necesites tomar el examen de leyes de Georgia aunque no el examen técnico completo. Contacta al Electrical Contractors Board para verificar si tu estado califica.",
+        "url": "https://sos.ga.gov/electrical-contractors-board",
+        "experiencia_como_horas": "Depende de la evaluación individual - se revisa caso por caso",
+        "source": "https://sos.ga.gov/electrical-contractors-board"
+    },
+    "salarios": {
+        "ai_generated": true,
+        "nota_importante": "Los electricistas Journeyman y Master en Georgia frecuentemente ganan más que el promedio del BLS, especialmente con overtime, trabajos de emergencia, y proyectos comerciales/industriales de alto voltaje.",
+        "nacional_2024": {
+            "mediana": "$60,240/año",
+            "por_hora_mediana": "$28.96/hr",
+            "percentil_10": "$37,020/año",
+            "percentil_90": "$99,800/año",
+            "crecimiento_proyectado": "6% (2023-2033) - Más rápido que el promedio",
+            "source": "https://www.bls.gov/oes/current/oes472111.htm"
+        },
+        "por_ciudad_texas": [
+            {
+                "ciudad": "Atlanta-Sandy Springs-Roswell",
+                "salario_medio": "$58,450",
+                "top_earners": "$84,390",
+                "source": "BLS May 2024"
+            },
+            {
+                "ciudad": "Augusta-Richmond County",
+                "salario_medio": "$54,280",
+                "top_earners": "$75,120",
+                "source": "BLS May 2024"
+            },
+            {
+                "ciudad": "Columbus",
+                "salario_medio": "$52,670",
+                "top_earners": "$72,440",
+                "source": "BLS May 2024"
+            },
+            {
+                "ciudad": "Savannah",
+                "salario_medio": "$53,890",
+                "top_earners": "$74,830",
+                "source": "BLS May 2024"
+            },
+            {
+                "ciudad": "Athens-Clarke County",
+                "salario_medio": "$50,120",
+                "top_earners": "$69,870",
+                "source": "BLS May 2024"
+            }
+        ],
+        "ingresos_reales": {
+            "ai_generated": true,
+            "nota": "Los datos del BLS solo capturan salario base W-2. El ingreso REAL de electricistas en Georgia incluye:",
+            "factores_adicionales": [
+                "Overtime (tiempo y medio después de 40 horas/semana) - muy común en construcción",
+                "Llamadas de emergencia (pagan doble o hasta triple)",
+                "Trabajos de fin de semana y días festivos (premium pay)",
+                "Per diem para proyectos fuera de la ciudad",
+                "Bonos por completar proyectos a tiempo",
+                "Trabajo independiente o side jobs (Master puede cobrar directamente)"
+            ],
+            "estimado_realista": {
+                "recien_licenciada": "Apprentice: $28,000 - $40,000/año",
+                "3_5_años_experiencia": "Journeyman: $52,000 - $68,000/año (con overtime moderado)",
+                "especialista_o_independiente": "Journeyman con especialización (industrial, HVAC controls): $65,000 - $85,000/año",
+                "dueña_salon": "Master con negocio propio: $75,000 - $130,000+/año (después de gastos de negocio)"
+            }
+        }
+    },
+    "errores_comunes": {
+        "ai_generated": true,
+        "items": [
+            {
+                "error": "No documentar horas de experiencia desde el primer día",
+                "por_que_importa": "Georgia requiere 8,000 horas documentadas para Journeyman. Si trabajas 4 años pero no tienes registros firmados por tu supervisor, oficialmente tienes CERO horas. No podrás aplicar al examen. Este es el error más costoso y común.",
+                "solucion": "Desde tu primer día como Helper o Apprentice, mantén un logbook detallado. Cada mes, pide a tu supervisor Journeyman o Master que firme tus horas. Guarda copias de todo. Usa una app o spreadsheet para rastrear fechas, proyectos, y horas."
+            },
+            {
+                "error": "Trabajar sin licencia de Apprentice activa",
+                "por_que_importa": "Aunque puedes empezar como Helper sin licencia, es ilegal realizar trabajo eléctrico sin estar registrado como Apprentice en Georgia. Si el estado te encuentra, puedes recibir multas y las horas trabajadas NO contarán para tu Journeyman.",
+                "solucion": "Saca tu licencia de Apprentice ($50) en cuanto empieces a hacer trabajo eléctrico real (no solo cargar materiales). Renuévala cada 2 años sin falta."
+            },
+            {
+                "error": "Estudiar con la edición incorrecta del NEC",
+                "por_que_importa": "El examen de Journeyman y Master en Georgia se basa en una edición específica del NEC (actualmente NEC 2023). Si estudias con una edición vieja (2017 o 2020), los artículos y tablas estarán en ubicaciones diferentes y tendrás respuestas incorrectas.",
+                "solucion": "Antes de comprar libros o inscribirte en cursos, verifica en el sitio de PSI cuál es la edición del NEC para el examen de Georgia. Compra exactamente esa edición."
+            },
+            {
+                "error": "No tomar curso de preparación para el examen",
+                "por_que_importa": "El examen de Journeyman es open-book pero difícil. Si no sabes cómo navegar el NEC rápido o qué secciones son críticas, te quedarás sin tiempo. Muchos reprueban múltiples veces ($77 cada intento) por falta de estrategia, no de conocimiento.",
+                "solucion": "Toma un curso de preparación de 6-12 semanas. Te enseñan cómo usar el índice del NEC, qué artículos son más preguntados, y practicas con exámenes simulados. Vale cada centavo."
+            },
+            {
+                "error": "Pensar que puedes trabajar solo con licencia de Journeyman",
+                "por_que_importa": "Journeyman te permite trabajar sin supervisión directa, PERO no puedes obtener permisos de construcción ni firmar contratos como contratista. Para ser dueño de una compañía eléctrica, necesitas Master. Muchos Journeyman trabajan toda su vida para empresas sin darse cuenta de esta limitación.",
+                "solucion": "Si tu meta es ser dueño de negocio, planea desde el inicio obtener tu Master. Si prefieres trabajar para empresas y tener menos responsabilidad legal, Journeyman es suficiente."
+            },
+            {
+                "error": "No renovar a tiempo y dejar que la licencia expire",
+                "por_que_importa": "Si tu licencia expira por más de 1 año en Georgia, el proceso de reactivación es complicado y costoso. Podrías tener que retomar el examen y pagar todas las tarifas de nuevo. Perderás tiempo sin poder trabajar legalmente.",
+                "solucion": "Pon un recordatorio en tu teléfono 3 meses antes del vencimiento. La renovación es cada 2 años y cuesta $85 + $50-100 del curso de CE. Hazlo a tiempo."
+            },
+            {
+                "error": "No estudiar las leyes y códigos específicos de Georgia",
+                "por_que_importa": "El examen incluye preguntas sobre leyes estatales de Georgia, no solo el NEC nacional. Si solo estudias el NEC, fallarás esas preguntas automáticamente. Representan 15-20% del examen.",
+                "solucion": "Obtén una copia de los Georgia State Electrical Code requirements y estúdialos. Los cursos de preparación suelen incluir esta sección. No asumas que el NEC nacional es suficiente."
+            }
+        ]
+    },
+    "faqs": {
+        "ai_generated": true,
+        "items": [
+            {
+                "pregunta": "¿El examen de electricista en Georgia está disponible en español?",
+                "respuesta": "Sí. El estado de Georgia ofrece los exámenes de Journeyman y Master Electrician en español a través de PSI. Al agendar tu cita en el sitio de PSI, selecciona español como idioma del examen. No hay costo adicional. El libro NEC también está disponible en español para que lo uses durante el examen.",
+                "source": "Georgia SOS / PSI"
+            },
+            {
+                "pregunta": "¿Puedo sacar la licencia de electricista con ITIN (sin seguro social)?",
+                "respuesta": "Sí. Georgia acepta ITIN para procesar licencias profesionales si no tienes número de Seguro Social, siempre y cuando cumplas con los demás requisitos de identidad, educación y experiencia. Muchos electricistas en Georgia usan ITIN.",
+                "source": "Georgia SOS"
+            },
+            {
+                "pregunta": "¿Necesito ir a una escuela técnica para ser electricista en Georgia?",
+                "respuesta": "No es obligatorio. Puedes aprender 100% trabajando (On-the-Job Training) bajo la supervisión de un Journeyman o Master. Sin embargo, tomar clases del National Electrical Code y un curso de preparación para el examen te ayudará enormemente a pasar el examen de Journeyman en el primer intento.",
+                "source": "Georgia SOS"
+            },
+            {
+                "pregunta": "¿Cuánto tiempo se tarda en ser Journeyman Electrician en Georgia?",
+                "respuesta": "Aproximadamente 4 años trabajando tiempo completo (40 horas/semana, 50 semanas/año) para acumular las 8,000 horas requeridas. Si trabajas part-time o hay temporadas lentas, tomará más tiempo. Después de las 8,000 horas, debes aprobar el examen estatal de Journeyman.",
+                "source": "Georgia SOS"
+            },
+            {
+                "pregunta": "¿Cuánto cuesta el examen de Journeyman en Georgia?",
+                "respuesta": "El examen de Journeyman cuesta $77 (lo pagas a PSI). Adicionalmente pagas $85 al estado de Georgia por la aplicación de licencia después de aprobar. Total: $162 para obtener la licencia de Journeyman (sin contar cursos de preparación o libros).",
+                "source": "PSI / Georgia SOS"
+            },
+            {
+                "pregunta": "¿Puedo retomar el examen si repruebo?",
+                "respuesta": "Sí. Puedes retomar el examen después de 30 días. Debes pagar los $77 de nuevo cada intento. No hay límite en el número de intentos, pero cada uno cuesta dinero y tiempo.",
+                "source": "PSI"
+            },
+            {
+                "pregunta": "¿Cada cuánto debo renovar mi licencia de electricista en Georgia?",
+                "respuesta": "Cada 2 años para Journeyman y Master. La renovación de Journeyman cuesta $85 y requiere 5 horas de educación continua aprobada. Los cursos de CE cuestan entre $50-100 online.",
+                "source": "Georgia SOS"
+            },
+            {
+                "pregunta": "¿Puedo ser dueño de mi propia compañía eléctrica con licencia de Journeyman?",
+                "respuesta": "No. Para ser dueño de una compañía de contratación eléctrica en Georgia y obtener permisos de construcción, necesitas licencia de Master Electrician. Como Journeyman puedes trabajar de forma independiente pero bajo la supervisión de una empresa con Master.",
+                "source": "Georgia SOS"
+            },
+            {
+                "pregunta": "¿Georgia acepta licencias de electricista de otros estados (reciprocidad)?",
+                "respuesta": "Sí, en algunos casos. Georgia evalúa caso por caso si tu licencia de otro estado tiene requisitos equivalentes. Debes aplicar por endoso y posiblemente tomar el examen de leyes de Georgia (no el examen técnico completo). Contacta al Electrical Contractors Board para verificar tu elegibilidad.",
+                "source": "Georgia SOS"
+            },
+            {
+                "pregunta": "¿Cuánto gana un electricista Journeyman en Georgia?",
+                "respuesta": "El salario mediano en Georgia es $56,840/año según el BLS (2024). Con overtime, trabajos de emergencia y experiencia, muchos Journeyman ganan $60,000-$75,000/año. En Atlanta y áreas metropolitanas, los salarios son más altos. Master Electricians con negocio propio pueden ganar $80,000-$130,000+/año.",
+                "source": "BLS 2024"
+            }
+        ]
+    },
+    "enlaces_utiles": {
+        "ai_generated": true,
+        "enlaces": [
+            {
+                "categoria": "Autoridad Estatal y Licencias",
+                "enlaces": [
+                    {
+                        "titulo": "Georgia Electrical Contractors Board - Página Principal",
+                        "url": "https://sos.ga.gov/electrical-contractors-board",
+                        "descripcion": "Sitio oficial del programa de electricistas de Georgia"
+                    },
+                    {
+                        "titulo": "Aplicación de Licencia - Todos los Niveles",
+                        "url": "https://sos.ga.gov/how-to-guide/how-apply-electrical-contractor-license",
+                        "descripcion": "Guía para aplicar como Apprentice, Journeyman o Master"
+                    },
+                    {
+                        "titulo": "Verificar Licencia en Georgia",
+                        "url": "https://verify.sos.ga.gov/verification/",
+                        "descripcion": "Buscar si una licencia de electricista está vigente"
+                    },
+                    {
+                        "titulo": "Renovación de Licencia",
+                        "url": "https://sos.ga.gov/how-to-guide/how-renew-your-professional-license",
+                        "descripcion": "Proceso de renovación en línea cada 2 años"
+                    }
+                ]
+            },
+            {
+                "categoria": "Exámenes",
+                "enlaces": [
+                    {
+                        "titulo": "PSI - Agendar Examen de Electricista",
+                        "url": "https://test-takers.psiexams.com/",
+                        "descripcion": "Sitio oficial de PSI para agendar tu examen. Tel: (855) 746-1552"
+                    },
+                    {
+                        "titulo": "Información de Examen - Georgia SOS",
+                        "url": "https://sos.ga.gov/electrical-contractors-board",
+                        "descripcion": "Requisitos y contenido del examen estatal"
+                    }
+                ]
+            },
+            {
+                "categoria": "Educación y Preparación",
+                "enlaces": [
+                    {
+                        "titulo": "NFPA - National Electrical Code (NEC)",
+                        "url": "https://www.nfpa.org/codes-and-standards/nfpa-70-standard-development/70",
+                        "descripcion": "Comprar el libro oficial NEC en inglés o español"
+                    },
+                    {
+                        "titulo": "Mike Holt Enterprises - Cursos de Preparación",
+                        "url": "https://www.mikeholt.com/",
+                        "descripcion": "Cursos online de preparación para exámenes de electricista (NEC)"
+                    },
+                    {
+                        "titulo": "Georgia Technical Colleges - Electrical Programs",
+                        "url": "https://www.tcsg.edu/",
+                        "descripcion": "Buscar escuelas técnicas en Georgia con programas de electricidad"
+                    }
+                ]
+            },
+            {
+                "categoria": "Información de Carrera y Salarios",
+                "enlaces": [
+                    {
+                        "titulo": "BLS - Electricistas (Datos Nacionales y Georgia)",
+                        "url": "https://www.bls.gov/oes/current/oes472111.htm",
+                        "descripcion": "Salarios oficiales y proyecciones de empleo del Bureau of Labor Statistics"
+                    },
+                    {
+                        "titulo": "Georgia Department of Labor - Electrician Career Info",
+                        "url": "https://www.dol.state.ga.us/",
+                        "descripcion": "Información de carreras y recursos de empleo en Georgia"
+                    }
+                ]
+            },
+            {
+                "categoria": "Organizaciones Profesionales",
+                "enlaces": [
+                    {
+                        "titulo": "Independent Electrical Contractors (IEC) Georgia",
+                        "url": "https://www.iecga.org/",
+                        "descripcion": "Asociación de contratistas eléctricos independientes en Georgia"
+                    },
+                    {
+                        "titulo": "NECA - National Electrical Contractors Association",
+                        "url": "https://www.necanet.org/",
+                        "descripcion": "Asociación nacional de contratistas eléctricos"
+                    },
+                    {
+                        "titulo": "IBEW - International Brotherhood of Electrical Workers",
+                        "url": "https://www.ibew.org/",
+                        "descripcion": "Sindicato de electricistas - programas de apprenticeship"
+                    }
+                ]
+            }
+        ]
+    },
+    "links_oficiales": {
+        "ai_generated": true,
+        "items": [
+            {
+                "nombre": "Georgia Electrical Contractors Board",
+                "url": "https://sos.ga.gov/electrical-contractors-board",
+                "descripcion": "Autoridad estatal que regula las licencias de electricistas"
+            },
+            {
+                "nombre": "PSI Exams - Georgia Electrician",
+                "url": "https://test-takers.psiexams.com/",
+                "descripcion": "Agendar examen de Journeyman o Master. Tel: (855) 746-1552"
+            },
+            {
+                "nombre": "Verificar Licencia de Electricista",
+                "url": "https://verify.sos.ga.gov/verification/",
+                "descripcion": "Buscar si una licencia está vigente en Georgia"
+            },
+            {
+                "nombre": "BLS - Salarios de Electricistas",
+                "url": "https://www.bls.gov/oes/current/oes472111.htm",
+                "descripcion": "Datos oficiales de empleo y salarios (nacional y por estado)"
+            },
+            {
+                "nombre": "National Electrical Code (NEC) - NFPA",
+                "url": "https://www.nfpa.org/codes-and-standards/nfpa-70-standard-development/70",
+                "descripcion": "Comprar el libro NEC oficial (disponible en español)"
+            },
+            {
+                "nombre": "Georgia Technical College System",
+                "url": "https://www.tcsg.edu/",
+                "descripcion": "Buscar programas de electricidad en colegios técnicos de Georgia"
+            }
+        ]
+    }
+}

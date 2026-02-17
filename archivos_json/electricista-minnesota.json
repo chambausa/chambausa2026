@@ -1,0 +1,746 @@
+{
+    "_meta": {
+        "schema_version": "2.0",
+        "page_id": "licencia-electricista-minnesota",
+        "oficio": "electricista",
+        "estado": "minnesota",
+        "last_verified": "2026-02-16",
+        "verified_by": "Claude AI - requiere verificación humana",
+        "notes": "Minnesota tiene un sistema de 4 niveles: Unlicensed Individual, Residential, Journeyman, y Master. Todos los exámenes son administrados por el Departamento de Labor and Industry (DLI)."
+    },
+    "page_seo": {
+        "title": "Licencia de Electricista en Minnesota 2026: Guía Completa DLI y Requisitos Actualizados",
+        "meta_description": "Cómo sacar la licencia de electricista en Minnesota paso a paso. De Unlicensed Individual a Master Electrician. Requisitos, examen, costos y salarios actualizados 2026.",
+        "slug": "licencia-electricista-minnesota",
+        "canonical_url": "https://chambaenusa.com/licencia-electricista-minnesota/",
+        "h1": "Licencia de Electricista en Minnesota",
+        "schema_types": [
+            "HowTo",
+            "FAQPage",
+            "BreadcrumbList"
+        ],
+        "keywords_primary": [
+            "licencia de electricista en minnesota",
+            "electricista minnesota requisitos",
+            "examen electricista minnesota"
+        ],
+        "keywords_secondary": [
+            "dli minnesota electricista",
+            "cuanto gana un electricista en minnesota",
+            "journeyman electrician minnesota",
+            "master electrician minnesota"
+        ],
+        "keywords_long_tail": [
+            "como sacar licencia de electricista en minneapolis",
+            "requisitos para journeyman electricista minnesota",
+            "horas requeridas electricista minnesota",
+            "renovar licencia electricista minnesota"
+        ]
+    },
+    "hero": {
+        "ai_generated": true,
+        "badge": "Actualizado 2026",
+        "headline": "Licencia de Electricista en Minnesota",
+        "subheadline": "Comienza como Unlicensed Individual bajo supervisión y avanza hasta Master Electrician. Minnesota requiere registro y licencia estatal para trabajo eléctrico. Salarios competitivos de $65k-$85k para electricistas licenciados.",
+        "key_stats": [
+            {
+                "label": "Unlicensed Individual",
+                "value": "Registro $50",
+                "detail": "Primer paso para trabajar bajo supervisión directa",
+                "source": "https://www.dli.mn.gov/business/electricity/electrician-licensure",
+                "source_name": "Minnesota DLI"
+            },
+            {
+                "label": "Journeyman",
+                "value": "8,000 horas",
+                "detail": "4 años de experiencia documentada + examen",
+                "source": "https://www.dli.mn.gov/business/electricity/electrician-licensure",
+                "source_name": "Minnesota DLI"
+            },
+            {
+                "label": "Examen",
+                "value": "Prometric",
+                "detail": "Exámenes administrados por Prometric en Minnesota",
+                "source": "https://www.prometric.com/test-takers/search/minnesota",
+                "source_name": "Prometric"
+            },
+            {
+                "label": "Salario Mediano",
+                "value": "$68,490/año",
+                "detail": "Mediana en Minnesota. Top earners $90,000+",
+                "source": "https://www.bls.gov/oes/current/oes_mn.htm",
+                "source_name": "BLS May 2024"
+            }
+        ],
+        "cta_primary": {
+            "text": "Ver Camino de Licencias",
+            "anchor": "#roadmap"
+        },
+        "cta_secondary": {
+            "text": "Ver Salarios",
+            "anchor": "#salarios"
+        }
+    },
+    "callout_espanol": {
+        "ai_generated": true,
+        "type": "warning_box",
+        "icon": "⚠️",
+        "title": "Exámenes solo en inglés - Prepárate adecuadamente",
+        "content": "Los exámenes de electricista en Minnesota son administrados por Prometric y actualmente solo están disponibles en INGLÉS. Si el inglés no es tu primer idioma, considera tomar cursos de preparación que incluyan vocabulario técnico en inglés. El examen es open-book (puedes llevar el NEC), pero necesitas poder leer las preguntas. Muchos electricistas hispanos aprueban con preparación adecuada.",
+        "source": "https://www.prometric.com/test-takers/search/minnesota",
+        "source_name": "Prometric Minnesota"
+    },
+    "autoridad_reguladora": {
+        "ai_generated": true,
+        "nombre": "Minnesota Department of Labor and Industry (DLI)",
+        "programa": "Construction Codes and Licensing Division - Electrical Program",
+        "direccion": {
+            "calle": "443 Lafayette Road North",
+            "ciudad": "St. Paul",
+            "estado": "MN",
+            "cp": "55155"
+        },
+        "telefono": {
+            "local": "(651) 284-5026",
+            "toll_free": "(800) 342-5354"
+        },
+        "email": "dli.electricity@state.mn.us",
+        "web": "https://www.dli.mn.gov/business/electricity",
+        "verificar_licencia": "https://www.dli.mn.gov/business/license-lookup",
+        "source": "https://www.dli.mn.gov/business/electricity/contact-electricity-program"
+    },
+    "roadmap": {
+        "_description": "Sistema de licencias de electricista en Minnesota - Progresión de 4 niveles",
+        "ai_generated": true,
+        "layout": "timeline",
+        "nota_general": "Minnesota requiere que todos los electricistas estén registrados o licenciados con el DLI. El camino típico es: Unlicensed Individual (registro) → Residential → Journeyman → Master. Todas las horas de experiencia deben ser documentadas y verificadas por un supervisor licenciado.",
+        "tipos": [
+            {
+                "id": "unlicensed",
+                "titulo_en": "Unlicensed Individual Registration",
+                "titulo_es": "Registro de Individuo Sin Licencia",
+                "es_principal": false,
+                "color_badge": "#6b7280",
+                "descripcion_corta": "Primer paso obligatorio. Te permite trabajar bajo supervisión directa de un electricista licenciado.",
+                "scope_of_work": "Trabajar solo bajo supervisión directa de un electricista Journeyman o Master. No puede trabajar solo, sacar permisos ni diseñar instalaciones.",
+                "requisitos": {
+                    "edad_minima": 16,
+                    "educacion_previa": "Ninguna específica",
+                    "experiencia": "Ninguna",
+                    "examen": "NO requiere examen"
+                },
+                "costos": {
+                    "aplicacion_licencia": 50,
+                    "renovacion_cada_2_años": 50
+                },
+                "como_aplicar": {
+                    "metodo": "En línea o por correo",
+                    "url": "https://www.dli.mn.gov/business/electricity/electrician-licensure",
+                    "tiempo_procesamiento": "1-2 semanas",
+                    "pasos": [
+                        "Completar aplicación en línea en el portal de DLI",
+                        "Pagar tarifa de $50",
+                        "Recibir número de registro",
+                        "Comenzar a trabajar y documentar horas bajo supervisor licenciado"
+                    ]
+                },
+                "nota": "CRÍTICO: Debes mantener un registro detallado de todas tus horas trabajadas, firmado por tu supervisor. Estas horas son necesarias para avanzar a niveles superiores.",
+                "source": "https://www.dli.mn.gov/business/electricity/electrician-licensure"
+            },
+            {
+                "id": "residential",
+                "titulo_en": "Residential Journeyman/Master Electrician",
+                "titulo_es": "Electricista Residencial Journeyman/Master",
+                "es_principal": false,
+                "color_badge": "#10b981",
+                "descripcion_corta": "Licencia para trabajar en instalaciones residenciales (viviendas unifamiliares y multifamiliares).",
+                "scope_of_work": "Instalación, mantenimiento y reparación de sistemas eléctricos en viviendas residenciales. No puede trabajar en proyectos comerciales o industriales.",
+                "requisitos": {
+                    "experiencia": "4,000 horas de experiencia verificada en trabajo residencial",
+                    "educacion_alternativa": "O completar programa de aprendizaje aprobado de 2 años",
+                    "examen": "Aprobar examen de Residential Electrician"
+                },
+                "examen": {
+                    "partes": 1,
+                    "nombre": "Residential Journeyman/Master Electrician Exam",
+                    "formato": "Opción múltiple por computadora - Open book",
+                    "idiomas": [
+                        "Inglés"
+                    ],
+                    "administrador": "Prometric",
+                    "url_psi": "https://www.prometric.com/test-takers/search/minnesota",
+                    "source": "https://www.dli.mn.gov/business/electricity/electrician-licensure"
+                },
+                "costos": {
+                    "aplicacion_licencia": 100,
+                    "examen_escrito": 90,
+                    "total_examenes_y_licencia": 190,
+                    "renovacion_cada_2_años": 100
+                },
+                "como_aplicar": {
+                    "url": "https://www.dli.mn.gov/business/electricity/electrician-licensure",
+                    "pasos": [
+                        "Acumular 4,000 horas verificadas",
+                        "Completar aplicación en línea",
+                        "Programar y aprobar examen con Prometric",
+                        "Pagar tarifa de licencia de $100"
+                    ]
+                },
+                "source": "https://www.dli.mn.gov/business/electricity/electrician-licensure"
+            },
+            {
+                "id": "journeyman",
+                "titulo_en": "Class A Journeyman Electrician",
+                "titulo_es": "Electricista Oficial Clase A (Journeyman)",
+                "es_principal": true,
+                "color_badge": "#f59e0b",
+                "descripcion_corta": "Licencia completa para trabajar en instalaciones eléctricas residenciales, comerciales e industriales sin supervisión directa.",
+                "scope_of_work": "Instalar, mantener y reparar sistemas eléctricos en cualquier tipo de edificación. Puede trabajar sin supervisión directa pero bajo una empresa con Master Electrician.",
+                "requisitos": {
+                    "edad_minima": 19,
+                    "experiencia": "8,000 horas de experiencia verificada (aproximadamente 4 años)",
+                    "educacion_alternativa": "O 4 años de programa de aprendizaje registrado con DOL",
+                    "examen": "Aprobar examen de Journeyman Electrician"
+                },
+                "examen": {
+                    "partes": 1,
+                    "parte_1": {
+                        "nombre": "Class A Journeyman Electrician Exam",
+                        "formato": "Opción múltiple por computadora - Open book (NEC permitido)",
+                        "costo": 110,
+                        "idiomas": [
+                            "Inglés"
+                        ],
+                        "puntaje_minimo": "70%",
+                        "cuando_tomarlo": "Después de completar 8,000 horas documentadas",
+                        "contenido_principal": [
+                            "National Electrical Code (NEC) - 80% del examen",
+                            "Minnesota Electrical Code y reglas estatales",
+                            "Cálculos de carga y dimensionamiento de conductores",
+                            "Seguridad eléctrica y NFPA 70E",
+                            "Instalación de sistemas comerciales e industriales"
+                        ],
+                        "ubicaciones": "Centros Prometric en Minneapolis, St. Paul, Duluth, Rochester, St. Cloud"
+                    },
+                    "administrador": "Prometric",
+                    "url_psi": "https://www.prometric.com/test-takers/search/minnesota",
+                    "retakes": "Puedes retomar el examen. Debes esperar 30 días entre intentos y pagar la tarifa completa cada vez.",
+                    "source": "https://www.dli.mn.gov/business/electricity/electrician-licensure"
+                },
+                "costos": {
+                    "aplicacion_licencia": 120,
+                    "examen_escrito": 110,
+                    "total_examenes_y_licencia": 230,
+                    "renovacion_cada_2_años": 120,
+                    "ce_horas_cada_2_años": 16
+                },
+                "como_aplicar": {
+                    "metodo": "En línea después de aprobar el examen",
+                    "url": "https://www.dli.mn.gov/business/electricity/electrician-licensure",
+                    "tiempo_procesamiento": "2-3 semanas",
+                    "pasos": [
+                        "Documentar 8,000 horas con formularios firmados por supervisor Master",
+                        "Programar y aprobar examen con Prometric",
+                        "Completar aplicación en línea en DLI",
+                        "Pagar $120 de tarifa de licencia",
+                        "Recibir licencia por correo"
+                    ]
+                },
+                "source": "https://www.dli.mn.gov/business/electricity/electrician-licensure"
+            },
+            {
+                "id": "master",
+                "titulo_en": "Class A Master Electrician",
+                "titulo_es": "Maestro Electricista Clase A",
+                "es_principal": false,
+                "color_badge": "#7c3aed",
+                "descripcion_corta": "Nivel más alto. Puede supervisar trabajo, diseñar sistemas, ser dueño de negocio de contratación eléctrica y sacar permisos.",
+                "scope_of_work": "Todo el trabajo de Journeyman más: supervisar otros electricistas, diseñar instalaciones eléctricas, obtener permisos municipales, ser responsable de empresa de contratación eléctrica.",
+                "requisitos": {
+                    "edad_minima": 21,
+                    "licencia_previa": "Haber tenido licencia de Journeyman por al menos 2 años",
+                    "experiencia": "12,000 horas totales de experiencia verificada en el oficio",
+                    "examen": "Aprobar examen de Master Electrician"
+                },
+                "examen": {
+                    "partes": 1,
+                    "parte_1": {
+                        "nombre": "Class A Master Electrician Exam",
+                        "formato": "Opción múltiple por computadora - Open book",
+                        "costo": 110,
+                        "idiomas": [
+                            "Inglés"
+                        ],
+                        "puntaje_minimo": "70%",
+                        "cuando_tomarlo": "Después de 2 años como Journeyman y 12,000 horas totales",
+                        "contenido_principal": [
+                            "NEC avanzado y diseño de sistemas",
+                            "Cálculos complejos de carga y protección",
+                            "Minnesota Building Code (Electrical)",
+                            "Supervisión y gestión de proyectos",
+                            "Códigos de construcción y permisos"
+                        ]
+                    },
+                    "administrador": "Prometric",
+                    "url_psi": "https://www.prometric.com/test-takers/search/minnesota",
+                    "source": "https://www.dli.mn.gov/business/electricity/electrician-licensure"
+                },
+                "costos": {
+                    "aplicacion_licencia": 150,
+                    "examen_escrito": 110,
+                    "total_examenes_y_licencia": 260,
+                    "renovacion_cada_2_años": 150,
+                    "ce_horas_cada_2_años": 24
+                },
+                "como_aplicar": {
+                    "url": "https://www.dli.mn.gov/business/electricity/electrician-licensure",
+                    "pasos": [
+                        "Mantener licencia de Journeyman activa por 2 años",
+                        "Documentar 12,000 horas totales verificadas",
+                        "Programar y aprobar examen de Master con Prometric",
+                        "Completar aplicación en línea",
+                        "Pagar $150 de tarifa de licencia"
+                    ]
+                },
+                "source": "https://www.dli.mn.gov/business/electricity/electrician-licensure"
+            }
+        ]
+    },
+    "calculadora_inversion": {
+        "ai_generated": true,
+        "_description": "Escenarios de inversión para obtener licencia de electricista en Minnesota",
+        "escenarios": [
+            {
+                "id": "journeyman_pathway",
+                "licencia": "Class A Journeyman Electrician",
+                "inversion": {
+                    "escuela_rango": "$3,000 - $8,000",
+                    "escuela_nota": "Opcional - Programa de aprendizaje o escuela técnica (Dunwoody College, Hennepin Tech, St. Paul College). Muchos aprenden trabajando.",
+                    "kit_herramientas_basico": "$500 - $1,500",
+                    "kit_nota": "Herramientas básicas para comenzar (multímetro, destornilladores, alicates, etc.)",
+                    "libros_codigo": "$200 - $300",
+                    "registro_inicial": "$50",
+                    "examen_journeyman": "$110",
+                    "licencia_journeyman": "$120",
+                    "curso_preparacion_examen": "$300 - $800",
+                    "total_minimo": "$1,280",
+                    "total_maximo": "$10,880"
+                },
+                "tiempo": "4-5 años (incluyendo 8,000 horas de experiencia)",
+                "salario_esperado": {
+                    "empleada": "$55,000 - $75,000/año durante aprendizaje",
+                    "journeyman": "$65,000 - $85,000/año como Journeyman licenciado",
+                    "con_experiencia": "$75,000 - $95,000/año con 5+ años de experiencia"
+                },
+                "roi_nota": "La inversión se recupera en menos de 1 año de trabajo como Journeyman licenciado comparado con trabajo no calificado."
+            },
+            {
+                "id": "master_pathway",
+                "licencia": "Class A Master Electrician",
+                "inversion": {
+                    "costos_previos_journeyman": "$1,280 - $10,880",
+                    "experiencia_adicional_2_años": "$0 (ya estás trabajando)",
+                    "curso_preparacion_master": "$400 - $1,000",
+                    "examen_master": "$110",
+                    "licencia_master": "$150",
+                    "total_estimado": "$1,940 - $12,140"
+                },
+                "tiempo": "6-7 años totales desde el inicio (incluye 2 años como Journeyman)",
+                "salario_esperado": {
+                    "master_empleado": "$80,000 - $100,000/año",
+                    "master_negocio_propio": "$90,000 - $150,000+/año como dueño de negocio",
+                    "nota": "Los Master con negocio propio pueden ganar significativamente más dependiendo del volumen de proyectos."
+                },
+                "roi_nota": "Como Master puedes abrir tu propia compañía de contratación eléctrica. El potencial de ingresos aumenta significativamente."
+            }
+        ]
+    },
+    "renovacion": {
+        "ai_generated": true,
+        "frecuencia": "Cada 2 años desde la fecha de emisión",
+        "metodo": "En línea en el portal de DLI",
+        "url_renovacion": "https://www.dli.mn.gov/business/electricity/renew-electrician-license",
+        "costo_renovacion": 120,
+        "ce_requerida": {
+            "horas_totales": 16,
+            "temas": [
+                "National Electrical Code (NEC) - actualizaciones y cambios",
+                "Minnesota Electrical Code",
+                "Seguridad eléctrica (NFPA 70E)",
+                "Cambios en códigos de construcción de Minnesota"
+            ],
+            "nota": "Journeyman requiere 16 horas de CE. Master requiere 24 horas. Los cursos deben ser de proveedores aprobados por DLI.",
+            "costo_cursos_ce_online": "$150 - $400 dependiendo del proveedor",
+            "url_proveedores": "https://www.dli.mn.gov/business/electricity/continuing-education-providers"
+        },
+        "consecuencias_no_renovar": {
+            "0_90_dias": "Puedes renovar con tarifa normal más $50 de penalización",
+            "90_dias_a_1_año": "Renovación tardía - tarifa doble más penalizaciones",
+            "mas_1_año": "Licencia expira permanentemente - debes volver a aplicar y retomar examen"
+        },
+        "nota_tdlr": "DLI envía recordatorio de renovación 60 días antes del vencimiento. Es responsabilidad del licenciado renovar a tiempo.",
+        "source": "https://www.dli.mn.gov/business/electricity/renew-electrician-license"
+    },
+    "reciprocidad": {
+        "ai_generated": true,
+        "disponible": true,
+        "nombre_proceso": "Reciprocity (Reciprocidad)",
+        "requisitos": [
+            "Tener licencia vigente de Journeyman o Master en otro estado",
+            "El estado de origen debe tener estándares equivalentes o superiores a Minnesota",
+            "Proporcionar verificación oficial de licencia del otro estado",
+            "Cumplir con requisitos de experiencia de Minnesota",
+            "Pasar background check",
+            "Posiblemente tomar examen sobre códigos de Minnesota"
+        ],
+        "nota": "Minnesota evalúa cada solicitud de reciprocidad caso por caso. No tiene acuerdos automáticos con todos los estados. Contacta a DLI con detalles de tu licencia actual para determinar si calificas. En algunos casos, pueden requerir que tomes el examen de Minnesota incluso con licencia de otro estado.",
+        "url": "https://www.dli.mn.gov/business/electricity/electrician-licensure",
+        "experiencia_como_horas": "La experiencia de otro estado puede contar hacia los requisitos de Minnesota si está debidamente documentada y verificada.",
+        "source": "https://www.dli.mn.gov/business/electricity/electrician-licensure"
+    },
+    "salarios": {
+        "ai_generated": true,
+        "nota_importante": "Los electricistas en Minnesota tienen salarios competitivos, especialmente en el área metropolitana de Twin Cities. Los datos del BLS reflejan salarios base, pero con overtime, trabajos de emergencia y proyectos especializados, los ingresos reales suelen ser mayores.",
+        "nacional_2024": {
+            "mediana": "$60,240/año",
+            "por_hora_mediana": "$28.96/hr",
+            "percentil_10": "$37,020/año",
+            "percentil_90": "$99,800/año",
+            "crecimiento_proyectado": "6% (2023-2033) - Más rápido que el promedio",
+            "source": "https://www.bls.gov/oes/current/oes472111.htm"
+        },
+        "por_ciudad_texas": [
+            {
+                "ciudad": "Minneapolis-St. Paul-Bloomington",
+                "salario_medio": "$72,530",
+                "top_earners": "$95,800",
+                "source": "BLS May 2024"
+            },
+            {
+                "ciudad": "Duluth",
+                "salario_medio": "$64,120",
+                "top_earners": "$85,200",
+                "source": "BLS May 2024"
+            },
+            {
+                "ciudad": "Rochester",
+                "salario_medio": "$68,940",
+                "top_earners": "$89,500",
+                "source": "BLS May 2024"
+            },
+            {
+                "ciudad": "St. Cloud",
+                "salario_medio": "$63,280",
+                "top_earners": "$82,100",
+                "source": "BLS May 2024"
+            }
+        ],
+        "ingresos_reales": {
+            "ai_generated": true,
+            "nota": "Los salarios reportados por BLS son promedios de empleados W-2. Los electricistas en Minnesota frecuentemente ganan más por:",
+            "factores_adicionales": [
+                "Overtime - común en proyectos comerciales e industriales (tiempo y medio)",
+                "Prevailing wage en proyectos gubernamentales (puede ser $40-$55/hora)",
+                "Trabajos de emergencia - pagan premium (doble o triple)",
+                "Bonificaciones por finalización de proyectos",
+                "Trabajo sindicalizado (IBEW) - mejores beneficios y salarios",
+                "Per diem para proyectos fuera del área metropolitana"
+            ],
+            "estimado_realista": {
+                "recien_licenciada": "Unlicensed/Apprentice: $35,000 - $45,000/año",
+                "3_5_años_experiencia": "Journeyman (primeros años): $65,000 - $80,000/año",
+                "especialista_o_independiente": "Journeyman experimentado/especializado: $80,000 - $100,000/año",
+                "dueña_salon": "Master con negocio propio: $90,000 - $180,000+/año"
+            }
+        }
+    },
+    "errores_comunes": {
+        "ai_generated": true,
+        "items": [
+            {
+                "error": "No registrarse como Unlicensed Individual antes de comenzar a trabajar",
+                "por_que_importa": "Es ilegal trabajar en electricidad en Minnesota sin al menos el registro de Unlicensed Individual. Si DLI te encuentra trabajando sin registro, puedes recibir multas significativas ($1,000+) y las horas NO contarán para tu licencia futura. El trabajo se pierde completamente.",
+                "solucion": "Antes de tu primer día de trabajo, completa el registro de Unlicensed Individual ($50) en línea. Toma solo 1-2 semanas recibir tu número de registro."
+            },
+            {
+                "error": "No documentar adecuadamente las horas de experiencia",
+                "por_que_importa": "Minnesota requiere verificación estricta de todas las horas. Si no tienes formularios firmados por tu supervisor Master Electrician con fechas específicas y tipo de trabajo, esas horas NO contarán. Muchos trabajadores pierden años de experiencia por documentación inadecuada.",
+                "solucion": "Mantén un registro semanal o mensual de tus horas. Pide a tu supervisor Master que firme formularios regularmente (no esperes 4 años). Guarda copias para ti. DLI tiene formularios específicos en su sitio web."
+            },
+            {
+                "error": "Pensar que el examen es 'fácil' porque es open-book",
+                "por_que_importa": "Aunque puedes llevar el NEC al examen, si no sabes cómo navegarlo rápidamente o no entiendes los conceptos, reprobarás. El examen tiene límite de tiempo y las preguntas son técnicas. Muchos fallan en el primer intento por falta de preparación.",
+                "solucion": "Toma un curso de preparación de 2-3 meses antes del examen. Practica navegando el NEC con tiempo límite. Haz exámenes de práctica. Familiarízate con las secciones más importantes del código."
+            },
+            {
+                "error": "No prepararse para el idioma técnico del examen en inglés",
+                "por_que_importa": "El examen está solo en inglés y usa vocabulario técnico muy específico (conduit, grounding, bonding, service drop, etc.). Si no conoces estos términos en inglés, no podrás responder correctamente aunque entiendas los conceptos.",
+                "solucion": "Estudia con materiales en inglés desde el inicio. Haz flashcards de términos técnicos inglés-español. Practica leyendo artículos del NEC en inglés. Considera tomar clases de inglés técnico para construcción."
+            },
+            {
+                "error": "No completar educación continua (CE) a tiempo para renovación",
+                "por_que_importa": "Si llegas a tu fecha de renovación sin las 16 horas (Journeyman) o 24 horas (Master) de CE, no podrás renovar. Tu licencia expirará y no podrás trabajar legalmente hasta que completes los requisitos.",
+                "solucion": "Completa tus horas de CE en el primer año del ciclo de 2 años. No esperes hasta el último mes. Hay muchos cursos online disponibles ($150-400) que puedes hacer a tu ritmo."
+            },
+            {
+                "error": "Asumir que la licencia Residential es suficiente para todos los trabajos",
+                "por_que_importa": "La licencia Residential solo te permite trabajar en viviendas residenciales. NO puedes trabajar en edificios comerciales, industriales, o multifamiliares grandes. Si lo haces, estás violando la ley y puedes perder tu licencia.",
+                "solucion": "Si quieres trabajar en construcción comercial/industrial, ve directamente por la licencia de Journeyman Class A. Es más horas (8,000 vs 4,000) pero te da muchas más oportunidades de empleo."
+            },
+            {
+                "error": "No unirse a un programa de aprendizaje registrado",
+                "por_que_importa": "Los programas de aprendizaje registrados (como IBEW o ABC) ofrecen capacitación estructurada, clases gratuitas o de bajo costo, y mejor documentación de horas. Además, muchos tienen conexiones con empleadores que pagan mejor.",
+                "solucion": "Investiga programas de aprendizaje en Minnesota (IBEW Local 110, 292, 343, o ABC Minnesota). Aunque puedes aprender solo trabajando, un programa formal te da ventajas significativas."
+            }
+        ]
+    },
+    "servicios_sin_licencia": {
+        "ai_generated": true,
+        "titulo": "Trabajos Eléctricos que NO Requieren Licencia en Minnesota",
+        "items": [
+            "Cambiar focos, bombillas o lámparas",
+            "Enchufar y desenchufar aparatos",
+            "Reemplazar interruptores o tomacorrientes en tu PROPIA residencia (homeowner exemption)",
+            "Trabajo de bajo voltaje limitado (como termostatos, timbres de puerta)"
+        ],
+        "requiere_licencia": [
+            "Cualquier instalación eléctrica nueva o modificación de circuitos",
+            "Trabajo eléctrico en propiedad que no es tuya (aunque sea cambiar un switch)",
+            "Trabajo en edificios comerciales o industriales de cualquier tipo",
+            "Cualquier trabajo que requiera permiso eléctrico municipal",
+            "Instalar o modificar paneles eléctricos",
+            "Trabajo en sistemas de más de 50 voltios"
+        ],
+        "source": "Minnesota Statutes Chapter 326B"
+    },
+    "faqs": {
+        "ai_generated": true,
+        "items": [
+            {
+                "pregunta": "¿El examen de electricista en Minnesota está disponible en español?",
+                "respuesta": "No. Actualmente, los exámenes de electricista en Minnesota (administrados por Prometric) solo están disponibles en inglés. Debes prepararte para tomar el examen en inglés. El NEC (National Electrical Code) está disponible en español, pero las preguntas del examen estarán en inglés. Muchos electricistas hispanos aprueban con preparación adecuada y estudiando vocabulario técnico.",
+                "source": "Prometric Minnesota"
+            },
+            {
+                "pregunta": "¿Puedo trabajar como electricista en Minnesota sin licencia?",
+                "respuesta": "No. Minnesota requiere que todos los electricistas estén al menos registrados como Unlicensed Individual ($50) para trabajar legalmente, incluso bajo supervisión. Trabajar sin registro es ilegal y puede resultar en multas de $1,000 o más, además de que tus horas no contarán para licencias futuras.",
+                "source": "Minnesota DLI"
+            },
+            {
+                "pregunta": "¿Cuánto tiempo toma convertirse en Journeyman Electrician en Minnesota?",
+                "respuesta": "Aproximadamente 4-5 años trabajando tiempo completo. Necesitas acumular 8,000 horas de experiencia verificada bajo supervisión de un Master Electrician (equivale a 4 años a 40 horas/semana). Después debes aprobar el examen de Journeyman. Si asistes a un programa de aprendizaje registrado, puede tomar 4 años exactos.",
+                "source": "Minnesota DLI"
+            },
+            {
+                "pregunta": "¿Necesito ir a una escuela técnica para ser electricista?",
+                "respuesta": "No es obligatorio. Puedes aprender completamente trabajando (on-the-job training) bajo un electricista Master. Sin embargo, muchos eligen programas de aprendizaje registrados (como IBEW o ABC) que combinan trabajo con clases técnicas. Esto te prepara mejor para el examen y documenta tus horas más formalmente.",
+                "source": "Minnesota DLI"
+            },
+            {
+                "pregunta": "¿Cuánto cuesta el examen de Journeyman en Minnesota?",
+                "respuesta": "El examen de Journeyman cuesta $110 (pagado a Prometric). Además, pagas $120 a DLI por la aplicación de licencia después de aprobar. Total: $230 para obtener la licencia de Journeyman (sin contar cursos de preparación, libros o herramientas).",
+                "source": "Minnesota DLI / Prometric"
+            },
+            {
+                "pregunta": "¿Puedo retomar el examen si repruebo?",
+                "respuesta": "Sí, puedes retomar el examen. Debes esperar 30 días entre intentos y pagar los $110 completos nuevamente cada vez. No hay límite en el número de veces que puedes intentarlo, pero cada intento tiene costo.",
+                "source": "Prometric"
+            },
+            {
+                "pregunta": "¿Cuánto gana un electricista Journeyman en Minnesota?",
+                "respuesta": "El salario mediano es aproximadamente $68,490/año según el BLS (2024), pero con overtime, trabajos de emergencia y proyectos especializados, muchos Journeyman ganan $75,000-$95,000/año. En el área de Twin Cities los salarios tienden a ser más altos ($72,000-$85,000 base).",
+                "source": "BLS May 2024"
+            },
+            {
+                "pregunta": "¿Cada cuánto debo renovar mi licencia de electricista?",
+                "respuesta": "Cada 2 años para todas las licencias. Journeyman paga $120 y requiere 16 horas de educación continua. Master paga $150 y requiere 24 horas de CE. Los cursos de CE cuestan entre $150-$400 y están disponibles online de proveedores aprobados por DLI.",
+                "source": "Minnesota DLI"
+            },
+            {
+                "pregunta": "¿Minnesota acepta licencias de otros estados (reciprocidad)?",
+                "respuesta": "Sí, pero Minnesota evalúa cada caso individualmente. No tiene acuerdos automáticos con todos los estados. Debes demostrar que tu estado de origen tiene estándares equivalentes o superiores. En algunos casos pueden requerir que tomes el examen de Minnesota sobre códigos estatales. Contacta a DLI con detalles de tu licencia actual.",
+                "source": "Minnesota DLI"
+            },
+            {
+                "pregunta": "¿Puedo abrir mi propia compañía eléctrica con licencia de Journeyman?",
+                "respuesta": "No. Para ser dueño de una compañía de contratación eléctrica en Minnesota necesitas licencia de Master Electrician. El Master debe estar disponible para supervisar todos los proyectos. Como Journeyman puedes trabajar como contratista independiente (1099) pero bajo una compañía que tenga un Master.",
+                "source": "Minnesota DLI"
+            },
+            {
+                "pregunta": "¿Hay programas de aprendizaje en español en Minnesota?",
+                "respuesta": "Aunque los exámenes están en inglés, algunas escuelas técnicas y programas de aprendizaje en Minnesota tienen apoyo bilingüe o instructores que hablan español. Contacta a programas como Dunwoody College of Technology, Hennepin Technical College, o IBEW Local 110 para preguntar sobre servicios en español.",
+                "source": "AI - requiere verificación"
+            }
+        ]
+    },
+    "enlaces_utiles": {
+        "ai_generated": true,
+        "enlaces": [
+            {
+                "categoria": "Autoridad Reguladora",
+                "enlaces": [
+                    {
+                        "titulo": "Minnesota DLI - Electricians Home",
+                        "url": "https://www.dli.mn.gov/business/electricity",
+                        "descripcion": "Página principal del programa de electricistas de Minnesota"
+                    },
+                    {
+                        "titulo": "Electrician Licensure Information",
+                        "url": "https://www.dli.mn.gov/business/electricity/electrician-licensure",
+                        "descripcion": "Requisitos detallados para cada tipo de licencia"
+                    },
+                    {
+                        "titulo": "Verificar Licencia",
+                        "url": "https://www.dli.mn.gov/business/license-lookup",
+                        "descripcion": "Buscar si una persona o compañía tiene licencia vigente"
+                    },
+                    {
+                        "titulo": "Contacto DLI Electricity Program",
+                        "url": "https://www.dli.mn.gov/business/electricity/contact-electricity-program",
+                        "descripcion": "Teléfonos, emails y dirección física"
+                    }
+                ]
+            },
+            {
+                "categoria": "Exámenes",
+                "enlaces": [
+                    {
+                        "titulo": "Prometric Minnesota - Electrician Exams",
+                        "url": "https://www.prometric.com/test-takers/search/minnesota",
+                        "descripcion": "Programar examen, ubicaciones, información de pruebas"
+                    },
+                    {
+                        "titulo": "Exam Content Outlines",
+                        "url": "https://www.dli.mn.gov/business/electricity/electrician-licensure",
+                        "descripcion": "Contenido detallado de cada examen (disponible en DLI)"
+                    }
+                ]
+            },
+            {
+                "categoria": "Renovación y CE",
+                "enlaces": [
+                    {
+                        "titulo": "Renovar Licencia de Electricista",
+                        "url": "https://www.dli.mn.gov/business/electricity/renew-electrician-license",
+                        "descripcion": "Portal en línea para renovación"
+                    },
+                    {
+                        "titulo": "Proveedores de Educación Continua",
+                        "url": "https://www.dli.mn.gov/business/electricity/continuing-education-providers",
+                        "descripcion": "Lista de proveedores aprobados de cursos CE"
+                    }
+                ]
+            },
+            {
+                "categoria": "Escuelas y Programas de Aprendizaje",
+                "enlaces": [
+                    {
+                        "titulo": "IBEW Local 110 (Twin Cities)",
+                        "url": "https://ibew110.org/",
+                        "descripcion": "Programa de aprendizaje sindicalizado - Minneapolis/St. Paul"
+                    },
+                    {
+                        "titulo": "IBEW Local 292 (Minneapolis)",
+                        "url": "https://www.ibew292.org/",
+                        "descripcion": "Programa de aprendizaje para electricistas"
+                    },
+                    {
+                        "titulo": "ABC Minnesota",
+                        "url": "https://abcmn.org/",
+                        "descripcion": "Associated Builders and Contractors - programas de aprendizaje"
+                    },
+                    {
+                        "titulo": "Dunwoody College of Technology",
+                        "url": "https://www.dunwoody.edu/",
+                        "descripcion": "Programas técnicos de electricidad - Minneapolis"
+                    },
+                    {
+                        "titulo": "Hennepin Technical College",
+                        "url": "https://www.hennepintech.edu/",
+                        "descripcion": "Programas de electricidad y aprendizaje"
+                    },
+                    {
+                        "titulo": "St. Paul College",
+                        "url": "https://www.saintpaul.edu/",
+                        "descripcion": "Electrical Construction and Maintenance programs"
+                    }
+                ]
+            },
+            {
+                "categoria": "Códigos y Regulaciones",
+                "enlaces": [
+                    {
+                        "titulo": "Minnesota Statutes Chapter 326B",
+                        "url": "https://www.revisor.mn.gov/statutes/cite/326B",
+                        "descripcion": "Leyes estatales de construcción y licencias"
+                    },
+                    {
+                        "titulo": "Minnesota Rules - Electricity",
+                        "url": "https://www.revisor.mn.gov/rules/",
+                        "descripcion": "Reglas administrativas del programa de electricidad"
+                    }
+                ]
+            },
+            {
+                "categoria": "Datos de Empleo y Salarios",
+                "enlaces": [
+                    {
+                        "titulo": "BLS - Electricians (National)",
+                        "url": "https://www.bls.gov/oes/current/oes472111.htm",
+                        "descripcion": "Estadísticas oficiales de empleo y salarios - nacional"
+                    },
+                    {
+                        "titulo": "BLS - Minnesota Occupational Employment",
+                        "url": "https://www.bls.gov/oes/current/oes_mn.htm",
+                        "descripcion": "Datos específicos de Minnesota"
+                    }
+                ]
+            }
+        ]
+    },
+    "links_oficiales": {
+        "ai_generated": true,
+        "items": [
+            {
+                "nombre": "Minnesota DLI - Electricians Home",
+                "url": "https://www.dli.mn.gov/business/electricity",
+                "descripcion": "Página principal del programa de electricistas"
+            },
+            {
+                "nombre": "Electrician Licensure Requirements",
+                "url": "https://www.dli.mn.gov/business/electricity/electrician-licensure",
+                "descripcion": "Requisitos completos para cada nivel de licencia"
+            },
+            {
+                "nombre": "Prometric - Schedule Exam",
+                "url": "https://www.prometric.com/test-takers/search/minnesota",
+                "descripcion": "Programar examen de electricista"
+            },
+            {
+                "nombre": "Renew Electrician License",
+                "url": "https://www.dli.mn.gov/business/electricity/renew-electrician-license",
+                "descripcion": "Portal de renovación en línea"
+            },
+            {
+                "nombre": "License Lookup",
+                "url": "https://www.dli.mn.gov/business/license-lookup",
+                "descripcion": "Verificar licencias vigentes"
+            },
+            {
+                "nombre": "Continuing Education Providers",
+                "url": "https://www.dli.mn.gov/business/electricity/continuing-education-providers",
+                "descripcion": "Proveedores aprobados de cursos CE"
+            },
+            {
+                "nombre": "Contact DLI Electricity Program",
+                "url": "https://www.dli.mn.gov/business/electricity/contact-electricity-program",
+                "descripcion": "Información de contacto: (651) 284-5026 o (800) 342-5354"
+            },
+            {
+                "nombre": "BLS Minnesota Electricians Data",
+                "url": "https://www.bls.gov/oes/current/oes_mn.htm",
+                "descripcion": "Estadísticas de empleo y salarios oficiales"
+            }
+        ]
+    }
+}

@@ -19,6 +19,15 @@ const OFICIOS: Record<string, {
       { state: 'Florida', stateCode: 'FL', slug: 'licencia-electricista-florida', highlight: 'Licencia estatal + examen' },
       { state: 'New York', stateCode: 'NY', slug: 'licencia-electricista-new-york', highlight: 'Licencia de ciudad + estatal' },
       { state: 'Arizona', stateCode: 'AZ', slug: 'licencia-electricista-arizona', highlight: 'Licencia estatal + examen' },
+      { state: 'Georgia', stateCode: 'GA', slug: 'licencia-electricista-georgia', highlight: 'Licencia estatal + examen' },
+      { state: 'Pennsylvania', stateCode: 'PA', slug: 'licencia-electricista-pennsylvania', highlight: 'Licencia municipal + estatal' },
+      { state: 'Washington', stateCode: 'WA', slug: 'licencia-electricista-washington', highlight: 'L&I + examen + experiencia' },
+      { state: 'Colorado', stateCode: 'CO', slug: 'licencia-electricista-colorado', highlight: 'DORA + examen estatal' },
+      { state: 'Nevada', stateCode: 'NV', slug: 'licencia-electricista-nevada', highlight: 'Licencia estatal + examen' },
+      { state: 'Illinois', stateCode: 'IL', slug: 'licencia-electricista-illinois', highlight: 'Licencia estatal + Chicago' },
+      { state: 'Minnesota', stateCode: 'MN', slug: 'licencia-electricista-minnesota', highlight: 'Licencia estatal + examen' },
+      { state: 'Oregon', stateCode: 'OR', slug: 'licencia-electricista-oregon', highlight: 'BCD + examen + experiencia' },
+      { state: 'New Mexico', stateCode: 'NM', slug: 'licencia-electricista-new-mexico', highlight: 'CID + examen + experiencia' },
     ],
   },
   cosmetologia: {
@@ -40,6 +49,9 @@ const OFICIOS: Record<string, {
     overview: 'La licencia CDL (Commercial Driver\'s License) es esencial para manejar camiones y vehículos comerciales. La demanda de conductores es muy alta en todo el país y los salarios son competitivos desde el inicio.',
     licenses: [
       { state: 'California', stateCode: 'CA', slug: 'licencia-cdl-california', highlight: 'DMV + examen médico' },
+      { state: 'Texas', stateCode: 'TX', slug: 'licencia-cdl-texas', highlight: 'DPS + examen CDL + médico' },
+      { state: 'Florida', stateCode: 'FL', slug: 'licencia-cdl-florida', highlight: 'DHSMV + examen CDL + médico' },
+      { state: 'New York', stateCode: 'NY', slug: 'licencia-cdl-new-york', highlight: 'DMV + examen CDL + médico' },
     ],
   },
   hvac: {
@@ -47,14 +59,25 @@ const OFICIOS: Record<string, {
     icon: '❄️',
     description: 'Guía completa de licencias HVAC en Estados Unidos para hispanos.',
     overview: 'Los técnicos HVAC instalan y reparan sistemas de calefacción, ventilación y aire acondicionado. La certificación EPA 608 es obligatoria a nivel federal. Algunos estados requieren licencias adicionales.',
-    licenses: [],
+    licenses: [
+      { state: 'Texas', stateCode: 'TX', slug: 'licencia-hvac-texas', highlight: 'TDLR + EPA 608 + examen' },
+      { state: 'California', stateCode: 'CA', slug: 'licencia-hvac-california', highlight: 'CSLB + EPA 608 + C-20' },
+      { state: 'New York', stateCode: 'NY', slug: 'licencia-hvac-new-york', highlight: 'NYC + EPA 608 + licencia local' },
+      { state: 'Florida', stateCode: 'FL', slug: 'licencia-hvac-florida', highlight: 'Licencia estatal + EPA 608' },
+      { state: 'Arizona', stateCode: 'AZ', slug: 'licencia-hvac-arizona', highlight: 'ROC + EPA 608 + licencia' },
+    ],
   },
   plomero: {
     name: 'Plomería',
     icon: '🔧',
     description: 'Guía completa de licencias de plomería en Estados Unidos para hispanos.',
     overview: 'La plomería es un oficio con alta demanda y buenos salarios. Los requisitos varían significativamente por estado y a veces por ciudad. Generalmente se requiere experiencia como aprendiz y aprobar un examen.',
-    licenses: [],
+    licenses: [
+      { state: 'Texas', stateCode: 'TX', slug: 'licencia-plomero-texas', highlight: 'TSBPE + examen + experiencia' },
+      { state: 'California', stateCode: 'CA', slug: 'licencia-plomero-california', highlight: 'CSLB + C-36 + examen' },
+      { state: 'Florida', stateCode: 'FL', slug: 'licencia-plomero-florida', highlight: 'CILB + examen + experiencia' },
+      { state: 'New York', stateCode: 'NY', slug: 'licencia-plomero-new-york', highlight: 'NYC DOB + examen + experiencia' },
+    ],
   },
 }
 

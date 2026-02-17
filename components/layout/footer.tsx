@@ -52,45 +52,40 @@ export function Footer() {
             <h3 className="font-semibold mb-4">Estados</h3>
             <ul className="space-y-2 text-sm">
               <li>
-                <Link href="/licencia-electricista-texas" className="text-gray-600 hover:text-primary">
+                <Link href="/estado/texas" className="text-gray-600 hover:text-primary">
                   Texas
                 </Link>
               </li>
               <li>
-                <Link href="/licencia-electricista-california" className="text-gray-600 hover:text-primary">
+                <Link href="/estado/california" className="text-gray-600 hover:text-primary">
                   California
                 </Link>
               </li>
               <li>
-                <Link href="/licencia-electricista-florida" className="text-gray-600 hover:text-primary">
+                <Link href="/estado/florida" className="text-gray-600 hover:text-primary">
                   Florida
                 </Link>
               </li>
               <li>
-                <Link href="/licencia-cdl-california" className="text-gray-600 hover:text-primary">
-                  CDL California
+                <Link href="/estado/new-york" className="text-gray-600 hover:text-primary">
+                  New York
+                </Link>
+              </li>
+              <li>
+                <Link href="/estados" className="text-gray-600 hover:text-primary font-medium">
+                  Ver todos &rarr;
                 </Link>
               </li>
             </ul>
           </div>
 
-          {/* Recursos */}
+          {/* Legal */}
           <div>
-            <h3 className="font-semibold mb-4">Recursos</h3>
+            <h3 className="font-semibold mb-4">Legal</h3>
             <ul className="space-y-2 text-sm">
               <li>
-                <Link href="/recursos" className="text-gray-600 hover:text-primary">
-                  Guía de Recursos
-                </Link>
-              </li>
-              <li>
-                <Link href="/blog" className="text-gray-600 hover:text-primary">
-                  Blog
-                </Link>
-              </li>
-              <li>
                 <Link href="/contacto" className="text-gray-600 hover:text-primary">
-                  Contáctanos
+                  Contacto
                 </Link>
               </li>
               <li>

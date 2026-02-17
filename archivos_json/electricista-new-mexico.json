@@ -1,0 +1,718 @@
+{
+    "_meta": {
+        "schema_version": "2.0",
+        "page_id": "licencia-electricista-new-mexico",
+        "oficio": "electricista",
+        "estado": "new-mexico",
+        "last_verified": "2026-02-16",
+        "verified_by": "Claude AI - requiere verificación humana",
+        "notes": "New Mexico tiene sistema de 4 niveles: EL-1T, EL-1R, EL-1J, EL-1M. Exámenes no mencionan español explícitamente en sitio web."
+    },
+    "page_seo": {
+        "title": "Licencia de Electricista en New Mexico 2026: Guía Completa CID y Requisitos",
+        "meta_description": "Cómo sacar la licencia de electricista en New Mexico paso a paso. De Trainee a Journeyman (8,000 horas). Requisitos actualizados de la Construction Industries Division 2026.",
+        "slug": "licencia-electricista-new-mexico",
+        "canonical_url": "https://chambaenusa.com/licencia-electricista-new-mexico/",
+        "h1": "Licencia de Electricista en New Mexico",
+        "schema_types": [
+            "HowTo",
+            "FAQPage",
+            "BreadcrumbList"
+        ],
+        "keywords_primary": [
+            "licencia de electricista en new mexico",
+            "electricista new mexico",
+            "journeyman electrician new mexico"
+        ],
+        "keywords_secondary": [
+            "cid new mexico electricista",
+            "cuanto gana un electricista en new mexico",
+            "requisitos para licencia de electricista nm",
+            "renovar licencia electricista new mexico"
+        ],
+        "keywords_long_tail": [
+            "como sacar la licencia de electricista en new mexico",
+            "horas requeridas para journeyman electricista nuevo mexico",
+            "examen electricista new mexico en español",
+            "reciprocidad licencia electricista new mexico texas"
+        ]
+    },
+    "hero": {
+        "ai_generated": true,
+        "badge": "Actualizado 2026",
+        "headline": "Licencia de Electricista en New Mexico",
+        "subheadline": "Empieza como EL-1T Trainee sin examen y avanza hasta Journeyman ganando $50k-$65k/año. New Mexico ofrece reciprocidad con múltiples estados y un camino claro de progresión.",
+        "key_stats": [
+            {
+                "label": "EL-1T Trainee",
+                "value": "Sin Examen",
+                "detail": "Primer paso para empezar a trabajar y aprender bajo supervisión",
+                "source": "https://www.rld.nm.gov/construction-industries/",
+                "source_name": "NM CID"
+            },
+            {
+                "label": "Journeyman (EL-1J)",
+                "value": "8,000 horas",
+                "detail": "Aproximadamente 4 años de experiencia + examen",
+                "source": "https://www.rld.nm.gov/construction-industries/",
+                "source_name": "NM CID"
+            },
+            {
+                "label": "Reciprocidad",
+                "value": "✅ Disponible",
+                "detail": "Acuerdos con varios estados incluyendo Texas, Colorado, Arizona",
+                "source": "https://www.rld.nm.gov/construction-industries/",
+                "source_name": "NM CID"
+            },
+            {
+                "label": "Salario Journeyman",
+                "value": "$54,000/año",
+                "detail": "Mediana en New Mexico. Top earners $72,000+",
+                "source": "https://www.bls.gov/oes/current/oes_nm.htm",
+                "source_name": "BLS May 2024"
+            }
+        ],
+        "cta_primary": {
+            "text": "Ver Pasos del Camino",
+            "anchor": "#roadmap"
+        },
+        "cta_secondary": {
+            "text": "Ver Salarios",
+            "anchor": "#salarios"
+        }
+    },
+    "callout_espanol": {
+        "ai_generated": true,
+        "type": "warning_box",
+        "icon": "⚠️",
+        "title": "Importante: Verifica disponibilidad de examen en español",
+        "content": "La Construction Industries Division de New Mexico no especifica claramente en su sitio web si los exámenes de electricista están disponibles en español. Te recomendamos contactar directamente a CID al (505) 476-4700 o al proveedor de exámenes Prometric para confirmar opciones de idioma antes de registrarte. Algunos estados vecinos como Texas sí ofrecen el examen en español con reciprocidad disponible.",
+        "source": "https://www.rld.nm.gov/construction-industries/",
+        "source_name": "NM CID"
+    },
+    "autoridad_reguladora": {
+        "ai_generated": true,
+        "nombre": "New Mexico Regulation and Licensing Department",
+        "programa": "Construction Industries Division (CID) - Electrical Bureau",
+        "direccion": {
+            "calle": "2550 Cerrillos Road",
+            "ciudad": "Santa Fe",
+            "estado": "NM",
+            "cp": "87505",
+            "mailing": "P.O. Box 25101, Santa Fe, NM 87504"
+        },
+        "telefono": {
+            "local": "(505) 476-4700",
+            "toll_free": "(877) 664-4700"
+        },
+        "email": "rld.info@state.nm.us",
+        "web": "https://www.rld.nm.gov/construction-industries/",
+        "verificar_licencia": "https://www.rld.nm.gov/license-verification/",
+        "source": "https://www.rld.nm.gov/construction-industries/"
+    },
+    "roadmap": {
+        "_description": "Camino profesional del electricista en New Mexico - 4 niveles de certificación",
+        "ai_generated": true,
+        "layout": "timeline",
+        "nota_general": "New Mexico utiliza un sistema de 4 niveles de licencia para electricistas: EL-1T (Trainee), EL-1R (Residential), EL-1J (Journeyman), y EL-1M (Master). Cada nivel requiere experiencia documentada y exámenes, excepto el nivel Trainee.",
+        "tipos": [
+            {
+                "id": "el-1t-trainee",
+                "titulo_en": "EL-1T Electrical Trainee",
+                "titulo_es": "Aprendiz de Electricista (EL-1T)",
+                "es_principal": false,
+                "color_badge": "#3b82f6",
+                "descripcion_corta": "Nivel de entrada. Permite trabajar y aprender bajo supervisión directa. No requiere examen.",
+                "scope_of_work": "Trabajar únicamente bajo la supervisión directa de un Journeyman (EL-1J) o Master (EL-1M) licenciado. No puede trabajar solo ni obtener permisos.",
+                "requisitos": {
+                    "edad_minima": 18,
+                    "educacion_previa": "Diploma de secundaria o equivalente (GED)",
+                    "experiencia": "Ninguna",
+                    "examen": "NO requiere examen"
+                },
+                "costos": {
+                    "aplicacion_licencia": 100,
+                    "renovacion_cada_2_años": 100
+                },
+                "como_aplicar": {
+                    "metodo": "En línea o por correo postal",
+                    "url": "https://www.rld.nm.gov/construction-industries/",
+                    "tiempo_procesamiento": "2-4 semanas",
+                    "pasos": [
+                        "Completar la aplicación EL-1T en el sitio de CID",
+                        "Proporcionar prueba de educación (diploma o GED)",
+                        "Pagar tarifa de $100",
+                        "Esperar aprobación y recibir número de licencia",
+                        "Comenzar a documentar horas de experiencia"
+                    ]
+                },
+                "nota": "Es crítico mantener registro detallado de todas las horas trabajadas desde el día 1. Necesitarás verificación firmada por tu supervisor para avanzar a los siguientes niveles.",
+                "source": "https://www.rld.nm.gov/construction-industries/"
+            },
+            {
+                "id": "el-1r-residential",
+                "titulo_en": "EL-1R Residential Journeyman Electrician",
+                "titulo_es": "Electricista Journeyman Residencial (EL-1R)",
+                "es_principal": false,
+                "color_badge": "#10b981",
+                "descripcion_corta": "Especialización en instalaciones eléctricas residenciales. Puede trabajar independientemente en viviendas de 1-4 unidades.",
+                "scope_of_work": "Instalaciones eléctricas en viviendas residenciales de hasta 4 unidades familiares. No puede trabajar en proyectos comerciales o industriales. Puede obtener permisos residenciales.",
+                "requisitos": {
+                    "edad_minima": 18,
+                    "experiencia": "4,000 horas de experiencia documentada como EL-1T bajo supervisión",
+                    "educacion_alternativa": "Crédito por programas de aprendizaje aprobados",
+                    "examen": "Aprobar el examen de Residential Journeyman"
+                },
+                "examen": {
+                    "partes": 1,
+                    "nombre": "EL-1R Residential Journeyman Exam",
+                    "idiomas": [
+                        "Inglés"
+                    ],
+                    "administrador": "Prometric",
+                    "url_psi": "https://www.prometric.com/",
+                    "source": "https://www.rld.nm.gov/construction-industries/"
+                },
+                "costos": {
+                    "aplicacion_licencia": 100,
+                    "examen_escrito": 75,
+                    "total_examenes_y_licencia": 175,
+                    "renovacion_cada_2_años": 100
+                },
+                "como_aplicar": {
+                    "url": "https://www.rld.nm.gov/construction-industries/",
+                    "pasos": [
+                        "Acumular 4,000 horas documentadas como EL-1T",
+                        "Obtener verificación firmada de supervisor(es)",
+                        "Aplicar para tomar el examen con CID",
+                        "Programar examen con Prometric",
+                        "Aprobar el examen",
+                        "Aplicar para la licencia EL-1R"
+                    ]
+                },
+                "source": "https://www.rld.nm.gov/construction-industries/"
+            },
+            {
+                "id": "el-1j-journeyman",
+                "titulo_en": "EL-1J Journeyman Electrician",
+                "titulo_es": "Electricista Journeyman (EL-1J)",
+                "es_principal": true,
+                "color_badge": "#f59e0b",
+                "descripcion_corta": "Licencia completa para trabajar en proyectos residenciales, comerciales e industriales sin supervisión directa.",
+                "scope_of_work": "Instalaciones eléctricas en todo tipo de edificaciones: residencial, comercial, industrial. Puede trabajar independientemente pero no puede supervisar a otros electricistas o ser contratista principal.",
+                "requisitos": {
+                    "edad_minima": 18,
+                    "experiencia": "8,000 horas de experiencia documentada (aproximadamente 4 años)",
+                    "educacion_alternativa": "Programas de aprendizaje registrados pueden reducir horas requeridas",
+                    "examen": "Aprobar el examen de Journeyman Electrician"
+                },
+                "examen": {
+                    "partes": 1,
+                    "parte_1": {
+                        "nombre": "EL-1J Journeyman Electrician Exam",
+                        "formato": "Opción múltiple por computadora",
+                        "costo": 85,
+                        "idiomas": [
+                            "Inglés"
+                        ],
+                        "puntaje_minimo": "70%",
+                        "cuando_tomarlo": "Después de completar 8,000 horas documentadas",
+                        "contenido_principal": [
+                            "National Electrical Code (NEC 2023)",
+                            "Leyes y regulaciones de New Mexico",
+                            "Cálculos de carga eléctrica",
+                            "Sistemas de distribución y transformadores",
+                            "Motores y controles",
+                            "Seguridad eléctrica"
+                        ],
+                        "ubicaciones": "Centros Prometric en Albuquerque, Santa Fe, Las Cruces"
+                    },
+                    "administrador": "Prometric",
+                    "url_psi": "https://www.prometric.com/",
+                    "retakes": "Puede retomar el examen pagando la tarifa completa. Debe esperar período mínimo entre intentos según política de CID.",
+                    "source": "https://www.rld.nm.gov/construction-industries/"
+                },
+                "costos": {
+                    "aplicacion_licencia": 100,
+                    "examen_escrito": 85,
+                    "total_examenes_y_licencia": 185,
+                    "renovacion_cada_2_años": 100,
+                    "ce_horas_cada_2_años": 16
+                },
+                "como_aplicar": {
+                    "metodo": "En línea después de aprobar el examen",
+                    "url": "https://www.rld.nm.gov/construction-industries/",
+                    "tiempo_procesamiento": "2-4 semanas después de aprobar examen",
+                    "pasos": [
+                        "Documentar 8,000 horas con verificación de supervisores",
+                        "Aplicar para autorización de examen con CID",
+                        "Programar y aprobar el examen con Prometric",
+                        "Completar aplicación de licencia EL-1J",
+                        "Pagar tarifa de licencia",
+                        "Recibir licencia y número"
+                    ]
+                },
+                "source": "https://www.rld.nm.gov/construction-industries/"
+            },
+            {
+                "id": "el-1m-master",
+                "titulo_en": "EL-1M Master Electrician",
+                "titulo_es": "Maestro Electricista (EL-1M)",
+                "es_principal": false,
+                "color_badge": "#7c3aed",
+                "descripcion_corta": "Nivel más alto. Puede supervisar proyectos, diseñar sistemas, ser contratista y obtener permisos municipales.",
+                "scope_of_work": "Supervisar electricistas, diseñar sistemas eléctricos completos, obtener permisos para proyectos, ser contratista eléctrico principal, entrenar aprendices.",
+                "requisitos": {
+                    "edad_minima": 18,
+                    "licencia_previa": "Haber tenido licencia EL-1J Journeyman activa por al menos 2 años",
+                    "experiencia": "Total de 12,000 horas de experiencia documentada en el oficio",
+                    "examen": "Aprobar el examen de Master Electrician"
+                },
+                "examen": {
+                    "partes": 1,
+                    "parte_1": {
+                        "nombre": "EL-1M Master Electrician Exam",
+                        "formato": "Opción múltiple por computadora",
+                        "costo": 85,
+                        "idiomas": [
+                            "Inglés"
+                        ],
+                        "puntaje_minimo": "70%",
+                        "cuando_tomarlo": "Después de cumplir 2 años como Journeyman y acumular 12,000 horas totales",
+                        "contenido_principal": [
+                            "NEC avanzado - diseño de sistemas",
+                            "Cálculos complejos de carga y dimensionamiento",
+                            "Códigos de construcción y permisos",
+                            "Gestión de proyectos",
+                            "Supervisión y responsabilidades legales",
+                            "Códigos comerciales e industriales"
+                        ]
+                    },
+                    "administrador": "Prometric",
+                    "url_psi": "https://www.prometric.com/",
+                    "source": "https://www.rld.nm.gov/construction-industries/"
+                },
+                "costos": {
+                    "aplicacion_licencia": 100,
+                    "examen_escrito": 85,
+                    "total_examenes_y_licencia": 185,
+                    "renovacion_cada_2_años": 100,
+                    "ce_horas_cada_2_años": 16
+                },
+                "como_aplicar": {
+                    "url": "https://www.rld.nm.gov/construction-industries/"
+                },
+                "source": "https://www.rld.nm.gov/construction-industries/"
+            }
+        ]
+    },
+    "calculadora_inversion": {
+        "ai_generated": true,
+        "_description": "Inversión estimada para obtener licencia de electricista en New Mexico",
+        "escenarios": [
+            {
+                "id": "trainee-to-journeyman",
+                "licencia": "De EL-1T Trainee a EL-1J Journeyman",
+                "inversion": {
+                    "aplicacion_licencia": "$100 (Trainee) + $100 (Journeyman)",
+                    "examen_journeyman": "$85",
+                    "libros_codigo": "$200 - $300 (NEC 2023 + materiales de estudio)",
+                    "curso_preparacion_examen": "$300 - $800 (opcional pero recomendado)",
+                    "kit_herramientas_basico": "$500 - $1,500",
+                    "total_minimo": "$985",
+                    "total_maximo": "$2,885"
+                },
+                "tiempo": "4-5 años (8,000 horas de experiencia)",
+                "salario_esperado": {
+                    "empleada": "$45,000 - $60,000/año como Journeyman",
+                    "con_experiencia": "$55,000 - $70,000/año con 5+ años",
+                    "nota": "Potencial de overtime significativo en construcción comercial e industrial"
+                },
+                "roi_nota": "Inversión inicial baja comparada con muchos oficios. La mayoría del aprendizaje es pagado (trabajas mientras aprendes). ROI típicamente en menos de 1 año después de obtener licencia de Journeyman."
+            },
+            {
+                "id": "journeyman-to-master",
+                "licencia": "De EL-1J Journeyman a EL-1M Master",
+                "inversion": {
+                    "aplicacion_licencia": "$100",
+                    "examen_master": "$85",
+                    "curso_preparacion_examen": "$500 - $1,200 (cursos avanzados de NEC)",
+                    "licencia_contratista": "$200 - $500 (si planeas ser contratista independiente)",
+                    "seguro_responsabilidad": "$1,500 - $3,000/año (para contratistas)",
+                    "total_estimado": "$2,385 - $4,885"
+                },
+                "tiempo": "2 años adicionales después de Journeyman",
+                "salario_esperado": {
+                    "empleada": "$60,000 - $80,000/año como Master empleado",
+                    "independiente_booth_rental": "$75,000 - $120,000+/año como contratista independiente",
+                    "nota": "Masters que son dueños de negocio pueden ganar $100k+ dependiendo del tamaño de operación"
+                }
+            }
+        ]
+    },
+    "renovacion": {
+        "ai_generated": true,
+        "frecuencia": "Cada 2 años desde la fecha de emisión (todas las licencias)",
+        "metodo": "En línea a través del portal de RLD o por correo postal",
+        "url_renovacion": "https://www.rld.nm.gov/",
+        "costo_renovacion": 100,
+        "ce_requerida": {
+            "horas_totales": 16,
+            "temas": [
+                "National Electrical Code (NEC) - actualizaciones y cambios",
+                "Leyes y regulaciones de New Mexico",
+                "Seguridad eléctrica (NFPA 70E)",
+                "Nuevas tecnologías y prácticas"
+            ],
+            "nota": "Las 16 horas de educación continua son requeridas para Journeyman (EL-1J) y Master (EL-1M). Trainee (EL-1T) y Residential (EL-1R) pueden tener requisitos diferentes - verificar con CID.",
+            "costo_cursos_ce_online": "$150 - $400 por 16 horas",
+            "url_proveedores": "https://www.rld.nm.gov/construction-industries/"
+        },
+        "consecuencias_no_renovar": {
+            "0_90_dias": "Tarifa normal de renovación",
+            "90_dias_a_1_año": "Tarifa de renovación tardía + penalidad",
+            "mas_1_año": "Licencia expira - puede requerir re-aplicación completa y retomar examen"
+        },
+        "nota_tdlr": "CID envía notificaciones de renovación, pero es responsabilidad del licenciatario renovar a tiempo. Trabajar con licencia expirada es ilegal y puede resultar en multas.",
+        "source": "https://www.rld.nm.gov/construction-industries/"
+    },
+    "reciprocidad": {
+        "ai_generated": true,
+        "disponible": true,
+        "nombre_proceso": "Reciprocity / Endorsement (Reciprocidad por Endoso)",
+        "requisitos": [
+            "Tener licencia vigente de Journeyman o Master en estado con acuerdo de reciprocidad",
+            "Haber mantenido la licencia activa sin sanciones",
+            "Cumplir con requisitos de experiencia equivalentes",
+            "Aprobar verificación de antecedentes de New Mexico",
+            "Posiblemente tomar examen de leyes estatales de NM"
+        ],
+        "nota": "New Mexico tiene acuerdos de reciprocidad con varios estados incluyendo Texas, Arizona, Colorado, Oklahoma, y otros. Los términos específicos varían por estado. Se recomienda contactar a CID directamente para confirmar si tu licencia actual califica y qué pasos adicionales se requieren. En algunos casos puedes necesitar tomar solo la porción de leyes estatales del examen.",
+        "url": "https://www.rld.nm.gov/construction-industries/",
+        "experiencia_como_horas": "Depende del estado de origen - generalmente se acepta documentación de licencia activa como prueba de experiencia",
+        "source": "https://www.rld.nm.gov/construction-industries/"
+    },
+    "salarios": {
+        "ai_generated": true,
+        "nota_importante": "Los salarios en New Mexico tienden a ser moderados comparados con estados vecinos como Colorado o California, pero el costo de vida también es más bajo. Electricistas con especialización (industrial, solar, energías renovables) ganan significativamente más.",
+        "nacional_2024": {
+            "mediana": "$60,240/año",
+            "por_hora_mediana": "$28.96/hr",
+            "percentil_10": "$37,020/año",
+            "percentil_90": "$99,800/año",
+            "crecimiento_proyectado": "6% (2023-2033) - Más rápido que el promedio",
+            "source": "https://www.bls.gov/oes/current/oes472111.htm"
+        },
+        "texas": {
+            "promedio_anual": "$54,080",
+            "promedio_hora": "$26.00",
+            "top_earners": "$72,000+",
+            "source": "BLS New Mexico May 2024"
+        },
+        "por_ciudad_texas": [
+            {
+                "ciudad": "Albuquerque",
+                "salario_medio": "$55,200",
+                "top_earners": "$74,000",
+                "source": "BLS estimado"
+            },
+            {
+                "ciudad": "Santa Fe",
+                "salario_medio": "$56,800",
+                "top_earners": "$76,500",
+                "source": "BLS estimado"
+            },
+            {
+                "ciudad": "Las Cruces",
+                "salario_medio": "$51,000",
+                "top_earners": "$68,000",
+                "source": "BLS estimado"
+            },
+            {
+                "ciudad": "Farmington",
+                "salario_medio": "$58,500",
+                "top_earners": "$78,000",
+                "source": "BLS estimado - área industrial/energía"
+            }
+        ],
+        "ingresos_reales": {
+            "ai_generated": true,
+            "nota": "Los datos del BLS solo capturan salario base W-2. Electricistas en New Mexico tienen oportunidades adicionales:",
+            "factores_adicionales": [
+                "Proyectos de energía solar y renovable (sector en crecimiento en NM)",
+                "Overtime en proyectos industriales (tiempo y medio)",
+                "Trabajos en instalaciones federales (Los Alamos, Sandia Labs) - pagan premium",
+                "Trabajo independiente y contratos 1099",
+                "Proyectos de construcción comercial en Albuquerque y Santa Fe",
+                "Mantenimiento de instalaciones mineras e industriales"
+            ],
+            "estimado_realista": {
+                "recien_licenciada": "Trainee (EL-1T): $30,000 - $38,000/año",
+                "3_5_años_experiencia": "Journeyman (EL-1J): $50,000 - $65,000/año",
+                "especialista_o_independiente": "Master con especialización (solar, industrial): $65,000 - $85,000/año",
+                "dueña_salon": "Master contratista con negocio propio: $75,000 - $120,000+/año"
+            }
+        }
+    },
+    "errores_comunes": {
+        "ai_generated": true,
+        "items": [
+            {
+                "error": "No documentar las horas de experiencia adecuadamente desde el inicio",
+                "por_que_importa": "New Mexico requiere verificación detallada y firmada de todas las horas trabajadas. Si no mantienes registros precisos con firmas de supervisores desde tu primer día como Trainee, será imposible probar tus 8,000 horas cuando quieras tomar el examen de Journeyman. Muchos electricistas pierden años de trabajo porque no documentaron correctamente.",
+                "solucion": "Desde tu primer día como EL-1T, mantén un registro semanal o mensual de tus horas. Pide a tu supervisor Journeyman o Master que firme estos registros regularmente. Guarda copias para ti. No esperes hasta tener 8,000 horas para empezar a buscar firmas."
+            },
+            {
+                "error": "Trabajar sin licencia de Trainee activa",
+                "por_que_importa": "Es ilegal trabajar como electricista en New Mexico sin licencia, incluso como aprendiz. Si CID te encuentra trabajando sin licencia, puedes recibir multas significativas y las horas trabajadas NO contarán para tu examen de Journeyman. Además, tu empleador puede ser multado.",
+                "solucion": "Obtén tu licencia EL-1T antes de tu primer día de trabajo. Cuesta $100 y es válida por 2 años. Renuévala puntualmente. Es una inversión pequeña que protege tu futuro."
+            },
+            {
+                "error": "No verificar si el examen está disponible en español antes de estudiar",
+                "por_que_importa": "A diferencia de Texas, New Mexico no especifica claramente en su sitio web si los exámenes están disponibles en español. Si estudias asumiendo que habrá opción en español y luego descubres que solo está en inglés, perderás tiempo valioso y posiblemente necesites ayuda adicional.",
+                "solucion": "Contacta a la Construction Industries Division al (505) 476-4700 y a Prometric ANTES de inscribirte para confirmar opciones de idioma. Si no hay español disponible, considera cursos de preparación bilingües o estudiar con materiales en ambos idiomas para familiarizarte con terminología técnica en inglés."
+            },
+            {
+                "error": "Asumir que la licencia de otro estado se transfiere automáticamente",
+                "por_que_importa": "Aunque New Mexico tiene reciprocidad con varios estados, NO es automática. Debes aplicar formalmente, cumplir con requisitos específicos, y posiblemente tomar un examen de leyes estatales. Algunos electricistas se mudan a NM pensando que pueden trabajar inmediatamente con su licencia de otro estado y terminan sin poder trabajar legalmente por semanas o meses.",
+                "solucion": "Si tienes licencia de otro estado y planeas mudarte a NM, contacta a CID al menos 2-3 meses antes de mudarte. Pregunta específicamente qué documentos necesitas, si hay examen requerido, y cuánto tiempo toma el proceso. Inicia tu aplicación de reciprocidad antes de mudarte si es posible."
+            },
+            {
+                "error": "No completar educación continua a tiempo para renovación",
+                "por_que_importa": "Journeyman y Master requieren 16 horas de educación continua cada 2 años. Si llegas a tu fecha de renovación sin haber completado las horas CE, tu renovación será rechazada y tu licencia expirará. Trabajar con licencia expirada es ilegal y puede resultar en multas y pérdida de proyectos.",
+                "solucion": "Inscríbete en cursos de CE al menos 3-4 meses antes de tu fecha de renovación. Hay muchos proveedores online aprobados por CID que ofrecen cursos flexibles. No esperes hasta el último minuto - los cursos toman tiempo para completar y procesar certificados."
+            },
+            {
+                "error": "Estudiar con la edición incorrecta del National Electrical Code (NEC)",
+                "por_que_importa": "Los exámenes de New Mexico se basan en una edición específica del NEC (actualmente 2023 en la mayoría de jurisdicciones). El NEC se actualiza cada 3 años con cambios significativos en artículos, tablas, y requisitos. Estudiar con una edición antigua garantiza que fallarás preguntas.",
+                "solucion": "Antes de comprar materiales de estudio, verifica con CID o Prometric cuál edición del NEC cubre el examen actual. Compra esa edición específica, preferiblemente nueva o reciente para que tenga todas las actualizaciones y correcciones. No uses libros viejos de amigos o internet."
+            }
+        ]
+    },
+    "servicios_sin_licencia": {
+        "ai_generated": true,
+        "titulo": "Trabajos Eléctricos que NO Requieren Licencia en New Mexico",
+        "items": [
+            "Reemplazar bombillas, focos, o lámparas en tu propia vivienda",
+            "Enchufar y desenchufar aparatos eléctricos",
+            "Reemplazar baterías en detectores de humo",
+            "Trabajos de mantenimiento menor en electrodomésticos personales"
+        ],
+        "requiere_licencia": [
+            "Cualquier instalación eléctrica nueva o modificación de circuitos",
+            "Trabajar en la propiedad de otra persona (aunque sea cambiar un interruptor)",
+            "Todos los trabajos comerciales, industriales, o en edificios multifamiliares",
+            "Cualquier trabajo que requiera permiso eléctrico",
+            "Reparaciones o instalaciones en sistemas de distribución eléctrica"
+        ],
+        "nota": "New Mexico es estricto con la aplicación de leyes de licencias. Trabajar sin licencia apropiada puede resultar en multas de $300-$5,000 por violación. Los inspectores municipales verifican licencias activamente.",
+        "source": "New Mexico Construction Industries Licensing Act"
+    },
+    "faqs": {
+        "ai_generated": true,
+        "items": [
+            {
+                "pregunta": "¿El examen de electricista en New Mexico está disponible en español?",
+                "respuesta": "El sitio web oficial de la Construction Industries Division de New Mexico no especifica claramente si los exámenes están disponibles en español. Se recomienda encarecidamente contactar directamente a CID al (505) 476-4700 o a Prometric para confirmar opciones de idioma antes de registrarse. Estados vecinos como Texas sí ofrecen exámenes en español y New Mexico tiene reciprocidad con Texas.",
+                "source": "NM CID",
+                "seo_note": "Keyword: examen electricista new mexico español"
+            },
+            {
+                "pregunta": "¿Puedo sacar la licencia de electricista en New Mexico con ITIN (sin seguro social)?",
+                "respuesta": "Sí, generalmente New Mexico acepta ITIN como identificación válida para procesar licencias profesionales si no tienes número de Seguro Social. Sin embargo, debes contactar a la Construction Industries Division directamente para confirmar los requisitos exactos de identificación y documentación que aceptan actualmente.",
+                "source": "NM RLD",
+                "seo_note": "Keyword: licencia electricista new mexico sin seguro social"
+            },
+            {
+                "pregunta": "¿Cuánto tiempo se tarda en ser Journeyman Electrician en New Mexico?",
+                "respuesta": "Aproximadamente 4-5 años trabajando tiempo completo. Necesitas acumular 8,000 horas de experiencia documentada trabajando como EL-1T Trainee bajo la supervisión de un Journeyman o Master licenciado. Después de las 8,000 horas, debes aprobar el examen de Journeyman. Si trabajas part-time o hay temporadas lentas, puede tomar más tiempo.",
+                "source": "NM CID"
+            },
+            {
+                "pregunta": "¿Necesito ir a una escuela técnica para ser electricista en New Mexico?",
+                "respuesta": "No es obligatorio, pero puede ayudar significativamente. Puedes aprender completamente en el trabajo (on-the-job training) bajo un electricista licenciado. Sin embargo, tomar clases de código NEC, cálculos eléctricos, y preparación para el examen en una escuela técnica o colegio comunitario te preparará mejor para el examen y te hará más valioso como empleado. Algunos programas de aprendizaje registrados pueden reducir las horas de experiencia requeridas.",
+                "source": "NM CID"
+            },
+            {
+                "pregunta": "¿Cuánto cuesta sacar la licencia de Journeyman en New Mexico?",
+                "respuesta": "Inversión total aproximada: $985-$2,885. Esto incluye: Licencia de Trainee ($100), Licencia de Journeyman ($100), Examen ($85), Libros y materiales de estudio ($200-300), Curso de preparación opcional ($300-800), y herramientas básicas ($500-1,500). La mayor inversión es tu tiempo: 4-5 años de experiencia trabajando.",
+                "source": "NM CID"
+            },
+            {
+                "pregunta": "¿Puedo transferir mi licencia de electricista de Texas a New Mexico?",
+                "respuesta": "Sí, New Mexico tiene acuerdo de reciprocidad con Texas. Si tienes licencia vigente de Journeyman o Master en Texas, puedes aplicar por reciprocidad en New Mexico. Deberás cumplir con requisitos específicos, pasar verificación de antecedentes, y posiblemente tomar un examen sobre leyes estatales de NM. Contacta a CID al (505) 476-4700 para detalles exactos del proceso.",
+                "source": "NM CID"
+            },
+            {
+                "pregunta": "¿Cada cuánto debo renovar mi licencia de electricista en New Mexico?",
+                "respuesta": "Cada 2 años para todas las licencias (EL-1T, EL-1R, EL-1J, EL-1M). La renovación cuesta $100. Journeyman (EL-1J) y Master (EL-1M) deben completar 16 horas de educación continua antes de cada renovación. Los cursos de CE cuestan aproximadamente $150-400 en total.",
+                "source": "NM CID"
+            },
+            {
+                "pregunta": "¿Puedo ser dueño de mi propia compañía eléctrica con licencia de Journeyman?",
+                "respuesta": "No completamente. Para ser contratista eléctrico principal y obtener licencia de contratista en New Mexico, necesitas licencia de Master Electrician (EL-1M). Como Journeyman puedes trabajar independientemente (1099) en ciertos proyectos, pero generalmente bajo la licencia de contratista de un Master. El Master debe estar disponible para supervisión y obtención de permisos.",
+                "source": "NM CID"
+            },
+            {
+                "pregunta": "¿Cuánto gana un electricista Journeyman en New Mexico?",
+                "respuesta": "El salario mediano es aproximadamente $54,000/año ($26/hora) según BLS. Electricistas con experiencia ganan $60,000-$70,000/año. Top earners (Masters, especialistas en industrial/solar, o dueños de negocio) pueden ganar $72,000-$120,000+. Los salarios son moderados comparados con estados como Colorado o California, pero el costo de vida también es menor.",
+                "source": "BLS May 2024"
+            },
+            {
+                "pregunta": "¿Qué pasa si repruebo el examen de Journeyman?",
+                "respuesta": "Puedes retomar el examen pagando la tarifa completa ($85) nuevamente. Verifica con CID si hay un período de espera mínimo entre intentos. Usa tu primer intento como aprendizaje - identifica tus áreas débiles y enfócate en ellas. Considera tomar un curso de preparación si repruebas, especialmente si fue por no saber navegar el NEC rápido.",
+                "source": "NM CID / Prometric"
+            }
+        ]
+    },
+    "links_oficiales": {
+        "ai_generated": true,
+        "items": [
+            {
+                "nombre": "NM Construction Industries Division - Electrical Bureau",
+                "url": "https://www.rld.nm.gov/construction-industries/",
+                "descripcion": "Página principal del programa de electricistas de New Mexico"
+            },
+            {
+                "nombre": "NM RLD - Regulation and Licensing Department",
+                "url": "https://www.rld.nm.gov/",
+                "descripcion": "Departamento principal de regulación y licencias"
+            },
+            {
+                "nombre": "Verificación de Licencias NM",
+                "url": "https://www.rld.nm.gov/license-verification/",
+                "descripcion": "Buscar y verificar licencias vigentes de electricistas"
+            },
+            {
+                "nombre": "Prometric - Testing Services",
+                "url": "https://www.prometric.com/",
+                "descripcion": "Proveedor de exámenes para electricistas de NM - programar examen aquí"
+            },
+            {
+                "nombre": "BLS - Electricians Employment Data",
+                "url": "https://www.bls.gov/oes/current/oes472111.htm",
+                "descripcion": "Datos oficiales de empleo y salarios de electricistas (Bureau of Labor Statistics)"
+            },
+            {
+                "nombre": "BLS - New Mexico State Data",
+                "url": "https://www.bls.gov/oes/current/oes_nm.htm",
+                "descripcion": "Datos específicos de New Mexico del BLS"
+            }
+        ]
+    },
+    "enlaces_utiles": {
+        "ai_generated": true,
+        "enlaces": [
+            {
+                "categoria": "Autoridad Reguladora",
+                "enlaces": [
+                    {
+                        "titulo": "NM Construction Industries Division - Electrical",
+                        "url": "https://www.rld.nm.gov/construction-industries/",
+                        "descripcion": "Información oficial de licencias, requisitos, y aplicaciones"
+                    },
+                    {
+                        "titulo": "Verificación de Licencias NM",
+                        "url": "https://www.rld.nm.gov/license-verification/",
+                        "descripcion": "Verificar licencias vigentes de electricistas"
+                    },
+                    {
+                        "titulo": "Contacto CID",
+                        "url": "https://www.rld.nm.gov/contact-us/",
+                        "descripcion": "Tel: (505) 476-4700 / Toll-free: (877) 664-4700"
+                    }
+                ]
+            },
+            {
+                "categoria": "Exámenes",
+                "enlaces": [
+                    {
+                        "titulo": "Prometric - Programar Examen",
+                        "url": "https://www.prometric.com/",
+                        "descripcion": "Proveedor oficial de exámenes de electricista para New Mexico"
+                    },
+                    {
+                        "titulo": "Información sobre Exámenes CID",
+                        "url": "https://www.rld.nm.gov/construction-industries/",
+                        "descripcion": "Requisitos, contenido, y preparación para exámenes"
+                    }
+                ]
+            },
+            {
+                "categoria": "Educación y Preparación",
+                "enlaces": [
+                    {
+                        "titulo": "Central New Mexico Community College - Electrical Program",
+                        "url": "https://www.cnm.edu/",
+                        "descripcion": "Programas de electricidad en Albuquerque"
+                    },
+                    {
+                        "titulo": "NFPA - National Fire Protection Association",
+                        "url": "https://www.nfpa.org/",
+                        "descripcion": "NEC (National Electrical Code) y recursos de seguridad"
+                    },
+                    {
+                        "titulo": "Mike Holt Enterprises",
+                        "url": "https://www.mikeholt.com/",
+                        "descripcion": "Cursos de preparación para examen y libros de NEC"
+                    }
+                ]
+            },
+            {
+                "categoria": "Datos de Empleo y Salarios",
+                "enlaces": [
+                    {
+                        "titulo": "BLS - Electricians National Data",
+                        "url": "https://www.bls.gov/oes/current/oes472111.htm",
+                        "descripcion": "Salarios oficiales y proyecciones de empleo (Bureau of Labor Statistics)"
+                    },
+                    {
+                        "titulo": "BLS - New Mexico State Data",
+                        "url": "https://www.bls.gov/oes/current/oes_nm.htm",
+                        "descripcion": "Datos de empleo específicos de New Mexico"
+                    },
+                    {
+                        "titulo": "NM Department of Workforce Solutions",
+                        "url": "https://www.dws.state.nm.us/",
+                        "descripcion": "Información de empleo y oportunidades laborales en NM"
+                    }
+                ]
+            },
+            {
+                "categoria": "Organizaciones Profesionales",
+                "enlaces": [
+                    {
+                        "titulo": "Independent Electrical Contractors (IEC)",
+                        "url": "https://www.ieci.org/",
+                        "descripcion": "Asociación de contratistas eléctricos independientes"
+                    },
+                    {
+                        "titulo": "National Electrical Contractors Association (NECA)",
+                        "url": "https://www.necanet.org/",
+                        "descripcion": "Asociación nacional de contratistas eléctricos"
+                    },
+                    {
+                        "titulo": "International Brotherhood of Electrical Workers (IBEW)",
+                        "url": "https://www.ibew.org/",
+                        "descripcion": "Sindicato internacional de trabajadores eléctricos - programas de aprendizaje"
+                    }
+                ]
+            },
+            {
+                "categoria": "Recursos en Español",
+                "enlaces": [
+                    {
+                        "titulo": "Chamba en USA",
+                        "url": "https://chambaenusa.com/",
+                        "descripcion": "Guías de carreras y licencias profesionales en español"
+                    },
+                    {
+                        "titulo": "NFPA - Recursos en Español",
+                        "url": "https://www.nfpa.org/",
+                        "descripcion": "Códigos y estándares de seguridad, algunos disponibles en español"
+                    }
+                ]
+            }
+        ]
+    }
+}

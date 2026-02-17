@@ -1,0 +1,775 @@
+{
+    "_meta": {
+        "schema_version": "2.0",
+        "page_id": "licencia-hvac-florida",
+        "oficio": "hvac",
+        "estado": "florida",
+        "last_verified": "2026-02-16",
+        "verified_by": "Claude AI - requiere verificación humana",
+        "notes": "Florida requiere licencia estatal o local para trabajo HVAC. Examen en español disponible a través de Pearson VUE."
+    },
+    "page_seo": {
+        "title": "Licencia de HVAC en Florida 2026: Guía Completa DBPR y Examen en Español",
+        "meta_description": "Cómo sacar la licencia de HVAC en Florida paso a paso. Examen disponible en español, requisitos actualizados DBPR 2026. De Registered a Certified Contractor.",
+        "slug": "licencia-hvac-florida",
+        "canonical_url": "https://chambaenusa.com/licencia-hvac-florida/",
+        "h1": "Licencia de HVAC (Aire Acondicionado) en Florida",
+        "schema_types": [
+            "HowTo",
+            "FAQPage",
+            "BreadcrumbList"
+        ],
+        "keywords_primary": [
+            "licencia de hvac en florida",
+            "examen de hvac en español florida",
+            "licencia de aire acondicionado florida"
+        ],
+        "keywords_secondary": [
+            "dbpr hvac florida",
+            "cuanto gana un tecnico de hvac en florida",
+            "requisitos para licencia hvac florida",
+            "renovar licencia hvac florida"
+        ],
+        "keywords_long_tail": [
+            "como sacar la licencia de hvac en florida sin experiencia",
+            "escuelas de hvac en miami en español",
+            "examen de aire acondicionado tipo b florida",
+            "diferencia entre hvac clase a y clase b florida"
+        ]
+    },
+    "hero": {
+        "ai_generated": true,
+        "badge": "Actualizado 2026",
+        "headline": "Licencia de HVAC en Florida",
+        "subheadline": "Conviértete en técnico certificado de aire acondicionado. Florida tiene alta demanda todo el año. El examen está disponible en español y puedes ganar $45k-$65k/año como Registered Contractor.",
+        "key_stats": [
+            {
+                "label": "Registered Contractor (Clase B)",
+                "value": "1 año experiencia",
+                "detail": "Puedes trabajar en sistemas residenciales hasta 25 toneladas + examen",
+                "source": "https://www.myfloridalicense.com/DBPR/mechanical-contractors/",
+                "source_name": "DBPR Florida"
+            },
+            {
+                "label": "Certified Contractor (Clase A)",
+                "value": "4 años experiencia",
+                "detail": "Trabajo ilimitado: comercial, industrial, cualquier tamaño + examen",
+                "source": "https://www.myfloridalicense.com/DBPR/mechanical-contractors/",
+                "source_name": "DBPR Florida"
+            },
+            {
+                "label": "Examen en Español",
+                "value": "✅ Sí disponible",
+                "detail": "A través de Pearson VUE para Clase A y Clase B",
+                "source": "https://home.pearsonvue.com/fl/contractor",
+                "source_name": "Pearson VUE"
+            },
+            {
+                "label": "Salario Mediano Florida",
+                "value": "$50,590/año",
+                "detail": "Top earners $72,000+. Miami y Tampa pagan más",
+                "source": "https://www.bls.gov/oes/current/oes499021.htm",
+                "source_name": "BLS May 2024"
+            }
+        ],
+        "cta_primary": {
+            "text": "Ver Pasos del Camino",
+            "anchor": "#roadmap"
+        },
+        "cta_secondary": {
+            "text": "Ver Salarios",
+            "anchor": "#salarios"
+        }
+    },
+    "callout_espanol": {
+        "ai_generated": true,
+        "type": "highlight_box",
+        "icon": "❄️",
+        "title": "¡El examen de HVAC está en español!",
+        "content": "El Departamento de Regulación Profesional de Florida (DBPR) ofrece los exámenes de licencia HVAC Clase A y Clase B en ESPAÑOL a través de Pearson VUE. Al programar tu examen, selecciona español como idioma. No hay costo adicional. Los manuales de estudio también están disponibles en español.",
+        "source": "https://home.pearsonvue.com/fl/contractor",
+        "source_name": "Pearson VUE Florida"
+    },
+    "autoridad_reguladora": {
+        "ai_generated": true,
+        "nombre": "Florida Department of Business and Professional Regulation (DBPR)",
+        "programa": "Division of Professions - Mechanical Contractors (HVAC)",
+        "direccion": {
+            "calle": "2601 Blair Stone Road",
+            "ciudad": "Tallahassee",
+            "estado": "FL",
+            "cp": "32399"
+        },
+        "telefono": {
+            "local": "(850) 487-1395",
+            "toll_free": "(850) 487-1395"
+        },
+        "email": "customer.contact@myfloridalicense.com",
+        "web": "https://www.myfloridalicense.com/DBPR/mechanical-contractors/",
+        "verificar_licencia": "https://www.myfloridalicense.com/wl11.asp?mode=0&SID=",
+        "source": "https://www.myfloridalicense.com/DBPR/"
+    },
+    "roadmap": {
+        "_description": "Camino profesional de técnico HVAC en Florida - De helper a Certified Contractor",
+        "ai_generated": true,
+        "layout": "timeline",
+        "nota_general": "Florida permite trabajar como helper o aprendiz sin licencia mientras acumulas experiencia bajo un contratista certificado. Las licencias son estatales, pero algunos condados (como Miami-Dade, Broward) tienen requisitos locales adicionales.",
+        "tipos": [
+            {
+                "id": "helper",
+                "titulo_en": "HVAC Helper/Apprentice",
+                "titulo_es": "Ayudante/Aprendiz HVAC",
+                "es_principal": false,
+                "color_badge": "#3b82f6",
+                "descripcion_corta": "Puedes trabajar sin licencia mientras aprendes bajo supervisión de un contratista certificado.",
+                "scope_of_work": "Asistir en instalaciones, mantenimiento y reparaciones de sistemas HVAC bajo supervisión directa. No puedes trabajar solo ni sacar permisos.",
+                "requisitos": {
+                    "edad_minima": 18,
+                    "educacion_previa": "Diploma de high school o GED recomendado",
+                    "experiencia": "Ninguna requerida",
+                    "examen": "No requiere examen ni licencia para empezar"
+                },
+                "nota": "Este es el punto de entrada. Busca trabajo con empresas HVAC locales y empieza a acumular horas de experiencia documentadas. Muchas escuelas técnicas ofrecen programas de 6-12 meses que te dan ventaja al buscar empleo.",
+                "source": "https://www.myfloridalicense.com/DBPR/mechanical-contractors/"
+            },
+            {
+                "id": "registered_b",
+                "titulo_en": "Registered Mechanical Contractor (Class B)",
+                "titulo_es": "Contratista Mecánico Registrado (Clase B)",
+                "es_principal": true,
+                "color_badge": "#10b981",
+                "descripcion_corta": "Licencia limitada para trabajo residencial y comercial ligero. Puedes trabajar independiente en sistemas de hasta 25 toneladas.",
+                "scope_of_work": "Instalación, mantenimiento y reparación de sistemas HVAC residenciales y comerciales ligeros de hasta 25 toneladas de capacidad. Puede sacar permisos y trabajar sin supervisión en su alcance.",
+                "requisitos": {
+                    "edad_minima": 18,
+                    "experiencia": "1 año (2,000 horas) de experiencia documentada en trabajo HVAC",
+                    "educacion_alternativa": "O completar programa de escuela técnica aprobada (puede contar como parte de la experiencia)",
+                    "examen": "Aprobar examen Clase B de HVAC"
+                },
+                "examen": {
+                    "partes": 2,
+                    "parte_1": {
+                        "nombre": "Business and Finance Exam",
+                        "formato": "Opción múltiple por computadora",
+                        "costo": 61,
+                        "idiomas": [
+                            "Inglés",
+                            "Español"
+                        ],
+                        "puntaje_minimo": "70%",
+                        "cuando_tomarlo": "Antes o junto con el examen técnico",
+                        "contenido_principal": [
+                            "Leyes de contratación de Florida (Chapter 489 Florida Statutes)",
+                            "Manejo de negocios y contratos",
+                            "Seguros y bonos de contratista",
+                            "Finanzas básicas"
+                        ]
+                    },
+                    "parte_2": {
+                        "nombre": "Class B Mechanical (HVAC) Technical Exam",
+                        "formato": "Opción múltiple por computadora - Open book",
+                        "costo": 61,
+                        "idiomas": [
+                            "Inglés",
+                            "Español"
+                        ],
+                        "puntaje_minimo": "70%",
+                        "cuando_tomarlo": "Después de aprobar Business & Finance",
+                        "contenido_principal": [
+                            "Florida Building Code - Mechanical (6th Edition)",
+                            "Principios de refrigeración y aire acondicionado",
+                            "Cálculos de carga térmica",
+                            "Instalación de ductos y ventilación",
+                            "Códigos eléctricos relacionados con HVAC",
+                            "EPA Section 608 (manejo de refrigerantes)"
+                        ],
+                        "que_llevar": [
+                            "Florida Building Code - Mechanical (actualizado)",
+                            "Calculadora no programable",
+                            "Identificación oficial con foto"
+                        ]
+                    },
+                    "administrador": "Pearson VUE",
+                    "url_psi": "https://home.pearsonvue.com/fl/contractor",
+                    "retakes": "Si repruebas, espera 30 días para retomar. Pagas la tarifa completa de nuevo ($61 por examen).",
+                    "source": "https://home.pearsonvue.com/fl/contractor"
+                },
+                "costos": {
+                    "aplicacion_licencia": 275,
+                    "examen_escrito": 122,
+                    "total_examenes_y_licencia": 397,
+                    "renovacion_cada_2_años": 275,
+                    "ce_horas_cada_2_años": 14
+                },
+                "como_aplicar": {
+                    "metodo": "En línea después de aprobar ambos exámenes",
+                    "url": "https://www.myfloridalicense.com/intentions2.asp?SID=&xboard=",
+                    "tiempo_procesamiento": "4-6 semanas después de enviar aplicación completa",
+                    "pasos": [
+                        "Acumular 1 año (2,000 horas) de experiencia verificada",
+                        "Obtener certificación EPA 608 (manejo de refrigerantes)",
+                        "Estudiar Florida Building Code - Mechanical y materiales de negocio",
+                        "Programar y aprobar Business & Finance exam en Pearson VUE",
+                        "Programar y aprobar Class B Technical exam",
+                        "Aplicar para licencia en DBPR con prueba de experiencia",
+                        "Obtener seguro de responsabilidad civil ($300k/$50k mínimo)",
+                        "Pagar $275 de tarifa de licencia"
+                    ]
+                },
+                "nota": "Clase B es suficiente para el 80% del trabajo residencial en Florida. La mayoría de técnicos HVAC independientes tienen Clase B. Miami-Dade y Broward requieren examen local adicional.",
+                "source": "https://www.myfloridalicense.com/DBPR/mechanical-contractors/"
+            },
+            {
+                "id": "certified_a",
+                "titulo_en": "Certified Mechanical Contractor (Class A)",
+                "titulo_es": "Contratista Mecánico Certificado (Clase A)",
+                "es_principal": true,
+                "color_badge": "#f59e0b",
+                "descripcion_corta": "Licencia ilimitada. Puedes trabajar en cualquier proyecto HVAC: comercial grande, industrial, hospitales, sin límite de toneladas.",
+                "scope_of_work": "Instalación, diseño, mantenimiento y reparación de sistemas HVAC de cualquier tamaño: comercial, industrial, institucional. Sin límites de capacidad. Puede supervisar otros contratistas.",
+                "requisitos": {
+                    "edad_minima": 18,
+                    "experiencia": "4 años (8,000 horas) de experiencia documentada en HVAC, incluyendo al menos 1 año en sistemas comerciales/industriales",
+                    "educacion_alternativa": "Grado en ingeniería mecánica o arquitectura puede reducir experiencia a 2 años",
+                    "examen": "Aprobar examen Clase A de HVAC"
+                },
+                "examen": {
+                    "partes": 2,
+                    "parte_1": {
+                        "nombre": "Business and Finance Exam",
+                        "formato": "Opción múltiple por computadora",
+                        "costo": 61,
+                        "idiomas": [
+                            "Inglés",
+                            "Español"
+                        ],
+                        "puntaje_minimo": "70%",
+                        "cuando_tomarlo": "Antes o junto con el examen técnico",
+                        "contenido_principal": [
+                            "Leyes de contratación de Florida (Chapter 489)",
+                            "Manejo de proyectos comerciales",
+                            "Contratos y licitaciones",
+                            "Seguros y bonos para proyectos grandes"
+                        ]
+                    },
+                    "parte_2": {
+                        "nombre": "Class A Mechanical (HVAC) Technical Exam",
+                        "formato": "Opción múltiple por computadora - Open book",
+                        "costo": 61,
+                        "idiomas": [
+                            "Inglés",
+                            "Español"
+                        ],
+                        "puntaje_minimo": "70%",
+                        "cuando_tomarlo": "Después de aprobar Business & Finance",
+                        "contenido_principal": [
+                            "Florida Building Code - Mechanical (avanzado)",
+                            "ASHRAE standards (psicrometría, cálculos de carga)",
+                            "Sistemas comerciales e industriales complejos",
+                            "Chillers, torres de enfriamiento, calderas",
+                            "Controles automáticos y BMS (Building Management Systems)",
+                            "Ventilación industrial y extracción",
+                            "Código eléctrico NEC aplicado a HVAC"
+                        ],
+                        "que_llevar": [
+                            "Florida Building Code - Mechanical",
+                            "ASHRAE Handbook (Fundamentals recomendado)",
+                            "Calculadora no programable",
+                            "Identificación oficial"
+                        ]
+                    },
+                    "administrador": "Pearson VUE",
+                    "url_psi": "https://home.pearsonvue.com/fl/contractor",
+                    "retakes": "Si repruebas, espera 30 días. Pagas $61 por examen en cada reintento.",
+                    "source": "https://home.pearsonvue.com/fl/contractor"
+                },
+                "costos": {
+                    "aplicacion_licencia": 275,
+                    "examen_escrito": 122,
+                    "total_examenes_y_licencia": 397,
+                    "renovacion_cada_2_años": 275,
+                    "ce_horas_cada_2_años": 14
+                },
+                "como_aplicar": {
+                    "metodo": "En línea después de aprobar ambos exámenes",
+                    "url": "https://www.myfloridalicense.com/intentions2.asp?SID=&xboard=",
+                    "tiempo_procesamiento": "4-6 semanas",
+                    "pasos": [
+                        "Acumular 4 años (8,000 horas) de experiencia verificada",
+                        "Obtener certificación EPA 608 Universal",
+                        "Estudiar Florida Building Code y ASHRAE standards",
+                        "Aprobar Business & Finance exam",
+                        "Aprobar Class A Technical exam",
+                        "Aplicar con verificación de experiencia",
+                        "Obtener seguro de responsabilidad civil ($1M mínimo para proyectos grandes)",
+                        "Pagar $275 tarifa de licencia"
+                    ]
+                },
+                "nota": "Clase A es necesaria para proyectos comerciales grandes (edificios de oficinas, hospitales, aeropuertos). También permite supervisar contratistas Clase B y helpers.",
+                "source": "https://www.myfloridalicense.com/DBPR/mechanical-contractors/"
+            },
+            {
+                "id": "epa_608",
+                "titulo_en": "EPA Section 608 Certification",
+                "titulo_es": "Certificación EPA 608 (Refrigerantes)",
+                "es_principal": false,
+                "color_badge": "#7c3aed",
+                "descripcion_corta": "Certificación federal OBLIGATORIA para manejar refrigerantes. Requerida antes de sacar licencia estatal.",
+                "scope_of_work": "Legalmente puedes comprar, manipular y recuperar refrigerantes de sistemas HVAC. Sin esto, no puedes trabajar con refrigerantes aunque tengas licencia HVAC.",
+                "requisitos": {
+                    "edad_minima": 16,
+                    "experiencia": "Ninguna",
+                    "examen": "Aprobar examen EPA 608"
+                },
+                "examen": {
+                    "nombre": "EPA 608 Certification Exam",
+                    "partes": 4,
+                    "formato": "Puede ser en papel o en línea según proveedor",
+                    "idiomas": [
+                        "Inglés",
+                        "Español disponible con algunos proveedores"
+                    ],
+                    "contenido_principal": [
+                        "Core (obligatorio para todos): Regulaciones EPA, ozono, recuperación",
+                        "Type I: Sistemas pequeños (electrodomésticos)",
+                        "Type II: Equipos de alta presión (residencial/comercial ligero)",
+                        "Type III: Equipos de baja presión (chillers industriales)"
+                    ],
+                    "cuando_tomarlo": "Antes de empezar a trabajar con refrigerantes. Muchos lo toman durante escuela técnica.",
+                    "costo": "Varía según proveedor: $100-$200 para certificación Universal (Core + Type I, II, III)"
+                },
+                "como_aplicar": {
+                    "pasos": [
+                        "Elegir proveedor aprobado por EPA (ESCO Group, TPC Training, MaintenanceX, etc.)",
+                        "Tomar curso de preparación (opcional pero recomendado)",
+                        "Agendar y aprobar examen",
+                        "Recibir tarjeta de certificación (válida de por vida, no expira)"
+                    ]
+                },
+                "nota": "CRÍTICO: Sin EPA 608 NO puedes trabajar legalmente con refrigerantes en USA. Es un requisito federal. La certificación Universal (todos los tipos) es la más recomendada. Cuesta ~$150-200 pero vale de por vida.",
+                "source": "https://www.epa.gov/section608"
+            }
+        ]
+    },
+    "calculadora_inversion": {
+        "ai_generated": true,
+        "_description": "Costo estimado para obtener cada nivel de licencia HVAC en Florida",
+        "escenarios": [
+            {
+                "id": "clase_b",
+                "licencia": "Registered Contractor (Clase B)",
+                "inversion": {
+                    "escuela_rango": "$1,200 - $5,000",
+                    "escuela_nota": "Programa técnico HVAC de 6-12 meses. Opcional pero muy recomendado. Algunas escuelas ofrecen ayuda financiera.",
+                    "certificacion_epa_608": "$150 - $250",
+                    "libros_codigo": "$200 - $300",
+                    "curso_preparacion_examen": "$300 - $600",
+                    "examen_escrito": "$122",
+                    "aplicacion_licencia": "$275",
+                    "seguro_responsabilidad": "$500 - $1,500/año",
+                    "kit_herramientas_basico": "$1,000 - $3,000",
+                    "total_minimo": "$2,547",
+                    "total_maximo": "$10,772"
+                },
+                "tiempo": "1-2 años desde cero (incluyendo escuela y experiencia)",
+                "salario_esperado": {
+                    "empleada": "$40,000 - $55,000/año",
+                    "con_experiencia": "$50,000 - $65,000/año",
+                    "independiente_booth_rental": "$60,000 - $80,000/año",
+                    "nota": "Trabajo independiente requiere herramientas, van y seguro propio"
+                },
+                "roi_nota": "Si trabajas tiempo completo, recuperas tu inversión en el primer año. Florida tiene demanda altísima todo el año por el clima."
+            },
+            {
+                "id": "clase_a",
+                "licencia": "Certified Contractor (Clase A)",
+                "inversion": {
+                    "escuela_rango": "$1,200 - $5,000",
+                    "escuela_nota": "Si ya tienes Clase B, puedes tomar solo cursos avanzados o preparación para Clase A (~$800-1,500)",
+                    "certificacion_epa_608": "$250",
+                    "libros_codigo_avanzados": "$400 - $600",
+                    "curso_preparacion_clase_a": "$500 - $1,200",
+                    "examen_escrito": "$122",
+                    "aplicacion_licencia": "$275",
+                    "seguro_responsabilidad_comercial": "$1,500 - $3,000/año",
+                    "total_minimo": "$3,047",
+                    "total_maximo": "$10,447"
+                },
+                "tiempo": "4-5 años desde cero (incluyendo experiencia requerida)",
+                "salario_esperado": {
+                    "empleada": "$55,000 - $70,000/año",
+                    "supervisor_proyectos": "$65,000 - $85,000/año",
+                    "dueña_negocio": "$80,000 - $150,000+/año",
+                    "nota": "Clase A abre puertas a proyectos comerciales grandes con mejores márgenes"
+                },
+                "roi_nota": "Clase A es inversión a largo plazo. Necesitas 4 años de experiencia pero los ingresos aumentan significativamente en proyectos comerciales e industriales."
+            }
+        ]
+    },
+    "renovacion": {
+        "ai_generated": true,
+        "frecuencia": "Cada 2 años (bienal) desde la fecha de emisión",
+        "metodo": "En línea en el portal de DBPR",
+        "url_renovacion": "https://www.myfloridalicense.com/",
+        "costo_renovacion": 275,
+        "ce_requerida": {
+            "horas_totales": 14,
+            "temas": [
+                "Florida Building Code - Mechanical (actualizaciones)",
+                "Leyes de contratación de Florida (Chapter 489)",
+                "Seguridad en HVAC (OSHA, manejo de refrigerantes)",
+                "Eficiencia energética y nuevas tecnologías",
+                "Ética profesional"
+            ],
+            "nota": "Debes completar 14 horas de educación continua de proveedores aprobados por DBPR cada 2 años. Al menos 1 hora debe ser en Florida Building Code, 1 hora en leyes estatales, y 2 horas en temas avanzados.",
+            "costo_cursos_ce_online": "$100 - $250 total por ciclo",
+            "url_proveedores": "https://www.myfloridalicense.com/DBPR/continuing-education/"
+        },
+        "consecuencias_no_renovar": {
+            "0_30_dias": "Tarifa normal de renovación ($275)",
+            "30_90_dias": "Tarifa tardía: $275 + $50 penalidad",
+            "90_dias_2_años": "Licencia inactiva - debes pagar todos los ciclos atrasados + penalidad",
+            "mas_2_años": "Licencia nula - debes aplicar de nuevo y retomar exámenes"
+        },
+        "nota_tdlr": "DBPR envía recordatorios por email ~60 días antes del vencimiento. Verifica que tu email esté actualizado en tu perfil. Es tu responsabilidad renovar a tiempo.",
+        "source": "https://www.myfloridalicense.com/DBPR/"
+    },
+    "reciprocidad": {
+        "ai_generated": true,
+        "disponible": true,
+        "nombre_proceso": "Endorsement (Reconocimiento de Licencia de Otro Estado)",
+        "requisitos": [
+            "Tener licencia HVAC vigente y activa en otro estado de USA",
+            "La licencia del otro estado debe ser equivalente a Clase A o B de Florida",
+            "Haber tenido la licencia activa por al menos 1 año",
+            "Aprobar el examen de Business & Finance de Florida (leyes locales)",
+            "No tener sanciones disciplinarias pendientes",
+            "Proveer verificación de licencia directamente del otro estado"
+        ],
+        "nota": "Florida NO tiene reciprocidad automática con ningún estado. Sin embargo, acepta 'endorsement': si tienes licencia de otro estado, puedes aplicar sin retomar el examen técnico completo, pero SÍ debes aprobar el examen de Business & Finance (leyes de Florida) y pagar todas las tarifas normales. El proceso toma 6-10 semanas.",
+        "url": "https://www.myfloridalicense.com/DBPR/mechanical-contractors/",
+        "experiencia_como_horas": "La experiencia y horas del otro estado cuentan si están documentadas",
+        "source": "https://www.myfloridalicense.com/DBPR/"
+    },
+    "salarios": {
+        "ai_generated": true,
+        "nota_importante": "Los técnicos HVAC en Florida ganan más que el promedio nacional debido al clima cálido y humedad constante. Hay demanda crítica todo el año, especialmente en verano. Los que trabajan independientes o tienen su propia compañía ganan significativamente más.",
+        "nacional_2024": {
+            "mediana": "$57,300/año",
+            "por_hora_mediana": "$27.55/hr",
+            "percentil_10": "$36,000/año",
+            "percentil_90": "$84,000/año",
+            "crecimiento_proyectado": "6% (2023-2033) - Más rápido que el promedio",
+            "source": "https://www.bls.gov/oes/current/oes499021.htm"
+        },
+        "texas": {
+            "promedio_anual": "$50,590",
+            "promedio_hora": "$24.32",
+            "top_earners": "$72,580+",
+            "source": "BLS Florida May 2024"
+        },
+        "por_ciudad_texas": [
+            {
+                "ciudad": "Miami-Fort Lauderdale-West Palm Beach",
+                "salario_medio": "$52,840",
+                "top_earners": "$75,200",
+                "source": "BLS"
+            },
+            {
+                "ciudad": "Tampa-St. Petersburg-Clearwater",
+                "salario_medio": "$51,120",
+                "top_earners": "$71,900",
+                "source": "BLS"
+            },
+            {
+                "ciudad": "Orlando-Kissimmee-Sanford",
+                "salario_medio": "$49,670",
+                "top_earners": "$69,800",
+                "source": "BLS"
+            },
+            {
+                "ciudad": "Jacksonville",
+                "salario_medio": "$48,930",
+                "top_earners": "$68,500",
+                "source": "BLS"
+            },
+            {
+                "ciudad": "Naples-Immokalee-Marco Island",
+                "salario_medio": "$54,200",
+                "top_earners": "$77,000",
+                "source": "BLS"
+            }
+        ],
+        "ingresos_reales": {
+            "ai_generated": true,
+            "nota": "El BLS solo captura salarios W-2 de empleados. Los técnicos HVAC en Florida tienen muchas fuentes adicionales de ingreso:",
+            "factores_adicionales": [
+                "Trabajo de emergencia (24/7 on-call) - paga tiempo y medio o doble",
+                "Season premium (mayo-septiembre) - bonos por alta demanda",
+                "Comisiones por ventas de equipos nuevos (instalaciones)",
+                "Overtime en verano (60+ horas/semana común)",
+                "Trabajos independientes de fin de semana",
+                "Contratos de mantenimiento mensual (ingreso recurrente)"
+            ],
+            "estimado_realista": {
+                "recien_licenciada": "Helper: $30,000 - $40,000/año",
+                "3_5_años_experiencia": "Técnico con Clase B: $50,000 - $65,000/año",
+                "especialista_o_independiente": "Técnico independiente o con Clase A: $65,000 - $85,000/año",
+                "dueña_salon": "Dueño de compañía HVAC: $80,000 - $200,000+/año"
+            }
+        }
+    },
+    "errores_comunes": {
+        "ai_generated": true,
+        "items": [
+            {
+                "error": "No obtener certificación EPA 608 antes de trabajar con refrigerantes",
+                "por_que_importa": "Es un delito federal trabajar con refrigerantes sin certificación EPA 608. Las multas empiezan en $37,500 por violación. Además, no puedes comprar refrigerantes legalmente sin la tarjeta. Muchos empleadores no te contratan sin EPA 608.",
+                "solucion": "Obtén tu certificación EPA 608 Universal ($150-250) lo antes posible. Toma 1-2 días de estudio y el examen dura 2 horas. La certificación es válida de por vida y la necesitas para TODO trabajo HVAC."
+            },
+            {
+                "error": "No documentar las horas de experiencia con cartas de verificación de empleadores",
+                "por_que_importa": "DBPR requiere prueba escrita de tus horas de experiencia para aprobar tu aplicación de licencia. Si trabajaste 4 años pero no tienes cartas firmadas de tus empleadores, no puedes aplicar. Si la compañía cerró o el jefe se fue, pierdes esas horas.",
+                "solucion": "Pide carta de verificación a tu empleador cada 6 meses o cuando cambies de trabajo. La carta debe incluir: nombre de la compañía, fechas de empleo, horas trabajadas, tipo de trabajo HVAC realizado, y firma del supervisor con su licencia."
+            },
+            {
+                "error": "Estudiar con edición incorrecta del Florida Building Code",
+                "por_que_importa": "El examen se basa en la edición más reciente del Florida Building Code - Mechanical (actualmente 7th Edition, 2020, con enmiendas 2023). Si estudias con una edición vieja, los números de páginas, tablas y algunos requisitos son diferentes. Fallarás preguntas por buscar en el lugar equivocado.",
+                "solucion": "Antes de comprar libros, verifica en el sitio de Pearson VUE cuál es la edición vigente del Florida Building Code para tu examen. Compra SOLO esa edición actualizada, nueva o usada pero correcta."
+            },
+            {
+                "error": "Pensar que Clase B es suficiente para todos los trabajos",
+                "por_que_importa": "Clase B está limitada a sistemas de hasta 25 toneladas. No puedes trabajar en edificios comerciales grandes, hospitales, aeropuertos, ni instalaciones industriales con Clase B. Si quieres crecer a proyectos grandes, necesitas Clase A.",
+                "solucion": "Si tu meta es solo trabajo residencial y pequeños comercios, Clase B es perfecto. Pero si quieres trabajar en construcción comercial grande o industrial, planea desde el principio acumular experiencia comercial para Clase A."
+            },
+            {
+                "error": "No tomar curso de preparación para el examen",
+                "por_que_importa": "Aunque el examen es open-book, si no sabes navegar rápido el Florida Building Code y dónde buscar cada tabla/requisito, te quedarás sin tiempo. Muchos reprueban porque no terminan el examen, no por falta de conocimiento.",
+                "solucion": "Invierte en un curso de preparación de 4-8 semanas ($300-600). Te enseñan estrategias para buscar rápido en el código, qué secciones son críticas, y practicas con exámenes simulados cronometrados."
+            },
+            {
+                "error": "No renovar a tiempo y dejar vencer la licencia",
+                "por_que_importa": "Si tu licencia vence por más de 2 años, DBPR la anula completamente. Tendrás que aplicar de nuevo, pagar todas las tarifas, y posiblemente retomar los exámenes. Pierdes años de historial profesional.",
+                "solucion": "Pon recordatorio en tu teléfono 3 meses antes del vencimiento (cada 2 años). Completa tus 14 horas de CE con anticipación. La renovación cuesta $275 pero es CRÍTICA para mantener tu licencia activa."
+            },
+            {
+                "error": "Trabajar fuera del alcance de tu licencia (scope of work)",
+                "por_que_importa": "Si tienes Clase B y aceptas un trabajo en un chiller de 100 toneladas (comercial grande), estás violando la ley. Si hay un accidente o inspección, puedes perder tu licencia permanentemente y enfrentar multas de hasta $10,000.",
+                "solucion": "Conoce tu alcance exacto. Clase B: hasta 25 toneladas. Clase A: sin límite. Si te ofrecen un trabajo que no estás seguro si calificas, llama a DBPR antes de aceptarlo."
+            }
+        ]
+    },
+    "servicios_sin_licencia": {
+        "ai_generated": true,
+        "titulo": "Trabajos HVAC que NO Requieren Licencia en Florida",
+        "items": [
+            "Cambiar filtros de aire en tu propia casa",
+            "Limpiar rejillas de ventilación externas",
+            "Ajustar termostato",
+            "Mantenimiento básico de limpieza (sin abrir sistema cerrado)"
+        ],
+        "requiere_licencia": [
+            "Cualquier trabajo que involucre refrigerantes (requiere EPA 608 + licencia HVAC)",
+            "Instalar, reparar o modificar ductos",
+            "Instalar sistemas de aire acondicionado o calefacción nuevos",
+            "Sacar permisos de construcción para HVAC",
+            "Trabajo en casa de otra persona (aunque sea cambiar filtro si cobras)",
+            "Cualquier trabajo comercial o industrial"
+        ],
+        "source": "Florida Statutes Chapter 489"
+    },
+    "faqs": {
+        "ai_generated": true,
+        "items": [
+            {
+                "pregunta": "¿El examen de HVAC en Florida está disponible en español?",
+                "respuesta": "Sí. Los exámenes de Business & Finance y Technical (Clase A y Clase B) están disponibles en español a través de Pearson VUE. Al programar tu cita, selecciona español como idioma del examen. No hay costo adicional. Los manuales de estudio del Florida Building Code también están disponibles en español.",
+                "source": "Pearson VUE Florida"
+            },
+            {
+                "pregunta": "¿Puedo sacar la licencia HVAC con ITIN (sin número de Seguro Social)?",
+                "respuesta": "Sí. DBPR acepta ITIN como identificación fiscal para procesar licencias profesionales en Florida. Debes proporcionar tu ITIN en la aplicación junto con los demás requisitos de experiencia y exámenes aprobados.",
+                "source": "DBPR Florida"
+            },
+            {
+                "pregunta": "¿Necesito ir a una escuela técnica para ser técnico HVAC?",
+                "respuesta": "No es obligatorio, pero es MUY recomendado. Puedes acumular experiencia trabajando como helper sin escuela, pero los programas técnicos de 6-12 meses te dan una base sólida que acelera tu aprendizaje y te hace más atractivo para empleadores. Muchas escuelas en Florida ofrecen programas en español.",
+                "source": "DBPR Florida"
+            },
+            {
+                "pregunta": "¿Cuál es la diferencia entre Clase A y Clase B en HVAC Florida?",
+                "respuesta": "Clase B (Registered) es licencia limitada: solo puedes trabajar en sistemas de hasta 25 toneladas (residencial y comercial ligero). Requiere 1 año de experiencia. Clase A (Certified) es ilimitada: cualquier tamaño de sistema, comercial grande, industrial. Requiere 4 años de experiencia. Clase B es suficiente para ~80% del mercado residencial.",
+                "source": "DBPR Florida"
+            },
+            {
+                "pregunta": "¿Cuánto tiempo se tarda en sacar la licencia Clase B?",
+                "respuesta": "Si empiezas desde cero: 6-12 meses de escuela técnica (opcional) + 1 año de experiencia documentada (2,000 horas) + 2-3 meses estudiando para exámenes + 4-6 semanas procesamiento de licencia. Total: 1.5 a 2 años aproximadamente desde cero hasta licencia en mano.",
+                "source": "DBPR Florida"
+            },
+            {
+                "pregunta": "¿Cuánto cuestan los exámenes de licencia HVAC en Florida?",
+                "respuesta": "Business & Finance: $61. Technical (Clase A o B): $61. Total exámenes: $122. Tarifa de aplicación de licencia: $275. Total para obtener licencia (sin contar escuela): $397. Si repruebas un examen, pagas $61 de nuevo por cada reintento.",
+                "source": "Pearson VUE / DBPR"
+            },
+            {
+                "pregunta": "¿Puedo trabajar con refrigerantes sin certificación EPA 608?",
+                "respuesta": "NO. Es ilegal a nivel federal trabajar con refrigerantes sin certificación EPA 608. Las multas empiezan en $37,500. No puedes comprar refrigerantes sin la tarjeta EPA. Todos los técnicos HVAC en USA deben tener EPA 608 antes de tocar cualquier sistema con refrigerante.",
+                "source": "EPA Section 608"
+            },
+            {
+                "pregunta": "¿Cada cuánto debo renovar mi licencia HVAC en Florida?",
+                "respuesta": "Cada 2 años (bienal) desde la fecha de emisión de tu licencia. Debes completar 14 horas de educación continua y pagar $275 de tarifa de renovación. Si no renuevas a tiempo, hay penalidades. Después de 2 años vencida, la licencia se anula permanentemente.",
+                "source": "DBPR Florida"
+            },
+            {
+                "pregunta": "¿Miami-Dade requiere licencia local adicional para HVAC?",
+                "respuesta": "Sí. Miami-Dade y Broward tienen exámenes de licencia locales adicionales al estatal. Si vas a trabajar en esos condados, debes aplicar y aprobar el examen local después de obtener tu licencia estatal. El examen local cuesta ~$100-150 adicionales.",
+                "source": "Miami-Dade Building Department"
+            },
+            {
+                "pregunta": "¿Puedo tener mi propia compañía HVAC con licencia Clase B?",
+                "respuesta": "Sí, pero con limitaciones. Como Clase B solo puedes trabajar en sistemas de hasta 25 toneladas. Si quieres expandir a proyectos comerciales grandes, necesitas Clase A. También necesitas seguro de responsabilidad civil ($300k mínimo), registro de negocio, y cumplir con códigos locales de tu ciudad/condado.",
+                "source": "DBPR Florida"
+            }
+        ]
+    },
+    "enlaces_utiles": {
+        "ai_generated": true,
+        "enlaces": [
+            {
+                "categoria": "Licencias y Aplicaciones",
+                "enlaces": [
+                    {
+                        "titulo": "DBPR - División de Profesiones (HVAC)",
+                        "url": "https://www.myfloridalicense.com/DBPR/mechanical-contractors/",
+                        "descripcion": "Página principal de licencias HVAC en Florida"
+                    },
+                    {
+                        "titulo": "Aplicar para Licencia HVAC",
+                        "url": "https://www.myfloridalicense.com/intentions2.asp?SID=&xboard=",
+                        "descripcion": "Aplicación en línea para Clase A y Clase B"
+                    },
+                    {
+                        "titulo": "Verificar Licencia HVAC en Florida",
+                        "url": "https://www.myfloridalicense.com/wl11.asp?mode=0&SID=",
+                        "descripcion": "Buscar si alguien tiene licencia vigente"
+                    },
+                    {
+                        "titulo": "Renovar Licencia HVAC",
+                        "url": "https://www.myfloridalicense.com/",
+                        "descripcion": "Portal de renovación en línea"
+                    }
+                ]
+            },
+            {
+                "categoria": "Exámenes",
+                "enlaces": [
+                    {
+                        "titulo": "Pearson VUE - Agendar Examen HVAC Florida",
+                        "url": "https://home.pearsonvue.com/fl/contractor",
+                        "descripcion": "Sitio oficial para programar exámenes de licencia"
+                    },
+                    {
+                        "titulo": "Información de Exámenes DBPR",
+                        "url": "https://www.myfloridalicense.com/DBPR/os/documents/ExaminationInfo.pdf",
+                        "descripcion": "Detalles de contenido y formato de exámenes"
+                    },
+                    {
+                        "titulo": "Florida Building Code Online",
+                        "url": "https://codes.iccsafe.org/content/FLBC2020P1",
+                        "descripcion": "Acceso gratuito al código vigente (requiere registro)"
+                    }
+                ]
+            },
+            {
+                "categoria": "EPA y Refrigerantes",
+                "enlaces": [
+                    {
+                        "titulo": "EPA Section 608 - Información Oficial",
+                        "url": "https://www.epa.gov/section608",
+                        "descripcion": "Regulaciones federales sobre refrigerantes"
+                    },
+                    {
+                        "titulo": "ESCO Group - Certificación EPA 608",
+                        "url": "https://www.escoinst.com/",
+                        "descripcion": "Proveedor aprobado de certificación EPA 608"
+                    },
+                    {
+                        "titulo": "MaintenanceX - EPA 608 Online",
+                        "url": "https://www.maintenancex.com/",
+                        "descripcion": "Certificación EPA 608 en línea"
+                    }
+                ]
+            },
+            {
+                "categoria": "Educación y Preparación",
+                "enlaces": [
+                    {
+                        "titulo": "Educación Continua Aprobada DBPR",
+                        "url": "https://www.myfloridalicense.com/DBPR/continuing-education/",
+                        "descripcion": "Proveedores de cursos CE aprobados"
+                    },
+                    {
+                        "titulo": "Miami Dade College - Programa HVAC",
+                        "url": "https://www.mdc.edu/",
+                        "descripcion": "Programa técnico HVAC en español disponible"
+                    },
+                    {
+                        "titulo": "HVAC Excellence",
+                        "url": "https://www.hvacexcellence.org/",
+                        "descripcion": "Certificaciones adicionales y recursos de estudio"
+                    }
+                ]
+            },
+            {
+                "categoria": "Datos de Empleo y Salarios",
+                "enlaces": [
+                    {
+                        "titulo": "BLS - HVAC Technicians Florida",
+                        "url": "https://www.bls.gov/oes/current/oes499021.htm",
+                        "descripcion": "Salarios oficiales y proyecciones de empleo"
+                    },
+                    {
+                        "titulo": "Florida Department of Economic Opportunity",
+                        "url": "https://floridajobs.org/",
+                        "descripcion": "Recursos de empleo y capacitación en Florida"
+                    }
+                ]
+            },
+            {
+                "categoria": "Asociaciones Profesionales",
+                "enlaces": [
+                    {
+                        "titulo": "FACCA - Florida Air Conditioning Contractors Association",
+                        "url": "https://www.facca.org/",
+                        "descripcion": "Asociación estatal de contratistas HVAC"
+                    },
+                    {
+                        "titulo": "ACCA - Air Conditioning Contractors of America",
+                        "url": "https://www.acca.org/",
+                        "descripcion": "Asociación nacional HVAC"
+                    },
+                    {
+                        "titulo": "RSES - Refrigeration Service Engineers Society",
+                        "url": "https://www.rses.org/",
+                        "descripcion": "Organización de técnicos HVAC"
+                    }
+                ]
+            }
+        ]
+    },
+    "content_generation_rules": {
+        "tono": "Profesional, motivador y práctico. Enfocado en el clima de Florida y la alta demanda todo el año.",
+        "persona": "Técnico HVAC experimentado con Clase A que conoce el mercado de Florida",
+        "reglas": [
+            "Enfatizar que el examen está disponible en español",
+            "Destacar la importancia CRÍTICA de EPA 608 antes de trabajar con refrigerantes",
+            "Clarificar diferencia entre Clase A (ilimitada) y Clase B (hasta 25 toneladas)",
+            "Mencionar que Miami-Dade y Broward requieren licencia local adicional",
+            "Resaltar que Florida tiene demanda altísima todo el año por el clima",
+            "Explicar que puedes aprender trabajando, pero escuela técnica acelera el proceso",
+            "Usar términos correctos: Registered (Clase B), Certified (Clase A)",
+            "Enfatizar importancia de documentar experiencia con cartas de verificación"
+        ]
+    }
+}

@@ -1,0 +1,751 @@
+{
+    "_meta": {
+        "schema_version": "2.0",
+        "page_id": "licencia-hvac-new-york",
+        "oficio": "hvac",
+        "estado": "new-york",
+        "last_verified": "2026-02-16",
+        "verified_by": "Claude AI - requiere verificación humana",
+        "notes": "New York requiere licencia estatal para HVAC. Examen no disponible en español."
+    },
+    "page_seo": {
+        "title": "Licencia HVAC en New York 2026: Guía Completa del Examen y Requisitos",
+        "meta_description": "Cómo sacar la licencia de técnico HVAC en New York paso a paso. Requisitos, examen, costos y salarios actualizados 2026. Guía completa en español.",
+        "slug": "licencia-hvac-new-york",
+        "canonical_url": "https://chambaenusa.com/licencia-hvac-new-york/",
+        "h1": "Licencia de Técnico HVAC en New York",
+        "schema_types": [
+            "HowTo",
+            "FAQPage",
+            "BreadcrumbList"
+        ],
+        "keywords_primary": [
+            "licencia hvac new york",
+            "como ser tecnico hvac en nueva york",
+            "requisitos licencia hvac ny"
+        ],
+        "keywords_secondary": [
+            "cuanto gana un tecnico hvac en new york",
+            "examen hvac nueva york",
+            "escuelas hvac en new york",
+            "certificacion epa 608"
+        ],
+        "keywords_long_tail": [
+            "cuanto cuesta la licencia de hvac en new york",
+            "como sacar licencia hvac sin papeles new york",
+            "escuelas de aire acondicionado en queens en español",
+            "salario tecnico hvac nueva york 2026"
+        ]
+    },
+    "hero": {
+        "ai_generated": true,
+        "badge": "Actualizado 2026",
+        "headline": "Licencia de Técnico HVAC en New York",
+        "subheadline": "Conviértete en técnico de calefacción y aire acondicionado certificado. Gana $55k-$75k al año con alta demanda. Programa de formación de 6-12 meses más certificación EPA obligatoria.",
+        "key_stats": [
+            {
+                "label": "Certificación EPA 608",
+                "value": "Obligatoria",
+                "detail": "Requerida por ley federal para trabajar con refrigerantes",
+                "source": "https://www.epa.gov/section608",
+                "source_name": "EPA"
+            },
+            {
+                "label": "Duración Programa",
+                "value": "6-12 meses",
+                "detail": "Educación técnica más 1 año de experiencia supervisada",
+                "source": "https://www.labor.ny.gov/",
+                "source_name": "NYS DOL"
+            },
+            {
+                "label": "Salario Promedio",
+                "value": "$62,570/año",
+                "detail": "Mediana en New York. Top earners $95,000+",
+                "source": "https://www.bls.gov/oes/current/oes499021.htm",
+                "source_name": "BLS May 2024"
+            },
+            {
+                "label": "Crecimiento Empleo",
+                "value": "+6% al 2033",
+                "detail": "Más rápido que el promedio nacional por cambios climáticos",
+                "source": "https://www.bls.gov/ooh/installation-maintenance-and-repair/heating-air-conditioning-and-refrigeration-mechanics-and-installers.htm",
+                "source_name": "BLS"
+            }
+        ],
+        "cta_primary": {
+            "text": "Ver Pasos para Licenciarse",
+            "anchor": "#roadmap"
+        },
+        "cta_secondary": {
+            "text": "Calcular Inversión",
+            "anchor": "#calculadora"
+        }
+    },
+    "callout_espanol": {
+        "ai_generated": true,
+        "type": "warning_box",
+        "icon": "⚠️",
+        "title": "El examen NO está disponible en español - prepárate con anticipación",
+        "content": "Los exámenes de certificación HVAC en New York (tanto EPA 608 como exámenes estatales) se administran solo en inglés. Recomendamos tomar cursos de preparación que incluyan terminología técnica HVAC en inglés, o buscar escuelas con instructores bilingües que te ayuden a dominar los términos técnicos necesarios.",
+        "source": "https://www.epa.gov/section608",
+        "source_name": "EPA Section 608"
+    },
+    "autoridad_reguladora": {
+        "ai_generated": true,
+        "nombre": "New York State Department of Labor",
+        "programa": "Licensing Services",
+        "nota_consolidacion": "New York también requiere registro en algunos municipios (NYC requiere licencias adicionales del Department of Buildings)",
+        "direccion": {
+            "calle": "State Office Building Campus",
+            "ciudad": "Albany",
+            "estado": "NY",
+            "cp": "12240",
+            "mailing": "W. Averell Harriman State Office Building Campus, Albany, NY 12240"
+        },
+        "telefono": {
+            "toll_free": "(888) 469-7365",
+            "local": "(518) 457-2738"
+        },
+        "email": "licensing@labor.ny.gov",
+        "web": "https://www.labor.ny.gov/",
+        "verificar_licencia": "https://www.labor.ny.gov/",
+        "source": "https://www.labor.ny.gov/"
+    },
+    "roadmap": {
+        "_description": "Camino profesional del técnico HVAC en New York - pasos progresivos",
+        "ai_generated": true,
+        "layout": "timeline",
+        "nota_general": "En New York, los técnicos HVAC necesitan certificación EPA 608 obligatoria para trabajar con refrigerantes. Muchos empleadores también requieren certificaciones adicionales de NATE o HVAC Excellence. La ciudad de New York tiene requisitos adicionales del DOB.",
+        "tipos": [
+            {
+                "id": "epa-608",
+                "titulo_en": "EPA 608 Certification",
+                "titulo_es": "Certificación EPA 608",
+                "es_principal": true,
+                "color_badge": "#dc2626",
+                "descripcion_corta": "Certificación federal OBLIGATORIA para trabajar con sistemas de refrigeración y aire acondicionado que contengan refrigerantes regulados.",
+                "scope_of_work": "Permite instalar, reparar y dar mantenimiento a sistemas HVAC que utilizan refrigerantes. Requerido por ley federal en todo Estados Unidos.",
+                "requisitos": {
+                    "edad_minima": 18,
+                    "educacion_previa": "Ninguna formalmente requerida, pero se recomienda curso de preparación",
+                    "experiencia": "No requerida para tomar el examen",
+                    "examen": "Aprobar examen EPA 608 en uno o más niveles (Type I, II, III o Universal)"
+                },
+                "examen": {
+                    "partes": 4,
+                    "nombre": "EPA Section 608 Technician Certification",
+                    "administrador": "Organizaciones aprobadas por EPA (ESCO Institute, Mainstream Engineering, etc.)",
+                    "idiomas": [
+                        "Inglés"
+                    ],
+                    "parte_1": {
+                        "nombre": "Core (Núcleo)",
+                        "formato": "Opción múltiple - 25 preguntas",
+                        "puntaje_minimo": "70% (18 correctas)",
+                        "cuando_tomarlo": "Obligatorio para todos los niveles",
+                        "contenido_principal": [
+                            "Clean Air Act y regulaciones EPA",
+                            "Ozono y calentamiento global",
+                            "Seguridad con refrigerantes",
+                            "Recuperación y reciclaje de refrigerantes"
+                        ]
+                    },
+                    "parte_2": {
+                        "nombre": "Type I - Equipos pequeños",
+                        "formato": "Opción múltiple - 25 preguntas",
+                        "puntaje_minimo": "70%",
+                        "cuando_tomarlo": "Para trabajar en refrigeradores, congeladores, aires acondicionados de ventana",
+                        "contenido_principal": [
+                            "Recuperación de refrigerante en equipos pequeños",
+                            "Disposición de equipos",
+                            "Procedimientos de servicio"
+                        ]
+                    },
+                    "costo": 50,
+                    "retakes": "Permitidos después de 30 días, tarifa adicional",
+                    "source": "https://www.epa.gov/section608/section-608-technician-certification"
+                },
+                "costos": {
+                    "examen_escrito": 50,
+                    "aplicacion_licencia": 0,
+                    "total_examenes_y_licencia": 50
+                },
+                "como_aplicar": {
+                    "metodo": "A través de organizaciones certificadoras aprobadas por EPA",
+                    "url": "https://www.epa.gov/section608/section-608-technician-certification",
+                    "tiempo_procesamiento": "Inmediato al aprobar (certificado digital)",
+                    "pasos": [
+                        "Estudiar material de preparación (curso recomendado 1-4 semanas)",
+                        "Registrarte con una organización certificadora aprobada",
+                        "Tomar el examen (presencial u online supervisado)",
+                        "Recibir certificado al aprobar"
+                    ]
+                },
+                "nota": "La certificación Universal (Core + Type I + II + III) es la más completa y te permite trabajar en cualquier tipo de equipo HVAC. Es la más recomendada.",
+                "source": "https://www.epa.gov/section608"
+            },
+            {
+                "id": "hvac-technician-entry",
+                "titulo_en": "Entry-Level HVAC Technician",
+                "titulo_es": "Técnico HVAC Nivel Básico",
+                "es_principal": false,
+                "color_badge": "#3b82f6",
+                "descripcion_corta": "Técnico con certificación EPA 608 y diploma de programa vocacional. Puede trabajar bajo supervisión.",
+                "scope_of_work": "Instalación, mantenimiento y reparación básica de sistemas HVAC residenciales y comerciales ligeros bajo supervisión de técnico master.",
+                "requisitos": {
+                    "edad_minima": 18,
+                    "educacion_previa": "Diploma de high school o GED",
+                    "horas_escuela": 720,
+                    "escuela_aprobada": "Programa vocacional o trade school acreditado",
+                    "licencia_previa": "Certificación EPA 608 (mínimo Type II o Universal)"
+                },
+                "horas_escuela": 720,
+                "costos": {
+                    "aplicacion_licencia": 0,
+                    "examen_escrito": 50,
+                    "total_examenes_y_licencia": 50
+                },
+                "como_aplicar": {
+                    "metodo": "Completar programa de trade school",
+                    "tiempo_procesamiento": "6-12 meses de entrenamiento",
+                    "pasos": [
+                        "Completar programa HVAC de trade school (6-12 meses)",
+                        "Obtener certificación EPA 608",
+                        "Buscar empleo como aprendiz o ayudante",
+                        "Ganar experiencia bajo supervisión"
+                    ]
+                },
+                "nota": "Muchos empleadores ofrecen programas de aprendizaje pagado (apprenticeship) que combinan trabajo y educación.",
+                "source": "https://www.labor.ny.gov/"
+            },
+            {
+                "id": "nate-certified",
+                "titulo_en": "NATE Certified Technician",
+                "titulo_es": "Técnico Certificado NATE",
+                "es_principal": false,
+                "color_badge": "#10b981",
+                "descripcion_corta": "Certificación reconocida por la industria que demuestra competencia técnica avanzada. Altamente valorada por empleadores.",
+                "scope_of_work": "Mismo scope que técnico básico, pero con credenciales reconocidas nacionalmente que aumentan empleabilidad y salario.",
+                "requisitos": {
+                    "edad_minima": 18,
+                    "experiencia": "Mínimo 2 años trabajando en HVAC recomendado",
+                    "licencia_previa": "EPA 608 Universal",
+                    "examen": "Aprobar exámenes NATE en especialidades elegidas"
+                },
+                "examen": {
+                    "partes": 2,
+                    "nombre": "NATE Certification Exams",
+                    "administrador": "North American Technician Excellence (NATE)",
+                    "idiomas": [
+                        "Inglés"
+                    ],
+                    "parte_1": {
+                        "nombre": "Core Exam",
+                        "formato": "Opción múltiple - 100 preguntas",
+                        "puntaje_minimo": "70%",
+                        "cuando_tomarlo": "Antes de tomar exámenes de especialidad",
+                        "contenido_principal": [
+                            "Fundamentos de refrigeración",
+                            "Electricidad y controles",
+                            "Seguridad",
+                            "Herramientas y equipos"
+                        ]
+                    },
+                    "parte_2": {
+                        "nombre": "Specialty Exams",
+                        "formato": "Opción múltiple - 100 preguntas por especialidad",
+                        "puntaje_minimo": "70%",
+                        "cuando_tomarlo": "Después de aprobar Core",
+                        "contenido_principal": [
+                            "Air Conditioning",
+                            "Heat Pumps",
+                            "Gas Heating",
+                            "Oil Heating",
+                            "Light Commercial Refrigeration"
+                        ]
+                    },
+                    "costo": 109,
+                    "retakes": "Permitidos, tarifa completa por reintento",
+                    "source": "https://www.natex.org/"
+                },
+                "costos": {
+                    "examen_escrito": 109,
+                    "aplicacion_licencia": 109,
+                    "total_examenes_y_licencia": 218
+                },
+                "como_aplicar": {
+                    "metodo": "Online en sitio de NATE",
+                    "url": "https://www.natex.org/",
+                    "tiempo_procesamiento": "Resultados inmediatos al terminar examen",
+                    "pasos": [
+                        "Crear cuenta en NATE",
+                        "Registrarse para Core exam + especialidad",
+                        "Estudiar con materiales oficiales (2-3 meses)",
+                        "Tomar examen en centro Pearson VUE",
+                        "Renovar cada 2 años con educación continua"
+                    ]
+                },
+                "nota": "NATE es la certificación más reconocida en la industria HVAC. Los técnicos certificados ganan 10-20% más que no certificados.",
+                "source": "https://www.natex.org/"
+            },
+            {
+                "id": "master-hvac",
+                "titulo_en": "Master HVAC Technician",
+                "titulo_es": "Técnico HVAC Master",
+                "es_principal": true,
+                "color_badge": "#7c3aed",
+                "descripcion_corta": "Técnico experto con años de experiencia, múltiples certificaciones y capacidad de supervisar proyectos comerciales complejos.",
+                "scope_of_work": "Diseño, instalación y supervisión de sistemas HVAC comerciales e industriales. Puede dirigir equipos y obtener permisos para proyectos mayores.",
+                "requisitos": {
+                    "edad_minima": 18,
+                    "experiencia": "5+ años como técnico HVAC",
+                    "licencia_previa": "EPA 608 Universal + NATE certificaciones + licencias NYC DOB si aplica",
+                    "examen_medico": "Background check para trabajos en NYC"
+                },
+                "costos": {
+                    "aplicacion_licencia": 300,
+                    "examen_escrito": 0,
+                    "total_examenes_y_licencia": 300
+                },
+                "como_aplicar": {
+                    "metodo": "Por experiencia y certificaciones acumuladas",
+                    "tiempo_procesamiento": "5-7 años desde inicio de carrera",
+                    "pasos": [
+                        "Acumular 5+ años de experiencia documentada",
+                        "Obtener certificaciones avanzadas (NATE, HVAC Excellence)",
+                        "Para NYC: obtener licencias especializadas del DOB",
+                        "Especializarse en comercial/industrial",
+                        "Considerar licencia de contratista independiente"
+                    ]
+                },
+                "nota": "En NYC, trabajos comerciales requieren licencias adicionales del Department of Buildings. Verifica requisitos específicos de tu municipio.",
+                "source": "https://www.labor.ny.gov/"
+            }
+        ]
+    },
+    "calculadora_inversion": {
+        "ai_generated": true,
+        "_description": "Escenarios de inversión para diferentes rutas en HVAC New York",
+        "escenarios": [
+            {
+                "id": "ruta-rapida-epa",
+                "licencia": "EPA 608 Universal + Entry Level",
+                "inversion": {
+                    "escuela_rango": "$3,000 - $8,000",
+                    "escuela_nota": "Programa vocacional de 6-12 meses en trade school (BOCES, trade schools privadas)",
+                    "examen_escrito": 50,
+                    "kit_herramientas": "$500 - $1,500",
+                    "kit_nota": "Multímetro, manifold gauges, herramientas básicas, detector de fugas",
+                    "aplicacion_licencia": 0,
+                    "total_minimo": "$3,550",
+                    "total_maximo": "$9,550"
+                },
+                "tiempo": "6-12 meses",
+                "salario_esperado": {
+                    "empleada": "$35,000 - $45,000/año como aprendiz/ayudante",
+                    "con_experiencia": "$50,000 - $70,000/año después de 2-3 años",
+                    "nota": "Los salarios iniciales en NYC son 20-30% más altos que upstate"
+                },
+                "roi_nota": "Inversión se recupera en 6-12 meses de trabajo. Demanda muy alta, especialmente en verano."
+            },
+            {
+                "id": "ruta-completa-nate",
+                "licencia": "EPA 608 + NATE Certified + 2-3 años experiencia",
+                "inversion": {
+                    "escuela_rango": "$3,000 - $8,000",
+                    "escuela_nota": "Programa inicial de trade school",
+                    "examen_escrito": 268,
+                    "examen_nota": "$50 EPA + $109 NATE Core + $109 NATE Specialty",
+                    "kit_herramientas": "$2,000 - $4,000",
+                    "kit_nota": "Kit profesional completo: manifold digital, micrómetros, analizador de combustión, detector electrónico de fugas",
+                    "total_minimo": "$5,268",
+                    "total_maximo": "$12,268"
+                },
+                "tiempo": "2-3 años desde inicio",
+                "salario_esperado": {
+                    "empleada": "$55,000 - $75,000/año con NATE",
+                    "med_spa_especialista": "$70,000 - $90,000/año en comercial/industrial",
+                    "nota": "Certificación NATE aumenta salario 10-20% vs no certificados"
+                },
+                "roi_nota": "Inversión adicional en NATE se paga en menos de 1 año con el aumento salarial."
+            },
+            {
+                "id": "ruta-master-comercial",
+                "licencia": "Master HVAC + NYC DOB Licenses (si aplica)",
+                "inversion": {
+                    "escuela_rango": "$10,000 - $15,000",
+                    "escuela_nota": "Educación inicial + cursos avanzados + certificaciones especializadas acumuladas",
+                    "examen_escrito": 500,
+                    "examen_nota": "Múltiples certificaciones (EPA, NATE, especialidades)",
+                    "kit_herramientas": "$5,000 - $10,000",
+                    "kit_nota": "Kit completo profesional + herramientas especializadas para comercial",
+                    "aplicacion_licencia": 300,
+                    "licencia_nota": "Licencias NYC DOB si trabaja en NYC",
+                    "total_minimo": "$15,800",
+                    "total_maximo": "$25,800"
+                },
+                "tiempo": "5-7 años desde inicio de carrera",
+                "salario_esperado": {
+                    "empleada": "$75,000 - $95,000/año como master técnico",
+                    "independiente_booth_rental": "$90,000 - $130,000+/año con negocio propio",
+                    "nota": "Masters con negocio propio en NYC pueden superar $150k en temporada alta"
+                },
+                "nota": "Requiere años de experiencia y múltiples certificaciones. Solo para técnicos con trayectoria comprobada.",
+                "roi_nota": "Inversión total se recupera en 1-2 años operando negocio propio o en posición senior."
+            }
+        ]
+    },
+    "renovacion": {
+        "ai_generated": true,
+        "frecuencia": "Varía según certificación",
+        "metodo": "Online con cada organización certificadora",
+        "costo_renovacion": 30,
+        "ce_requerida": {
+            "horas_totales": 10,
+            "temas": [
+                "Actualizaciones en códigos y regulaciones",
+                "Nuevas tecnologías HVAC (sistemas inverter, refrigerantes ecológicos)",
+                "Seguridad y buenas prácticas",
+                "Eficiencia energética"
+            ],
+            "nota": "EPA 608 NO expira (certificación de por vida). NATE requiere renovación cada 2 años con 16 horas de CE. Licencias NYC DOB tienen sus propios requisitos."
+        },
+        "consecuencias_no_renovar": {
+            "nate": "Pérdida de certificación NATE - debes volver a certificarte desde cero",
+            "nyc_dob": "No puedes sacar permisos ni trabajar legalmente en proyectos comerciales NYC",
+            "epa_608": "No aplica - certificación de por vida"
+        },
+        "source": "https://www.natex.org/"
+    },
+    "reciprocidad": {
+        "ai_generated": true,
+        "disponible": true,
+        "nombre_proceso": "Reciprocidad Limitada",
+        "requisitos": [
+            "EPA 608 es válida en todo Estados Unidos (federal)",
+            "NATE es reconocida nacionalmente",
+            "Licencias estatales/municipales varían - NYC requiere licencias propias del DOB"
+        ],
+        "nota": "La certificación EPA 608 es federal y válida en los 50 estados. Sin embargo, New York City tiene requisitos adicionales del Department of Buildings para trabajos comerciales. Si te mudas a NYC desde otro estado, necesitarás obtener las licencias específicas de NYC DOB.",
+        "url": "https://www.nyc.gov/site/buildings/index.page",
+        "experiencia_como_horas": "No aplica - se basa en certificaciones",
+        "source": "https://www.epa.gov/section608"
+    },
+    "salarios": {
+        "ai_generated": true,
+        "nota_importante": "Los técnicos HVAC en New York ganan significativamente más en NYC y Long Island que en upstate. Temporada alta (verano) genera mucho overtime y llamadas de emergencia que pagan premium.",
+        "nacional_2024": {
+            "mediana": "$57,300/año",
+            "por_hora_mediana": "$27.55/hr",
+            "percentil_10": "$36,770/año",
+            "percentil_90": "$88,320/año",
+            "crecimiento_proyectado": "6% (2023-2033) - Más rápido que promedio",
+            "source": "https://www.bls.gov/oes/current/oes499021.htm"
+        },
+        "texas": {
+            "promedio_anual": "$62,570",
+            "promedio_hora": "$30.08",
+            "top_earners": "$95,000+",
+            "source": "BLS New York May 2024"
+        },
+        "por_ciudad_texas": [
+            {
+                "ciudad": "New York City (NYC)",
+                "salario_medio": "$68,250",
+                "top_earners": "$105,000+",
+                "source": "BLS"
+            },
+            {
+                "ciudad": "Long Island (Nassau-Suffolk)",
+                "salario_medio": "$65,840",
+                "top_earners": "$98,000+",
+                "source": "BLS"
+            },
+            {
+                "ciudad": "Buffalo-Niagara Falls",
+                "salario_medio": "$54,320",
+                "top_earners": "$78,000+",
+                "source": "BLS"
+            },
+            {
+                "ciudad": "Rochester",
+                "salario_medio": "$55,680",
+                "top_earners": "$80,000+",
+                "source": "BLS"
+            },
+            {
+                "ciudad": "Albany-Schenectady",
+                "salario_medio": "$56,920",
+                "top_earners": "$82,000+",
+                "source": "BLS"
+            }
+        ],
+        "ingresos_reales": {
+            "ai_generated": true,
+            "nota": "Los datos del BLS no capturan el ingreso total real de técnicos HVAC. En temporada alta (mayo-septiembre), el overtime y llamadas de emergencia aumentan ingresos 30-50%.",
+            "factores_adicionales": [
+                "Overtime en temporada alta (tiempo y medio después de 40 hrs/semana)",
+                "Llamadas de emergencia 24/7 (pagan doble o triple)",
+                "Comisiones por ventas de sistemas nuevos ($500-2000 por venta)",
+                "Bonos por eficiencia y satisfacción del cliente",
+                "Propinas de clientes residenciales satisfechos",
+                "Trabajo independiente los fines de semana (side jobs)"
+            ],
+            "estimado_realista": {
+                "recien_licenciada": "Aprendiz: $35,000 - $45,000/año",
+                "3_5_años_experiencia": "Técnico certificado: $55,000 - $75,000/año (con overtime)",
+                "especialista_o_independiente": "Master técnico o comercial: $75,000 - $95,000/año",
+                "dueña_salon": "Contratista con negocio propio NYC: $100,000 - $180,000+/año"
+            }
+        }
+    },
+    "errores_comunes": {
+        "ai_generated": true,
+        "items": [
+            {
+                "error": "Trabajar con refrigerantes sin certificación EPA 608",
+                "por_que_importa": "Es ILEGAL federal trabajar con refrigerantes sin EPA 608. Las multas de EPA pueden ser $37,500 por violación (por DÍA). Además, si te descubren, puedes ser inhabilitado permanentemente y tu empleador multado severamente.",
+                "solucion": "Obtén tu EPA 608 Universal ANTES de tocar cualquier sistema con refrigerante. El examen cuesta solo $50 y puedes tomarlo en 1 día después de estudiar 1-2 semanas."
+            },
+            {
+                "error": "No invertir en herramientas de calidad desde el inicio",
+                "por_que_importa": "Herramientas baratas te hacen perder tiempo, dar diagnósticos incorrectos, y dañar equipos de clientes. Un manifold gauge barato puede dar lecturas erróneas que te hacen agregar refrigerante de más, dañando el compresor ($1500-3000 de daño).",
+                "solucion": "Invierte al menos $800-1200 en un kit básico de calidad: manifold digital, multímetro Fluke, detector electrónico de fugas, termómetro infrarrojo. Se pagan solos en semanas."
+            },
+            {
+                "error": "Pensar que la certificación EPA 608 es suficiente para conseguir buen trabajo",
+                "por_que_importa": "EPA 608 es el MÍNIMO legal. Los empleadores buscan técnicos con diploma de trade school Y certificación NATE. Sin NATE, solo calificas para puestos de ayudante mal pagados ($15-18/hr vs $25-35/hr).",
+                "solucion": "Obtén EPA 608 + diploma de trade school como mínimo. Luego trabaja 2 años y certifícate en NATE para aumentar tu salario 20-30%."
+            },
+            {
+                "error": "No dominar terminología técnica en inglés",
+                "por_que_importa": "Todos los manuales, códigos, diagramas y comunicación con proveedores es en inglés técnico. Si no dominas términos como 'compressor', 'evaporator coil', 'subcooling', 'superheat', no podrás hacer diagnósticos correctos ni comunicarte con dispatch.",
+                "solucion": "Estudia vocabulario técnico HVAC en inglés desde el día 1. Haz flashcards bilingües de los 200 términos más comunes. Busca escuelas con instructores bilingües que te expliquen conceptos en español pero te enseñen los términos en inglés."
+            },
+            {
+                "error": "No llevar registro detallado de horas y trabajos realizados",
+                "por_que_importa": "Para certificaciones avanzadas y licencias NYC DOB necesitas comprobar experiencia específica (ej. 500 horas en sistemas comerciales, 300 horas en chillers). Sin registros detallados firmados por supervisores, no puedes comprobar nada.",
+                "solucion": "Desde tu primer día, lleva un log semanal de: fecha, tipo de trabajo, horas, sistema trabajado, supervisor. Pide firmas cada mes. Guarda copias digitales y físicas."
+            },
+            {
+                "error": "Ignorar los requisitos adicionales de NYC si trabajas en la ciudad",
+                "por_que_importa": "NYC Department of Buildings requiere licencias específicas para trabajos comerciales, industriales y en edificios altos. Si trabajas sin ellas, te pueden multar $1000-5000 y el DOB puede clausurar el proyecto completo (enojando a tu empleador).",
+                "solucion": "Si trabajas en los 5 boroughs de NYC, verifica QUÉ licencias específicas necesitas del DOB para tu tipo de trabajo. Muchos requieren Master Refrigeration Operating Engineer (ROE) o similar."
+            }
+        ]
+    },
+    "faqs": {
+        "ai_generated": true,
+        "items": [
+            {
+                "pregunta": "¿Necesito papeles para sacar la certificación EPA 608 en New York?",
+                "respuesta": "No. La certificación EPA 608 no requiere número de Seguro Social ni estatus migratorio. Solo necesitas pagar, estudiar y aprobar el examen. Sin embargo, para trabajar legalmente en Estados Unidos sí necesitas autorización de trabajo (Work Permit, Green Card, ciudadanía, etc.).",
+                "source": "EPA"
+            },
+            {
+                "pregunta": "¿El examen de EPA 608 está en español?",
+                "respuesta": "No. El examen EPA 608 solo se ofrece en inglés. Algunos materiales de estudio de terceros están disponibles en español, pero el examen oficial es en inglés. Recomendamos estudiar la terminología técnica HVAC en inglés con anticipación.",
+                "source": "EPA"
+            },
+            {
+                "pregunta": "¿Cuánto tiempo toma convertirse en técnico HVAC certificado en New York?",
+                "respuesta": "Entre 6-12 meses para completar un programa de trade school y obtener EPA 608 Universal. Después necesitas 1-2 años de experiencia trabajando para ser contratado como técnico certificado completo. NATE requiere mínimo 2 años de experiencia recomendada.",
+                "source": "NATE / Trade Schools"
+            },
+            {
+                "pregunta": "¿Cuánto cuesta el programa completo de HVAC en New York?",
+                "respuesta": "Programas de trade school cuestan entre $3,000-8,000 dependiendo de la escuela (BOCES tiende a ser más económico, escuelas privadas más caras). EPA 608 cuesta $50. NATE certificaciones cuestan $109-218. Kit de herramientas básico: $500-1500. Total estimado: $4,000-10,000 para empezar.",
+                "source": "Trade Schools NY"
+            },
+            {
+                "pregunta": "¿Cuánto gana un técnico HVAC en New York City?",
+                "respuesta": "En NYC, técnicos certificados con 2-3 años de experiencia ganan $60,000-75,000/año base. Con overtime en temporada alta (verano), muchos superan $80,000-90,000. Masters con negocio propio pueden ganar $100,000-180,000+ anual.",
+                "source": "BLS + industria"
+            },
+            {
+                "pregunta": "¿La certificación EPA 608 expira?",
+                "respuesta": "No. La certificación EPA 608 es de por vida y no requiere renovación ni educación continua. Una vez que apruebas, eres certificado permanentemente. NATE sí requiere renovación cada 2 años.",
+                "source": "EPA"
+            },
+            {
+                "pregunta": "¿Puedo trabajar en New Jersey o Connecticut con mi certificación de New York?",
+                "respuesta": "EPA 608 es federal y válida en todo Estados Unidos. NATE también es reconocida nacionalmente. Sin embargo, algunos estados o municipios tienen licencias adicionales propias. Verifica requisitos específicos del estado donde planeas trabajar.",
+                "source": "EPA"
+            },
+            {
+                "pregunta": "¿Qué escuelas de HVAC en New York son recomendadas?",
+                "respuesta": "BOCES (Board of Cooperative Educational Services) ofrece programas económicos en múltiples condados. Lincoln Technical Institute (Queens, Bronx), Apex Technical School (Manhattan), y Hudson Valley Community College (Albany) son opciones populares. Busca escuelas acreditadas por HVAC Excellence o Partnership for Air-Conditioning, Heating, Refrigeration Accreditation (PAHRA).",
+                "source": "NY Trade Schools"
+            },
+            {
+                "pregunta": "¿Necesito licencia especial para trabajar en edificios comerciales en NYC?",
+                "respuesta": "Sí. NYC Department of Buildings requiere licencias específicas como Refrigeration Operating Engineer (ROE) para sistemas de refrigeración comerciales, y otras licencias según el tipo y tamaño del sistema. Verifica en nyc.gov/buildings los requisitos específicos.",
+                "source": "NYC DOB"
+            },
+            {
+                "pregunta": "¿Puedo estudiar HVAC en español en New York?",
+                "respuesta": "Hay algunas escuelas con instructores bilingües (especialmente en NYC, Bronx, Queens), pero la mayoría de los programas son en inglés porque toda la documentación técnica (manuales, códigos, certificaciones) está en inglés. Busca escuelas que ofrezcan soporte bilingüe para facilitar el aprendizaje.",
+                "source": "Trade Schools"
+            }
+        ]
+    },
+    "enlaces_utiles": {
+        "ai_generated": true,
+        "enlaces": [
+            {
+                "categoria": "Certificación Federal EPA",
+                "enlaces": [
+                    {
+                        "titulo": "EPA Section 608 - Información Oficial",
+                        "url": "https://www.epa.gov/section608",
+                        "descripcion": "Información oficial de EPA sobre certificación 608, requisitos y organizaciones certificadoras aprobadas"
+                    },
+                    {
+                        "titulo": "ESCO Institute - Certificación EPA",
+                        "url": "https://www.escoinst.com/",
+                        "descripcion": "Una de las organizaciones más grandes para tomar examen EPA 608"
+                    },
+                    {
+                        "titulo": "Mainstream Engineering - Examen EPA",
+                        "url": "https://www.mainstream-engr.com/",
+                        "descripcion": "Organización certificadora EPA con cursos de preparación"
+                    }
+                ]
+            },
+            {
+                "categoria": "Certificación Industria (NATE)",
+                "enlaces": [
+                    {
+                        "titulo": "NATE - North American Technician Excellence",
+                        "url": "https://www.natex.org/",
+                        "descripcion": "Certificación más reconocida en la industria HVAC. Información de exámenes y preparación"
+                    },
+                    {
+                        "titulo": "HVAC Excellence",
+                        "url": "https://www.hvacexcellence.org/",
+                        "descripcion": "Otra certificación reconocida, alternativa o complementaria a NATE"
+                    }
+                ]
+            },
+            {
+                "categoria": "Agencias Gubernamentales NY",
+                "enlaces": [
+                    {
+                        "titulo": "NY Department of Labor - Licensing",
+                        "url": "https://www.labor.ny.gov/",
+                        "descripcion": "Información sobre licencias y regulaciones estatales"
+                    },
+                    {
+                        "titulo": "NYC Department of Buildings",
+                        "url": "https://www.nyc.gov/site/buildings/index.page",
+                        "descripcion": "Licencias específicas requeridas para trabajos comerciales en NYC"
+                    }
+                ]
+            },
+            {
+                "categoria": "Educación y Escuelas",
+                "enlaces": [
+                    {
+                        "titulo": "BOCES - Career & Technical Education",
+                        "url": "https://www.p-tech.org/",
+                        "descripcion": "Programas vocacionales HVAC económicos en múltiples condados NY"
+                    },
+                    {
+                        "titulo": "Lincoln Technical Institute NY",
+                        "url": "https://www.lincolntech.edu/",
+                        "descripcion": "Trade school con campus en Queens, Bronx. Programas HVAC 9-12 meses"
+                    },
+                    {
+                        "titulo": "Apex Technical School",
+                        "url": "https://www.apexschool.com/",
+                        "descripcion": "Manhattan. Programas de día y noche, ayuda financiera disponible"
+                    }
+                ]
+            },
+            {
+                "categoria": "Datos de Empleo y Salarios",
+                "enlaces": [
+                    {
+                        "titulo": "BLS - HVAC Mechanics and Installers",
+                        "url": "https://www.bls.gov/oes/current/oes499021.htm",
+                        "descripcion": "Datos oficiales de salarios y proyecciones de empleo"
+                    },
+                    {
+                        "titulo": "BLS Occupational Outlook - HVAC",
+                        "url": "https://www.bls.gov/ooh/installation-maintenance-and-repair/heating-air-conditioning-and-refrigeration-mechanics-and-installers.htm",
+                        "descripcion": "Perspectivas de carrera y crecimiento esperado"
+                    }
+                ]
+            },
+            {
+                "categoria": "Asociaciones Profesionales",
+                "enlaces": [
+                    {
+                        "titulo": "ACCA - Air Conditioning Contractors of America",
+                        "url": "https://www.acca.org/",
+                        "descripcion": "Asociación nacional de contratistas HVAC, recursos y networking"
+                    },
+                    {
+                        "titulo": "ASHRAE - American Society of Heating, Refrigerating and Air-Conditioning Engineers",
+                        "url": "https://www.ashrae.org/",
+                        "descripcion": "Organización técnica, estándares de la industria"
+                    }
+                ]
+            }
+        ]
+    },
+    "servicios_sin_licencia": {
+        "ai_generated": true,
+        "titulo": "Trabajos HVAC que NO Requieren Licencia en New York",
+        "items": [
+            "Cambiar filtros de aire en sistemas residenciales",
+            "Limpiar rejillas y difusores de aire",
+            "Ajustar termostatos digitales",
+            "Mantenimiento básico de ventilación (limpiar ductos visibles)"
+        ],
+        "requiere_licencia": [
+            "CUALQUIER trabajo que involucre refrigerantes (requiere EPA 608)",
+            "Instalación de equipos nuevos (AC, furnaces, heat pumps)",
+            "Reparaciones de sistemas eléctricos o de gas",
+            "Trabajo en sistemas comerciales (siempre)",
+            "Modificar ductos o agregar componentes al sistema",
+            "Obtener permisos (solo contratistas licenciados pueden sacar permisos)"
+        ],
+        "source": "EPA / NY Labor Law"
+    },
+    "links_oficiales": {
+        "ai_generated": true,
+        "items": [
+            {
+                "nombre": "EPA Section 608 Certification",
+                "url": "https://www.epa.gov/section608",
+                "descripcion": "Página oficial de EPA sobre certificación obligatoria para refrigerantes"
+            },
+            {
+                "nombre": "NATE Certification",
+                "url": "https://www.natex.org/",
+                "descripcion": "Certificación reconocida por la industria (voluntaria pero muy recomendada)"
+            },
+            {
+                "nombre": "NY Department of Labor",
+                "url": "https://www.labor.ny.gov/",
+                "descripcion": "Licencias y regulaciones estatales"
+            },
+            {
+                "nombre": "NYC Department of Buildings",
+                "url": "https://www.nyc.gov/site/buildings/index.page",
+                "descripcion": "Licencias comerciales específicas de NYC"
+            },
+            {
+                "nombre": "BLS - HVAC Salary Data",
+                "url": "https://www.bls.gov/oes/current/oes499021.htm",
+                "descripcion": "Datos oficiales de salarios y empleo"
+            },
+            {
+                "nombre": "ESCO Institute - Tomar Examen EPA",
+                "url": "https://www.escoinst.com/",
+                "descripcion": "Organización certificadora EPA 608"
+            }
+        ]
+    }
+}

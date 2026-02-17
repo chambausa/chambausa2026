@@ -1,0 +1,824 @@
+{
+    "_meta": {
+        "schema_version": "2.0",
+        "page_id": "licencia-hvac-arizona",
+        "oficio": "hvac",
+        "estado": "arizona",
+        "last_verified": "2026-02-16",
+        "verified_by": "Claude AI - requiere verificación humana",
+        "notes": "Arizona requiere licencia de contratista para HVAC. Roadmap de Journeyman → Contractor. Examen en español no confirmado."
+    },
+    "page_seo": {
+        "title": "Licencia de HVAC en Arizona 2026: Guía Completa ROC y Requisitos",
+        "meta_description": "Cómo sacar la licencia de HVAC en Arizona paso a paso. Requisitos del ROC, 4 años de experiencia, examen y salarios. Guía completa 2026.",
+        "slug": "licencia-hvac-arizona",
+        "canonical_url": "https://chambaenusa.com/licencia-hvac-arizona/",
+        "h1": "Licencia de HVAC en Arizona",
+        "schema_types": [
+            "HowTo",
+            "FAQPage",
+            "BreadcrumbList"
+        ],
+        "keywords_primary": [
+            "licencia de hvac en arizona",
+            "licencia de aire acondicionado arizona",
+            "contractor hvac arizona"
+        ],
+        "keywords_secondary": [
+            "roc arizona hvac",
+            "cuanto gana un tecnico hvac en arizona",
+            "requisitos para licencia hvac arizona",
+            "renovar licencia hvac arizona"
+        ],
+        "keywords_long_tail": [
+            "como sacar la licencia de hvac en arizona sin seguro social",
+            "escuelas de hvac en phoenix en español",
+            "horas requeridas para licencia hvac arizona",
+            "examen de hvac en arizona en español"
+        ]
+    },
+    "hero": {
+        "ai_generated": true,
+        "badge": "Actualizado 2026",
+        "headline": "Licencia de HVAC en Arizona",
+        "subheadline": "Empieza como técnico sin licencia y avanza hasta ser Contratista con tu propio negocio. Arizona requiere 4 años de experiencia y examen del ROC para trabajar independiente.",
+        "key_stats": [
+            {
+                "label": "Sin Licencia Individual",
+                "value": "Trabajo bajo supervisión",
+                "detail": "Puedes trabajar como técnico empleado sin licencia personal, bajo un contratista licenciado",
+                "source": "https://roc.az.gov/",
+                "source_name": "Arizona ROC"
+            },
+            {
+                "label": "Contratista",
+                "value": "4 años de experiencia",
+                "detail": "Requiere 4 años (8,000 horas) de experiencia verificable + examen",
+                "source": "https://roc.az.gov/",
+                "source_name": "Arizona ROC"
+            },
+            {
+                "label": "Examen en Español",
+                "value": "⚠️ Verificar disponibilidad",
+                "detail": "Contacta al ROC para confirmar si el examen está disponible en español",
+                "source": "https://roc.az.gov/",
+                "source_name": "Arizona ROC"
+            },
+            {
+                "label": "Salario Mediano",
+                "value": "$56,920/año",
+                "detail": "Mediana en Arizona. Top earners $82,000+",
+                "source": "https://www.bls.gov/oes/current/oes499021.htm",
+                "source_name": "BLS May 2024"
+            }
+        ],
+        "cta_primary": {
+            "text": "Ver Pasos del Camino",
+            "anchor": "#roadmap"
+        },
+        "cta_secondary": {
+            "text": "Ver Salarios",
+            "anchor": "#salarios"
+        }
+    },
+    "callout_espanol": {
+        "ai_generated": true,
+        "type": "warning_box",
+        "icon": "⚠️",
+        "title": "Importante: Verifica disponibilidad del examen en español",
+        "content": "A diferencia de otros estados como Texas, Arizona ROC no especifica claramente en su sitio web si los exámenes de contratista HVAC están disponibles en español. Es CRÍTICO que contactes directamente al ROC al (602) 542-1525 o (877) 692-9762 para confirmar opciones de idioma antes de programar tu examen. Pregunta específicamente por el examen de 'K-11 Commercial/Residential HVAC Contractor'.",
+        "source": "https://roc.az.gov/",
+        "source_name": "Arizona ROC"
+    },
+    "autoridad_reguladora": {
+        "ai_generated": true,
+        "nombre": "Arizona Registrar of Contractors (ROC)",
+        "programa": "HVAC Contractor Licensing",
+        "direccion": {
+            "calle": "1700 W Washington Street, Suite 105",
+            "ciudad": "Phoenix",
+            "estado": "AZ",
+            "cp": "85007"
+        },
+        "telefono": {
+            "local": "(602) 542-1525",
+            "toll_free": "(877) 692-9762"
+        },
+        "email": "info@roc.az.gov",
+        "web": "https://roc.az.gov/",
+        "verificar_licencia": "https://roc.az.gov/license-search",
+        "source": "https://roc.az.gov/"
+    },
+    "roadmap": {
+        "_description": "Camino profesional del técnico HVAC en Arizona - Timeline de progresión",
+        "ai_generated": true,
+        "layout": "timeline",
+        "nota_general": "Arizona no requiere licencia individual para trabajar como técnico HVAC empleado. Solo necesitas licencia de contratista (ROC) si quieres trabajar independiente, sacar permisos o tener tu propio negocio. La mayoría empieza trabajando para una compañía licenciada mientras acumula experiencia.",
+        "tipos": [
+            {
+                "id": "tecnico-sin-licencia",
+                "titulo_en": "HVAC Technician (Unlicensed)",
+                "titulo_es": "Técnico HVAC (Sin Licencia)",
+                "es_principal": false,
+                "color_badge": "#3b82f6",
+                "descripcion_corta": "Técnico empleado que trabaja bajo la supervisión de un contratista licenciado. No requiere licencia personal.",
+                "scope_of_work": "Instalación, mantenimiento y reparación de sistemas HVAC bajo supervisión de contratista ROC licenciado. No puede sacar permisos ni trabajar independiente.",
+                "requisitos": {
+                    "educacion_previa": "Diploma de high school o GED recomendado",
+                    "licencia_previa": "Ninguna requerida para ser empleado",
+                    "experiencia": "Ninguna para empezar como ayudante"
+                },
+                "costos": {
+                    "aplicacion_licencia": 0
+                },
+                "como_aplicar": {
+                    "metodo": "Aplicar directamente a compañías HVAC licenciadas",
+                    "pasos": [
+                        "Buscar trabajo en compañías HVAC locales (Indeed, Craigslist, referencias)",
+                        "Considerar programa técnico o certificación EPA 608 para ser más competitivo",
+                        "Empezar como ayudante o aprendiz",
+                        "Documentar TODAS tus horas trabajadas para futura aplicación de contratista"
+                    ]
+                },
+                "nota": "Muchos técnicos HVAC en Arizona trabajan toda su carrera como empleados sin sacar licencia de contratista. Solo necesitas licencia ROC si quieres trabajar por tu cuenta o ser dueño de negocio.",
+                "source": "https://roc.az.gov/"
+            },
+            {
+                "id": "epa-608",
+                "titulo_en": "EPA Section 608 Certification",
+                "titulo_es": "Certificación EPA 608",
+                "es_principal": false,
+                "color_badge": "#10b981",
+                "descripcion_corta": "Certificación federal OBLIGATORIA para manipular refrigerantes. Requerida por EPA, no por Arizona.",
+                "scope_of_work": "Certificación federal que te permite legalmente manipular refrigerantes (freón, R-410A, etc.). Es ILEGAL trabajar con refrigerantes sin esta certificación.",
+                "requisitos": {
+                    "edad_minima": 18,
+                    "educacion_previa": "Ninguna oficialmente, pero conocimiento de HVAC básico ayuda",
+                    "examen": "Aprobar examen EPA 608 (4 tipos disponibles)"
+                },
+                "examen": {
+                    "partes": 4,
+                    "administrador": "Organizaciones aprobadas por EPA (ESCO, Mainstream Engineering, etc.)",
+                    "nombre": "EPA Section 608 Certification",
+                    "idiomas": [
+                        "Inglés",
+                        "Español disponible con algunos proveedores"
+                    ]
+                },
+                "costos": {
+                    "examen_escrito": 120,
+                    "total_examenes_y_licencia": 120
+                },
+                "como_aplicar": {
+                    "metodo": "Tomar curso de preparación y examen con proveedor aprobado EPA",
+                    "pasos": [
+                        "Elegir tipo de certificación: Type I (pequeños aparatos), Type II (alta presión), Type III (baja presión), o Universal (todos)",
+                        "Tomar curso de preparación (opcional pero muy recomendado) - $150-300",
+                        "Agendar examen con proveedor aprobado EPA",
+                        "Aprobar examen (70% mínimo)",
+                        "Recibir tarjeta EPA 608 (válida de por vida)"
+                    ]
+                },
+                "nota": "UNIVERSAL es el más completo y recomendado - cuesta lo mismo que Type I, II o III individual pero cubre todo. La certificación EPA 608 es federal, NO del estado de Arizona, y es válida en todo USA de por vida.",
+                "source": "https://www.epa.gov/section608"
+            },
+            {
+                "id": "journeyman",
+                "titulo_en": "Journeyman HVAC (Informal)",
+                "titulo_es": "Oficial HVAC (Informal)",
+                "es_principal": false,
+                "color_badge": "#f59e0b",
+                "descripcion_corta": "Técnico experimentado con 2-4 años de experiencia. No es licencia oficial en Arizona, pero término usado en la industria.",
+                "scope_of_work": "Técnico con experiencia que puede trabajar de forma más independiente en el campo, pero aún bajo licencia del contratista empleador.",
+                "requisitos": {
+                    "experiencia": "2-4 años de experiencia verificable en HVAC",
+                    "licencia_previa": "Certificación EPA 608 requerida"
+                },
+                "nota": "Arizona NO tiene licencia oficial de 'Journeyman HVAC' como otros estados. Este es un nivel informal reconocido por la industria basado en experiencia. Sigues trabajando bajo licencia de tu empleador.",
+                "source": "Industria HVAC"
+            },
+            {
+                "id": "contractor-k11",
+                "titulo_en": "K-11 Commercial/Residential HVAC Contractor",
+                "titulo_es": "Contratista HVAC K-11 Comercial/Residencial",
+                "es_principal": true,
+                "color_badge": "#7c3aed",
+                "descripcion_corta": "Licencia de contratista completa que te permite trabajar independiente, sacar permisos y tener tu propio negocio HVAC.",
+                "scope_of_work": "Instalación, mantenimiento, modificación y reparación de sistemas HVAC en edificios comerciales y residenciales. Puede sacar permisos, contratar empleados y operar negocio propio.",
+                "requisitos": {
+                    "edad_minima": 18,
+                    "experiencia": "4 años (8,000 horas) de experiencia verificable en HVAC como técnico o supervisor",
+                    "examen": "Aprobar examen de contratista K-11 del ROC",
+                    "examen_medico": "No requerido",
+                    "licencia_previa": "Certificación EPA 608 (recomendada pero no oficialmente requerida por ROC)"
+                },
+                "examen": {
+                    "partes": 2,
+                    "parte_1": {
+                        "nombre": "Business Management Exam",
+                        "formato": "Opción múltiple por computadora",
+                        "puntaje_minimo": "70%",
+                        "cuando_tomarlo": "Antes o junto con el examen de trade",
+                        "contenido_principal": [
+                            "Leyes de contratistas de Arizona",
+                            "Gestión de negocios",
+                            "Contratos y licitaciones",
+                            "Seguros y bonos",
+                            "Responsabilidad legal"
+                        ]
+                    },
+                    "parte_2": {
+                        "nombre": "K-11 HVAC Trade Exam",
+                        "formato": "Opción múltiple por computadora",
+                        "puntaje_minimo": "70%",
+                        "cuando_tomarlo": "Después de aprobar Business Management",
+                        "contenido_principal": [
+                            "Códigos de construcción de Arizona",
+                            "International Mechanical Code (IMC)",
+                            "International Fuel Gas Code (IFGC)",
+                            "Cálculos de carga térmica",
+                            "Diseño e instalación de ductos",
+                            "Refrigeración y aire acondicionado",
+                            "Sistemas de calefacción",
+                            "Ventilación y calidad de aire interior"
+                        ]
+                    },
+                    "administrador": "PSI Exams",
+                    "telefono_psi": "(855) 746-1552",
+                    "url_psi": "https://candidate.psiexams.com/",
+                    "retakes": "Puedes retomar cada examen después de 7 días. Pagas de nuevo cada intento.",
+                    "source": "https://roc.az.gov/"
+                },
+                "costos": {
+                    "aplicacion_licencia": 320,
+                    "examen_escrito": 140,
+                    "total_examenes_y_licencia": 460,
+                    "renovacion_cada_2_años": 320
+                },
+                "como_aplicar": {
+                    "metodo": "En línea en el portal del ROC",
+                    "url": "https://roc.az.gov/licensing/apply",
+                    "tiempo_procesamiento": "4-8 semanas después de enviar aplicación completa",
+                    "pasos": [
+                        "Documentar 4 años (8,000 horas) de experiencia con cartas de empleadores anteriores",
+                        "Completar aplicación en línea del ROC",
+                        "Pagar tarifa de aplicación ($320)",
+                        "Agendar y aprobar Business Management Exam ($70)",
+                        "Agendar y aprobar K-11 Trade Exam ($70)",
+                        "Obtener seguro de responsabilidad civil (Liability Insurance) - $500-1,500/año",
+                        "Obtener Workers' Compensation si tendrás empleados",
+                        "Esperar procesamiento y recibir licencia"
+                    ]
+                },
+                "nota": "La licencia K-11 cubre tanto comercial como residencial (sin límite de tamaño). Arizona también ofrece K-38 (solo residential, hasta 2 unidades) que tiene requisitos menores, pero K-11 es más completo y valioso.",
+                "source": "https://roc.az.gov/"
+            },
+            {
+                "id": "contractor-k38",
+                "titulo_en": "K-38 Residential HVAC Contractor",
+                "titulo_es": "Contratista HVAC Residencial K-38",
+                "es_principal": false,
+                "color_badge": "#8b5cf6",
+                "descripcion_corta": "Licencia de contratista limitada solo para viviendas residenciales (1-2 familias). Requisitos menores que K-11.",
+                "scope_of_work": "Instalación, mantenimiento y reparación de sistemas HVAC SOLO en viviendas residenciales de 1-2 familias. NO puede trabajar en comercial, apartamentos grandes o industrial.",
+                "requisitos": {
+                    "edad_minima": 18,
+                    "experiencia": "2 años (4,000 horas) de experiencia verificable en HVAC residencial",
+                    "examen": "Aprobar examen de contratista K-38 del ROC"
+                },
+                "examen": {
+                    "partes": 2,
+                    "parte_1": {
+                        "nombre": "Business Management Exam",
+                        "formato": "Opción múltiple",
+                        "puntaje_minimo": "70%"
+                    },
+                    "parte_2": {
+                        "nombre": "K-38 Residential HVAC Trade Exam",
+                        "formato": "Opción múltiple",
+                        "puntaje_minimo": "70%"
+                    },
+                    "administrador": "PSI Exams",
+                    "source": "https://roc.az.gov/"
+                },
+                "costos": {
+                    "aplicacion_licencia": 320,
+                    "examen_escrito": 140,
+                    "total_examenes_y_licencia": 460,
+                    "renovacion_cada_2_años": 320
+                },
+                "nota": "K-38 es más rápido de obtener (2 años vs 4 años) pero muy limitado en scope. Si tu meta es trabajar en comercial o crecer tu negocio, mejor ve directo por K-11.",
+                "source": "https://roc.az.gov/"
+            }
+        ]
+    },
+    "calculadora_inversion": {
+        "ai_generated": true,
+        "_description": "Costos estimados para obtener licencia de contratista HVAC en Arizona",
+        "escenarios": [
+            {
+                "id": "k11-contractor",
+                "licencia": "K-11 Commercial/Residential HVAC Contractor",
+                "inversion": {
+                    "escuela_rango": "$3,000 - $15,000",
+                    "escuela_nota": "Opcional. Programa técnico de HVAC en community college (1-2 años) o curso corto privado (6-12 meses). Muchos aprenden trabajando sin escuela.",
+                    "examen_medico_dl51": "N/A",
+                    "certificacion_epa_608": "$120 - $400",
+                    "curso_preparacion_examen": "$300 - $800",
+                    "examen_escrito": "$140 (Business + Trade)",
+                    "aplicacion_licencia": "$320",
+                    "kit_herramientas_basico": "$2,000 - $5,000",
+                    "kit_nota": "Herramientas básicas de HVAC: manifold gauges, multímetro, tubing cutter, torch kit, vacuum pump, recovery machine (si compras nueva). Muchos empiezan con herramientas usadas o del empleador.",
+                    "seguro_responsabilidad": "$500 - $1,500/año",
+                    "total_minimo": "$3,380 (sin escuela, herramientas usadas)",
+                    "total_maximo": "$23,160 (con escuela completa, herramientas nuevas)"
+                },
+                "tiempo": "4-6 años (4 años experiencia + tiempo de estudio y examen)",
+                "salario_esperado": {
+                    "empleada": "$40,000 - $50,000 (técnico empleado)",
+                    "con_experiencia": "$55,000 - $70,000 (journeyman empleado)",
+                    "independiente_booth_rental": "$65,000 - $95,000 (contratista independiente)",
+                    "nota": "Contratistas con negocio establecido pueden ganar $80,000 - $150,000+ dependiendo de volumen de trabajo"
+                },
+                "roi_nota": "Si trabajas como empleado mientras acumulas experiencia, tu inversión real es baja (solo examen + aplicación). El ROI es excelente una vez obtienes la licencia y puedes trabajar independiente o tener tu negocio.",
+                "nota": "Muchos técnicos HVAC nunca sacan licencia de contratista y ganan bien como empleados ($50k-70k). La licencia ROC es principalmente para trabajar independiente o tener negocio propio."
+            },
+            {
+                "id": "k38-residential",
+                "licencia": "K-38 Residential HVAC Contractor",
+                "inversion": {
+                    "escuela_rango": "$3,000 - $15,000",
+                    "escuela_nota": "Mismo que K-11 - opcional",
+                    "certificacion_epa_608": "$120 - $400",
+                    "curso_preparacion_examen": "$200 - $600",
+                    "examen_escrito": "$140",
+                    "aplicacion_licencia": "$320",
+                    "kit_herramientas_basico": "$2,000 - $5,000",
+                    "seguro_responsabilidad": "$400 - $1,200/año",
+                    "total_minimo": "$3,180 (sin escuela)",
+                    "total_maximo": "$22,660 (con escuela completa)"
+                },
+                "tiempo": "2-3 años (2 años experiencia + examen)",
+                "salario_esperado": {
+                    "independiente_booth_rental": "$50,000 - $75,000 (contratista residencial)"
+                },
+                "roi_nota": "Más rápido que K-11 pero limitado a residencial. Buena opción si solo te interesa trabajar en casas.",
+                "nota": "Considera que K-11 solo requiere 2 años más de experiencia pero te abre mercado comercial mucho más grande."
+            }
+        ]
+    },
+    "renovacion": {
+        "ai_generated": true,
+        "frecuencia": "Cada 2 años desde la fecha de emisión",
+        "metodo": "En línea en el portal del ROC",
+        "url_renovacion": "https://roc.az.gov/",
+        "costo_renovacion": 320,
+        "ce_requerida": {
+            "horas_totales": 0,
+            "nota": "Arizona ROC NO requiere educación continua (CE) para renovar licencias de contratista HVAC. Solo debes pagar la tarifa de renovación y mantener seguro vigente."
+        },
+        "consecuencias_no_renovar": {
+            "0_30_dias": "Tarifa normal de renovación",
+            "30_90_dias": "Licencia expira - debe renovar con tarifa de reactivación",
+            "mas_90_dias": "Licencia cancelada - debe aplicar de nuevo como licencia nueva"
+        },
+        "nota_tdlr": "El ROC envía recordatorio de renovación por correo/email ~60 días antes del vencimiento. Es tu responsabilidad renovar a tiempo. Debes mantener seguro de responsabilidad civil vigente todo el tiempo que tengas licencia activa.",
+        "source": "https://roc.az.gov/"
+    },
+    "reciprocidad": {
+        "ai_generated": true,
+        "disponible": false,
+        "nombre_proceso": "No hay reciprocidad automática",
+        "requisitos": [
+            "Arizona ROC NO tiene acuerdos de reciprocidad con otros estados para licencias de contratista HVAC",
+            "Si tienes licencia de otro estado, debes aplicar como nuevo solicitante en Arizona",
+            "Tu experiencia de otros estados SÍ cuenta para los 4 años requeridos",
+            "Debes aprobar los exámenes de Arizona (Business + Trade)"
+        ],
+        "nota": "Aunque no hay reciprocidad, tu experiencia laboral en otros estados es válida para cumplir el requisito de 4 años. Deberás proporcionar cartas de verificación de empleadores anteriores, incluso si trabajaste fuera de Arizona.",
+        "url": "https://roc.az.gov/",
+        "experiencia_como_horas": "Experiencia de otros estados cuenta para requisito de horas - necesitas cartas de verificación",
+        "source": "https://roc.az.gov/"
+    },
+    "salarios": {
+        "ai_generated": true,
+        "nota_importante": "Los salarios del BLS solo capturan técnicos empleados W-2. Contratistas independientes y dueños de negocio ganan significativamente más, especialmente en verano en Arizona (temporada alta para AC).",
+        "nacional_2024": {
+            "mediana": "$57,300/año",
+            "por_hora_mediana": "$27.55/hr",
+            "percentil_10": "$37,660/año ($18.11/hr)",
+            "percentil_90": "$88,320/año ($42.46/hr)",
+            "crecimiento_proyectado": "6% (2023-2033) - Más rápido que el promedio",
+            "source": "https://www.bls.gov/oes/current/oes499021.htm"
+        },
+        "texas": {
+            "promedio_anual": "$56,920",
+            "promedio_hora": "$27.37",
+            "top_earners": "$82,870+",
+            "source": "BLS Arizona May 2024"
+        },
+        "por_ciudad_texas": [
+            {
+                "ciudad": "Phoenix-Mesa-Chandler",
+                "salario_medio": "$57,640",
+                "top_earners": "$84,120",
+                "source": "BLS"
+            },
+            {
+                "ciudad": "Tucson",
+                "salario_medio": "$52,830",
+                "top_earners": "$76,450",
+                "source": "BLS"
+            },
+            {
+                "ciudad": "Prescott Valley-Prescott",
+                "salario_medio": "$54,180",
+                "top_earners": "$71,890",
+                "source": "BLS"
+            },
+            {
+                "ciudad": "Yuma",
+                "salario_medio": "$49,210",
+                "top_earners": "$68,430",
+                "source": "BLS"
+            }
+        ],
+        "ingresos_reales": {
+            "ai_generated": true,
+            "nota": "Los datos del BLS solo capturan salario base de empleados. El ingreso REAL de técnicos HVAC en Arizona incluye:",
+            "factores_adicionales": [
+                "Overtime (tiempo y medio) - MUY común en verano cuando temperaturas superan 110°F",
+                "Llamadas de emergencia (pagan doble o triple) - especialmente lucrativas en pleno verano",
+                "Bonos por ventas de sistemas nuevos ($500-2,000 por venta)",
+                "Trabajo independiente o 'side jobs' los fines de semana",
+                "Mantenimiento preventivo (contratos recurrentes mensuales)",
+                "Comisiones por venta de filtros, termostatos inteligentes, etc."
+            ],
+            "estimado_realista": {
+                "recien_licenciada": "Aprendiz/Ayudante: $30,000 - $38,000/año",
+                "3_5_años_experiencia": "Técnico con experiencia: $50,000 - $65,000/año (con overtime)",
+                "especialista_o_independiente": "Técnico senior o contratista independiente: $65,000 - $90,000/año",
+                "dueña_salon": "Contratista con negocio establecido: $80,000 - $180,000+/año"
+            }
+        }
+    },
+    "errores_comunes": {
+        "ai_generated": true,
+        "items": [
+            {
+                "error": "No documentar las horas trabajadas desde el principio",
+                "por_que_importa": "Cuando apliques para licencia de contratista K-11, necesitarás PRUEBA de tus 4 años (8,000 horas) de experiencia. Si no guardaste recibos de pago, W-2s, cartas de empleadores o registros de trabajo, será casi imposible probar tu experiencia. El ROC es estricto con esto.",
+                "solucion": "Desde tu primer día trabajando en HVAC: (1) Guarda todos tus W-2 y recibos de pago, (2) Pide cartas de verificación a cada empleador cuando dejes el trabajo (incluye fechas exactas y descripción de trabajo), (3) Lleva un log personal de proyectos y horas. Guárdalo todo en folder físico + digital."
+            },
+            {
+                "error": "Trabajar con refrigerantes sin certificación EPA 608",
+                "por_que_importa": "Es ILEGAL federalmente manipular refrigerantes (freón, R-410A, etc.) sin certificación EPA 608. Si EPA te encuentra o alguien te reporta, las multas son de $10,000+ por violación. Además, ninguna compañía seria te contratará sin EPA 608 - es requisito básico de la industria.",
+                "solucion": "Saca tu certificación EPA 608 Universal lo antes posible. Cuesta ~$120-400, toma 1-2 días de estudio, y es válida de por vida. Muchas escuelas técnicas y organizaciones como ESCO ofrecen el examen. No esperes."
+            },
+            {
+                "error": "Confundir licencia de técnico con licencia de contratista",
+                "por_que_importa": "Arizona NO requiere licencia estatal para trabajar como técnico HVAC empleado - solo necesitas certificación EPA 608. La licencia ROC de contratista es SOLO si quieres trabajar independiente, sacar permisos o tener negocio. Muchos pierden años pensando que necesitan licencia para trabajar como empleados.",
+                "solucion": "Si eres nuevo, empieza trabajando como empleado W-2 en una compañía licenciada. No necesitas licencia ROC todavía. Acumula experiencia, aprende el negocio y DESPUÉS decide si quieres sacar licencia de contratista."
+            },
+            {
+                "error": "No obtener seguro de responsabilidad civil antes de trabajar independiente",
+                "por_que_importa": "Si trabajas 'por tu cuenta' sin licencia ROC ni seguro, estás operando ilegalmente. Si algo sale mal (incendio, daño a propiedad, lesión), serás personalmente responsable de TODO. Las demandas en HVAC pueden ser de $50,000-$500,000+. Además, ROC multa hasta $3,000 por día a contratistas ilegales.",
+                "solucion": "Si quieres trabajar independiente, saca tu licencia ROC primero. Parte del proceso es obtener seguro de responsabilidad ($500-1,500/año). Vale cada centavo para protegerte. NO trabajes sin licencia ni seguro."
+            },
+            {
+                "error": "Aplicar para K-38 (residencial) cuando realmente quieres hacer comercial",
+                "por_que_importa": "K-38 solo te permite trabajar en casas 1-2 familias. No puedes tocar apartamentos, oficinas, tiendas, restaurantes, hospitales, etc. Si sacas K-38 y luego quieres hacer comercial, deberás aplicar de nuevo para K-11, tomar otro examen y pagar todo de nuevo ($460+). Es tiempo y dinero perdido.",
+                "solucion": "Si no estás 100% seguro que SOLO harás residencial el resto de tu vida, ve directo por K-11. Solo son 2 años más de experiencia pero te abre TODO el mercado. La diferencia en oportunidades y salario potencial es enorme."
+            },
+            {
+                "error": "No estudiar los códigos locales de Arizona para el examen",
+                "por_que_importa": "El examen de contratista K-11 incluye preguntas específicas sobre leyes y códigos de Arizona, no solo conocimiento técnico general de HVAC. Si estudias solo con libros genéricos o de otros estados, fallarás esta sección del examen.",
+                "solucion": "Compra o descarga el Arizona Revised Statutes Title 32 (leyes de contratistas) y familiarízate con International Mechanical Code (IMC) y International Fuel Gas Code (IFGC) adoptados por Arizona. Toma un curso de preparación específico para el examen ROC si es posible."
+            },
+            {
+                "error": "No renovar la licencia a tiempo y dejarla expirar más de 90 días",
+                "por_que_importa": "Si tu licencia ROC expira por más de 90 días, el ROC la CANCELA permanentemente. Tendrás que aplicar de nuevo como si fuera primera vez: pagar $320, posiblemente retomar exámenes, esperar procesamiento. Mientras tanto, no puedes trabajar legalmente como contratista.",
+                "solucion": "Pon recordatorio en tu teléfono 3 meses antes del vencimiento (tu licencia vence cada 2 años en la fecha de emisión original). La renovación es $320 pero no requiere CE en Arizona - solo pagar y mantener seguro vigente. No la dejes pasar."
+            }
+        ]
+    },
+    "servicios_sin_licencia": {
+        "ai_generated": true,
+        "titulo": "Trabajos HVAC que NO Requieren Licencia de Contratista en Arizona",
+        "items": [
+            "Cambiar filtros de aire acondicionado en tu propia casa",
+            "Limpiar serpentines del condensador exterior (cosmético)",
+            "Ajustar termostato",
+            "Trabajar como técnico empleado bajo contratista ROC licenciado"
+        ],
+        "requiere_licencia": [
+            "Cualquier instalación nueva de sistema HVAC (AC, furnace, heat pump)",
+            "Recargar refrigerante (además requiere EPA 608)",
+            "Modificar o reparar ductos",
+            "Sacar permisos de construcción para trabajo HVAC",
+            "Trabajar en propiedad de otra persona de forma independiente",
+            "Instalar o reparar líneas de gas (requiere licencia específica o K-11)",
+            "Cualquier trabajo comercial"
+        ],
+        "source": "Arizona Revised Statutes Title 32, Chapter 10"
+    },
+    "faqs": {
+        "ai_generated": true,
+        "items": [
+            {
+                "pregunta": "¿El examen de contratista HVAC en Arizona está disponible en español?",
+                "respuesta": "La disponibilidad del examen en español NO está claramente especificada en el sitio web del ROC. Es CRÍTICO que contactes directamente al ROC al (602) 542-1525 o (877) 692-9762 para confirmar si los exámenes de Business Management y K-11 Trade están disponibles en español. Pregunta específicamente antes de pagar cualquier tarifa o agendar examen.",
+                "source": "Arizona ROC",
+                "seo_note": "Pregunta clave de hispanohablantes"
+            },
+            {
+                "pregunta": "¿Necesito licencia para trabajar como técnico HVAC en Arizona?",
+                "respuesta": "NO necesitas licencia personal del ROC para trabajar como técnico HVAC empleado en Arizona. Solo necesitas certificación EPA 608 (federal) para manipular refrigerantes. La licencia de contratista ROC (K-11 o K-38) solo es necesaria si quieres trabajar independiente, sacar permisos o tener tu propio negocio. Muchos técnicos HVAC trabajan toda su carrera como empleados sin licencia ROC.",
+                "source": "Arizona ROC"
+            },
+            {
+                "pregunta": "¿Puedo sacar la licencia de contratista HVAC con ITIN (sin seguro social)?",
+                "respuesta": "El ROC requiere número de Seguro Social o ITIN para procesar aplicaciones de licencia. Debes contactar directamente al ROC al (602) 542-1525 para confirmar proceso específico con ITIN, ya que puede haber requisitos adicionales de identificación o background check. Arizona también requiere que tu Qualifying Party (persona que califica para la licencia) sea ciudadano o residente legal con documentación válida.",
+                "source": "Arizona ROC"
+            },
+            {
+                "pregunta": "¿Cuánto tiempo se tarda en ser contratista HVAC en Arizona?",
+                "respuesta": "Para licencia K-11 (comercial/residencial): mínimo 4 años trabajando tiempo completo (8,000 horas) para acumular la experiencia requerida, más 2-4 meses de estudio y proceso de aplicación/examen. Para licencia K-38 (solo residencial): mínimo 2 años (4,000 horas). Si tomas programa técnico de HVAC (1-2 años), ese tiempo se suma al principio del camino.",
+                "source": "Arizona ROC"
+            },
+            {
+                "pregunta": "¿Cuánto cuesta sacar la licencia de contratista HVAC?",
+                "respuesta": "Para licencia K-11: $320 aplicación + $140 exámenes (Business + Trade) + $500-1,500 seguro anual = aproximadamente $960-1,960 el primer año. Si tomas curso de preparación para examen ($300-800) y compras herramientas ($2,000-5,000), la inversión total inicial es $3,260-$7,900. La renovación cada 2 años cuesta $320 + seguro vigente.",
+                "source": "Arizona ROC"
+            },
+            {
+                "pregunta": "¿Qué es la certificación EPA 608 y por qué la necesito?",
+                "respuesta": "EPA Section 608 es una certificación FEDERAL (no del estado) que te permite legalmente manipular refrigerantes (freón, R-410A, etc.) en sistemas HVAC. Es OBLIGATORIA por ley federal para cualquier persona que trabaje con refrigerantes, bajo pena de multas de $10,000+ por violación. Cuesta ~$120-400, es válida de por vida, y la puedes sacar en 1-2 días. Todos los técnicos HVAC la necesitan, tengas o no licencia de contratista.",
+                "source": "EPA"
+            },
+            {
+                "pregunta": "¿Cada cuánto debo renovar mi licencia de contratista HVAC?",
+                "respuesta": "Cada 2 años desde la fecha de emisión original. La renovación cuesta $320 y NO requiere educación continua en Arizona (a diferencia de otros estados). Sin embargo, DEBES mantener seguro de responsabilidad civil vigente todo el tiempo que tengas licencia activa. Si no renuevas dentro de 90 días del vencimiento, tu licencia se cancela y debes aplicar de nuevo.",
+                "source": "Arizona ROC"
+            },
+            {
+                "pregunta": "¿Puedo transferir mi licencia de otro estado a Arizona?",
+                "respuesta": "No hay reciprocidad automática. Si tienes licencia de contratista HVAC de otro estado, debes aplicar como nuevo solicitante en Arizona y aprobar los exámenes del ROC (Business Management + K-11 Trade). Sin embargo, tu experiencia laboral de otros estados SÍ cuenta para cumplir el requisito de 4 años - solo necesitas cartas de verificación de tus empleadores anteriores.",
+                "source": "Arizona ROC"
+            },
+            {
+                "pregunta": "¿Cuál es la diferencia entre K-11 y K-38?",
+                "respuesta": "K-11 (Commercial/Residential HVAC Contractor) te permite trabajar en TODO tipo de edificación sin límite: comercial, industrial, residencial de cualquier tamaño. Requiere 4 años de experiencia. K-38 (Residential HVAC) solo te permite trabajar en viviendas residenciales de 1-2 familias, NO comercial ni apartamentos grandes. Requiere solo 2 años de experiencia. Si no estás 100% seguro que solo harás casas pequeñas, ve por K-11 - vale la pena los 2 años extra.",
+                "source": "Arizona ROC"
+            },
+            {
+                "pregunta": "¿Puedo trabajar por mi cuenta haciendo trabajos pequeños sin licencia?",
+                "respuesta": "NO. En Arizona es ILEGAL trabajar como contratista HVAC sin licencia ROC, incluso para trabajos 'pequeños' o 'side jobs'. El ROC impone multas de hasta $3,000 POR DÍA a contratistas ilegales. Además, si causas daño a propiedad o lesión sin licencia ni seguro, serás personalmente responsable de todo. No vale el riesgo. Si quieres trabajar independiente, saca tu licencia K-11 o K-38 primero.",
+                "source": "Arizona Revised Statutes Title 32"
+            }
+        ]
+    },
+    "enlaces_utiles": {
+        "ai_generated": true,
+        "enlaces": [
+            {
+                "categoria": "Autoridad Reguladora",
+                "enlaces": [
+                    {
+                        "titulo": "Arizona ROC - Home",
+                        "url": "https://roc.az.gov/",
+                        "descripcion": "Página principal del Registrar of Contractors de Arizona"
+                    },
+                    {
+                        "titulo": "ROC - Licensing Information",
+                        "url": "https://roc.az.gov/licensing",
+                        "descripcion": "Información completa sobre cómo aplicar para licencia de contratista"
+                    },
+                    {
+                        "titulo": "ROC - License Search",
+                        "url": "https://roc.az.gov/license-search",
+                        "descripcion": "Verificar si un contratista tiene licencia vigente"
+                    },
+                    {
+                        "titulo": "ROC - Contact",
+                        "url": "https://roc.az.gov/contact",
+                        "descripcion": "Teléfonos y direcciones de oficinas del ROC"
+                    }
+                ]
+            },
+            {
+                "categoria": "Exámenes",
+                "enlaces": [
+                    {
+                        "titulo": "PSI Exams - Arizona ROC",
+                        "url": "https://candidate.psiexams.com/",
+                        "descripcion": "Agendar examen de contratista (Business Management y Trade). Tel: (855) 746-1552"
+                    },
+                    {
+                        "titulo": "ROC - Examination Information",
+                        "url": "https://roc.az.gov/licensing/examinations",
+                        "descripcion": "Detalles sobre exámenes de contratista, contenido y preparación"
+                    }
+                ]
+            },
+            {
+                "categoria": "Certificación EPA",
+                "enlaces": [
+                    {
+                        "titulo": "EPA Section 608 Certification",
+                        "url": "https://www.epa.gov/section608",
+                        "descripcion": "Información oficial sobre certificación federal EPA 608 (refrigerantes)"
+                    },
+                    {
+                        "titulo": "ESCO Institute - EPA 608 Exam",
+                        "url": "https://www.escoinst.com/",
+                        "descripcion": "Proveedor popular de cursos y examen EPA 608"
+                    }
+                ]
+            },
+            {
+                "categoria": "Escuelas y Training",
+                "enlaces": [
+                    {
+                        "titulo": "Phoenix College - HVAC Program",
+                        "url": "https://www.phoenixcollege.edu/",
+                        "descripcion": "Programa técnico de HVAC en community college"
+                    },
+                    {
+                        "titulo": "Mesa Community College - HVAC",
+                        "url": "https://www.mesacc.edu/",
+                        "descripcion": "Programas de certificación en HVAC"
+                    },
+                    {
+                        "titulo": "Pima Community College - HVAC (Tucson)",
+                        "url": "https://www.pima.edu/",
+                        "descripcion": "Programas de HVAC en área de Tucson"
+                    },
+                    {
+                        "titulo": "Refrigeration School Inc. (RSI)",
+                        "url": "https://www.rsi.edu/",
+                        "descripcion": "Escuela técnica privada especializada en HVAC (Phoenix)"
+                    }
+                ]
+            },
+            {
+                "categoria": "Salarios y Empleo",
+                "enlaces": [
+                    {
+                        "titulo": "BLS - HVAC Mechanics and Installers",
+                        "url": "https://www.bls.gov/oes/current/oes499021.htm",
+                        "descripcion": "Datos oficiales de salarios y empleo del Bureau of Labor Statistics"
+                    },
+                    {
+                        "titulo": "Indeed - HVAC Jobs Arizona",
+                        "url": "https://www.indeed.com/q-HVAC-l-Arizona-jobs.html",
+                        "descripcion": "Búsqueda de trabajos HVAC en Arizona"
+                    }
+                ]
+            },
+            {
+                "categoria": "Códigos y Regulaciones",
+                "enlaces": [
+                    {
+                        "titulo": "Arizona Revised Statutes - Title 32 (Contractors)",
+                        "url": "https://www.azleg.gov/arsDetail/?title=32",
+                        "descripcion": "Leyes de Arizona sobre contratistas (incluye HVAC)"
+                    },
+                    {
+                        "titulo": "International Code Council (ICC)",
+                        "url": "https://www.iccsafe.org/",
+                        "descripcion": "Códigos de construcción adoptados por Arizona (IMC, IFGC)"
+                    }
+                ]
+            },
+            {
+                "categoria": "Asociaciones Profesionales",
+                "enlaces": [
+                    {
+                        "titulo": "PHCC Arizona",
+                        "url": "https://www.phccaz.org/",
+                        "descripcion": "Plumbing-Heating-Cooling Contractors Association de Arizona"
+                    },
+                    {
+                        "titulo": "ACCA - Air Conditioning Contractors of America",
+                        "url": "https://www.acca.org/",
+                        "descripcion": "Asociación nacional de contratistas HVAC con recursos educativos"
+                    }
+                ]
+            }
+        ]
+    },
+    "escuelas": {
+        "ai_generated": true,
+        "items": [
+            {
+                "id": "phoenix-college",
+                "name": "Phoenix College",
+                "city": "Phoenix",
+                "phone": "(602) 285-7500",
+                "website": "https://www.phoenixcollege.edu/",
+                "is_bilingual": false,
+                "programs": [
+                    {
+                        "id": "hvac-cert",
+                        "name": "HVAC Certificate",
+                        "duration_months": 12,
+                        "cost": 3500,
+                        "modality": "Presencial"
+                    }
+                ]
+            },
+            {
+                "id": "mesa-cc",
+                "name": "Mesa Community College",
+                "city": "Mesa",
+                "phone": "(480) 461-7000",
+                "website": "https://www.mesacc.edu/",
+                "is_bilingual": false,
+                "programs": [
+                    {
+                        "id": "hvac-aas",
+                        "name": "HVAC Associate Degree",
+                        "duration_months": 24,
+                        "cost": 6000,
+                        "modality": "Presencial"
+                    }
+                ]
+            },
+            {
+                "id": "rsi",
+                "name": "Refrigeration School Inc. (RSI)",
+                "city": "Phoenix",
+                "phone": "(602) 275-7133",
+                "website": "https://www.rsi.edu/",
+                "is_bilingual": false,
+                "programs": [
+                    {
+                        "id": "hvac-tech",
+                        "name": "HVAC Technology Program",
+                        "duration_months": 9,
+                        "cost": 15000,
+                        "modality": "Presencial"
+                    }
+                ]
+            },
+            {
+                "id": "pima-cc",
+                "name": "Pima Community College",
+                "city": "Tucson",
+                "phone": "(520) 206-4500",
+                "website": "https://www.pima.edu/",
+                "is_bilingual": false,
+                "programs": [
+                    {
+                        "id": "hvac-cert",
+                        "name": "HVAC Certificate",
+                        "duration_months": 12,
+                        "cost": 4000,
+                        "modality": "Presencial"
+                    }
+                ]
+            }
+        ]
+    },
+    "links_oficiales": {
+        "ai_generated": true,
+        "items": [
+            {
+                "nombre": "Arizona ROC - Home",
+                "url": "https://roc.az.gov/",
+                "descripcion": "Página principal del Registrar of Contractors"
+            },
+            {
+                "nombre": "ROC - Licensing Information",
+                "url": "https://roc.az.gov/licensing",
+                "descripcion": "Información completa sobre aplicación de licencias"
+            },
+            {
+                "nombre": "ROC - License Search",
+                "url": "https://roc.az.gov/license-search",
+                "descripcion": "Verificar licencias de contratistas"
+            },
+            {
+                "nombre": "PSI Exams - Arizona",
+                "url": "https://candidate.psiexams.com/",
+                "descripcion": "Agendar exámenes de contratista"
+            },
+            {
+                "nombre": "EPA Section 608 Certification",
+                "url": "https://www.epa.gov/section608",
+                "descripcion": "Certificación federal de refrigerantes"
+            },
+            {
+                "nombre": "BLS - HVAC Salaries",
+                "url": "https://www.bls.gov/oes/current/oes499021.htm",
+                "descripcion": "Datos oficiales de salarios"
+            },
+            {
+                "nombre": "Arizona Revised Statutes Title 32",
+                "url": "https://www.azleg.gov/arsDetail/?title=32",
+                "descripcion": "Leyes de contratistas de Arizona"
+            }
+        ]
+    }
+}

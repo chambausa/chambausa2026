@@ -1,0 +1,782 @@
+{
+    "_meta": {
+        "schema_version": "2.0",
+        "page_id": "licencia-electricista-oregon",
+        "oficio": "electricista",
+        "estado": "oregon",
+        "last_verified": "2026-02-16",
+        "verified_by": "Claude AI - requiere verificación humana",
+        "notes": "Roadmap de Apprentice → Limited Residential → Journeyman → Supervising/General. Oregon tiene sistema de aprendizaje estructurado con escuela obligatoria."
+    },
+    "page_seo": {
+        "title": "Licencia de Electricista en Oregon 2026: Guía Completa para Hispanohablantes",
+        "meta_description": "Cómo sacar la licencia de electricista en Oregon paso a paso. Desde Apprentice hasta Journeyman (8,000 horas + escuela). Requisitos, examen, costos y salarios actualizados 2026.",
+        "slug": "licencia-electricista-oregon",
+        "canonical_url": "https://chambaenusa.com/licencia-electricista-oregon/",
+        "h1": "Licencia de Electricista en Oregon",
+        "schema_types": [
+            "HowTo",
+            "FAQPage",
+            "BreadcrumbList"
+        ],
+        "keywords_primary": [
+            "licencia de electricista en oregon",
+            "electricista oregon requisitos",
+            "examen de electricista oregon"
+        ],
+        "keywords_secondary": [
+            "apprentice electricista oregon",
+            "journeyman electrician oregon",
+            "cuanto gana un electricista en oregon",
+            "renovar licencia electricista oregon"
+        ],
+        "keywords_long_tail": [
+            "como sacar licencia de electricista en oregon siendo hispano",
+            "escuelas de electricista en portland oregon",
+            "horas requeridas para journeyman electricista oregon",
+            "examen electricista oregon en español"
+        ]
+    },
+    "hero": {
+        "ai_generated": true,
+        "badge": "Actualizado 2026",
+        "headline": "Licencia de Electricista en Oregon",
+        "subheadline": "Inicia como Apprentice con programa estructurado de 4 años. Oregon requiere combinación de trabajo (8,000 horas) + escuela obligatoria (576-720 horas). Salarios competitivos: Journeyman promedio $67,000-$75,000/año.",
+        "key_stats": [
+            {
+                "label": "Apprentice",
+                "value": "Registro requerido",
+                "detail": "Debes registrarte con el programa de aprendizaje. No puedes trabajar sin estar en un programa aprobado.",
+                "source": "https://www.oregon.gov/boli/apprenticeship/pages/default.aspx",
+                "source_name": "Oregon BOLI"
+            },
+            {
+                "label": "Journeyman",
+                "value": "8,000 horas + escuela",
+                "detail": "4 años de trabajo supervisado + 576-720 horas de instrucción técnica en escuela aprobada",
+                "source": "https://www.oregon.gov/bcd/laws-rules/pages/index.aspx",
+                "source_name": "Oregon BCD"
+            },
+            {
+                "label": "Examen en Español",
+                "value": "⚠️ Limitado",
+                "detail": "El examen se ofrece principalmente en inglés. Verifica disponibilidad con PSI.",
+                "source": "https://candidate.psiexams.com/",
+                "source_name": "PSI"
+            },
+            {
+                "label": "Salario Journeyman",
+                "value": "$67,000/año",
+                "detail": "Mediana en Oregon. Top earners $85,000+. Portland área metropolitana paga más.",
+                "source": "https://www.bls.gov/oes/current/oes_or.htm",
+                "source_name": "BLS May 2024"
+            }
+        ],
+        "cta_primary": {
+            "text": "Ver Pasos del Camino",
+            "anchor": "#roadmap"
+        },
+        "cta_secondary": {
+            "text": "Ver Salarios",
+            "anchor": "#salarios"
+        }
+    },
+    "callout_espanol": {
+        "ai_generated": true,
+        "type": "warning_box",
+        "icon": "⚠️",
+        "title": "Importante: El examen requiere buen nivel de inglés técnico",
+        "content": "A diferencia de Texas, Oregon ofrece el examen de electricista principalmente en INGLÉS. Aunque PSI puede tener opciones limitadas en español para ciertos niveles, la mayoría de los materiales de estudio, clases de aprendizaje y el código NEC usado en Oregon están en inglés. Se recomienda tomar clases de inglés técnico si no te sientes cómodo con terminología eléctrica en inglés. Algunas escuelas de aprendizaje ofrecen apoyo bilingüe.",
+        "source": "https://candidate.psiexams.com/",
+        "source_name": "PSI Oregon"
+    },
+    "autoridad_reguladora": {
+        "ai_generated": true,
+        "nombre": "Oregon Building Codes Division (BCD)",
+        "programa": "Electrical Program",
+        "nota_consolidacion": "Oregon tiene dos agencias principales: BCD maneja las licencias y permisos; BOLI (Bureau of Labor and Industries) supervisa los programas de aprendizaje.",
+        "direccion": {
+            "calle": "1535 Edgewater St NW",
+            "ciudad": "Salem",
+            "estado": "OR",
+            "cp": "97304",
+            "mailing": "P.O. Box 14470, Salem, OR 97309"
+        },
+        "telefono": {
+            "local": "(503) 378-4133",
+            "toll_free": "(800) 632-8406"
+        },
+        "email": "bcd.info@oregon.gov",
+        "web": "https://www.oregon.gov/bcd/",
+        "verificar_licencia": "https://www.oregon.gov/bcd/licensing/Pages/verify.aspx",
+        "source": "https://www.oregon.gov/bcd/licensing/pages/electrical.aspx"
+    },
+    "roadmap": {
+        "_description": "Camino profesional del electricista en Oregon - Sistema estructurado de aprendizaje",
+        "ai_generated": true,
+        "layout": "timeline",
+        "nota_general": "Oregon requiere que los electricistas pasen por un programa de aprendizaje registrado con BOLI. No puedes simplemente trabajar y acumular horas - DEBES estar inscrito en un programa que combine trabajo supervisado (On-the-Job Training) con clases técnicas obligatorias en una escuela aprobada. Este sistema asegura que todos los electricistas tengan formación consistente.",
+        "tipos": [
+            {
+                "id": "apprentice",
+                "titulo_en": "Apprentice Electrician",
+                "titulo_es": "Aprendiz de Electricista",
+                "es_principal": false,
+                "color_badge": "#3b82f6",
+                "descripcion_corta": "Primer paso obligatorio. Debes registrarte con un programa de aprendizaje aprobado por BOLI antes de empezar a trabajar.",
+                "scope_of_work": "Trabajar bajo supervisión directa de un Journeyman o Supervising Electrician. No puedes trabajar solo. Todas las horas deben ser documentadas por tu programa de aprendizaje.",
+                "requisitos": {
+                    "edad_minima": 16,
+                    "educacion_previa": "High school diploma o GED recomendado",
+                    "escuela_aprobada": "Debes aplicar y ser aceptado en un programa de aprendizaje registrado con BOLI",
+                    "experiencia": "Ninguna",
+                    "examen": "NO requiere examen para registrarse"
+                },
+                "costos": {
+                    "aplicacion_licencia": 50,
+                    "renovacion_cada_2_años": 50
+                },
+                "como_aplicar": {
+                    "metodo": "A través del programa de aprendizaje - no aplicación directa con BCD",
+                    "url": "https://www.oregon.gov/boli/apprenticeship/pages/default.aspx",
+                    "tiempo_procesamiento": "Variable - depende del programa. Algunos tienen lista de espera.",
+                    "pasos": [
+                        "Buscar programas de aprendizaje eléctrico en Oregon (JATC, IEC, ABC, etc.)",
+                        "Aplicar al programa - cada uno tiene su proceso (a veces test de aptitud)",
+                        "Si eres aceptado, el programa te registra con BOLI como apprentice",
+                        "El programa también te ayuda a encontrar empleador (contractor)",
+                        "Empiezas a trabajar Y tomar clases simultáneamente"
+                    ]
+                },
+                "nota": "CRÍTICO: En Oregon NO puedes trabajar como electricista sin estar en un programa de aprendizaje registrado. Si trabajas 'under the table' sin registro, tus horas NO contarán y puedes enfrentar multas. Los programas principales son: JATC (union), IEC (no-union), ABC Oregon.",
+                "source": "https://www.oregon.gov/boli/apprenticeship/pages/default.aspx"
+            },
+            {
+                "id": "limited_residential",
+                "titulo_en": "Limited Residential Electrician",
+                "titulo_es": "Electricista Residencial Limitado",
+                "es_principal": false,
+                "color_badge": "#10b981",
+                "descripcion_corta": "Licencia especializada para trabajar solo en casas unifamiliares y duplexes. Camino más corto pero limitado.",
+                "scope_of_work": "Instalaciones eléctricas solo en viviendas de 1-2 familias (single-family homes y duplexes). NO puede trabajar en apartamentos multi-family, comercial o industrial.",
+                "requisitos": {
+                    "edad_minima": 18,
+                    "experiencia": "4,000 horas de experiencia supervisada en trabajo residencial",
+                    "horas_escuela": 288,
+                    "escuela_aprobada": "Completar 288 horas de instrucción técnica en escuela aprobada",
+                    "examen": "Aprobar el examen de Limited Residential Electrician"
+                },
+                "examen": {
+                    "partes": 1,
+                    "nombre": "Limited Residential Electrician Exam",
+                    "formato": "Opción múltiple por computadora",
+                    "idiomas": [
+                        "Inglés"
+                    ],
+                    "administrador": "PSI",
+                    "url_psi": "https://candidate.psiexams.com/",
+                    "source": "https://www.oregon.gov/bcd/licensing/pages/electrical.aspx"
+                },
+                "costos": {
+                    "aplicacion_licencia": 125,
+                    "examen_escrito": 90,
+                    "total_examenes_y_licencia": 215,
+                    "renovacion_cada_2_años": 125
+                },
+                "como_aplicar": {
+                    "url": "https://www.oregon.gov/bcd/licensing/pages/electrical.aspx"
+                },
+                "nota": "Esta es una licencia de alcance limitado. Si tu meta es trabajar en todo tipo de proyectos, es mejor ir directo al camino de Journeyman (8,000 horas). Limited Residential es buena opción si solo te interesa construcción residencial pequeña.",
+                "source": "https://www.oregon.gov/bcd/licensing/pages/electrical.aspx"
+            },
+            {
+                "id": "journeyman",
+                "titulo_en": "Journeyman Electrician",
+                "titulo_es": "Oficial Electricista (Journeyman)",
+                "es_principal": true,
+                "color_badge": "#f59e0b",
+                "descripcion_corta": "Licencia completa para trabajar en cualquier tipo de instalación eléctrica. Puedes trabajar sin supervisión directa (pero bajo un contractor con licencia).",
+                "scope_of_work": "Instalar, alterar, reparar sistemas eléctricos en residencial, comercial e industrial. Puede trabajar de forma independiente bajo una empresa con licencia de contractor.",
+                "requisitos": {
+                    "edad_minima": 18,
+                    "experiencia": "8,000 horas de experiencia documentada a través de programa de aprendizaje (aproximadamente 4 años)",
+                    "horas_escuela": 576,
+                    "escuela_nota": "Algunos programas requieren hasta 720 horas de instrucción técnica",
+                    "escuela_aprobada": "Completar programa de aprendizaje de 4 años registrado con BOLI",
+                    "examen": "Aprobar el examen de Journeyman Electrician"
+                },
+                "examen": {
+                    "partes": 1,
+                    "parte_1": {
+                        "nombre": "Journeyman Electrician Exam",
+                        "formato": "Opción múltiple por computadora - Open book (puedes llevar NEC)",
+                        "costo": 90,
+                        "idiomas": [
+                            "Inglés",
+                            "posiblemente español limitado - verificar con PSI"
+                        ],
+                        "puntaje_minimo": "70%",
+                        "cuando_tomarlo": "Después de completar 8,000 horas y requisitos de escuela del programa",
+                        "contenido_principal": [
+                            "National Electrical Code (NEC 2023)",
+                            "Oregon Electrical Specialty Code (OESC)",
+                            "Cálculos eléctricos y diseño básico",
+                            "Seguridad eléctrica",
+                            "Métodos de instalación y materiales"
+                        ],
+                        "ubicaciones": "Centros PSI en Oregon: Portland, Salem, Eugene, Bend, Medford",
+                        "e_exam": "Disponible examen remoto supervisado (E-Exam)"
+                    },
+                    "administrador": "PSI",
+                    "telefono_psi": "(855) 746-1552",
+                    "url_psi": "https://candidate.psiexams.com/",
+                    "retakes": "Puedes retomar el examen. Debes pagar la tarifa completa cada intento. Espera mínima de 7 días entre intentos.",
+                    "source": "https://www.oregon.gov/bcd/licensing/pages/electrical.aspx"
+                },
+                "costos": {
+                    "aplicacion_licencia": 150,
+                    "examen_escrito": 90,
+                    "total_examenes_y_licencia": 240,
+                    "renovacion_cada_2_años": 150,
+                    "ce_horas_cada_2_años": 24
+                },
+                "como_aplicar": {
+                    "metodo": "En línea después de completar programa y aprobar examen",
+                    "url": "https://www.oregon.gov/bcd/licensing/pages/electrical.aspx",
+                    "tiempo_procesamiento": "2-4 semanas después de pasar el examen y enviar documentación",
+                    "pasos": [
+                        "Completar 8,000 horas a través de tu programa de aprendizaje registrado",
+                        "Completar todas las horas de escuela requeridas (576-720 horas)",
+                        "Obtener carta de certificación de tu programa de aprendizaje",
+                        "Aplicar para tomar el examen de Journeyman con PSI",
+                        "Aprobar el examen",
+                        "Aplicar en línea con BCD con tu certificate de examen y carta del programa",
+                        "Pagar $150 de licencia inicial"
+                    ]
+                },
+                "nota": "Oregon tiene uno de los programas de aprendizaje más estructurados del país. A diferencia de Texas donde puedes trabajar y aprender sin escuela formal, Oregon EXIGE que completes las horas de clase técnica. Esto asegura alta calidad pero también significa más tiempo y compromiso.",
+                "source": "https://www.oregon.gov/bcd/licensing/pages/electrical.aspx"
+            },
+            {
+                "id": "supervising",
+                "titulo_en": "Supervising Electrician",
+                "titulo_es": "Electricista Supervisor",
+                "es_principal": false,
+                "color_badge": "#7c3aed",
+                "descripcion_corta": "Nivel superior. Puede supervisar el trabajo de otros electricistas y firmar permisos. Similar al 'Master' en otros estados.",
+                "scope_of_work": "Supervisar trabajo de journeymen y apprentices, diseñar sistemas, firmar permisos eléctricos, trabajar en proyectos grandes y complejos.",
+                "requisitos": {
+                    "edad_minima": 18,
+                    "licencia_previa": "Haber tenido licencia de Journeyman Electrician vigente por al menos 2 años",
+                    "experiencia": "12,000 horas totales de experiencia eléctrica documentada",
+                    "examen": "Aprobar el examen de Supervising Electrician"
+                },
+                "examen": {
+                    "partes": 1,
+                    "parte_1": {
+                        "nombre": "Supervising Electrician Exam",
+                        "formato": "Opción múltiple por computadora - Open book",
+                        "costo": 90,
+                        "idiomas": [
+                            "Inglés"
+                        ],
+                        "puntaje_minimo": "70%",
+                        "cuando_tomarlo": "Después de cumplir requisitos de experiencia como Journeyman",
+                        "contenido_principal": [
+                            "NEC avanzado - cálculos complejos de carga",
+                            "Oregon Electrical Specialty Code (interpretación avanzada)",
+                            "Diseño de sistemas eléctricos",
+                            "Supervisión y gestión de proyectos",
+                            "Códigos de construcción y permisos"
+                        ]
+                    },
+                    "administrador": "PSI",
+                    "telefono_psi": "(855) 746-1552",
+                    "url_psi": "https://candidate.psiexams.com/",
+                    "source": "https://www.oregon.gov/bcd/licensing/pages/electrical.aspx"
+                },
+                "costos": {
+                    "aplicacion_licencia": 175,
+                    "examen_escrito": 90,
+                    "total_examenes_y_licencia": 265,
+                    "renovacion_cada_2_años": 175
+                },
+                "como_aplicar": {
+                    "url": "https://www.oregon.gov/bcd/licensing/pages/electrical.aspx"
+                },
+                "nota": "En Oregon, NO existe la categoría 'Master Electrician' como en otros estados. La licencia de Supervising Electrician es el nivel más alto. Si quieres tener tu propia compañía de contratación eléctrica, necesitas también obtener una Electrical Contractor License aparte.",
+                "source": "https://www.oregon.gov/bcd/licensing/pages/electrical.aspx"
+            },
+            {
+                "id": "general_journeyman",
+                "titulo_en": "General Journeyman Electrician",
+                "titulo_es": "Journeyman Electricista General",
+                "es_principal": false,
+                "color_badge": "#f59e0b",
+                "descripcion_corta": "Versión avanzada del Journeyman. Puede trabajar en sistemas de mayor voltaje y complejidad.",
+                "scope_of_work": "Todo lo que hace un Journeyman regular, más sistemas de voltaje medio (hasta 50,000V) y proyectos industriales complejos.",
+                "requisitos": {
+                    "edad_minima": 18,
+                    "experiencia": "8,000 horas como Journeyman Electrician regular, con experiencia significativa en sistemas de voltaje medio",
+                    "examen": "Aprobar el examen de General Journeyman"
+                },
+                "examen": {
+                    "partes": 1,
+                    "nombre": "General Journeyman Electrician Exam",
+                    "formato": "Opción múltiple por computadora - Open book",
+                    "idiomas": [
+                        "Inglés"
+                    ],
+                    "administrador": "PSI",
+                    "url_psi": "https://candidate.psiexams.com/",
+                    "source": "https://www.oregon.gov/bcd/licensing/pages/electrical.aspx"
+                },
+                "costos": {
+                    "aplicacion_licencia": 150,
+                    "examen_escrito": 90,
+                    "total_examenes_y_licencia": 240,
+                    "renovacion_cada_2_años": 150
+                },
+                "como_aplicar": {
+                    "url": "https://www.oregon.gov/bcd/licensing/pages/electrical.aspx"
+                },
+                "nota": "Esta licencia es opcional y especializada. La mayoría de electricistas se quedan con Journeyman regular. General Journeyman es para quienes trabajan en plantas industriales, subestaciones, o proyectos de alto voltaje.",
+                "source": "https://www.oregon.gov/bcd/licensing/pages/electrical.aspx"
+            }
+        ]
+    },
+    "calculadora_inversion": {
+        "ai_generated": true,
+        "_description": "Costos estimados para obtener licencia de electricista en Oregon",
+        "escenarios": [
+            {
+                "id": "journeyman_oregon",
+                "licencia": "Journeyman Electrician (el camino más común)",
+                "inversion": {
+                    "escuela_rango": "$0 - $3,000",
+                    "escuela_nota": "Los programas de aprendizaje registrados (JATC, IEC) usualmente cobran cuotas de instrucción. JATC (union) es generalmente más barato o gratis porque se financia con fondos del sindicato. IEC y ABC cobran matrícula, típicamente $500-750/año x 4 años = $2,000-$3,000 total.",
+                    "kit_herramientas": "$800 - $1,500",
+                    "kit_nota": "Como apprentice necesitas tus propias herramientas básicas: multímetro, pelacables, destornilladores, pinzas, etc. Algunos empleadores proporcionan herramientas grandes.",
+                    "libros_codigo": "$150 - $250",
+                    "aplicacion_licencia": 150,
+                    "examen_escrito": 90,
+                    "total_minimo": "$1,990",
+                    "total_maximo": "$5,490",
+                    "licencia_aprendiz_4_anos": "$200 (registro inicial + renovaciones)"
+                },
+                "tiempo": "4 años para Journeyman (8,000 horas + 576-720 horas de escuela)",
+                "salario_esperado": {
+                    "empleada": "Apprentice: $35,000-$45,000/año (aumenta cada año del programa)",
+                    "con_experiencia": "Journeyman: $60,000-$75,000/año",
+                    "med_spa_especialista": "Supervising/General: $75,000-$95,000/año",
+                    "nota": "Los apprentices en programas union (JATC) usualmente ganan porcentaje del salario journeyman: 1er año 45%, 2do 55%, 3er 65%, 4to 75%. Al graduarte entras con salario completo."
+                },
+                "roi_nota": "Oregon tiene uno de los programas de aprendizaje mejor pagados del país. Aunque la escuela es obligatoria (y puede costar), GANAS dinero mientras aprendes. A diferencia de cosmetología o CDL donde pagas escuela SIN trabajar, como electricista en Oregon trabajas tiempo completo Y estudias part-time. Tu ROI es positivo desde el día 1.",
+                "nota": "Costos adicionales posibles: cuotas sindicales si entras a JATC (union), transporte a la escuela nocturna 1-2 veces por semana, equipo de seguridad (botas, casco, lentes - a veces proporcionados por empleador)."
+            },
+            {
+                "id": "limited_residential",
+                "licencia": "Limited Residential Electrician (camino corto)",
+                "inversion": {
+                    "escuela_rango": "$0 - $1,500",
+                    "escuela_nota": "288 horas de instrucción técnica (la mitad de Journeyman). Algunos programas cobran menos por este track.",
+                    "kit_herramientas_basico": "$500 - $800",
+                    "libros_codigo": "$100 - $150",
+                    "aplicacion_licencia": 125,
+                    "examen_escrito": 90,
+                    "total_estimado": "$815 - $2,665"
+                },
+                "tiempo": "2 años (4,000 horas + 288 horas escuela)",
+                "salario_esperado": {
+                    "empleada": "$45,000 - $58,000/año",
+                    "nota": "Limited Residential paga menos que Journeyman porque solo puedes trabajar en casas pequeñas. Muchos contratistas residenciales prefieren contratar Journeymen completos por la flexibilidad."
+                },
+                "nota": "Esta licencia tiene alcance limitado. Si después quieres hacer trabajos comerciales, tendrás que completar las horas y educación adicionales para Journeyman de todos modos. Considera ir directo a Journeyman a menos que estés 100% seguro de que solo quieres hacer casas."
+            }
+        ]
+    },
+    "renovacion": {
+        "ai_generated": true,
+        "frecuencia": "Cada 2 años desde la fecha de emisión",
+        "metodo": "En línea a través del portal de Oregon BCD",
+        "url_renovacion": "https://www.oregon.gov/bcd/licensing/pages/renew.aspx",
+        "costo_renovacion": 150,
+        "ce_requerida": {
+            "horas_totales": 24,
+            "temas": [
+                "National Electrical Code (NEC) - actualizaciones del ciclo de código de 3 años",
+                "Oregon Electrical Specialty Code (OESC) - cambios estatales",
+                "Seguridad eléctrica (NFPA 70E, Arc Flash, etc.)",
+                "Nuevas tecnologías (sistemas solares, vehículos eléctricos, baterías)"
+            ],
+            "nota": "Oregon requiere 24 horas de educación continua cada 2 años para Journeyman y Supervising. Los cursos deben ser de proveedores aprobados por BCD. Al menos 16 de las 24 horas deben ser en temas técnicos del NEC/OESC. Las otras 8 pueden ser en temas relacionados (seguridad, administración, etc.).",
+            "costo_cursos_ce_online": "$150 - $300 por 24 horas",
+            "url_proveedores": "https://www.oregon.gov/bcd/licensing/pages/electrical.aspx"
+        },
+        "consecuencias_no_renovar": {
+            "0_60_dias": "Tarifa normal de renovación ($150)",
+            "60_dias_a_6_meses": "Tarifa de renovación tardía ($150 + penalización de $75 = $225)",
+            "mas_6_meses": "Licencia expira. Debes reinstatement petition + demostrar que completaste CE + pagar tarifas + posible re-examinación"
+        },
+        "nota_tdlr": "Oregon BCD envía recordatorio de renovación por email ~90 días antes. Verifica que tu email esté actualizado en tu perfil. No renovar a tiempo puede resultar en multas si trabajas con licencia expirada ($500-$5,000).",
+        "source": "https://www.oregon.gov/bcd/licensing/pages/renew.aspx"
+    },
+    "reciprocidad": {
+        "ai_generated": true,
+        "disponible": true,
+        "nombre_proceso": "Reciprocity / Endorsement",
+        "requisitos": [
+            "Tener licencia vigente de Journeyman o equivalente en otro estado de USA",
+            "Haber trabajado activamente con esa licencia por al menos 2 años en los últimos 5 años",
+            "Proporcionar verificación oficial de tu licencia de origen",
+            "Pasar background check de Oregon",
+            "En algunos casos, demostrar conocimiento del Oregon Electrical Specialty Code (OESC) - puede requerir examen de código estatal"
+        ],
+        "nota": "Oregon evalúa reciprocidad caso por caso. No tiene acuerdos automáticos como Texas. Si tu estado de origen tiene requisitos similares a Oregon (8,000 horas + educación formal), es más probable que aprueban reciprocidad sin examen completo. Si vienes de un estado con requisitos menores, pueden pedirte tomar el examen completo de Oregon o un examen parcial del OESC. La decisión final es de BCD.",
+        "url": "https://www.oregon.gov/bcd/licensing/pages/electrical.aspx",
+        "experiencia_como_horas": "Se basa en licencia vigente y años de práctica, no en horas directas",
+        "source": "https://www.oregon.gov/bcd/licensing/pages/electrical.aspx"
+    },
+    "salarios": {
+        "ai_generated": true,
+        "nota_importante": "Los electricistas en Oregon, especialmente en el área de Portland y en proyectos union, ganan significativamente más que el promedio nacional. Oregon tiene fuerte presencia sindical (IBEW) que negocia salarios altos. Los datos del BLS son conservadores - no capturan overtime, prevailing wage en proyectos públicos, o trabajos de emergencia.",
+        "nacional_2024": {
+            "mediana": "$60,240/año",
+            "por_hora_mediana": "$28.96/hr",
+            "percentil_10": "$37,020/año",
+            "percentil_90": "$99,800/año",
+            "crecimiento_proyectado": "6% (2023-2033)",
+            "source": "https://www.bls.gov/oes/current/oes472111.htm"
+        },
+        "oregon_2024": {
+            "promedio_anual": "$67,180",
+            "promedio_hora": "$32.30",
+            "top_earners": "$92,000+",
+            "source": "BLS Oregon May 2024"
+        },
+        "por_ciudad_oregon": [
+            {
+                "ciudad": "Portland-Vancouver-Hillsboro",
+                "salario_medio": "$72,590",
+                "top_earners": "$98,450",
+                "source": "BLS"
+            },
+            {
+                "ciudad": "Salem",
+                "salario_medio": "$64,820",
+                "top_earners": "$88,290",
+                "source": "BLS"
+            },
+            {
+                "ciudad": "Eugene",
+                "salario_medio": "$61,340",
+                "top_earners": "$83,760",
+                "source": "BLS"
+            },
+            {
+                "ciudad": "Bend-Redmond",
+                "salario_medio": "$59,280",
+                "top_earners": "$79,140",
+                "source": "BLS"
+            },
+            {
+                "ciudad": "Medford",
+                "salario_medio": "$56,910",
+                "top_earners": "$76,320",
+                "source": "BLS"
+            }
+        ],
+        "ingresos_reales": {
+            "ai_generated": true,
+            "nota": "Oregon tiene prevailing wage laws muy fuertes. Cualquier proyecto de construcción financiado con fondos públicos (escuelas, carreteras, edificios gubernamentales) DEBE pagar prevailing wage - que es significativamente más alto que el mercado privado. Journeyman electricistas en proyectos prevailing wage ganan $45-55/hr + beneficios.",
+            "factores_adicionales": [
+                "Prevailing Wage en proyectos públicos ($45-55/hr para Journeyman)",
+                "Overtime (tiempo y medio después de 40 hrs, doble en domingos/festivos)",
+                "Per diem para proyectos fuera de tu área ($50-100/día)",
+                "Trabajos de emergencia (servicio 24/7 paga premium)",
+                "Union benefits: pensión, seguro médico 100% cubierto, fondo de vacaciones",
+                "Trabajos de mantenimiento industrial (plantas, data centers) pagan más"
+            ],
+            "estimado_realista": {
+                "recien_licenciada": "Apprentice año 1: $35,000-$45,000/año (45-50% de journeyman wage)",
+                "3_5_años_experiencia": "Journeyman 0-3 años: $60,000-$75,000/año (sin overtime)",
+                "especialista_o_independiente": "Journeyman con overtime/prevailing wage: $80,000-$100,000/año",
+                "dueña_salon": "Supervising con negocio propio o foreman en proyectos grandes: $90,000-$120,000+/año"
+            }
+        }
+    },
+    "errores_comunes": {
+        "ai_generated": true,
+        "items": [
+            {
+                "error": "Trabajar como electricista sin estar registrado en un programa de aprendizaje",
+                "por_que_importa": "A diferencia de estados como Texas, en Oregon es ILEGAL trabajar como electricista si no estás registrado con un programa de aprendizaje aprobado por BOLI. Si trabajas 'under the table' sin registro, tus horas NO contarán para tu licencia de Journeyman y puedes enfrentar multas de hasta $5,000. Los inspectores de obra verifican esto.",
+                "solucion": "ANTES de aceptar un trabajo, asegúrate de que tu empleador te inscribirá en un programa de aprendizaje (JATC, IEC, ABC). No trabajes sin estar registrado oficialmente. El registro es responsabilidad del empleador pero TÚ debes verificar que suceda."
+            },
+            {
+                "error": "No asistir a las clases nocturnas obligatorias del programa de aprendizaje",
+                "por_que_importa": "Oregon requiere 576-720 horas de instrucción técnica en escuela aprobada. Si faltas a clases sin excusa válida, tu programa puede expulsarte. Sin completar las horas de escuela, NO puedes tomar el examen de Journeyman, aunque tengas las 8,000 horas de trabajo. Pierdes todo tu progreso.",
+                "solucion": "Las clases usualmente son 1-2 noches por semana, 3-4 horas cada sesión. Planifica tu vida alrededor de este compromiso de 4 años. Avisa a tu familia que tendrás escuela nocturna. Si tienes emergencia, habla con tu instructor inmediatamente - algunos programas permiten make-up work."
+            },
+            {
+                "error": "Estudiar con la edición incorrecta del NEC o no conocer el Oregon Electrical Specialty Code (OESC)",
+                "por_que_importa": "El examen de Journeyman en Oregon cubre TANTO el NEC nacional COMO el Oregon Electrical Specialty Code (OESC), que tiene enmiendas y reglas adicionales específicas de Oregon. Si solo estudias el NEC nacional, fallarás las preguntas estatales. Además, Oregon adopta el NEC con 1-2 años de retraso - verifica cuál edición está vigente.",
+                "solucion": "Compra el NEC edición correcta (actualmente 2023) Y el Oregon Electrical Specialty Code. Ambos están disponibles en NFPA y OSBEELS. Tu programa de aprendizaje te dirá cuáles libros necesitas. El OESC no es largo pero es crítico - memoriza las diferencias con el NEC federal."
+            },
+            {
+                "error": "Aplicar al programa incorrecto sin entender union vs. no-union",
+                "por_que_importa": "Oregon tiene dos tracks principales: JATC (union/IBEW) y programas no-union (IEC, ABC). JATC generalmente paga MEJOR durante el aprendizaje y tiene mejores beneficios, pero requiere membresía sindical (cuotas ~$50-80/mes) y puede tener lista de espera larga. IEC/ABC no requieren sindicato, pueden entrar más rápido, pero el salario de apprentice es menor. Algunos apprentices aplican a JATC, no son aceptados, y pierden 6-12 meses esperando. Deberían haber aplicado también a IEC simultáneamente.",
+                "solucion": "Aplica a MÚLTIPLES programas al mismo tiempo. No pongas todos tus huevos en una canasta. JATC Portland tiene test de aptitud competitivo - si no pasas, ya perdiste tiempo. Aplica también a IEC Oregon, ABC Oregon, y JATC de otras ciudades (Salem, Eugene) como backup."
+            },
+            {
+                "error": "No mantener tu licencia de apprentice renovada durante los 4 años",
+                "por_que_importa": "La licencia de apprentice en Oregon se renueva cada 2 años. Si olvidas renovarla y expira, oficialmente no puedes trabajar. Si trabajas con licencia expirada, tus horas no cuentan y tu empleador puede recibir multas. He visto apprentices perder 6 meses de horas porque no renovaron a tiempo.",
+                "solucion": "Pon alarmas en tu celular 2 meses antes del vencimiento. La renovación es solo $50 y toma 10 minutos online. No hay excusa para dejarla expirar."
+            },
+            {
+                "error": "Asumir que aprobar el examen de Journeyman es fácil porque es 'open-book'",
+                "por_que_importa": "El examen de Journeyman en Oregon es open-book (puedes llevar tu NEC y OESC), pero eso NO significa que es fácil. Tienes tiempo limitado (~5 horas para 100 preguntas). Si no sabes navegar el NEC rápido y encontrar las tablas correctas, te quedarás sin tiempo. La tasa de reprobación en el primer intento es ~40%. Cada intento cuesta $90.",
+                "solucion": "PRACTICA con exámenes simulados. Aprende a usar el índice del NEC como profesional. Toma un curso de preparación (muchas escuelas ofrecen 'exam prep' de 4-8 semanas). Familiarízate con las tablas más usadas (310.15, Capítulo 9, etc.). No subestimes este examen."
+            }
+        ]
+    },
+    "servicios_sin_licencia": {
+        "ai_generated": true,
+        "titulo": "Trabajos Eléctricos que NO Requieren Licencia en Oregon",
+        "items": [
+            "Cambiar focos, lámparas o bombillas",
+            "Enchufar o desenchufar electrodomésticos",
+            "Reemplazar cordones o plugs de aparatos portátiles",
+            "Trabajos de mantenimiento básico en tu PROPIA casa (homeowner) - sujeto a obtener permiso"
+        ],
+        "requiere_licencia": [
+            "Cualquier instalación eléctrica nueva o modificación de circuitos",
+            "Trabajar en la propiedad de otra persona (aunque sea cambiar un receptáculo)",
+            "Cualquier trabajo en edificios comerciales, industriales o multi-family",
+            "Instalar paneles solares, cargadores de vehículos eléctricos, o generadores permanentes",
+            "Trabajar sin estar registrado en un programa de aprendizaje si no eres licensed electrician"
+        ],
+        "nota_importante": "Oregon es ESTRICTO con enforcement. Los inspectores de obra verifican las licencias. Trabajar sin licencia resulta en multas de $1,000-$5,000 por violación. No vale la pena el riesgo.",
+        "source": "Oregon Revised Statutes (ORS) 479 - Electrical Safety Law"
+    },
+    "faqs": {
+        "ai_generated": true,
+        "items": [
+            {
+                "pregunta": "¿El examen de electricista en Oregon está disponible en español?",
+                "respuesta": "El examen se ofrece PRINCIPALMENTE en inglés. PSI (la compañía que administra el examen) puede tener versiones en español para ciertos niveles, pero la disponibilidad es LIMITADA y debes verificar directamente con PSI al momento de agendar. La realidad es que la mayoría del material de estudio, clases de aprendizaje, y el código NEC/OESC están en inglés. Se recomienda fuertemente tener nivel intermedio-avanzado de inglés técnico para tener éxito en este oficio en Oregon.",
+                "source": "PSI",
+                "seo_note": "Muchos buscan 'examen electricista oregon en español' pero deben saber la realidad"
+            },
+            {
+                "pregunta": "¿Puedo sacar la licencia de electricista en Oregon con ITIN (sin seguro social)?",
+                "respuesta": "Sí. Oregon BCD acepta ITIN para procesar licencias de electricista si no tienes número de Seguro Social. Sin embargo, algunos programas de aprendizaje (especialmente JATC union) pueden requerir verificación de elegibilidad laboral (I-9 form) a través del empleador, lo cual puede ser más complicado con ITIN. Es más fácil entrar a programas no-union como IEC o ABC con ITIN. Consulta directamente con el programa antes de aplicar.",
+                "source": "Oregon BCD",
+                "seo_note": "Keyword importante para hispanos indocumentados"
+            },
+            {
+                "pregunta": "¿Necesito ir a una escuela técnica antes de aplicar al programa de aprendizaje?",
+                "respuesta": "No. La mayoría de programas de aprendizaje en Oregon (JATC, IEC, ABC) NO requieren educación técnica previa. Puedes aplicar directo después de high school o GED. Sin embargo, algunos programas tienen test de aptitud (matemáticas básicas, álgebra, razonamiento mecánico) - si tienes matemáticas débiles, considera tomar un curso de pre-apprentice o refrescar álgebra antes del test.",
+                "source": "JATC / IEC Oregon"
+            },
+            {
+                "pregunta": "¿Cuánto tiempo se tarda en ser Journeyman Electrician en Oregon?",
+                "respuesta": "Mínimo 4 años. Debes completar 8,000 horas de trabajo (aproximadamente 4 años a 40 horas/semana) + 576-720 horas de instrucción técnica en escuela (usualmente clases nocturnas 1-2 veces por semana durante los 4 años). Después de completar ambos requisitos, tomas el examen de Journeyman. Si apruebas en el primer intento, podrías tener tu licencia en 4 años exactos. Si repruebas el examen o trabajas part-time, tomará más tiempo.",
+                "source": "Oregon BOLI"
+            },
+            {
+                "pregunta": "¿Cuánto cuesta el examen de Journeyman en Oregon?",
+                "respuesta": "El examen de Journeyman cuesta $90 (pagado a PSI). Adicionalmente pagas $150 a BCD por la aplicación de licencia después de aprobar. Total: $240 para obtener tu licencia de Journeyman inicial (sin contar los costos de tu programa de aprendizaje durante los 4 años, que pueden ser $0-$3,000 dependiendo del programa).",
+                "source": "PSI / Oregon BCD"
+            },
+            {
+                "pregunta": "¿Cuál es la diferencia entre JATC (union) y IEC (no-union) para aprendizaje?",
+                "respuesta": "JATC (Joint Apprenticeship Training Committee) es el programa de aprendizaje del sindicato IBEW. Ventajas: mejor paga durante aprendizaje (45-75% de journeyman wage = $35k-$55k/año), mejores beneficios (seguro médico, pensión), instrucción de alta calidad generalmente gratis. Desventajas: muy competitivo (test de aptitud difícil), requiere membresía sindical (~$50-80/mes cuotas), puede tener lista de espera de 6-18 meses. IEC (Independent Electrical Contractors) es no-union. Ventajas: más fácil entrar, no requiere cuotas sindicales, más flexibilidad de empleadores. Desventajas: paga de apprentice menor ($30k-$45k), tienes que pagar matrícula escolar ($500-750/año), beneficios dependen del empleador. Ambos caminan llegan a la MISMA licencia de Journeyman. Decide basado en tus prioridades: ¿Mejor paga ahora pero más difícil entrar? → JATC. ¿Entrar rápido y flexibilidad? → IEC.",
+                "source": "JATC Portland / IEC Oregon"
+            },
+            {
+                "pregunta": "¿Cada cuánto debo renovar mi licencia de electricista en Oregon?",
+                "respuesta": "Cada 2 años para Journeyman y Supervising. Cada 2 años para Apprentice también (aunque algunos dicen anual - verifica con BCD). La renovación de Journeyman cuesta $150 y requiere 24 horas de educación continua aprobada por BCD. Los cursos de CE cuestan $150-300 online.",
+                "source": "Oregon BCD"
+            },
+            {
+                "pregunta": "¿Puedo transferir mi licencia de electricista de otro estado a Oregon?",
+                "respuesta": "Depende. Oregon evalúa reciprocidad caso por caso. Si vienes de un estado con requisitos similares (8,000 horas + educación formal + examen riguroso), es posible que aprueben tu licencia sin re-examinar. PERO es común que Oregon pida que tomes al menos el examen del Oregon Electrical Specialty Code (OESC) porque tiene reglas únicas. Si vienes de un estado con requisitos mucho menores, pueden pedirte tomar el examen completo de Oregon. NO asumas que tu licencia de otro estado transfiere automáticamente - contacta a BCD ANTES de mudarte.",
+                "source": "Oregon BCD"
+            },
+            {
+                "pregunta": "¿Cuánto gana un electricista en Portland, Oregon?",
+                "respuesta": "El salario mediano para electricistas en el área metropolitana de Portland-Vancouver es $72,590/año según BLS (May 2024). Pero esto es SOLO salario base de empleados W-2. Journeyman electricistas trabajando en proyectos prevailing wage (construcción pública) ganan $45-55/hr ($90k-110k/año). Con overtime y trabajos de emergencia, no es raro ganar $80k-$100k+/año como Journeyman. Supervising electricistas y foremen en proyectos grandes ganan $90k-$120k+.",
+                "source": "BLS + prevailing wage data Oregon BOLI"
+            }
+        ]
+    },
+    "enlaces_utiles": {
+        "ai_generated": true,
+        "enlaces": [
+            {
+                "categoria": "Autoridades Reguladoras",
+                "enlaces": [
+                    {
+                        "titulo": "Oregon Building Codes Division (BCD) - Electrical Licensing",
+                        "url": "https://www.oregon.gov/bcd/licensing/pages/electrical.aspx",
+                        "descripcion": "Página principal de licencias eléctricas de Oregon BCD"
+                    },
+                    {
+                        "titulo": "Oregon BOLI - Apprenticeship Programs",
+                        "url": "https://www.oregon.gov/boli/apprenticeship/pages/default.aspx",
+                        "descripcion": "Bureau of Labor and Industries - supervisión de programas de aprendizaje"
+                    },
+                    {
+                        "titulo": "Verificar Licencia Eléctrica Oregon",
+                        "url": "https://www.oregon.gov/bcd/licensing/Pages/verify.aspx",
+                        "descripcion": "Verificar si una licencia de electricista está vigente"
+                    }
+                ]
+            },
+            {
+                "categoria": "Programas de Aprendizaje",
+                "enlaces": [
+                    {
+                        "titulo": "JATC Portland (IBEW Local 48) - Union Apprenticeship",
+                        "url": "https://www.nwlinejatc.com/",
+                        "descripcion": "Programa de aprendizaje eléctrico del sindicato en Portland. Muy competitivo pero mejor paga."
+                    },
+                    {
+                        "titulo": "IEC Oregon - Non-Union Apprenticeship",
+                        "url": "https://www.iecoregon.org/",
+                        "descripcion": "Independent Electrical Contractors - programa no-union con múltiples ubicaciones en Oregon"
+                    },
+                    {
+                        "titulo": "ABC Oregon - Apprenticeship Programs",
+                        "url": "https://abcoregon.org/",
+                        "descripcion": "Associated Builders and Contractors - otro programa no-union"
+                    }
+                ]
+            },
+            {
+                "categoria": "Exámenes y Preparación",
+                "enlaces": [
+                    {
+                        "titulo": "PSI Exams - Agendar Examen de Electricista Oregon",
+                        "url": "https://candidate.psiexams.com/",
+                        "descripcion": "Sitio oficial de PSI para agendar exámenes. Tel: (855) 746-1552"
+                    },
+                    {
+                        "titulo": "Oregon BCD - Exam Information",
+                        "url": "https://www.oregon.gov/bcd/licensing/pages/electrical.aspx",
+                        "descripcion": "Información sobre exámenes, CIBs (Candidate Information Bulletins), libros permitidos"
+                    },
+                    {
+                        "titulo": "NFPA - Comprar NEC 2023",
+                        "url": "https://www.nfpa.org/codes-and-standards/all-codes-and-standards/list-of-codes-and-standards/detail?code=70",
+                        "descripcion": "Comprar el National Electrical Code (NEC) edición oficial"
+                    }
+                ]
+            },
+            {
+                "categoria": "Educación Continua",
+                "enlaces": [
+                    {
+                        "titulo": "Oregon BCD - Approved CE Providers",
+                        "url": "https://www.oregon.gov/bcd/licensing/pages/electrical.aspx",
+                        "descripcion": "Lista de proveedores aprobados de educación continua para electricistas"
+                    }
+                ]
+            },
+            {
+                "categoria": "Salarios y Estadísticas",
+                "enlaces": [
+                    {
+                        "titulo": "BLS - Electricians Oregon Data",
+                        "url": "https://www.bls.gov/oes/current/oes_or.htm",
+                        "descripcion": "Datos oficiales de empleo y salarios de electricistas en Oregon (Bureau of Labor Statistics)"
+                    },
+                    {
+                        "titulo": "Oregon Employment Department - Wage Data",
+                        "url": "https://www.qualityinfo.org/",
+                        "descripcion": "Datos de empleo y salarios específicos de Oregon"
+                    },
+                    {
+                        "titulo": "BOLI - Prevailing Wage Rates",
+                        "url": "https://www.oregon.gov/boli/WHD/PWR/Pages/index.aspx",
+                        "descripcion": "Tarifas de prevailing wage para proyectos públicos en Oregon (electricistas ganan $45-55/hr en estos proyectos)"
+                    }
+                ]
+            },
+            {
+                "categoria": "Recursos Generales",
+                "enlaces": [
+                    {
+                        "titulo": "Oregon BCD - Contact Information",
+                        "url": "https://www.oregon.gov/bcd/about/Pages/contact-us.aspx",
+                        "descripcion": "Teléfonos, emails y dirección física de Oregon BCD"
+                    },
+                    {
+                        "titulo": "Oregon Revised Statutes (ORS) 479 - Electrical Safety Law",
+                        "url": "https://www.oregonlegislature.gov/bills_laws/Pages/ORS.aspx",
+                        "descripcion": "Leyes estatales de electricidad en Oregon"
+                    }
+                ]
+            }
+        ]
+    },
+    "links_oficiales": {
+        "ai_generated": true,
+        "items": [
+            {
+                "nombre": "Oregon BCD - Electrical Licensing Home",
+                "url": "https://www.oregon.gov/bcd/licensing/pages/electrical.aspx",
+                "descripcion": "Página principal del programa de licencias eléctricas"
+            },
+            {
+                "nombre": "Aplicar para Licencia Eléctrica",
+                "url": "https://www.oregon.gov/bcd/licensing/pages/electrical.aspx",
+                "descripcion": "Información de cómo aplicar para todas las licencias eléctricas"
+            },
+            {
+                "nombre": "Oregon BOLI - Apprenticeship",
+                "url": "https://www.oregon.gov/boli/apprenticeship/pages/default.aspx",
+                "descripcion": "Información sobre programas de aprendizaje registrados"
+            },
+            {
+                "nombre": "PSI Exams Oregon",
+                "url": "https://candidate.psiexams.com/",
+                "descripcion": "Agendar examen de electricista. Tel: (855) 746-1552"
+            },
+            {
+                "nombre": "Renovar Licencia Oregon BCD",
+                "url": "https://www.oregon.gov/bcd/licensing/pages/renew.aspx",
+                "descripcion": "Renovación en línea de licencias eléctricas"
+            },
+            {
+                "nombre": "Verificar Licencia",
+                "url": "https://www.oregon.gov/bcd/licensing/Pages/verify.aspx",
+                "descripcion": "Verificar si una licencia está vigente"
+            },
+            {
+                "nombre": "BLS Oregon - Electricians Data",
+                "url": "https://www.bls.gov/oes/current/oes_or.htm",
+                "descripcion": "Salarios oficiales y datos de empleo"
+            },
+            {
+                "nombre": "Oregon Prevailing Wage Rates",
+                "url": "https://www.oregon.gov/boli/WHD/PWR/Pages/index.aspx",
+                "descripcion": "Tarifas de prevailing wage para proyectos públicos"
+            }
+        ]
+    },
+    "content_generation_rules": {
+        "tono": "Profesional, directo y realista. Oregon tiene sistema riguroso pero bien pagado.",
+        "persona": "Journeyman Electrician con experiencia en Oregon que conoce las diferencias vs otros estados",
+        "reglas": [
+            "ENFATIZAR que Oregon requiere programa de aprendizaje registrado - no puedes trabajar sin estar inscrito",
+            "Mencionar PROMINENTEMENTE que la escuela es OBLIGATORIA (576-720 horas) - no opcional como en Texas",
+            "Clarificar que el examen está principalmente en INGLÉS - no asumir español disponible",
+            "Explicar diferencia entre JATC (union/mejor paga) vs IEC (no-union/más fácil entrar)",
+            "Destacar prevailing wage - Oregon paga MUCHO mejor en proyectos públicos ($45-55/hr journeyman)",
+            "Mencionar que Oregon NO tiene 'Master Electrician' - el nivel top es 'Supervising Electrician'",
+            "Enfatizar que Limited Residential es limitado - mejor ir a Journeyman completo para más oportunidades"
+        ]
+    }
+}

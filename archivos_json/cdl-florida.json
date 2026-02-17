@@ -1,0 +1,817 @@
+{
+    "_meta": {
+        "schema_version": "2.0",
+        "page_id": "licencia-cdl-florida",
+        "oficio": "cdl",
+        "estado": "florida",
+        "last_verified": "2026-02-16",
+        "verified_by": "Claude AI - requiere verificación humana",
+        "notes": "Datos basados en FLHSMV y FMCSA. Florida requiere ELDT federal y tiene exámenes en español disponibles."
+    },
+    "page_seo": {
+        "title": "Licencia CDL en Florida 2026: Requisitos, Clase A y B, Examen en Español",
+        "meta_description": "Guía completa para obtener la Licencia Comercial (CDL) en Florida. Requisitos para Clase A y B, permiso de aprendizaje, examen médico y escuelas de manejo en español.",
+        "slug": "licencia-cdl-florida",
+        "canonical_url": "https://chambaenusa.com/licencia-cdl-florida/",
+        "h1": "Licencia Comercial (CDL) en Florida: Guía Completa 2026",
+        "schema_types": [
+            "HowTo",
+            "FAQPage",
+            "BreadcrumbList"
+        ],
+        "keywords_primary": [
+            "licencia cdl florida",
+            "examen cdl florida español",
+            "requisitos cdl florida",
+            "permiso comercial florida"
+        ],
+        "keywords_secondary": [
+            "escuelas de manejo de camiones en florida",
+            "clase a vs clase b cdl florida",
+            "certificado médico cdl florida",
+            "cuanto gana un trailero en florida"
+        ],
+        "keywords_long_tail": [
+            "como sacar la licencia cdl en florida siendo hispano",
+            "examen de frenos de aire florida español",
+            "costo total licencia cdl florida 2026",
+            "escuelas de cdl en miami que hablen español"
+        ]
+    },
+    "hero": {
+        "ai_generated": true,
+        "badge": "Guía Oficial 2026",
+        "headline": "Tu Licencia CDL en Florida (Clase A, B y C)",
+        "subheadline": "Conviértete en conductor comercial en Florida. Examen escrito disponible en español, con oportunidades de alto ingreso en transporte y logística.",
+        "key_stats": [
+            {
+                "label": "Permiso (CLP)",
+                "value": "14 días",
+                "detail": "Tiempo mínimo antes del examen práctico",
+                "source": "https://www.flhsmv.gov/driver-licenses-id-cards/commercial-motor-vehicle-drivers/",
+                "source_name": "FLHSMV"
+            },
+            {
+                "label": "Entrenamiento",
+                "value": "ELDT Obligatorio",
+                "detail": "Requerido por ley federal desde 2022",
+                "source": "https://www.fmcsa.dot.gov/registration/commercial-drivers-license/entry-level-driver-training-eldt",
+                "source_name": "FMCSA"
+            },
+            {
+                "label": "Examen Escrito",
+                "value": "Español",
+                "detail": "Disponible en español y otros idiomas",
+                "source": "https://www.flhsmv.gov/driver-licenses-id-cards/commercial-motor-vehicle-drivers/",
+                "source_name": "FLHSMV"
+            },
+            {
+                "label": "Salario Promedio",
+                "value": "$50k - $75k",
+                "detail": "Para conductores de camión en Florida",
+                "source": "https://www.bls.gov/oes/current/oes_fl.htm",
+                "source_name": "BLS Florida"
+            }
+        ],
+        "cta_primary": {
+            "text": "Ver Requisitos",
+            "anchor": "#roadmap"
+        },
+        "cta_secondary": {
+            "text": "Calcular Inversión",
+            "anchor": "#calculadora_inversion"
+        }
+    },
+    "callout_espanol": {
+        "ai_generated": true,
+        "type": "info_box",
+        "icon": "✅",
+        "title": "Exámenes Disponibles en Español",
+        "content": "En Florida, el examen TEÓRICO (escrito) de conocimientos generales está disponible en español. Sin embargo, debes tener conocimientos básicos de inglés para el examen PRÁCTICO, ya que las señales de tráfico y comandos de seguridad están en inglés. Muchas escuelas en áreas como Miami, Tampa y Orlando ofrecen instrucción bilingüe.",
+        "source": "https://www.flhsmv.gov/driver-licenses-id-cards/commercial-motor-vehicle-drivers/",
+        "source_name": "FLHSMV"
+    },
+    "autoridad_reguladora": {
+        "ai_generated": true,
+        "nombre": "Florida Department of Highway Safety and Motor Vehicles",
+        "programa": "Division of Driver Licenses - Commercial Driver License",
+        "nota_consolidacion": "FLHSMV es la agencia estatal que regula todas las licencias de conducir comerciales en Florida.",
+        "direccion": {
+            "calle": "Neil Kirkman Building, 2900 Apalachee Parkway",
+            "ciudad": "Tallahassee",
+            "estado": "FL",
+            "cp": "32399",
+            "mailing": "Neil Kirkman Building, MS 92, Tallahassee, FL 32399"
+        },
+        "telefono": {
+            "local": "(850) 617-2000",
+            "toll_free": "1-866-467-8638"
+        },
+        "email": "FLHSMVCustomerService@flhsmv.gov",
+        "web": "https://www.flhsmv.gov/driver-licenses-id-cards/commercial-motor-vehicle-drivers/",
+        "verificar_licencia": "https://services.flhsmv.gov/virtualoffice/",
+        "source": "https://www.flhsmv.gov/"
+    },
+    "roadmap": {
+        "_description": "Proceso paso a paso para obtener la licencia CDL en Florida",
+        "ai_generated": true,
+        "layout": "timeline",
+        "nota_general": "El proceso consiste en: 1) Obtener permiso de aprendizaje (CLP), 2) Completar entrenamiento ELDT, 3) Aprobar examen de habilidades prácticas. Florida requiere que tengas al menos 21 años para conducir interestatalmente, pero puedes obtener CDL a los 18 para rutas dentro de Florida.",
+        "tipos": [
+            {
+                "id": "clp",
+                "titulo_en": "Commercial Learner's Permit (CLP)",
+                "titulo_es": "Permiso de Aprendizaje Comercial",
+                "es_principal": false,
+                "color_badge": "#3b82f6",
+                "descripcion_corta": "Primer paso obligatorio. Te permite practicar con un conductor CDL calificado en el asiento del pasajero.",
+                "scope_of_work": "Practicar manejo de vehículo comercial bajo supervisión de titular de CDL válida en el mismo vehículo.",
+                "requisitos": {
+                    "edad_minima": 18,
+                    "educacion_previa": "Licencia Clase E válida de Florida",
+                    "licencia_previa": "Licencia regular de Florida (Clase E)",
+                    "examen_medico": "Certificado médico DOT (Medical Examiner's Certificate) válido",
+                    "examen": "Aprobar examen de conocimientos generales y cualquier endoso que desees"
+                },
+                "examen": {
+                    "nombre": "Examen de Conocimientos Generales",
+                    "partes": 1,
+                    "parte_1": {
+                        "nombre": "General Knowledge Test",
+                        "formato": "Opción múltiple",
+                        "costo": 10,
+                        "idiomas": [
+                            "Inglés",
+                            "Español"
+                        ],
+                        "puntaje_minimo": "80% (40 de 50 preguntas correctas)",
+                        "cuando_tomarlo": "Después de estudiar el manual CDL de Florida",
+                        "contenido_principal": [
+                            "Inspección del vehículo",
+                            "Control básico del vehículo",
+                            "Conducción segura",
+                            "Transporte de carga",
+                            "Frenos de aire (si aplica)"
+                        ],
+                        "ubicaciones": "Cualquier oficina de licencias de Florida que procese CDL",
+                        "que_llevar": [
+                            "Licencia Clase E válida",
+                            "Certificado médico DOT",
+                            "Prueba de identidad (pasaporte, acta de nacimiento)",
+                            "Prueba de número de seguro social",
+                            "Dos comprobantes de domicilio en Florida"
+                        ],
+                        "nota_licencia_temporal": "El CLP es válido por 1 año y debe tenerse por mínimo 14 días antes del examen práctico."
+                    },
+                    "administrador": "FLHSMV",
+                    "retakes": "Puedes reintentar después de 1 día hábil. Se aplica tarifa de reexamen.",
+                    "source": "https://www.flhsmv.gov/driver-licenses-id-cards/commercial-motor-vehicle-drivers/"
+                },
+                "costos": {
+                    "aplicacion_licencia": 75,
+                    "examen_escrito": 10,
+                    "total_examenes_y_licencia": 85
+                },
+                "como_aplicar": {
+                    "metodo": "En persona en oficina de licencias de Florida",
+                    "url": "https://www.flhsmv.gov/locations/",
+                    "tiempo_procesamiento": "Mismo día (si apruebas el examen)",
+                    "pasos": [
+                        "Obtener certificado médico DOT de un examinador certificado",
+                        "Estudiar el manual CDL de Florida (disponible en español)",
+                        "Reunir documentos de identidad y residencia",
+                        "Visitar oficina de licencias",
+                        "Pagar tarifas",
+                        "Tomar examen de conocimientos",
+                        "Recibir CLP si apruebas"
+                    ]
+                },
+                "nota": "Debes mantener el CLP por mínimo 14 días antes de poder tomar el examen de habilidades prácticas.",
+                "source": "https://www.flhsmv.gov/driver-licenses-id-cards/commercial-motor-vehicle-drivers/"
+            },
+            {
+                "id": "cdl_clase_c",
+                "titulo_en": "Class C CDL",
+                "titulo_es": "Licencia Clase C Comercial",
+                "es_principal": false,
+                "color_badge": "#10b981",
+                "descripcion_corta": "Para vehículos diseñados para transportar 16+ pasajeros o materiales peligrosos.",
+                "scope_of_work": "Vehículos que no califican para Clase A o B pero transportan 16+ pasajeros (incluyendo conductor) o requieren placas de materiales peligrosos.",
+                "requisitos": {
+                    "edad_minima": 18,
+                    "licencia_previa": "CLP por mínimo 14 días",
+                    "experiencia": "Completar entrenamiento ELDT en proveedor registrado",
+                    "examen_medico": "Certificado médico DOT vigente",
+                    "examen": "Examen de habilidades prácticas (inspección, maniobras, conducción en ruta)"
+                },
+                "examen": {
+                    "nombre": "Examen de Habilidades (Skills Test)",
+                    "partes": 3,
+                    "parte_1": {
+                        "nombre": "Pre-Trip Inspection",
+                        "formato": "Inspección verbal del vehículo",
+                        "idiomas": [
+                            "Inglés",
+                            "Español (puede variar según examinador)"
+                        ],
+                        "puntaje_minimo": "Pasar sin fallas críticas",
+                        "cuando_tomarlo": "Después de completar ELDT",
+                        "que_llevar": [
+                            "CLP válido",
+                            "Certificado médico",
+                            "Vehículo apropiado para la clase que buscas"
+                        ]
+                    },
+                    "parte_2": {
+                        "nombre": "Basic Control Skills",
+                        "formato": "Maniobras (retroceso, estacionamiento)",
+                        "puntaje_minimo": "Pasar sin exceder puntos de falla",
+                        "cuando_tomarlo": "Después de pre-trip inspection",
+                        "contenido_principal": [
+                            "Straight line backing",
+                            "Offset backing",
+                            "Parallel parking"
+                        ]
+                    },
+                    "administrador": "FLHSMV o proveedor de terceros autorizado",
+                    "retakes": "Puedes reintentar después de 1 día. Las tres partes deben aprobarse; si fallas una, solo retomarás esa parte.",
+                    "source": "https://www.flhsmv.gov/driver-licenses-id-cards/commercial-motor-vehicle-drivers/"
+                },
+                "costos": {
+                    "aplicacion_licencia": 75,
+                    "examen_practico": 50,
+                    "total_examenes_y_licencia": 125
+                },
+                "como_aplicar": {
+                    "metodo": "Programar examen de habilidades después de completar ELDT",
+                    "url": "https://www.flhsmv.gov/appointments/",
+                    "tiempo_procesamiento": "Mismo día (si apruebas)",
+                    "pasos": [
+                        "Completar entrenamiento ELDT",
+                        "Programar examen de habilidades",
+                        "Presentarse con vehículo apropiado",
+                        "Aprobar las tres partes del examen",
+                        "Recibir CDL Clase C"
+                    ]
+                },
+                "nota": "Útil para conductores de minibuses, vans de pasajeros o vehículos con materiales peligrosos que no requieren Clase A o B.",
+                "source": "https://www.flhsmv.gov/driver-licenses-id-cards/commercial-motor-vehicle-drivers/"
+            },
+            {
+                "id": "cdl_clase_b",
+                "titulo_en": "Class B CDL",
+                "titulo_es": "Licencia Clase B (Camiones Rectos/Autobuses)",
+                "es_principal": false,
+                "color_badge": "#f59e0b",
+                "descripcion_corta": "Para vehículos individuales pesados como camiones de reparto, autobuses escolares y camiones de basura.",
+                "scope_of_work": "Vehículo único con peso bruto vehicular (GVWR) de 26,001 lbs o más. Puede remolcar vehículo de hasta 10,000 lbs.",
+                "requisitos": {
+                    "edad_minima": 18,
+                    "licencia_previa": "CLP por mínimo 14 días",
+                    "experiencia": "Completar entrenamiento ELDT en proveedor registrado (mínimo requerido por ley federal)",
+                    "examen_medico": "Certificado médico DOT vigente",
+                    "examen": "Examen de habilidades prácticas en vehículo Clase B"
+                },
+                "examen": {
+                    "nombre": "Examen de Habilidades (Skills Test)",
+                    "partes": 3,
+                    "parte_1": {
+                        "nombre": "Pre-Trip Inspection",
+                        "formato": "Inspección verbal detallada",
+                        "idiomas": [
+                            "Inglés",
+                            "Español (limitado según examinador)"
+                        ],
+                        "puntaje_minimo": "Sin fallas críticas",
+                        "cuando_tomarlo": "Después de ELDT y práctica adecuada"
+                    },
+                    "parte_2": {
+                        "nombre": "Basic Control Skills",
+                        "formato": "Maniobras específicas",
+                        "puntaje_minimo": "Pasar sin exceder límites de puntos"
+                    },
+                    "administrador": "FLHSMV o proveedor tercero autorizado",
+                    "retakes": "Disponible después de 1 día si fallas. Solo retomarás la parte que reprobaste.",
+                    "source": "https://www.flhsmv.gov/driver-licenses-id-cards/commercial-motor-vehicle-drivers/"
+                },
+                "costos": {
+                    "aplicacion_licencia": 75,
+                    "examen_practico": 50,
+                    "total_examenes_y_licencia": 125
+                },
+                "como_aplicar": {
+                    "metodo": "Completar ELDT y programar examen",
+                    "url": "https://www.flhsmv.gov/appointments/",
+                    "pasos": [
+                        "Obtener CLP",
+                        "Inscribirse en escuela ELDT registrada",
+                        "Completar entrenamiento teórico y práctico",
+                        "Programar examen de habilidades",
+                        "Aprobar examen con vehículo Clase B",
+                        "Recibir CDL Clase B"
+                    ]
+                },
+                "nota": "Ideal para camiones de reparto, dump trucks, autobuses escolares y camiones de basura. No permite tractocamiones con trailers pesados.",
+                "horas_escuela": 40,
+                "source": "https://www.flhsmv.gov/driver-licenses-id-cards/commercial-motor-vehicle-drivers/"
+            },
+            {
+                "id": "cdl_clase_a",
+                "titulo_en": "Class A CDL",
+                "titulo_es": "Licencia Clase A (Tractocamiones/Trailers)",
+                "es_principal": true,
+                "color_badge": "#dc2626",
+                "descripcion_corta": "La licencia más versátil. Te permite conducir cualquier combinación de vehículos, incluyendo tractocamiones con trailers.",
+                "scope_of_work": "Cualquier combinación de vehículos con peso bruto combinado (GCWR) de 26,001+ lbs, siempre que el vehículo remolcado sea mayor a 10,000 lbs. Incluye todos los vehículos de Clase B y C.",
+                "requisitos": {
+                    "edad_minima": 18,
+                    "licencia_previa": "CLP Clase A por mínimo 14 días",
+                    "experiencia": "Completar entrenamiento ELDT específico para Clase A",
+                    "examen_medico": "Certificado médico DOT válido",
+                    "examen": "Examen de habilidades en vehículo combinado (tractor-trailer)"
+                },
+                "examen": {
+                    "nombre": "Examen de Habilidades Clase A",
+                    "partes": 3,
+                    "parte_1": {
+                        "nombre": "Pre-Trip Inspection",
+                        "formato": "Inspección completa del tractor y trailer",
+                        "idiomas": [
+                            "Inglés",
+                            "Español (limitado)"
+                        ],
+                        "puntaje_minimo": "Sin fallas automáticas",
+                        "cuando_tomarlo": "Después de completar ELDT y práctica supervisada",
+                        "contenido_principal": [
+                            "Motor y compartimento",
+                            "Cabina",
+                            "Frenos de aire",
+                            "Luces y señales",
+                            "Acoplamiento quinta rueda",
+                            "Trailer completo"
+                        ],
+                        "que_llevar": [
+                            "CLP Clase A válido",
+                            "Certificado médico DOT",
+                            "Tractor-trailer en condiciones operables",
+                            "Prueba de seguro del vehículo"
+                        ]
+                    },
+                    "parte_2": {
+                        "nombre": "Basic Control Skills",
+                        "formato": "Maniobras con tractor-trailer",
+                        "puntaje_minimo": "Completar sin exceder límites",
+                        "contenido_principal": [
+                            "Straight line backing",
+                            "Offset backing (left/right)",
+                            "Alley dock o parallel park"
+                        ]
+                    },
+                    "administrador": "FLHSMV o Third Party Tester autorizado",
+                    "telefono_psi": "Varía según proveedor",
+                    "retakes": "Puedes reintentar después de 1 día hábil. Tarifa adicional por reexamen.",
+                    "source": "https://www.flhsmv.gov/driver-licenses-id-cards/commercial-motor-vehicle-drivers/"
+                },
+                "costos": {
+                    "aplicacion_licencia": 75,
+                    "examen_practico": 50,
+                    "total_examenes_y_licencia": 125
+                },
+                "como_aplicar": {
+                    "metodo": "Entrenamiento ELDT + Examen de Habilidades",
+                    "url": "https://www.flhsmv.gov/driver-licenses-id-cards/commercial-motor-vehicle-drivers/",
+                    "tiempo_procesamiento": "4-8 semanas desde inicio de entrenamiento hasta licencia",
+                    "pasos": [
+                        "Obtener CLP Clase A",
+                        "Inscribirse en programa ELDT registrado federalmente",
+                        "Completar mínimo de horas de teoría y práctica",
+                        "Practicar con instructor certificado",
+                        "Programar examen de habilidades",
+                        "Aprobar las 3 partes del examen",
+                        "Recibir CDL Clase A"
+                    ]
+                },
+                "combinaciones": [
+                    "Tractocamiones con trailers",
+                    "Truck and trailer combinations",
+                    "Tanker trucks",
+                    "Flatbeds",
+                    "Refrigerated trailers"
+                ],
+                "nota": "Esta es la licencia más demandada para conductores de larga distancia (OTR - Over The Road). Con endosos adicionales (Hazmat, Tanker, Doubles/Triples) puedes aumentar significativamente tus oportunidades laborales.",
+                "horas_escuela": 160,
+                "source": "https://www.flhsmv.gov/driver-licenses-id-cards/commercial-motor-vehicle-drivers/"
+            }
+        ]
+    },
+    "calculadora_inversion": {
+        "ai_generated": true,
+        "_description": "Costos estimados para obtener CDL en Florida según diferentes rutas",
+        "escenarios": [
+            {
+                "id": "cdl_clase_a_escuela_privada",
+                "licencia": "Licencia Clase A (Escuela Privada)",
+                "inversion": {
+                    "examen_medico_dl51": "$75 - $150",
+                    "licencia_clp_dmv": "$75",
+                    "matricula_escuela": "$3,000 - $7,000",
+                    "kit_libros": "$50 - $100",
+                    "examenes_endosos": "$10 por endoso",
+                    "examen_practico": "$50",
+                    "total_estimado": "$3,260 - $7,385"
+                },
+                "tiempo": "3 - 8 semanas",
+                "salario_esperado": {
+                    "empleada": "$45,000 - $55,000 (primer año)",
+                    "con_experiencia": "$60,000 - $75,000 (3-5 años)",
+                    "independiente_booth_rental": "$80,000+ (dueño-operador con experiencia)",
+                    "nota": "Los salarios varían según tipo de carga, rutas (local vs OTR), y endosos especiales."
+                },
+                "nota": "Escuelas privadas ofrecen programas intensivos de 3-8 semanas. Algunas escuelas tienen programas en español o con instructores bilingües.",
+                "roi_nota": "Con salario inicial de $50k, recuperas inversión en 2-3 meses. Inversión excelente para carrera de largo plazo."
+            },
+            {
+                "id": "cdl_clase_a_company_sponsored",
+                "licencia": "Clase A (Entrenamiento Patrocinado)",
+                "inversion": {
+                    "examen_medico_dl51": "$100",
+                    "licencia_clp_dmv": "$75",
+                    "escuela_manejo": "$0 (pagado por compañía)",
+                    "examenes_endosos": "$10 - $30",
+                    "total_estimado": "$185 - $205"
+                },
+                "tiempo": "3-6 semanas + contrato de 1-2 años",
+                "salario_esperado": {
+                    "empleada": "$40,000 - $50,000 (durante contrato)",
+                    "nota": "Salario puede ser menor durante período de contrato, pero sin deuda de escuela."
+                },
+                "nota": "Compañías como Schneider, Swift, CR England ofrecen entrenamiento gratuito a cambio de contrato laboral. Debes trabajar con ellos por 1-2 años o reembolsar costo de entrenamiento.",
+                "roi_nota": "Inversión inicial mínima, ideal si no tienes $3k-$7k disponibles. El compromiso es tu tiempo (contrato)."
+            },
+            {
+                "id": "cdl_clase_b_escuela",
+                "licencia": "Licencia Clase B",
+                "inversion": {
+                    "examen_medico_dl51": "$75 - $150",
+                    "licencia_clp_dmv": "$75",
+                    "matricula_escuela": "$2,000 - $4,500",
+                    "kit_libros": "$50 - $100",
+                    "examen_practico": "$50",
+                    "total_estimado": "$2,250 - $4,875"
+                },
+                "tiempo": "2-6 semanas",
+                "salario_esperado": {
+                    "empleada": "$35,000 - $45,000",
+                    "con_experiencia": "$45,000 - $60,000",
+                    "nota": "Ideal para trabajo local: autobuses escolares, camiones de reparto, dump trucks."
+                },
+                "nota": "Clase B es más rápida y económica. Buena opción si prefieres rutas locales y regresar a casa diariamente.",
+                "roi_nota": "Menor inversión y tiempo. Ideal para trabajo local con horarios más predecibles."
+            }
+        ]
+    },
+    "renovacion": {
+        "ai_generated": true,
+        "frecuencia": "Cada 8 años (licencia) / Cada 2 años (certificado médico DOT)",
+        "metodo": "En línea, por correo, o en persona",
+        "url_renovacion": "https://www.flhsmv.gov/driver-licenses-id-cards/renew/",
+        "costo_renovacion": 75,
+        "ce_requerida": {
+            "horas_totales": 0,
+            "temas": [],
+            "nota": "Florida NO requiere educación continua para renovar CDL. Sin embargo, DEBES mantener tu certificado médico DOT actualizado cada 2 años (o según lo indique tu certificado). Si el certificado médico vence, tu CDL será degradada automáticamente a licencia no-comercial.",
+            "costo_cursos_ce_online": "N/A"
+        },
+        "consecuencias_no_renovar": {
+            "0_12_meses": "Gracia limitada - puedes renovar con recargo",
+            "mas_12_meses": "Licencia caduca. Debes volver a tomar exámenes de conocimiento y habilidades.",
+            "certificado_medico_vencido": "CDL degradada automáticamente (downgrade) - pierdes privilegios comerciales hasta renovar certificado"
+        },
+        "nota_tdlr": "CRÍTICO: El certificado médico DOT es separado de la renovación de licencia. Debes renovarlo cada 2 años con un examinador médico certificado. FLHSMV recibe notificación automática cuando se actualiza.",
+        "source": "https://www.flhsmv.gov/driver-licenses-id-cards/renew/"
+    },
+    "reciprocidad": {
+        "ai_generated": true,
+        "disponible": true,
+        "nombre_proceso": "Transferencia de CDL de otro estado (Transfer)",
+        "requisitos": [
+            "Tener CDL válida de otro estado de EE.UU.",
+            "Renunciar a la licencia del estado anterior",
+            "Residir en Florida (proporcionar dos pruebas de domicilio)",
+            "Aprobar examen de la vista",
+            "Presentar certificado médico DOT válido",
+            "Aprobar examen de conocimientos de Florida (puede requerirse según casos)",
+            "Pagar tarifa de transferencia"
+        ],
+        "nota": "Florida forma parte del programa nacional de CDL, por lo que solo puedes tener UNA licencia comercial a la vez. Al transferir, tu estado anterior será notificado y tu licencia allí será cancelada. No necesitas retomar el examen de habilidades prácticas si tu CDL está vigente y sin sanciones.",
+        "url": "https://www.flhsmv.gov/driver-licenses-id-cards/commercial-motor-vehicle-drivers/",
+        "experiencia_como_horas": "No aplica para transferencias - tu experiencia previa es reconocida automáticamente",
+        "source": "https://www.flhsmv.gov/driver-licenses-id-cards/commercial-motor-vehicle-drivers/"
+    },
+    "salarios": {
+        "ai_generated": true,
+        "nota_importante": "Los salarios CDL varían significativamente según: tipo de carga (dry van, refrigerado, tanker, flatbed, hazmat), rutas (local vs regional vs OTR), experiencia, endosos adicionales, y si eres empleado o dueño-operador.",
+        "nacional_2024": {
+            "mediana": "$49,920/año",
+            "por_hora_mediana": "$24.00/hora",
+            "percentil_10": "$32,830/año",
+            "percentil_90": "$72,800/año",
+            "crecimiento_proyectado": "+4% (2022-2032)",
+            "source": "https://www.bls.gov/oes/current/oes533032.htm",
+            "top_earners": "$80,000 - $100,000+ (dueños-operadores o especializaciones)"
+        },
+        "texas": {
+            "promedio_anual": "$52,140",
+            "promedio_hora": "$25.07",
+            "top_earners": "$75,000+",
+            "source": "https://www.bls.gov/oes/current/oes_fl.htm"
+        },
+        "por_ciudad_texas": [
+            {
+                "ciudad": "Miami-Fort Lauderdale-West Palm Beach",
+                "salario_medio": "$50,280/año",
+                "top_earners": "$70,000 - $80,000",
+                "source": "BLS OES 2024"
+            },
+            {
+                "ciudad": "Tampa-St. Petersburg-Clearwater",
+                "salario_medio": "$51,450/año",
+                "top_earners": "$68,000 - $75,000",
+                "source": "BLS OES 2024"
+            },
+            {
+                "ciudad": "Orlando-Kissimmee-Sanford",
+                "salario_medio": "$49,870/año",
+                "top_earners": "$65,000 - $72,000",
+                "source": "BLS OES 2024"
+            },
+            {
+                "ciudad": "Jacksonville",
+                "salario_medio": "$53,210/año",
+                "top_earners": "$72,000 - $80,000",
+                "source": "BLS OES 2024"
+            }
+        ],
+        "ingresos_reales": {
+            "ai_generated": true,
+            "nota": "Estos son rangos realistas basados en estructura de pago común (por milla, por carga, o por hora) y considerando tiempo real de trabajo.",
+            "factores_adicionales": [
+                "OTR (Over The Road / larga distancia): $0.40-$0.65 por milla = $45k-$70k/año",
+                "Local (regresas a casa diario): $18-$28/hora = $40k-$58k/año",
+                "Regional: $0.45-$0.55 por milla = $50k-$65k/año",
+                "Hazmat/Tanker endosos: +$5k-$15k adicionales/año",
+                "Dueño-operador: $80k-$150k+ (pero con gastos de camión, combustible, mantenimiento)"
+            ],
+            "estimado_realista": {
+                "recien_licenciada": "$40,000 - $50,000 (primer año, empleado)",
+                "3_5_años_experiencia": "$55,000 - $70,000 (con buenos endosos)",
+                "especialista_o_independiente": "$75,000 - $90,000 (hazmat, oversized loads, trainer)",
+                "dueña_salon": "$100,000 - $200,000+ (dueño-operador establecido, requiere capital inicial significativo)"
+            }
+        }
+    },
+    "errores_comunes": {
+        "ai_generated": true,
+        "items": [
+            {
+                "error": "Dejar vencer el certificado médico DOT",
+                "por_que_importa": "Si tu certificado médico vence, FLHSMV automáticamente degrada tu CDL a licencia no-comercial (Clase E). Pierdes todos los privilegios comerciales hasta renovar el médico.",
+                "solucion": "Renueva tu examen médico DOT 30-60 días ANTES de que venza. Configura recordatorios. El certificado debe renovarse cada 2 años (o 1 año si tienes condiciones médicas específicas)."
+            },
+            {
+                "error": "No completar entrenamiento ELDT antes del examen",
+                "por_que_importa": "Desde febrero 2022, la ley federal REQUIERE que completes Entry-Level Driver Training en un proveedor registrado ANTES de tomar el examen de habilidades. Sin ELDT, no puedes programar el examen.",
+                "solucion": "Verifica que tu escuela esté registrada en el TPR (Training Provider Registry) de FMCSA. Pregunta por el certificado de finalización antes de pagar."
+            },
+            {
+                "error": "Esperar demasiado entre obtener CLP y tomar examen práctico",
+                "por_que_importa": "El CLP es válido por solo 1 año. Si no tomas el examen de habilidades antes de que venza, debes pagar nuevamente por el CLP y retomar exámenes de conocimiento.",
+                "solucion": "Una vez que tengas tu CLP, inscríbete inmediatamente en una escuela o programa de entrenamiento. No dejes pasar más de 6-8 meses."
+            },
+            {
+                "error": "No practicar la inspección pre-viaje en inglés",
+                "por_que_importa": "Aunque el examen escrito está en español, la inspección pre-viaje del examen práctico requiere que nombres partes del vehículo y expliques procedimientos en inglés. Muchos fallan por no conocer el vocabulario técnico.",
+                "solucion": "Memoriza el script de pre-trip inspection en inglés. Practica con tu instructor hasta que puedas hacerlo sin pensar. YouTube tiene videos en español explicando términos en inglés."
+            },
+            {
+                "error": "Elegir escuela no registrada o de mala reputación",
+                "por_que_importa": "Escuelas no registradas en FMCSA no cumplen requisito ELDT. Escuelas de baja calidad pueden cobrar pero no prepararte adecuadamente, resultando en reprobar examen múltiples veces.",
+                "solucion": "Verifica registro ELDT en https://tpr.fmcsa.dot.gov/. Lee reseñas. Pregunta tasa de aprobación en primer intento. Visita las instalaciones antes de pagar."
+            },
+            {
+                "error": "No obtener endosos importantes desde el inicio",
+                "por_que_importa": "Endosos como Air Brakes, Doubles/Triples, Tanker, y Hazmat aumentan significativamente tus oportunidades de empleo y salario. Obtenerlos después requiere volver a DMV y pagar tarifas adicionales.",
+                "solucion": "Cuando tomes tu CLP, estudia y toma exámenes de endosos que planees usar. Es más eficiente hacerlo todo junto. Hazmat requiere TSA background check adicional ($86.50)."
+            },
+            {
+                "error": "No revisar récord de manejo antes de aplicar",
+                "por_que_importa": "Violaciones graves de tráfico, DUI, o suspensiones previas pueden descalificarte temporalmente para CDL. Aplicar sin verificar puede resultar en perder tarifas de aplicación.",
+                "solucion": "Obtén copia de tu récord de conductor en FLHSMV antes de iniciar proceso. Si tienes infracciones, consulta con DMV sobre períodos de espera requeridos."
+            }
+        ]
+    },
+    "faqs": {
+        "ai_generated": true,
+        "items": [
+            {
+                "pregunta": "¿Puedo tomar el examen CDL completamente en español en Florida?",
+                "respuesta": "Parcialmente. El examen ESCRITO de conocimientos generales está disponible en español. Sin embargo, el examen PRÁCTICO (inspección pre-viaje, maniobras, conducción en ruta) requiere comunicación en inglés con el examinador. No se permiten intérpretes durante el examen de habilidades por razones de seguridad federal.",
+                "source": "https://www.flhsmv.gov/driver-licenses-id-cards/commercial-motor-vehicle-drivers/",
+                "seo_note": "FAQ clave para hispanohablantes preocupados por barrera de idioma"
+            },
+            {
+                "pregunta": "¿Cuánto tiempo toma obtener la licencia CDL en Florida?",
+                "respuesta": "El proceso completo toma entre 4-8 semanas si asistes a escuela privada de tiempo completo. Desglose: 1) Obtener CLP (1 día si apruebas), 2) Espera mínima de 14 días, 3) Entrenamiento ELDT (3-6 semanas), 4) Examen de habilidades (1 día si apruebas en primer intento). Con entrenamiento patrocinado por compañía puede tomar 3-4 semanas intensivas.",
+                "source": "FLHSMV y escuelas ELDT",
+                "seo_note": "Pregunta común sobre timeline del proceso"
+            },
+            {
+                "pregunta": "¿Necesito ser ciudadano americano para obtener CDL en Florida?",
+                "respuesta": "No. Puedes obtener CDL en Florida con tarjeta de residencia permanente (Green Card) o ciertos permisos de trabajo. Sin embargo, para conducir comercialmente a nivel INTERESTATAL (cruzar fronteras estatales), necesitas cumplir requisitos federales adicionales. Con solo permiso de trabajo, podrías estar limitado a rutas INTRAestatales (solo dentro de Florida).",
+                "source": "FMCSA y FLHSMV",
+                "seo_note": "Pregunta crítica para población inmigrante"
+            },
+            {
+                "pregunta": "¿Qué es ELDT y por qué es obligatorio?",
+                "respuesta": "ELDT (Entry-Level Driver Training) es un programa de entrenamiento federal obligatorio desde febrero 2022. Debes completarlo en una escuela registrada en el TPR (Training Provider Registry) de FMCSA ANTES de tomar el examen de habilidades para CDL Clase A o B, o para endosos de Hazmat, Passenger, o School Bus. Sin ELDT certificado, no puedes programar tu examen práctico.",
+                "source": "https://www.fmcsa.dot.gov/registration/commercial-drivers-license/entry-level-driver-training-eldt",
+                "seo_note": "ELDT es requisito nuevo que confunde a muchos solicitantes"
+            },
+            {
+                "pregunta": "¿Cuál es la diferencia entre CDL Clase A y Clase B?",
+                "respuesta": "Clase A: Para combinaciones de vehículos (tractor-trailer) donde el peso bruto combinado es 26,001+ lbs y el trailer es 10,001+ lbs. Te permite conducir tractocamiones con trailers largos. Clase B: Para vehículos individuales de 26,001+ lbs que pueden remolcar hasta 10,000 lbs. Ejemplos: camiones de reparto grandes, dump trucks, autobuses escolares. Clase A es más versátil - puedes conducir vehículos Clase A, B y C. Clase B solo permite B y C.",
+                "source": "FLHSMV CDL Manual",
+                "seo_note": "Diferencia esencial que determina tipo de trabajo disponible"
+            },
+            {
+                "pregunta": "¿Cuánto cuesta sacar la licencia CDL en Florida en total?",
+                "respuesta": "Rango: $2,250 - $7,500 total. Desglose: Examen médico DOT ($75-$150), CLP ($75), Escuela privada Clase A ($3,000-$7,000), Examen práctico ($50), Endosos opcionales ($10 c/u). La alternativa más económica es entrenamiento patrocinado por compañía (costo: ~$200 inicial, pero compromiso laboral de 1-2 años). Sin entrenamiento formal, el costo mínimo es ~$300 pero necesitas acceso a vehículo comercial para practicar y examen.",
+                "source": "Escuelas CDL Florida y FLHSMV",
+                "seo_note": "Pregunta #1 de candidatos - costo total real"
+            },
+            {
+                "pregunta": "¿Puedo obtener CDL a los 18 años o necesito tener 21?",
+                "respuesta": "Puedes obtener CDL a los 18 en Florida, PERO con restricciones importantes: 18-20 años: Solo puedes conducir comercialmente DENTRO de Florida (intraestatal) y no puedes transportar materiales peligrosos. 21+ años: Puedes conducir a nivel interestatal (cruzar estados) y calificar para todos los endosos incluido Hazmat. La mayoría de compañías de transporte de larga distancia (OTR) requieren 21+ por seguro.",
+                "source": "FMCSA y FLHSMV",
+                "seo_note": "Requisito de edad confunde a jóvenes conductores"
+            },
+            {
+                "pregunta": "¿Qué es el certificado médico DOT y dónde lo obtengo?",
+                "respuesta": "El certificado médico DOT (DL 51 / Medical Examiner's Certificate) es un examen físico obligatorio que verifica que estás médicamente apto para conducir comercialmente. Lo realiza un examinador médico certificado por FMCSA (puede ser doctor, quiropráctico, enfermera practicante, etc.). Costo: $75-$150. Validez: Típicamente 2 años (pero puede ser 1 año si tienes ciertas condiciones). Busca examinadores certificados en: https://nationalregistry.fmcsa.dot.gov/",
+                "source": "FMCSA National Registry",
+                "seo_note": "Requisito que causa confusión - no es examen médico regular"
+            },
+            {
+                "pregunta": "¿Hay escuelas de CDL en Florida que enseñen en español?",
+                "respuesta": "Sí, especialmente en áreas con alta población hispana como Miami, Orlando, Tampa. Muchas escuelas tienen instructores bilingües, aunque el material oficial y examen práctico son en inglés. Recomendaciones: 1) Busca escuelas en tu área y pregunta específicamente por instructores que hablen español, 2) Verifica que estén registradas en FMCSA TPR, 3) Lee reseñas de otros estudiantes hispanos. Ejemplos de áreas con opciones bilingües: Miami-Dade, Hialeah, Tampa, Orlando.",
+                "source": "Escuelas CDL Florida",
+                "seo_note": "Pregunta muy importante para hispanohablantes con inglés limitado"
+            }
+        ]
+    },
+    "links_oficiales": {
+        "ai_generated": true,
+        "items": [
+            {
+                "nombre": "FLHSMV - Portal Oficial CDL",
+                "url": "https://www.flhsmv.gov/driver-licenses-id-cards/commercial-motor-vehicle-drivers/",
+                "descripcion": "Sitio oficial del Departamento de Vehículos Motorizados de Florida para licencias comerciales"
+            },
+            {
+                "nombre": "Manual CDL de Florida (PDF)",
+                "url": "https://www.flhsmv.gov/pdf/handbooks/CDLHandbook.pdf",
+                "descripcion": "Manual completo para estudiar el examen de conocimientos (disponible en varios idiomas)"
+            },
+            {
+                "nombre": "FMCSA - Buscador de Escuelas ELDT",
+                "url": "https://tpr.fmcsa.dot.gov/",
+                "descripcion": "Training Provider Registry - verifica que tu escuela esté registrada federalmente"
+            },
+            {
+                "nombre": "Encontrar Oficina de Licencias en Florida",
+                "url": "https://www.flhsmv.gov/locations/",
+                "descripcion": "Localiza la oficina de DMV más cercana que procese CDL"
+            },
+            {
+                "nombre": "Verificar Licencia CDL en Florida",
+                "url": "https://services.flhsmv.gov/virtualoffice/",
+                "descripcion": "Portal para verificar estatus de licencia y ver tu récord de conductor"
+            },
+            {
+                "nombre": "Examinadores Médicos DOT Certificados",
+                "url": "https://nationalregistry.fmcsa.dot.gov/",
+                "descripcion": "Busca examinadores médicos certificados para obtener tu certificado DOT"
+            },
+            {
+                "nombre": "FMCSA - Regulaciones Federales CDL",
+                "url": "https://www.fmcsa.dot.gov/registration/commercial-drivers-license",
+                "descripción": "Información federal sobre requisitos CDL y programas de seguridad"
+            }
+        ]
+    },
+    "content_generation_rules": {
+        "tono": "Profesional, motivador, con sensibilidad a desafíos de idioma y cultura. Enfatizar oportunidades económicas reales.",
+        "persona": "Consejero de carrera experimentado que entiende la comunidad hispana en Florida",
+        "reglas": [
+            "Ser claro sobre qué partes del examen están en español y cuáles en inglés",
+            "Destacar que inglés básico es suficiente para examen práctico con preparación",
+            "Mencionar escuelas con instructores bilingües en áreas principales",
+            "Enfatizar ROI positivo - inversión se recupera rápido con buenos salarios",
+            "Explicar diferencias entre rutas locales (regresas diario) vs OTR (semanas fuera)",
+            "Advertir sobre importancia de escuelas ELDT registradas",
+            "Ser honesto sobre requisitos de edad para trabajo interestatal (21+)",
+            "Destacar importancia crítica de certificado médico DOT vigente",
+            "Mencionar que dueño-operador requiere capital significativo pero tiene mayor potencial"
+        ]
+    },
+    "enlaces_utiles": {
+        "ai_generated": true,
+        "enlaces": [
+            {
+                "categoria": "Autoridades Oficiales",
+                "enlaces": [
+                    {
+                        "titulo": "FLHSMV - División de Licencias de Conductor",
+                        "url": "https://www.flhsmv.gov/driver-licenses-id-cards/",
+                        "descripcion": "Portal principal del Departamento de Vehículos Motorizados de Florida"
+                    },
+                    {
+                        "titulo": "FMCSA - Administración Federal de Seguridad de Autotransportes",
+                        "url": "https://www.fmcsa.dot.gov/",
+                        "descripcion": "Agencia federal que regula transporte comercial en EE.UU."
+                    }
+                ]
+            },
+            {
+                "categoria": "Preparación de Exámenes",
+                "enlaces": [
+                    {
+                        "titulo": "Manual CDL Florida (Español)",
+                        "url": "https://www.flhsmv.gov/pdf/handbooks/CDLHandbook.pdf",
+                        "descripcion": "Manual oficial de estudio disponible en varios idiomas"
+                    },
+                    {
+                        "titulo": "CDL Practice Test (Cristian CDL)",
+                        "url": "https://www.cristiancdl.com/",
+                        "descripcion": "Exámenes de práctica en español - recurso popular en comunidad hispana"
+                    },
+                    {
+                        "titulo": "DMV Practice Tests CDL",
+                        "url": "https://driving-tests.org/florida/",
+                        "descripcion": "Exámenes de práctica gratuitos para Florida CDL"
+                    }
+                ]
+            },
+            {
+                "categoria": "Encontrar Escuelas ELDT",
+                "enlaces": [
+                    {
+                        "titulo": "FMCSA Training Provider Registry",
+                        "url": "https://tpr.fmcsa.dot.gov/",
+                        "descripcion": "Buscador oficial de escuelas registradas para entrenamiento ELDT"
+                    },
+                    {
+                        "titulo": "Truck Driving Schools HQ - Florida",
+                        "url": "https://www.truckdrivingschools.com/florida/",
+                        "descripcion": "Directorio de escuelas de manejo de camiones en Florida"
+                    }
+                ]
+            },
+            {
+                "categoria": "Búsqueda de Empleo",
+                "enlaces": [
+                    {
+                        "titulo": "Indeed - CDL Driver Jobs Florida",
+                        "url": "https://www.indeed.com/jobs?q=cdl+driver&l=Florida",
+                        "descripcion": "Ofertas de empleo actualizadas para conductores CDL en Florida"
+                    },
+                    {
+                        "titulo": "CDL Jobs - Florida",
+                        "url": "https://www.cdljobs.com/florida",
+                        "descripcion": "Portal especializado en empleos para conductores comerciales"
+                    },
+                    {
+                        "titulo": "SimplyHired - Truck Driver Florida",
+                        "url": "https://www.simplyhired.com/search?q=truck+driver&l=florida",
+                        "descripcion": "Búsqueda de empleos de conductor en Florida"
+                    }
+                ]
+            },
+            {
+                "categoria": "Recursos para Hispanohablantes",
+                "enlaces": [
+                    {
+                        "titulo": "Asociación Nacional de Camioneros Hispanos",
+                        "url": "https://www.nationaltruckingassociation.org/",
+                        "descripcion": "Organización que apoya a conductores hispanos (verificar disponibilidad)"
+                    },
+                    {
+                        "titulo": "YouTube - CDL en Español",
+                        "url": "https://www.youtube.com/results?search_query=como+sacar+cdl+en+florida+espa%C3%B1ol",
+                        "descripcion": "Videos tutoriales en español sobre proceso CDL"
+                    }
+                ]
+            }
+        ]
+    }
+}

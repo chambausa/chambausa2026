@@ -60,6 +60,27 @@ export async function generateStaticParams() {
         { slug: 'licencia-cosmetologia-florida' },
         { slug: 'licencia-cosmetologia-new-york' },
         { slug: 'licencia-cdl-california' },
+        { slug: 'licencia-plomero-texas' },
+        { slug: 'licencia-plomero-california' },
+        { slug: 'licencia-plomero-florida' },
+        { slug: 'licencia-hvac-texas' },
+        { slug: 'licencia-hvac-california' },
+        { slug: 'licencia-cdl-texas' },
+        { slug: 'licencia-electricista-georgia' },
+        { slug: 'licencia-electricista-pennsylvania' },
+        { slug: 'licencia-electricista-washington' },
+        { slug: 'licencia-electricista-colorado' },
+        { slug: 'licencia-hvac-new-york' },
+        { slug: 'licencia-electricista-nevada' },
+        { slug: 'licencia-electricista-illinois' },
+        { slug: 'licencia-electricista-minnesota' },
+        { slug: 'licencia-electricista-oregon' },
+        { slug: 'licencia-hvac-florida' },
+        { slug: 'licencia-electricista-new-mexico' },
+        { slug: 'licencia-hvac-arizona' },
+        { slug: 'licencia-cdl-florida' },
+        { slug: 'licencia-cdl-new-york' },
+        { slug: 'licencia-plomero-new-york' },
     ]
 
     return [...dbSlugs, ...jsonSlugs]
@@ -78,9 +99,18 @@ async function loadJSONContent(slug: string) {
     // User's file is 'cosmetologia-texas.json' but slug is 'licencia-cosmetologia-texas'
     // Let's try both exact match and 'remove license prefix' match.
 
+    // Handle known aliases (file name differs from slug)
+    const aliasMap: Record<string, string> = {
+        'electricista-new-york': 'electricista-newyork',
+    }
+
+    const baseSlug = slug.replace(/^licencia-/, '')
+    const resolvedSlug = aliasMap[baseSlug] || baseSlug
+
     const possibleNames = [
         slug,
-        slug.replace(/^licencia-/, '')
+        resolvedSlug,
+        baseSlug,
     ]
 
     for (const name of possibleNames) {
